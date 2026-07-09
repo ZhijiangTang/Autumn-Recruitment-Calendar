@@ -16,13 +16,4 @@ SUMMARY:一面 · 字节跳动 · 大模型算法工程师
 DESCRIPTION:Seed大模型 | 大模型算法工程师
 LOCATION:飞书线上面试
 END:VEVENT
-BEGIN:VEVENT
-UID:event-10@autumn-recruitment
-DTSTAMP:20260708T123352Z
-DTSTART:20260715T060000Z
-DTEND:20260715T070000Z
-SUMMARY:笔试 · __E2E_TEST__ · 端到端测试工程师
-DESCRIPTION:测试研发部 | 端到端测试工程师 | 用于验证投递、邀约、面试前准备与面试后复盘链路 | E2E 测试事件
-LOCATION:线上 ACM 系统
-END:VEVENT
 END:VCALENDAR
