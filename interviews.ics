@@ -7,4 +7,18 @@ X-WR-CALNAME:秋招面试日历
 X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
+BEGIN:VEVENT
+UID:event-25@autumn-recruitment
+DTSTAMP:20260713T145224Z
+DTSTART:20260713T145000Z
+DTEND:20260713T155000Z
+SUMMARY:简历初筛 · vivo · AI大模型算法工程师-27届蓝极星
+DESCRIPTION:默认部门 | AI大模型算法工程师-27届蓝极星 | 负
+ 责基座大模型与端侧多模态大模型研究，涵盖预训练、SF
+ T、RL、模型结构与数据策略，并推进图像视频理解、模
+ 型轻量化及端侧部署。任职资格明确要求博士学历。 | vi
+ vo官网投递记录显示当前进度为“简历初筛-进行中”；
+ 页面同时出现同岗位同时间的校园招聘与校园大使记录
+ ，按一次投递合并。
+END:VEVENT
 END:VCALENDAR
