@@ -22,6 +22,25 @@ DESCRIPTION:默认部门 | AI大模型算法工程师-27届蓝极星 | 负
  ，按一次投递合并。
 END:VEVENT
 BEGIN:VEVENT
+UID:event-36@autumn-recruitment
+DTSTAMP:20260714T070216Z
+DTSTART:20260715T070000Z
+DTEND:20260715T080000Z
+SUMMARY:一面 · 阿里巴巴集团 · AI Coding 数据分析与评测-阿
+ 里星
+DESCRIPTION:阿里巴巴控股集团 | AI Coding 数据分析与评测-阿
+ 里星 | 阿里巴巴校园招聘视频面试；面试部门：阿里巴
+ 巴控股集团-Qoder-Qteam；联系电话：86-18266952985；联系邮箱
+ ：cq02571289@alibaba-inc.com；轮次待确认（通知仅写“视频面
+ 试”）；建议PC端Chrome；可提前点开链接确认音视频；官
+ 网：https://campus-talent.alibaba.com/campus/home；招聘热线：0571-
+ 28285927（工作日9:00-18:00）；面试间链接：https://campus-talen
+ t.alibaba.com/interviewRoom/landingPage?roomCode=R7ag3lDQOULxMtNlbnm%2FGw%
+ 3D%3D&recruitType=campus
+LOCATION:https://campus-talent.alibaba.com/interviewRoom/landingPage?roomCo
+ de=R7ag3lDQOULxMtNlbnm%2FGw%3D%3D&recruitType=campus
+END:VEVENT
+BEGIN:VEVENT
 UID:event-35@autumn-recruitment
 DTSTAMP:20260713T200050Z
 DTSTART:20260716T070000Z
