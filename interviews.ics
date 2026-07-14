@@ -21,4 +21,20 @@ DESCRIPTION:默认部门 | AI大模型算法工程师-27届蓝极星 | 负
  页面同时出现同岗位同时间的校园招聘与校园大使记录
  ，按一次投递合并。
 END:VEVENT
+BEGIN:VEVENT
+UID:event-35@autumn-recruitment
+DTSTAMP:20260713T200050Z
+DTSTART:20260716T070000Z
+DTEND:20260716T080000Z
+SUMMARY:一面 · 美团 · 【北斗】大模型算法研究员（Agent RL
+ /RAG/多模态技术）
+DESCRIPTION:核心本地商业-基础研发平台 | 【北斗】大模型
+ 算法研究员（Agent RL/RAG/多模态技术） | 美团视频面试；
+ 面试部门：核心本地商业-基础研发平台；联系人：1513202
+ 3309，zhaoziyi16@meituan.com；轮次待确认（系统邮件仅写“面
+ 试”）；邮件原文：【面试职位】【北斗】大模型算法
+ 研究员（Agent RL/RAG/多模态技术）；【面试时间】2026-07-16
+  15:00:00 GMT+8；建议使用PC设备。
+LOCATION:http://dpurl.cn/jAHRgsvz
+END:VEVENT
 END:VCALENDAR
