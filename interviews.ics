@@ -61,17 +61,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-37@autumn-recruitment
 DTSTAMP:20260714T223547Z
-DTSTART:20260719T063000Z
-DTEND:20260719T073000Z
+DTSTART:20260717T070000Z
+DTEND:20260717T080000Z
 SUMMARY:一面 · 小红书 · Dots-大模型预训练数据算法研究员
-DESCRIPTION:REDstar | Dots-大模型预训练数据算法研究员 | 【RED
- star】腾讯会议视频面试；会议号：715844891；招聘HR：满
- 月(Jelly) 18358884555；轮次待确认（通知仅写“面试”）；
- 温馨提示：网络畅通安静场所；提前10分钟确认音视频；
- 改期需提前1天联系HR；超时10分钟面试官未上线联系HR；
- 岗位方向：大模型预训练数据（文本/多模态数据源、质
- 量评估、数学/推理/Code/Agent等）；视频链接：https://meetin
- g.tencent.com/dm/MOAc81tS6P9d?meetingCode=715844891
+DESCRIPTION:REDstar | Dots-大模型预训练数据算法研究员 | 【行
+ 程变更】面试时间由 2026-07-19 14:30 调整为 2026-07-17 15:00；
+ 【REDstar】腾讯会议视频面试；会议号：715844891；招聘HR
+ ：满月(Jelly) 18358884555；轮次待确认（通知仅写“面试”
+ ）；温馨提示：网络畅通安静场所；提前10分钟确认音视
+ 频；改期需提前1天联系HR；超时10分钟面试官未上线联系
+ HR；岗位方向：大模型预训练数据（文本/多模态数据源
+ 、质量评估、数学/推理/Code/Agent等）；视频链接：https://
+ meeting.tencent.com/dm/MOAc81tS6P9d?meetingCode=715844891
 LOCATION:https://meeting.tencent.com/dm/MOAc81tS6P9d?meetingCode=715844891
 END:VEVENT
 END:VCALENDAR
