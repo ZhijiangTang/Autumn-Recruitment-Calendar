@@ -70,15 +70,68 @@ DTSTAMP:20260714T223547Z
 DTSTART:20260717T070000Z
 DTEND:20260717T080000Z
 SUMMARY:一面 · 小红书 · Dots-大模型预训练数据算法研究员
-DESCRIPTION:REDstar | Dots-大模型预训练数据算法研究员 | 【行
- 程变更】面试时间由 2026-07-19 14:30 调整为 2026-07-17 15:00；
- 【REDstar】腾讯会议视频面试；会议号：715844891；招聘HR
- ：满月(Jelly) 18358884555；轮次待确认（通知仅写“面试”
- ）；温馨提示：网络畅通安静场所；提前10分钟确认音视
- 频；改期需提前1天联系HR；超时10分钟面试官未上线联系
- HR；岗位方向：大模型预训练数据（文本/多模态数据源
- 、质量评估、数学/推理/Code/Agent等）；视频链接：https://
- meeting.tencent.com/dm/MOAc81tS6P9d?meetingCode=715844891
+DESCRIPTION:REDstar | Dots-大模型预训练数据算法研究员 | 工作
+ 地点：北京、上海、杭州；项目：REDstar 顶尖人才计划。
+ 职责：突破大模型预训练核心能力瓶颈；海量数据高效
+ 筛选与质量评估；智能数据配比与动态增强；严谨可复
+ 现的算法评测与验证；预训练效率优化；通用场景可扩
+ 展数据管线；端到端自动化高性能数据流水线。要求：
+ 本科及以上在读；扎实算法与工程能力、PyTorch，熟练使
+ 用 Code Agent 优先；LLM 项目或大规模预训练经验优先；顶
+ 会成果优先。 | 【行程变更】面试时间由 2026-07-19 14:30 
+ 调整为 2026-07-17 15:00；【REDstar】腾讯会议视频面试；会
+ 议号：715844891；招聘HR：满月(Jelly) 18358884555；轮次待确
+ 认（通知仅写“面试”）；温馨提示：网络畅通安静场
+ 所；提前10分钟确认音视频；改期需提前1天联系HR；超时
+ 10分钟面试官未上线联系HR；岗位方向：大模型预训练数
+ 据（文本/多模态数据源、质量评估、数学/推理/Code/Agent
+ 等）；视频链接：https://meeting.tencent.com/dm/MOAc81tS6P9d?meetin
+ gCode=715844891；正式JD补充：工作地点北京/上海/杭州，项
+ 目为REDstar顶尖人才计划；职责覆盖数据筛选、质量评估
+ 、动态配比、可复现评测、训练效率优化及端到端高性
+ 能数据流水线；Code Agent经验优先。；面试已于2026-07-17完
+ 成。复盘重点：业务数据飞轮仅用于内部迭代，不直接
+ 回流基座预训练；追问包括token长度与预训练分布对齐、
+ 长视频与长文本的可迁移点、网页数据进入预训练的全
+ 链路、文本tokenize与packing。反问环节体验较差。详细复
+ 盘见review.md。
 LOCATION:https://meeting.tencent.com/dm/MOAc81tS6P9d?meetingCode=715844891
+END:VEVENT
+BEGIN:VEVENT
+UID:event-40@autumn-recruitment
+DTSTAMP:20260717T101516Z
+DTSTART:20260720T073000Z
+DTEND:20260720T083000Z
+SUMMARY:一面 · 智元机器人 · 数据模型和解决方案系统工
+ 程师- Genie业务部
+DESCRIPTION:Genie业务部 | 数据模型和解决方案系统工程师- Ge
+ nie业务部 | 负责机器人多源数据采集与质量闭环、VLA/多
+ 模态感知模型应用架构和端边云部署评测，协同算法、
+ 平台、运控与遥操作团队推动真实机器人系统落地。 | 
+ 智元创新（上海）科技股份有限公司 Genie业务部视频面
+ 试；通知未明确轮次，暂按一面记录。考察内容：通用
+ 型业务问题、过往项目经历、价值观与软性技能。HR：董
+ 淼鑫，+8618346272705；如需改期须至少提前1天联系；提前10
+ 分钟调试麦克风和摄像头；超过约定时间5分钟面试官未
+ 上线时联系HR。
+LOCATION:https://agirobot.feishu.cn/hire/short_url/BqvZ0MEQ7Yc
+END:VEVENT
+BEGIN:VEVENT
+UID:event-39@autumn-recruitment
+DTSTAMP:20260717T034854Z
+DTSTART:20260721T110000Z
+DTEND:20260721T120000Z
+SUMMARY:一面 · 百度 · 2027AIDU-多模态理解算法工程师-应用
+ 模型技术部
+DESCRIPTION:应用模型技术部 | 2027AIDU-多模态理解算法工程师
+ -应用模型技术部 | AIDU；北京/上海；官网投递记录 https:/
+ /talent.baidu.com/jobs/center；当前阶段：投递简历；可变更职
+ 位/追加内推码；AIDU限投1岗 | 百度视频面试；邀请邮件
+ 未明确轮次，暂按一面记录。优先使用如流客户端或 Chro
+ me 浏览器；变动入口：https://talent.baidu.com/jobs/social；如
+ 流下载：https://infoflow-commercial.baidu.com/newweb/download/#/sass-d
+ ownload
+LOCATION:https://infoflow.baidu.com/meeting/invite?id=f26a470b48f461af29514
+ b1e1589746b
 END:VEVENT
 END:VCALENDAR
