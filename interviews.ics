@@ -98,6 +98,25 @@ DESCRIPTION:REDstar | Dots-大模型预训练数据算法研究员 | 工作
 LOCATION:https://meeting.tencent.com/dm/MOAc81tS6P9d?meetingCode=715844891
 END:VEVENT
 BEGIN:VEVENT
+UID:event-41@autumn-recruitment
+DTSTAMP:20260719T144508Z
+DTSTART:20260719T110000Z
+DTEND:20260719T120000Z
+SUMMARY:技术笔试 · 拼多多 · 大模型算法工程师【2027届云
+ 弧计划】
+DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
+ 】 | 校招项目：云弧计划；志愿一；当前应聘职位；官
+ 网状态：待处理；简历评估尚未结束，可修改投递岗位
+ 。 个性测评：已确认参加，具体作答时间待定；有效期
+ 至2026-07-17 17:33，技术专业笔试另行通知。 | 【云弧计划
+ 】2027届大模型算法工程师笔试（0719），19:00-21:00，共4题
+ 。题目方向：01序列唯一赋值、时空可达二维LIS、允许丢
+ 弃请求的最少批次DP、单环图GF(2)最小费用及方案数。依
+ 据大模型请求分批题暂关联云弧计划；详细复盘见 review.
+ md；未记录各题AC情况，不作结果预测。
+LOCATION:https://hr.nowcoder.com/v1/s/XTzEPi7T#
+END:VEVENT
+BEGIN:VEVENT
 UID:event-40@autumn-recruitment
 DTSTAMP:20260717T101516Z
 DTSTART:20260720T073000Z
