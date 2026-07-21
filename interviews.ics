@@ -182,4 +182,33 @@ DESCRIPTION:TRAE | 面向复杂软件工程项目的Agentic AI Coding关键
  暂按一面记录。
 LOCATION:https://t.zijieimg.com/js087rmzCzw/
 END:VEVENT
+BEGIN:VEVENT
+UID:event-44@autumn-recruitment
+DTSTAMP:20260721T104936Z
+DTSTART:20260723T110000Z
+DTEND:20260723T120000Z
+SUMMARY:笔试 · 百度 · 2027校园招聘-北京-智能体算法工程
+ 师(J101659)
+DESCRIPTION:文心大模型 | 2027校园招聘-北京-智能体算法工程
+ 师(J101659) | 正式校招；北京；与AIDU并行；投递中心显示
+ 投递简历阶段\n笔试通知岗位码 J101659（原录入 J101017）
+ ；用户确认与 application #24 为同一投递。 | 百度2027校园
+ 招聘在线笔试（简历初筛通过，进入复筛）。\n岗位名称
+ ：2027校园招聘-北京-智能体算法工程师(J101659)（库内原
+ 记录为 J101017，按用户确认挂 application #24 并更新岗位码
+ ）。\n考试时间：2026-07-23 19:00:00 -- 21:00:00（北京时间）
+ ，时长120分钟。\n考试地址（私人专属，勿转发）：https:
+ //hr.nowcoder.com/v1/s/jdg2je15#\n特别说明：校招「不海笔」；
+ 笔试与面试无严格先后，可能先收面试再笔试，仍须参
+ 加；笔试成绩为后续重要参考，部分部门无笔试成绩无
+ 法推进。\n设备：全程摄像头；最新版 Chrome；带摄像头
+ 电脑；提前15分钟打开链接核对信息与调试。\n练习：AI c
+ oding https://www.nowcoder.com/problem/aicoding/ ；prompt https://www.now
+ coder.com/exam/oj/ta?tpId=408\n编程语言多种，需自行处理输入
+ 输出。故障处理见通知（exam→w1、DNS、热点、刷新重进
+ ）。\n题型提交后不可返改。摄像头防作弊；代码查重。
+ \n问题反馈：考试页咨询 / kaoshi@nowcoder.com / 18518151358、185
+ 18151187。\n通知要求点击确认是否参加考试。
+LOCATION:https://hr.nowcoder.com/v1/s/jdg2je15#
+END:VEVENT
 END:VCALENDAR
