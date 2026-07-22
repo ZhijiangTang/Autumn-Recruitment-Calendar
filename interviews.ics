@@ -237,6 +237,31 @@ DESCRIPTION:相形无迹 | 大模型算法（实习生） | 职位名称：
 LOCATION:https://formless.feishu.cn/hire/short_url/G5KKiO5wnMA
 END:VEVENT
 BEGIN:VEVENT
+UID:event-48@autumn-recruitment
+DTSTAMP:20260722T081358Z
+DTSTART:20260725T020000Z
+DTEND:20260725T030000Z
+SUMMARY:笔试 · 大疆创新 · 多模态大模型算法工程师（上
+ 海）
+DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） | 
+ 负责多模态大模型在边侧的算法选型、后训练与轻量化
+ ，开展语音/文本/图像意图理解、边侧推理优化及端云协
+ 同；要求具备 VLM、PyTorch，以及 SFT/DPO/RLHF 或推理优化实
+ 践。 | DJI 大疆 2027「拓疆者」在线测评（多模态大模型
+ 算法工程师·上海）。\n测评链接：https://www.talovative.com\n
+ 收到日期：2026-07-22；有效期 5 个自然日（约至 2026-07-26
+ ，以系统为准）。\n用户计划：周六 2026-07-25 前完成（本
+  event scheduled_at 按此提醒）。\n答题时长：70 分钟；确认
+ 后立即倒计时，中途不可暂停。\n环境：仅 PC；Chrome/搜
+ 狗/百度等支持摄像头浏览器；Windows 或 macOS（勿用 Linux/
+ 手机/平板）；全程开摄像头、全屏；勿双屏、勿戴耳机
+ ；关闭 QQ/微信等。\n登录：简历邮箱 + 手机号短信验证
+ 码。\n若提示「你已完成该问卷」说明其他岗位已测过，
+ 无需重答。\n联系：o-liboqun.li@dji.com\n诚信规则与版权说
+ 明见邮件原文。
+LOCATION:https://www.talovative.com
+END:VEVENT
+BEGIN:VEVENT
 UID:event-46@autumn-recruitment
 DTSTAMP:20260722T042038Z
 DTSTART:20260728T120000Z
