@@ -212,6 +212,31 @@ DESCRIPTION:文心大模型 | 2027校园招聘-北京-智能体算法工程
 LOCATION:https://hr.nowcoder.com/v1/s/jdg2je15#
 END:VEVENT
 BEGIN:VEVENT
+UID:event-47@autumn-recruitment
+DTSTAMP:20260722T080128Z
+DTSTART:20260724T063000Z
+DTEND:20260724T073000Z
+SUMMARY:一面 · 相形无迹 · 大模型算法（实习生）
+DESCRIPTION:相形无迹 | 大模型算法（实习生） | 职位名称：
+ 大模型算法（实习生）\n渠道：BOSS直聘\n\n职位描述\n1. 
+ 大模型微调实验辅助\n- 协助开展千亿/百亿参数规模大语
+ 言模型（如 Qwen、LLaMA 等）的监督微调（SFT）实验，负责
+ 数据清洗、格式转换与训练任务监控。\n- 在导师指导下
+ ，使用 LoRA 等高效参数微调技术，完成剧本/故事生成场
+ 景下的垂域适配。\n\n2. 可控生成技术探索\n- 调研并复现
+ 前沿可控文本生成技术（如 Control | 面试形式：飞书视频
+ 面试\n面试时间：2026-07-24 14:30（北京时间）\n面试链接：
+ https://formless.feishu.cn/hire/short_url/G5KKiO5wnMA\n飞书下载：http
+ s://www.feishu.cn/download\nHR：Lynn +8613681826352（改期需提前 1 
+ 天联系）\n信息登记表：https://formless.feishu.cn/hire/short_url/
+ 7J3EdZUerPQ\n渠道：BOSS直聘小程序 #小程序://BOSS直聘/VgA4PAMl
+ Kpj5Fzh\n说明：邀约文案写「大模型算法（实习生）」，
+ 用户确认实为正式职位。\n来源：相形无迹人力资源部\nJ
+ D：已按 BOSS 职位详情截图写入 job_description（含 SFT/LoRA/DP
+ O/vLLM 与实习到岗要求）。
+LOCATION:https://formless.feishu.cn/hire/short_url/G5KKiO5wnMA
+END:VEVENT
+BEGIN:VEVENT
 UID:event-46@autumn-recruitment
 DTSTAMP:20260722T042038Z
 DTSTART:20260728T120000Z
