@@ -211,4 +211,29 @@ DESCRIPTION:文心大模型 | 2027校园招聘-北京-智能体算法工程
  18151187。\n通知要求点击确认是否参加考试。
 LOCATION:https://hr.nowcoder.com/v1/s/jdg2je15#
 END:VEVENT
+BEGIN:VEVENT
+UID:event-46@autumn-recruitment
+DTSTAMP:20260722T042038Z
+DTSTART:20260728T120000Z
+DTEND:20260728T130000Z
+SUMMARY:一面 · 阿里巴巴集团 · Agentic Post-training-阿里星/Bra
+ vo Star
+DESCRIPTION:阿里国际数字商业集团 | Agentic Post-training-阿里
+ 星/Bravo Star | 基础信息\n毕业起止时间要求：2026-11-01 - 202
+ 7-10-01\n职位类别：技术类\n招聘项目：阿里星2027届应届
+ 生\n在招业务：阿里国际数字商业集团\n\n职位描述\n我们
+ 是阿里巴巴国际数字商业集团-Alibaba.com-Accio算法团队，Al
+ ibaba.com是全球最大的跨境B2B数字化平台，我们在24年11月
+ 推出AI Native应用Accio，并在25年9月推出Accio Agent | 面试职
+ 位：Agentic Post-training-阿里星/Bravo Star\n面试部门：阿里国
+ 际数字商业集团-Accio-算法\n面试时间：2026-07-28 20:00（北
+ 京时间）\n面试安排联系电话：86-19103396039\n面试安排邮
+ 箱：tx02575219@alibaba-inc.com\n形式：视频面试；建议 PC 端 Ch
+ rome 浏览器入会；请提前点开链接确认音视频正常。\n邮
+ 件提到「进入面试间」链接，原文未附 URL（待补）。\n
+ 反馈调研问卷：面试结束后填写（邮件内链）。\n官网查
+ 看进程：https://campus-talent.alibaba.com/campus/home\n招聘热线：
+ 0571-28285927（工作日 9:00-18:00）\n轮次：邮件仅写视频面试
+ ，按一面录入。
+END:VEVENT
 END:VCALENDAR
