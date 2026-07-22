@@ -183,6 +183,29 @@ DESCRIPTION:TRAE | 面向复杂软件工程项目的Agentic AI Coding关键
 LOCATION:https://t.zijieimg.com/js087rmzCzw/
 END:VEVENT
 BEGIN:VEVENT
+UID:event-49@autumn-recruitment
+DTSTAMP:20260722T093859Z
+DTSTART:20260723T070000Z
+DTEND:20260723T080000Z
+SUMMARY:一面 · 昆仑万维 · 视频算法工程师
+DESCRIPTION:全模态大模型团队 | 视频算法工程师 | 方向：从
+ 零打造全模态（Omni）理解与推理大模型，以开源原生视
+ 觉模型为底座，通过 CPT、SFT 与 RL 统一文本、图像、视
+ 频、音频理解与推理；百亿至千亿参数 MoE，千万级多模
+ 态数据，256K 长上下文，跨模态联合理解与可验证奖励 RL
+ 。职责：1）参与 CPT/多模态对齐，接入音频等新模态 enco
+ der，完成 connector 设计与对齐预训练；2）主导图像/视频/
+ 音频/文本至少一模态的  | 面试形式：视频面试（飞书）
+ 。面试时间：2026-07-23 15:00（GMT+08:00，北京时间）。考察
+ 内容：通用型业务问题和过往项目经历；价值观与软性
+ 技能。HR：黄雪琦 +8613260262130；如需改期须提前 1 天联系
+ 。提前 10 分钟调试麦克风和摄像头；超过约定时间 5 分
+ 钟面试官仍未上线时联系 HR。面试官可能通过手机或电
+ 脑查看简历并记录回答要点。邮件未明确轮次，暂按一
+ 面记录。
+LOCATION:https://rg975ojk5z.feishu.cn/hire/short_url/fYvbybR15bs
+END:VEVENT
+BEGIN:VEVENT
 UID:event-44@autumn-recruitment
 DTSTAMP:20260721T104936Z
 DTSTART:20260723T110000Z
