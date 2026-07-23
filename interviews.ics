@@ -218,7 +218,13 @@ DESCRIPTION:全模态大模型团队 | 视频算法工程师 | 方向：从
  。提前 10 分钟调试麦克风和摄像头；超过约定时间 5 分
  钟面试官仍未上线时联系 HR。面试官可能通过手机或电
  脑查看简历并记录回答要点。邮件未明确轮次，暂按一
- 面记录。
+ 面记录。\n2026-07-23：用户确认一面已完成。面试部门为
+ 全模态大模型团队；项目问题整体偏空泛、范围较大，
+ 未形成更多可核实题目。手撕题：仅使用均匀 rand(0\,5) 
+ 构造任意 n 范围的均匀随机整数；采用六进制拼接与拒
+ 绝采样，核心思路正确。原实现实际返回 [0\,n)，与注释 
+ [0\,n] 不一致，已在 review.md 中记录边界与改进。官方结
+ 果待定，不作通过概率预测。
 LOCATION:https://rg975ojk5z.feishu.cn/hire/short_url/fYvbybR15bs
 END:VEVENT
 BEGIN:VEVENT
@@ -301,6 +307,27 @@ DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） |
 LOCATION:https://www.talovative.com
 END:VEVENT
 BEGIN:VEVENT
+UID:event-52@autumn-recruitment
+DTSTAMP:20260723T135506Z
+DTSTART:20260725T020000Z
+DTEND:20260725T030000Z
+SUMMARY:AI测评 · 小鹏集团 · 【27届校招】多模态Agent算法
+ 工程师
+DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师 
+ | 校招正式岗位；工作地点：上海、北京、深圳；意向城
+ 市顺序：上海、深圳、北京；岗位类别：研发-算法；官
+ 网当前阶段：投递简历。 | 小鹏汽车【27届校招】多模态
+ Agent算法工程师 AI 测评面试。邮件要求收到链接后 72 小
+ 时内完成，测评限时 45 分钟；数据库按用户要求记录计
+ 划完成时间为 2026-07-25 10:00。需使用摄像头良好的手机，
+ 在安静、网络稳定的环境完成，包含代码考核。重复收
+ 到校招 AI 测评通知且此前已经完成过一次时，无需再次
+ 测评。牛客技术支持：nowai@nowcoder.com，紧急电话 1801038810
+ 7 / 18010380983。HR：张翰，+8617521094047，zhangh142@xiaopeng.com；
+ 无法在规定时间完成时联系 HR 修改时间。
+LOCATION:https://t.zijieimg.com/qoldk2SrvlQ/
+END:VEVENT
+BEGIN:VEVENT
 UID:event-46@autumn-recruitment
 DTSTAMP:20260722T042038Z
 DTSTART:20260728T120000Z
@@ -324,5 +351,21 @@ DESCRIPTION:阿里国际数字商业集团 | Agentic Post-training-阿里
  看进程：https://campus-talent.alibaba.com/campus/home\n招聘热线：
  0571-28285927（工作日 9:00-18:00）\n轮次：邮件仅写视频面试
  ，按一面录入。
+END:VEVENT
+BEGIN:VEVENT
+UID:event-51@autumn-recruitment
+DTSTAMP:20260723T135506Z
+DTSTART:20260729T110000Z
+DTEND:20260729T120000Z
+SUMMARY:一面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大语
+ 言模型）（校招）
+DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
+ 模型）（校招） | 哔哩哔哩 B-UP 校招视频面试邀约。面
+ 试职位：【B-UP】搜索算法工程师（大语言模型）（校招
+ ）。面试形式：牛客视频面试，建议使用 Chrome 浏览器并
+ 提前 5 分钟调试设备。联系邮箱：gaoyifei@bilibili.com。系
+ 统邮件未明确轮次，暂按一面记录。
+LOCATION:https://interview.nowcoder.com/interview/31958441/interviewee?code
+ =MQBLQdDz
 END:VEVENT
 END:VCALENDAR
