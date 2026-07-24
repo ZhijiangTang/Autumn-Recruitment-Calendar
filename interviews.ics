@@ -278,7 +278,12 @@ DESCRIPTION:相形无迹 | 大模型算法（实习生） | 职位名称：
  Kpj5Fzh\n说明：邀约文案写「大模型算法（实习生）」，
  用户确认实为正式职位。\n来源：相形无迹人力资源部\nJ
  D：已按 BOSS 职位详情截图写入 job_description（含 SFT/LoRA/DP
- O/vLLM 与实习到岗要求）。
+ O/vLLM 与实习到岗要求）。\n\n面试复盘：面试官迟到约 15
+  分钟，后续交流整体较顺畅。技术问题包括 Transformer Dec
+ oder Block 前向伪代码与 shape、CLIP→BLIP→LLaVA 多模态演变
+ 、PPO/GRPO/DPO 对齐方法。反问了解到公司主要做海外 AIGC 
+ 视频平台，目前处于 Pre-A 轮融资阶段（面试交流信息，
+ 未公开复核）。详细复盘见 review.md。
 LOCATION:https://formless.feishu.cn/hire/short_url/G5KKiO5wnMA
 END:VEVENT
 BEGIN:VEVENT
@@ -382,5 +387,26 @@ DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
  统邮件未明确轮次，暂按一面记录。
 LOCATION:https://interview.nowcoder.com/interview/31958441/interviewee?code
  =MQBLQdDz
+END:VEVENT
+BEGIN:VEVENT
+UID:event-54@autumn-recruitment
+DTSTAMP:20260724T125747Z
+DTSTART:20260730T070000Z
+DTEND:20260730T080000Z
+SUMMARY:二面 · 昆仑万维 · 视频算法工程师
+DESCRIPTION:全模态大模型团队 | 视频算法工程师 | 方向：从
+ 零打造全模态（Omni）理解与推理大模型，以开源原生视
+ 觉模型为底座，通过 CPT、SFT 与 RL 统一文本、图像、视
+ 频、音频理解与推理；百亿至千亿参数 MoE，千万级多模
+ 态数据，256K 长上下文，跨模态联合理解与可验证奖励 RL
+ 。职责：1）参与 CPT/多模态对齐，接入音频等新模态 enco
+ der，完成 connector 设计与对齐预训练；2）主导图像/视频/
+ 音频/文本至少一模态的  | 昆仑万维集团视频算法工程师
+ 二面邀约。面试形式：飞书视频面试。考察内容：通用
+ 型业务问题、过往项目经历、价值观与软性技能。HR：黄
+ 雪琦 +8613260262130；如需修改时间须提前 1 天联系。建议
+ 提前 10 分钟调试麦克风、摄像头和网络；超过约定时间 
+ 5 分钟面试官仍未上线时联系 HR。
+LOCATION:https://rg975ojk5z.feishu.cn/hire/short_url/480yFMYMNKc
 END:VEVENT
 END:VCALENDAR
