@@ -352,6 +352,24 @@ DESCRIPTION:睿琪软件 | 算法工程师_校招 | 睿琪软件算法工
 LOCATION:https://p0o4p0soey.feishu.cn/hire/short_url/bKMsMB6Ng-I
 END:VEVENT
 BEGIN:VEVENT
+UID:event-56@autumn-recruitment
+DTSTAMP:20260727T042355Z
+DTSTART:20260728T070000Z
+DTEND:20260728T080000Z
+SUMMARY:一面 · 北京智源人工智能研究院 · 算法工程师（
+ 世界模型）
+DESCRIPTION:行为世界模型创新中心 | 算法工程师（世界模型
+ ） | 所属行为世界模型创新中心，参与智源研究院与逆
+ 矩阵联合研发的通用世界基座模型 Physis-v0.1。方向包括
+ 原生全模态世界模型、Next Physical State Prediction、物理因
+ 果结构学习以及感知-决策-交互闭环。 | 视频面试，预计
+  1 小时，会议号 23608980。联系人：宋真，18600187334，songzh
+ en@baai.ac.cn。邀请邮件要求确认是否参加；请提前进入牛
+ 客网调试。
+LOCATION:https://interview.nowcoder.com/interview/23608980/interviewee?code
+ =rFuRTNBn
+END:VEVENT
+BEGIN:VEVENT
 UID:event-46@autumn-recruitment
 DTSTAMP:20260722T042038Z
 DTSTART:20260728T120000Z
