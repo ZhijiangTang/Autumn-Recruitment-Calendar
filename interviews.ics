@@ -483,4 +483,21 @@ DESCRIPTION:淘宝闪购 | 淘宝闪购C端Agent研究与实践-阿里星 |
  8285927。邮件提示有视频会议链接但正文未粘贴 URL，locati
  on 暂空。
 END:VEVENT
+BEGIN:VEVENT
+UID:event-60@autumn-recruitment
+DTSTAMP:20260728T114820Z
+DTSTART:20260805T030000Z
+DTEND:20260805T040000Z
+SUMMARY:一面 · 蔚来 · 蔚来AGI超星计划-面向销售的Agentic强
+ 化学习研究
+DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
+ 习研究 | 轮次待确认（邮件未标明几面，暂按一面）。
+ 形式：视频面试，涉及代码测试，请用电脑接入；时长
+ 约 60 分钟。HR：Kaylee SUN 孙欣 +8618305285753（改期须提前 1 
+ 天）。面试登记表（多次面试填一次）：https://nio.feishu.c
+ n/hire/short_url/RxdwaHi1Gtg。提前 10 分钟调试；超约定 5 分钟
+ 面试官未上线联系 HR。结果反馈约 5 个工作日；未反馈
+ 视为默认接受安排。
+LOCATION:https://nio.feishu.cn/hire/short_url/rWsdB_3dNMM
+END:VEVENT
 END:VCALENDAR
