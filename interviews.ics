@@ -466,6 +466,19 @@ DESCRIPTION:睿琪软件 | 算法工程师_校招 | 轮次：邮件未标
 LOCATION:https://p0o4p0soey.feishu.cn/hire/short_url/Zl5mAXiFFfc
 END:VEVENT
 BEGIN:VEVENT
+UID:event-63@autumn-recruitment
+DTSTAMP:20260729T015012Z
+DTSTART:20260803T080000Z
+DTEND:20260803T090000Z
+SUMMARY:一面 · 上海稀继智能科技 · 大模型算法
+DESCRIPTION:上海稀继智能科技 | 大模型算法 | 大模型算法；
+ BOSS展示 50-80K·14薪 | BOSS直聘视频面试；腾讯会议；会议
+ 号：615-759-581；HR：Tracy；薪资展示：50-80K·14薪；轮次待
+ 确认（BOSS 邀约仅写面试）；视频链接：https://meeting.tence
+ nt.com/dm/dAw9dZeGTlt6
+LOCATION:https://meeting.tencent.com/dm/dAw9dZeGTlt6
+END:VEVENT
+BEGIN:VEVENT
 UID:event-62@autumn-recruitment
 DTSTAMP:20260729T014856Z
 DTSTART:20260803T130000Z
