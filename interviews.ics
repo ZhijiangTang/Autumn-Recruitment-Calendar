@@ -466,6 +466,30 @@ DESCRIPTION:睿琪软件 | 算法工程师_校招 | 轮次：邮件未标
 LOCATION:https://p0o4p0soey.feishu.cn/hire/short_url/Zl5mAXiFFfc
 END:VEVENT
 BEGIN:VEVENT
+UID:event-62@autumn-recruitment
+DTSTAMP:20260729T014856Z
+DTSTART:20260803T130000Z
+DTEND:20260803T140000Z
+SUMMARY:一面 · Momenta · 端到端大模型后训练算法工程师(Mst
+ ar)
+DESCRIPTION:Momenta | 端到端大模型后训练算法工程师(Mstar) | 
+ 端到端大模型后训练算法\n\n岗位职责\n1、面向端到端自
+ 动驾驶大模型，研究并落地RL、On-policy Distillation等后训
+ 练范式，提升模型在复杂驾驶场景下的决策质量与泛化
+ 能力\n2、结合Momenta海量量产真实路测数据，设计数据闭
+ 环驱动的后训练策略，加速模型在长尾驾驶场景中的能
+ 力提升\n3、对比和融合SFT、RL、On-policy Distillation等范式
+ ，针对驾驶决策任务的特殊性 | Momenta视频面试；岗位邀
+ 约名：端到端大模型算法工程师(Mstar)；HR：Jeccy Liang +8613
+ 876675608；轮次待确认（通知仅写“面试”）；考察：通
+ 用业务问题、过往项目经历、价值观与软性技能；温馨
+ 提示：改期提前1天联系HR；提前10分钟调试音视频；超时
+ 5分钟面试官未上线联系HR；信息登记表：https://momenta.feis
+ hu.cn/hire/short_url/yhev4vucFvY；面试链接：https://momenta.feishu.c
+ n/hire/short_url/Z23vCoJbCtM
+LOCATION:https://momenta.feishu.cn/hire/short_url/Z23vCoJbCtM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-57@autumn-recruitment
 DTSTAMP:20260728T074646Z
 DTSTART:20260804T030000Z
