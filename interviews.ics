@@ -407,14 +407,13 @@ DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
  】 | 校招项目：云弧计划；志愿一；当前应聘职位；官
  网状态：待处理；简历评估尚未结束，可修改投递岗位
  。 个性测评：已确认参加，具体作答时间待定；有效期
- 至2026-07-17 17:33，技术专业笔试另行通知。 | 轮次待确认
- （邮件写面试轮次1-4轮）。双机位视频：电脑Chrome + 手
- 机侧后方45°监控全身/桌面/屏幕；勿戴耳机；独立完成
- 不可辅助。登录密码：rPnC（电脑/手机链接正文未完整粘
- 贴，location暂空）。考察：编程题+理论+简历项目/论文。
- 进度：https://careers.pddglobalhr.com/campus/grad 。确认截止曾为
- 2026-07-27 23:00。HR李眠羊 021-52831217 / 15827141993 / limianyang@pin
- duoduo.com。
+ 至2026-07-17 17:33，技术专业笔试另行通知。 | 拼多多云弧
+ 计划大模型算法工程师一面已于 2026-07-29 15:00 完成。流
+ 程较短：介绍阿里实习经历；回答是否了解强化学习，
+ 并介绍强化学习训练流程；手撕字符串大数乘法；随后
+ 结束。个人感受：面试官对大模型方向的技术追问较浅
+ ，整体更像搜推背景下的通用算法面。反问获悉部门主
+ 要负责 PDD 搜索推荐，同时承担一部分大模型业务。
 END:VEVENT
 BEGIN:VEVENT
 UID:event-51@autumn-recruitment
@@ -499,5 +498,24 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  面试官未上线联系 HR。结果反馈约 5 个工作日；未反馈
  视为默认接受安排。
 LOCATION:https://nio.feishu.cn/hire/short_url/rWsdB_3dNMM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-61@autumn-recruitment
+DTSTAMP:20260729T073539Z
+DTSTART:20260807T070000Z
+DTEND:20260807T080000Z
+SUMMARY:一面 · 腾讯 · 微信视频号-视频生成基座大模型算
+ 法研究及Infra
+DESCRIPTION:微信视频号团队 | 微信视频号-视频生成基座大
+ 模型算法研究及Infra | 腾讯青云计划，微信视频号团队。
+ 方向包括视频生成基座大模型算法研究和训练 Infra；面
+ 试明确考察代码能力，并可能考察 AI-coding。 | 腾讯青云
+ 计划单面，2026-08-07 15:00-16:00，腾讯会议。请提前 10 分钟
+ 入会并检测设备；技术岗位需要在线代码考核，面试官
+ 可能考察 AI-coding，请使用 PC 端 Chrome。AI Coding 指南：http
+ s://cdn.tencentgroup.qq.com/vv_static/ide/AICoding.pdf。改期/确认入
+ 口：https://join.qq.com/interview_reply.html。异常联系电话：0755
+ -86013388，接通后输入 855999。未经许可不得录音录像。
+LOCATION:https://meeting.tencent.com/dm/QWNzQpcm7Yg2
 END:VEVENT
 END:VCALENDAR
