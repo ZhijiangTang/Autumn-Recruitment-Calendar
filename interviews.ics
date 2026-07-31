@@ -427,34 +427,17 @@ DTEND:20260729T120000Z
 SUMMARY:一面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大语
  言模型）（校招）
 DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
- 模型）（校招） | 哔哩哔哩 B-UP 校招视频面试邀约。面
- 试职位：【B-UP】搜索算法工程师（大语言模型）（校招
- ）。面试形式：牛客视频面试，建议使用 Chrome 浏览器并
- 提前 5 分钟调试设备。联系邮箱：gaoyifei@bilibili.com。系
- 统邮件未明确轮次，暂按一面记录。
+ 模型）（校招） | B-UP 校招；B 站主站搜索算法与大语言
+ 模型方向。面试反问获悉团队主要负责主站搜索推荐，
+ 并承担 AI 搜索等 AI 需求。 | 哔哩哔哩 B-UP 搜索算法工程
+ 师（大语言模型）一面已于 2026-07-29 19:00 完成，面试官
+ 迟到约 15 分钟。主要内容：数据飞轮、强化学习、多模
+ 态感知论文；围绕明星识别和品牌识别追问数据生产管
+ 线；手撕数据流中位数；系统/算法题为 2 亿多 Query 中找
+ 最热门的 10 个。反问获悉团队负责 B 站主站搜索推荐，
+ 也承担 AI 搜索等 AI 需求。
 LOCATION:https://interview.nowcoder.com/interview/31958441/interviewee?code
  =MQBLQdDz
-END:VEVENT
-BEGIN:VEVENT
-UID:event-54@autumn-recruitment
-DTSTAMP:20260724T125747Z
-DTSTART:20260730T070000Z
-DTEND:20260730T080000Z
-SUMMARY:二面 · 昆仑万维 · 视频算法工程师
-DESCRIPTION:全模态大模型团队 | 视频算法工程师 | 方向：从
- 零打造全模态（Omni）理解与推理大模型，以开源原生视
- 觉模型为底座，通过 CPT、SFT 与 RL 统一文本、图像、视
- 频、音频理解与推理；百亿至千亿参数 MoE，千万级多模
- 态数据，256K 长上下文，跨模态联合理解与可验证奖励 RL
- 。职责：1）参与 CPT/多模态对齐，接入音频等新模态 enco
- der，完成 connector 设计与对齐预训练；2）主导图像/视频/
- 音频/文本至少一模态的  | 昆仑万维集团视频算法工程师
- 二面邀约。面试形式：飞书视频面试。考察内容：通用
- 型业务问题、过往项目经历、价值观与软性技能。HR：黄
- 雪琦 +8613260262130；如需修改时间须提前 1 天联系。建议
- 提前 10 分钟调试麦克风、摄像头和网络；超过约定时间 
- 5 分钟面试官仍未上线时联系 HR。
-LOCATION:https://rg975ojk5z.feishu.cn/hire/short_url/480yFMYMNKc
 END:VEVENT
 BEGIN:VEVENT
 UID:event-59@autumn-recruitment
@@ -524,6 +507,28 @@ DESCRIPTION:淘宝闪购 | 淘宝闪购C端Agent研究与实践-阿里星 |
  on 暂空。
 END:VEVENT
 BEGIN:VEVENT
+UID:event-54@autumn-recruitment
+DTSTAMP:20260724T125747Z
+DTSTART:20260804T110000Z
+DTEND:20260804T120000Z
+SUMMARY:二面 · 昆仑万维 · 视频算法工程师
+DESCRIPTION:全模态大模型团队 | 视频算法工程师 | 方向：从
+ 零打造全模态（Omni）理解与推理大模型，以开源原生视
+ 觉模型为底座，通过 CPT、SFT 与 RL 统一文本、图像、视
+ 频、音频理解与推理；百亿至千亿参数 MoE，千万级多模
+ 态数据，256K 长上下文，跨模态联合理解与可验证奖励 RL
+ 。职责：1）参与 CPT/多模态对齐，接入音频等新模态 enco
+ der，完成 connector 设计与对齐预训练；2）主导图像/视频/
+ 音频/文本至少一模态的  | 昆仑万维集团视频算法工程师
+ 二面改期：原定 2026-07-30 15:00，现调整至 2026-08-04 19:00。
+ 面试形式：飞书视频面试。考察：通用型业务问题、过
+ 往项目经历、价值观与软性技能。HR：黄雪琦 +8613260262130
+ ；改期须提前 1 天联系。请提前 10 分钟调试麦克风、摄
+ 像头和网络；超过约定时间 5 分钟面试官仍未上线时联
+ 系 HR。
+LOCATION:https://rg975ojk5z.feishu.cn/hire/short_url/qJJfrBdhXxY
+END:VEVENT
+BEGIN:VEVENT
 UID:event-60@autumn-recruitment
 DTSTAMP:20260728T114820Z
 DTSTART:20260805T030000Z
@@ -558,5 +563,22 @@ DESCRIPTION:微信视频号团队 | 微信视频号-视频生成基座大
  口：https://join.qq.com/interview_reply.html。异常联系电话：0755
  -86013388，接通后输入 855999。未经许可不得录音录像。
 LOCATION:https://meeting.tencent.com/dm/QWNzQpcm7Yg2
+END:VEVENT
+BEGIN:VEVENT
+UID:event-64@autumn-recruitment
+DTSTAMP:20260731T070147Z
+DTSTART:20260813T080000Z
+DTEND:20260813T090000Z
+SUMMARY:一面 · 元戎启行 · 【2027秋招】大模型算法工程师
+DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
+ 师 | 元戎启行 2027 秋招大模型算法工程师，视频面试邀
+ 约；具体团队职责待面试反问确认。 | 元戎启行 2027 秋
+ 招大模型算法工程师视频面试，预计 1 小时，会议号 6378
+ 11664。邮件未注明轮次，暂按一面记录；当前待确认是否
+ 参加。请使用 PC 端 Chrome 或 Firefox，提前 10 分钟调试网
+ 络和麦克风。HR：王婷，17318946273，tingwang@deeproute.ai。确
+ 认/拒绝/改期链接含个人访问令牌，出于安全未写入数据
+ 库。
+LOCATION:https://vc.feishu.cn/j/637811664
 END:VEVENT
 END:VCALENDAR
