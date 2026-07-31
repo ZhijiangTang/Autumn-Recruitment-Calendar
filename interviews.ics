@@ -445,11 +445,13 @@ DTSTAMP:20260728T074750Z
 DTSTART:20260731T070000Z
 DTEND:20260731T080000Z
 SUMMARY:二面 · 睿琪软件 · 算法工程师_校招
-DESCRIPTION:睿琪软件 | 算法工程师_校招 | 轮次：邮件未标
- 明；库内已有 2026-07-27 一面，本场暂记二面（若实为一
- 面改期请改）。飞书面试，可用Chrome或飞书。改期需提
- 前1天联系HR陆佳莲 +8618767151427。提前10分钟调试；超时5
- 分钟面试官未上线联系HR。
+DESCRIPTION:睿琪软件 | 算法工程师_校招 | 睿琪软件算法工
+ 程师_校招二面已于 2026-07-31 15:00 完成。面试官偏工程与 
+ Infra：介绍阿里实习、数据飞轮和论文；追问 Tokenizer 的
+ 树状实现/词表匹配，未能回答，需补 Trie、WordPiece/BPE/Uni
+ gram 编码实现与性能优化；手撕单向链表判环及定位环入
+ 口，使用 Floyd 快慢指针并给出距离推导；本轮未反问。
+ 详细复盘见 review.md；结果待定。
 LOCATION:https://p0o4p0soey.feishu.cn/hire/short_url/Zl5mAXiFFfc
 END:VEVENT
 BEGIN:VEVENT
