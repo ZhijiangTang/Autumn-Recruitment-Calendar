@@ -548,6 +548,25 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
 LOCATION:https://nio.feishu.cn/hire/short_url/rWsdB_3dNMM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-66@autumn-recruitment
+DTSTAMP:20260802T082136Z
+DTSTART:20260806T080000Z
+DTEND:20260806T090000Z
+SUMMARY:一面 · 小鹏集团 · 【27届校招】多模态Agent算法工
+ 程师
+DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师 
+ | 校招正式岗位；工作地点：上海、北京、深圳；意向城
+ 市顺序：上海、深圳、北京；岗位类别：研发-算法；官
+ 网当前阶段：投递简历。 | 小鹏集团【27届校招】多模态
+ Agent算法工程师正式视频面试（含代码考核）。飞书视频
+ 面试，仅电脑端支持 coding；可使用网页版或飞书客户端
+ ，客户端需为 4.4 以上版本并提前注册账户。建议提前 2
+ –3 分钟进入会议并调试音视频设备。联系人：黎娟，+86
+ 15622733836，lij32@xiaopeng.com。邮件要求候选人确认是否接受
+ 邀请；数据库仅记录日程，未代为确认。
+LOCATION:https://xiaopeng.feishu.cn/hire/short_url/spTKgeM_76o
+END:VEVENT
+BEGIN:VEVENT
 UID:event-61@autumn-recruitment
 DTSTAMP:20260729T073539Z
 DTSTART:20260807T070000Z
