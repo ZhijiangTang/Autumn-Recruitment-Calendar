@@ -548,6 +548,33 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
 LOCATION:https://nio.feishu.cn/hire/short_url/rWsdB_3dNMM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-67@autumn-recruitment
+DTSTAMP:20260803T075223Z
+DTSTART:20260806T060000Z
+DTEND:20260806T070000Z
+SUMMARY:二面 · 拼多多 · 大模型算法工程师【2027届云弧计
+ 划】
+DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
+ 】 | 校招项目：云弧计划；志愿一；当前应聘职位；官
+ 网状态：待处理；简历评估尚未结束，可修改投递岗位
+ 。 个性测评：已确认参加，具体作答时间待定；有效期
+ 至2026-07-17 17:33，技术专业笔试另行通知。 | 拼多多集团-
+ PDD 校园招聘大模型算法工程师远程面试。邮件统一标注
+ 面试轮次为 1–4 轮；因数据库已有 2026-07-29 一面完成记
+ 录，本场按二面记录。面试含编程题、理论知识和简历/
+ 实习/项目/论文追问。需电脑+手机双机位，面试期间不
+ 佩戴耳机；电脑使用最新版 Chrome，手机放在身体侧后方 
+ 45 度，画面需覆盖电脑屏幕、桌面、本人上半身及双手
+ 和周边环境。手机监控入口：https://interview.pddglobalhr.com/i
+ nterview/monitor/PW2QiCAK34871014。需在 2026-08-03 20:00 前通过邮
+ 件中的确认入口回复参加/调整时间/放弃，逾期未反馈视
+ 为放弃。HR：李眠羊，021-52831217 / 15827141993，limianyang@pindu
+ oduo.com。专属登录密码和带标识符的确认链接未明文写入
+ 仓库。数据库仅记录邀请，尚未代为确认参加。
+LOCATION:https://interview.pddglobalhr.com/interview/livecode/PW2QiCAK34871
+ 014
+END:VEVENT
+BEGIN:VEVENT
 UID:event-66@autumn-recruitment
 DTSTAMP:20260802T082136Z
 DTSTART:20260806T080000Z
