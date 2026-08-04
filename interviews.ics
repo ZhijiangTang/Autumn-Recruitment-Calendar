@@ -545,6 +545,32 @@ DESCRIPTION:全模态大模型团队 | 视频算法工程师 | 方向：从
 LOCATION:https://rg975ojk5z.feishu.cn/hire/short_url/qJJfrBdhXxY
 END:VEVENT
 BEGIN:VEVENT
+UID:event-72@autumn-recruitment
+DTSTAMP:20260804T043841Z
+DTSTART:20260804T120000Z
+DTEND:20260804T130000Z
+SUMMARY:笔试 · 京东 · 基于电商大模型的Mid-train及RL研究
+DESCRIPTION:TGT-顶尖青年技术天才计划 | 基于电商大模型的Mi
+ d-train及RL研究 | 设计电商场景大模型Mid-train；开展Agentic
+ 大模型强化学习后训练，包括奖励模型、PPO/GRPO及多轮决
+ 策优化；建设训练数据、奖励数据与评测基准并推动电
+ 商业务落地。 | 京东校招在线测评（行测类）已于 2026-08
+ -04 晚完成（约 20:00–20:30 北京时间）。\n平台：京东在
+ 线测评系统；应试人界面显示「唐治江」；试卷水印账
+ 号 d996721b7f31416d88be737c0cfc437f@jd.com（保密资料，请勿外传
+ ）。\n题型覆盖：逻辑推理（充分/支持结论）、言语理
+ 解（词语含义、阅读理解）、资料分析（折线/柱状/表格
+ 增速与占比推算、本量利）、图形推理（封闭区域数、
+ 黑块求异、数字镜像、星点旋转、象限填色、嵌套边数
+ 、笔画数、点线转化等）。\n关联投递：TGT-顶尖青年技
+ 术天才计划 / 基于电商大模型的Mid-train及RL研究（applicati
+ on #40）。库内另有 JDS-新星计划 / 算法工程师-语言大模
+ 型（application #80）；本次按 TGT 主投递补录，若实测对应
+  JDS 可再改挂。\n结果：已完成作答；通过与否待官方通
+ 知。
+LOCATION:京东在线测评系统（行测）
+END:VEVENT
+BEGIN:VEVENT
 UID:event-60@autumn-recruitment
 DTSTAMP:20260728T114820Z
 DTSTART:20260805T030000Z
