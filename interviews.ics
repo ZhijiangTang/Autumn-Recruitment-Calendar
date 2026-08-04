@@ -694,6 +694,25 @@ DESCRIPTION:火山方舟 | 豆包大模型多模态算法工程师 - 火山
 LOCATION:https://t.zijieimg.com/6b0RcQaJzO4/
 END:VEVENT
 BEGIN:VEVENT
+UID:event-73@autumn-recruitment
+DTSTAMP:20260804T141644Z
+DTSTART:20260812T070000Z
+DTEND:20260812T080000Z
+SUMMARY:一面 · 快手 · 【快Star】多模态大模型算法工程师-
+ Keye
+DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye | 
+ 2027应届生；招聘类型：全职；意向地点：北京；官网投
+ 递记录当前状态：流程中；流程节点为投递简历 → 简历
+ 筛选 → 面试 → 录用评估 → offer → 预入职。 | 【快Star
+ 】多模态大模型算法工程师-Keye 视频面试。面试链接：ht
+ tps://viewcoder.qingque.cn/i/kxx-fnnm-wda；请提前 10 分钟使用最
+ 新版 Chrome 测试摄像头、麦克风和网络，避免使用 VPN。HR
+ ：邱宇阳，qiuyuyang05@kuaishou.com，19503882536。确认入口：htt
+ ps://campus.kuaishou.cn/recruit/campus/e/interview.html?code=0aab7184-1fe6
+ -403f-a7cf-9393ec809904
+LOCATION:视频面试
+END:VEVENT
+BEGIN:VEVENT
 UID:event-64@autumn-recruitment
 DTSTAMP:20260731T070147Z
 DTSTART:20260813T080000Z
