@@ -678,6 +678,25 @@ LOCATION:https://interview.pddglobalhr.com/interview/livecode/cF5mXiAU01721
  443
 END:VEVENT
 BEGIN:VEVENT
+UID:event-75@autumn-recruitment
+DTSTAMP:20260806T111348Z
+DTSTART:20260808T110000Z
+DTEND:20260808T120000Z
+SUMMARY:笔试 · 京东 · 算法工程师-语言大模型
+DESCRIPTION:JDS-新星计划 | 算法工程师-语言大模型 | 负责自
+ 然语言处理与语言大模型相关算法研发，覆盖语义分析
+ 、意图识别、智能对话、语言生成，以及模型训练、评
+ 估和部署。 | 京东集团 2027 校园招聘专业笔试，试卷：
+ 京东集团2027校招-算法试卷-0808；考试时段 19:00-20:40，时
+ 长100分钟。全程开启摄像头，建议提前15分钟使用最新版
+  Chrome 完成设备检测。JDS 技术方向若多个岗位均需笔试
+ ，只按意向岗位安排一次，登录作答后无需重复笔试；
+ 每个项目最多连续3次机会，缺席当前场且不登录将顺延
+ 。确认入口：https://hr.nowcoder.com/v1/s/M4VYiqVp#。本场为专业
+ 笔试，与 2026-08-04 已完成的京东行测不是同一场。
+LOCATION:https://hr.nowcoder.com/v1/s/OJZ31GAn#
+END:VEVENT
+BEGIN:VEVENT
 UID:event-70@autumn-recruitment
 DTSTAMP:20260803T140410Z
 DTSTART:20260810T110000Z
