@@ -652,6 +652,23 @@ DESCRIPTION:微信视频号团队 | 微信视频号-视频生成基座大
 LOCATION:https://meeting.tencent.com/dm/QWNzQpcm7Yg2
 END:VEVENT
 BEGIN:VEVENT
+UID:event-76@autumn-recruitment
+DTSTAMP:20260806T125418Z
+DTSTART:20260807T080000Z
+DTEND:20260807T090000Z
+SUMMARY:二面 · 蔚来 · 蔚来AGI超星计划-面向销售的Agentic强
+ 化学习研究
+DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
+ 习研究 | 轮次：邮件未标明；库内已有 2026-08-05 一面(even
+ t-60)，本场暂记二面。形式：视频面试，涉及代码测试，
+ 请用电脑接入；时长约 60 分钟。HR：Kaylee SUN 孙欣 +8618305
+ 285753（改期须提前 1 天）。面试登记表（多次面试填一
+ 次）：https://nio.feishu.cn/hire/short_url/RxdwaHi1Gtg。提前 10 分
+ 钟调试；超约定 5 分钟面试官未上线联系 HR。结果反馈
+ 约 5 个工作日；未反馈视为默认接受安排。
+LOCATION:https://nio.feishu.cn/hire/short_url/S3cJ0Y8J_Tg
+END:VEVENT
+BEGIN:VEVENT
 UID:event-74@autumn-recruitment
 DTSTAMP:20260806T075512Z
 DTSTART:20260807T090000Z
