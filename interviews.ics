@@ -620,12 +620,16 @@ DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师
  | 校招正式岗位；工作地点：上海、北京、深圳；意向城
  市顺序：上海、深圳、北京；岗位类别：研发-算法；官
  网当前阶段：投递简历。 | 小鹏集团【27届校招】多模态
- Agent算法工程师正式视频面试（含代码考核）。飞书视频
- 面试，仅电脑端支持 coding；可使用网页版或飞书客户端
- ，客户端需为 4.4 以上版本并提前注册账户。建议提前 2
- –3 分钟进入会议并调试音视频设备。联系人：黎娟，+86
- 15622733836，lij32@xiaopeng.com。邮件要求候选人确认是否接受
- 邀请；数据库仅记录日程，未代为确认。
+ Agent算法工程师一面已于 2026-08-06 16:00 完成，时长约 46 
+ 分钟。流程：团队介绍；自我介绍；深挖 CCCaption 的 rewar
+ d hacking、query bank、幻觉奖励、judge 偏差和 OCR 泛化；讨
+ 论长视频时序评测及流式理解、Memory、Agent 检索；介绍
+ 千问 Agent 自动化评测、两阶段 RL 和 skill routing；Coding 手
+ 写 Self-Attention；追问 OOM、DP/TP/PP/CP 与训练显存组成；反
+ 问端侧 Omni 座舱、视觉 Agent、图灵芯片、量化及训练资
+ 源。主要薄弱点：PP/TP/CP 概念混淆，显存组成及每参数
+ 字节数不准确，OOM 诊断层次不足。详细复盘见 review.md；
+ 不作结果预测。
 LOCATION:https://xiaopeng.feishu.cn/hire/short_url/spTKgeM_76o
 END:VEVENT
 BEGIN:VEVENT
