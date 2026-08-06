@@ -193,10 +193,11 @@ SUMMARY:简历初筛 · 米哈游 · 【提前批-基础研究】LLM Post-t
 DESCRIPTION:大模型 | 【提前批-基础研究】LLM Post-train 算法
  研究员 | 校园招聘；工作地点：上海、北京；职位类型
  ：程序&技术类；职位性质：全职；官网当前状态：HR初
- 筛。 | 米哈游校园招聘官网投递记录显示当前状态为“HR
- 初筛”；岗位：【提前批-基础研究】LLM Post-train 算法研
- 究员；工作地点：上海、北京；职位类型：程序&技术类
- ；职位性质：全职；投递时间：2026-07-23 14:14:50。
+ 筛。 | 米哈游校园招聘官网投递记录：岗位【提前批-基
+ 础研究】LLM Post-train 算法研究员，工作地点上海、北京
+ ，职位类型程序&技术类，职位性质全职，投递时间 2026-0
+ 7-23 14:14:50。此前状态为 HR 初筛；用户于 2026-08-06 确认该
+ 岗位已挂，流程终止。
 END:VEVENT
 BEGIN:VEVENT
 UID:event-49@autumn-recruitment
@@ -645,6 +646,32 @@ DESCRIPTION:微信视频号团队 | 微信视频号-视频生成基座大
  口：https://join.qq.com/interview_reply.html。异常联系电话：0755
  -86013388，接通后输入 855999。未经许可不得录音录像。
 LOCATION:https://meeting.tencent.com/dm/QWNzQpcm7Yg2
+END:VEVENT
+BEGIN:VEVENT
+UID:event-74@autumn-recruitment
+DTSTAMP:20260806T075512Z
+DTSTART:20260807T090000Z
+DTEND:20260807T100000Z
+SUMMARY:三面 · 拼多多 · 大模型算法工程师【2027届云弧计
+ 划】
+DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
+ 】 | 校招项目：云弧计划；志愿一；当前应聘职位；官
+ 网状态：待处理；简历评估尚未结束，可修改投递岗位
+ 。 个性测评：已确认参加，具体作答时间待定；有效期
+ 至2026-07-17 17:33，技术专业笔试另行通知。 | 拼多多集团-
+ PDD 校园招聘大模型算法工程师远程三面。需在 2026-08-06 2
+ 2:00 前通过邮件确认参加、调整时间或放弃，逾期未反馈
+ 视为放弃；当前仅记录邀请，尚未代为确认。面试为电
+ 脑与手机双机位，面试期间不得佩戴耳机；电脑使用最
+ 新版 Chrome，手机放在身体侧后方 45 度，画面覆盖电脑屏
+ 幕、桌面、本人上半身及双手和周边环境。建议提前 10 
+ 分钟调试设备、关闭无关软件及网页。手机监控入口：ht
+ tps://interview.pddglobalhr.com/interview/monitor/cF5mXiAU01721443。面
+ 试考察编程题、理论知识及简历、实习、项目和论文。HR
+ ：李眠羊，021-52831217 / 15827141993，limianyang@pinduoduo.com。专
+ 属登录密码和带标识符的确认链接未写入仓库。
+LOCATION:https://interview.pddglobalhr.com/interview/livecode/cF5mXiAU01721
+ 443
 END:VEVENT
 BEGIN:VEVENT
 UID:event-70@autumn-recruitment
