@@ -715,6 +715,35 @@ DESCRIPTION:领航者计划 | 多模态大模型后训练算法工程师 |
 LOCATION:https://zyt-hr.ceping.com/pc?aId=WyI92zBn/dfIAqlMhDSVlA==
 END:VEVENT
 BEGIN:VEVENT
+UID:event-81@autumn-recruitment
+DTSTAMP:20260807T094104Z
+DTSTART:20260808T020000Z
+DTEND:20260808T030000Z
+SUMMARY:笔试 · OPPO · AI研究员（AI多模态智能体）
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
+ 聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
+ 、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
+ ent 构建优化评估经验与科研能力。 | 【AI/算法类】OPPO 20
+ 27届秋招笔试题-0808\n考试时间窗口：(北京时间) 2026-08-08 
+ 08:00:00 -- 23:59:59\n考试时长：140分钟（到点自动关闭，请
+ 预留足够时间）\n考试地址（私人专属，勿转发）：https:
+ //hr.nowcoder.com/v1/s/D0ibZoh3#\n用户计划：本周末（周六 08-08
+ ）完成。\n设备：电脑+摄像头；最新版 Chrome；勿用平板
+ 。开考前关闭其他浏览器窗口、QQ/微信等；网速建议 100K
+ B/S 以上。\n编程语言：1题限 Python 3；另1题可选 C/C++/Java/
+ Python3 等（需自处理输入输出）。\n作答：按目录作答，
+ 完成当前目录后才能进下一目录；提交目录后不可改。\n
+ 诚信：全程摄像头监控；勿找人代考；勿跳出无关页面
+ （前3次切换弹窗提示）；代码查重；泄题/作弊取消资格
+ 并记入诚信档案。\n突发：断网/死机可刷新或重新进入
+ ；重新登录超过两分钟累加跳出次数。\nDNS 加载问题可
+ 试 223.5.5.5 / 114.114.114.114 或手机热点。\n牛客技术支持：k
+ aoshi@nowcoder.com；紧急 18611869582 / 18611869571；页面右侧在线
+ 咨询。\n说明：库内另有 2026-08-09 笔试/一面安排，本场
+ 为 0808 AI/算法牛客卷，与 08-09 不同入口。
+LOCATION:https://hr.nowcoder.com/v1/s/D0ibZoh3#
+END:VEVENT
+BEGIN:VEVENT
 UID:event-75@autumn-recruitment
 DTSTAMP:20260806T111348Z
 DTSTART:20260808T110000Z
