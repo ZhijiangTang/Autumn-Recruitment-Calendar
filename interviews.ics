@@ -811,6 +811,25 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
 LOCATION:https://hr.nowcoder.com/v1/s/zvn1oSC1#
 END:VEVENT
 BEGIN:VEVENT
+UID:event-84@autumn-recruitment
+DTSTAMP:20260807T123542Z
+DTSTART:20260810T060000Z
+DTEND:20260810T070000Z
+SUMMARY:一面 · 百度 · 2027AIDU-大模型算法工程师-数字人直
+ 播和互动技术组
+DESCRIPTION:数字人直播和互动技术组 | 2027AIDU-大模型算法工
+ 程师-数字人直播和互动技术组 | 百度在线网络技术（北
+ 京）有限公司 · 2027AIDU-大模型算法工程师-数字人直播和
+ 互动技术组\n面试日期：2026-08-10（周一）14:00\n面试方式
+ ：视频面试\n面试链接：https://infoflow.baidu.com/meeting/invite?
+ id=d8cebe096def119a53a3d3a84f57183d\n建议使用如流客户端或 Chrome
+  浏览器。\n改期/变动：https://talent.baidu.com/jobs/social\n邮
+ 件日期：2026-08-07；百度人力资源部\n轮次：邮件未写轮
+ 次，按一面录入。
+LOCATION:https://infoflow.baidu.com/meeting/invite?id=d8cebe096def119a53a3d
+ 3a84f57183d
+END:VEVENT
+BEGIN:VEVENT
 UID:event-70@autumn-recruitment
 DTSTAMP:20260803T140410Z
 DTSTART:20260810T110000Z
