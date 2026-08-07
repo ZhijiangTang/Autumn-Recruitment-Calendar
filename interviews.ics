@@ -757,6 +757,27 @@ LOCATION:https://oppo-tts.i-select.cn/validate.aspx?t_c_unique_id=F4C8E7AE-
  F35E-447C-9209-31C5EBB48432
 END:VEVENT
 BEGIN:VEVENT
+UID:event-79@autumn-recruitment
+DTSTAMP:20260807T075616Z
+DTSTART:20260809T070000Z
+DTEND:20260809T080000Z
+SUMMARY:一面 · OPPO · AI研究员（AI多模态智能体）
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
+ 聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
+ 、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
+ ent 构建优化评估经验与科研能力。 | OPPO 在线 AI 面试（
+ 牛客 NowAI）。岗位：AI研究员（AI多模态智能体）。\n面
+ 试窗口（北京时间）：2026-08-07 15:02 ～ 2026-08-09 15:02；逾
+ 期视为放弃。\n日历 scheduled_at 按窗口截止提醒记为 2026-0
+ 8-09 15:00。\n面试链接（私人专属勿转发）：https://hr.nowcod
+ er.com/v1/s/zvn1oSC1#\n方式：手机微信小程序 或 电脑网页（
+ 二选一）；同时仅允许一端登录。\n建议提前 ≥1 小时进
+ 入；安静、网络畅通；国外请关 VPN；注意电量。\nPC 网
+ 络中断可退出改手机端续面。\n支持：nowai@nowcoder.com\n前
+ 置：性格测评 event-77 另计。
+LOCATION:https://hr.nowcoder.com/v1/s/zvn1oSC1#
+END:VEVENT
+BEGIN:VEVENT
 UID:event-70@autumn-recruitment
 DTSTAMP:20260803T140410Z
 DTSTART:20260810T110000Z
