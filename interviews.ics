@@ -838,7 +838,13 @@ DESCRIPTION:数字人直播和互动技术组 | 2027AIDU-大模型算法工
  id=d8cebe096def119a53a3d3a84f57183d\n建议使用如流客户端或 Chrome
   浏览器。\n改期/变动：https://talent.baidu.com/jobs/social\n邮
  件日期：2026-08-07；百度人力资源部\n轮次：邮件未写轮
- 次，按一面录入。
+ 次，按一面录入。\n\n面试完成（2026-08-10）：约66分钟。
+ 项目深挖覆盖阿里Agent评测/RL、数据归因、Wan2.1 Flow-GRPO
+ 与CCCaption；Coding为PyTorch实现Transformer（Attention、RoPE、Bloc
+ k），追问scaled attention、Pre-LN/Post-LN、YaRN/视觉RoPE及Streami
+ ngVLM。使用如流网页版导致多次共享黑屏、卡顿和掉线，
+ 内置代码考核无法使用，改为共享白板。详细复盘见revie
+ w.md；结果待通知。
 LOCATION:https://infoflow.baidu.com/meeting/invite?id=d8cebe096def119a53a3d
  3a84f57183d
 END:VEVENT
@@ -884,6 +890,29 @@ DESCRIPTION:火山方舟 | 豆包大模型多模态算法工程师 - 火山
 LOCATION:https://t.zijieimg.com/6b0RcQaJzO4/
 END:VEVENT
 BEGIN:VEVENT
+UID:event-86@autumn-recruitment
+DTSTAMP:20260810T093737Z
+DTSTART:20260811T120000Z
+DTEND:20260811T130000Z
+SUMMARY:一面 · BOSS直聘 · 大模型算法工程师（基座训练方
+ 向）
+DESCRIPTION:Nanbeige LLM基座研发团队 | 大模型算法工程师（基
+ 座训练方向） | 【团队】BOSS直聘 Nanbeige LLM 基座研发团
+ 队，参与大模型预训练与后训练研发。\n\n【预训练】\n1.
+  数据优化：数据合成、清洗、权重分配、混入机制与数
+ 据来源扩展。\n2. 结构优化：研究残差连接、记忆机制、
+ 新型优化器、超稀疏 MoE 和线性注意力等架构，平衡效果
+ 与训练/推理开销。\n\n【后训练】\n1. SFT：筛选和设计高
+ 质量指令数据，研究复杂指令与复杂环境的数据合成，
+ 提升 agentic | BOSS直聘视频面试。\n应聘职位：大模型算法
+ 工程师（基座训练方向）\n面试时间：2026-08-11 20:00\n进入
+ 方式：使用 +86 156****5156 登录或注册 BOSS直聘，点击面试
+ 链接进入面试间。\n面试链接：https://zpurl.cn/1190uSaqrkL\n联
+ 系人：孟先生，+86 13910085534。\n邀请邮件未注明轮次，该
+ 投递暂无其他面试记录，按一面录入。
+LOCATION:https://zpurl.cn/1190uSaqrkL
+END:VEVENT
+BEGIN:VEVENT
 UID:event-73@autumn-recruitment
 DTSTAMP:20260804T141644Z
 DTSTART:20260812T070000Z
@@ -903,6 +932,30 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
 LOCATION:视频面试
 END:VEVENT
 BEGIN:VEVENT
+UID:event-85@autumn-recruitment
+DTSTAMP:20260810T093456Z
+DTSTART:20260812T110000Z
+DTEND:20260812T120000Z
+SUMMARY:一面 · 百度 · 北京-大模型算法工程师（基座研发
+ 方向）(J101234)
+DESCRIPTION:文心大模型 | 北京-大模型算法工程师（基座研
+ 发方向）(J101234) | 工作地点：北京；基座大模型研发方
+ 向；职位编号 J101234。2026-07-31 通过推荐人岳**投递。官
+ 网流程：投递简历 → 简历筛选 → 面试 → OFFER。 | 百度
+ 在线网络技术（北京）有限公司 · 北京-大模型算法工程
+ 师（基座研发方向）\n面试日期：2026-08-12（周三）19:00\n
+ 面试方式：视频面试\n面试链接：https://infoflow.baidu.com/mee
+ ting/invite?id=02618ae20d796401b56b542123334d90\n请事先下载并登录
+ 如流 PC 或移动客户端，面试前一天内进入会议测试设备
+ 。\n如流下载：https://infoflow-commercial.baidu.com/newweb/download/
+ #/sass-download\n变动/改期：https://talent.baidu.com/jobs/social\n视
+ 频工具问题反馈：baiduhi@baidu.com\n邮件日期：2026-08-10；百
+ 度人力资源部。\n邮件未注明轮次，该投递暂无其他面试
+ 记录，按一面录入。
+LOCATION:https://infoflow.baidu.com/meeting/invite?id=02618ae20d796401b56b5
+ 42123334d90
+END:VEVENT
+BEGIN:VEVENT
 UID:event-64@autumn-recruitment
 DTSTAMP:20260731T070147Z
 DTSTART:20260813T080000Z
@@ -918,6 +971,51 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  认/拒绝/改期链接含个人访问令牌，出于安全未写入数据
  库。
 LOCATION:https://vc.feishu.cn/j/637811664
+END:VEVENT
+BEGIN:VEVENT
+UID:event-87@autumn-recruitment
+DTSTAMP:20260810T093835Z
+DTSTART:20260813T110000Z
+DTEND:20260813T120000Z
+SUMMARY:一面 · 阿里巴巴集团 · 算法工程师-多模态-Qwen手
+ 机智能
+DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 | 
+ 招聘项目：阿里巴巴2027届应届生\n所属：Token Foundry-Token 
+ Foundry-Qwen手机智能\n官网岗位名：算法工程师-多模态\n申
+ 请编号：100124460205\n申请日期：2026-08-05\n状态页：https://c
+ ampus-talent.alibaba.com/personal/campus-application\n录入时官网阶
+ 段：简历投递 | 阿里巴巴校园招聘视频面试。\n面试职位
+ ：算法工程师-多模态\n面试部门：Token Foundry-Token Foundry-Q
+ wen手机智能\n面试时间：2026-08-13 19:00（北京时间）\n面试
+ 链接：https://campus-talent.alibaba.com/interviewroom/landingPage?roomC
+ ode=4zbNBy%2FDaEGqnUOX4T1c9Q%3D%3D&recruitType=campus\n面试安排联系
+ 电话：+86-17710112850\n面试安排邮箱：hzc02550504@alibaba-inc.com
+ \n建议使用 PC 端 Chrome 浏览器；请提前打开链接测试摄像
+ 头、麦克风和音视频。\n面试结束后可填写邀请邮件中的
+ 面试体验反馈问卷。\n邮件未注明轮次，该投递暂无其他
+ 面试记录，按一面录入。
+LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
+ de=4zbNBy%2FDaEGqnUOX4T1c9Q%3D%3D&recruitType=campus
+END:VEVENT
+BEGIN:VEVENT
+UID:event-88@autumn-recruitment
+DTSTAMP:20260810T095922Z
+DTSTART:20260814T070000Z
+DTEND:20260814T080000Z
+SUMMARY:二面 · 蔚来 · 蔚来AGI超星计划-面向销售的Agentic强
+ 化学习研究
+DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
+ 习研究 | 【NIO蔚来】蔚来AGI超星计划-面向销售的Agentic强
+ 化学习研究二面。\n面试形式：视频面试，涉及代码测试
+ ，请使用电脑接入。\n面试时间：2026-08-14 15:00（GMT+08:00
+ ）\n预计时长：60 分钟\n面试链接：https://nio.feishu.cn/hire/s
+ hort_url/m1ey6vbsWyQ\nHR：Kaylee SUN 孙欣，+86 18305285753\n面试登
+ 记表：https://nio.feishu.cn/hire/short_url/FpPD1_BEboo（多次面试
+ 仅需填写一次）\n如需改期，请提前 1 天联系 HR；建议提
+ 前 10 分钟调试麦克风、摄像头和网络。\n官方说明将在
+ 面试结束后 5 个工作日内反馈结果。\n现有 2026-08-07 一面
+ 已完成，因此本场按二面录入。
+LOCATION:https://nio.feishu.cn/hire/short_url/m1ey6vbsWyQ
 END:VEVENT
 BEGIN:VEVENT
 UID:event-80@autumn-recruitment
