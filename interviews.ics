@@ -586,6 +586,24 @@ DESCRIPTION:TGT-顶尖青年技术天才计划 | 基于电商大模型的Mi
 LOCATION:京东在线测评系统（行测）
 END:VEVENT
 BEGIN:VEVENT
+UID:event-76@autumn-recruitment
+DTSTAMP:20260806T125418Z
+DTSTART:20260805T080000Z
+DTEND:20260805T090000Z
+SUMMARY:一面 · 蔚来 · 蔚来AGI超星计划-面向销售的Agentic强
+ 化学习研究
+DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
+ 习研究 | 已确认本场为一面，实际面试时间为 2026-08-05 16
+ :00。形式：视频面试，涉及代码测试，时长约 60 分钟。H
+ R：Kaylee SUN 孙欣 +8618305285753。面试登记表：https://nio.feish
+ u.cn/hire/short_url/RxdwaHi1Gtg。\n\n用户确认该场次已经复盘，
+ 不再提醒（2026-08-09）。\n\n状态确认（2026-08-09）：用户
+ 尚未收到淘汰或下一轮通知，继续等待官方结果。\n\n日
+ 期更正（2026-08-10）：用户确认实际面试日期为 2026-08-05
+ ，原记录 2026-08-07 有误。
+LOCATION:https://nio.feishu.cn/hire/short_url/S3cJ0Y8J_Tg
+END:VEVENT
+BEGIN:VEVENT
 UID:event-67@autumn-recruitment
 DTSTAMP:20260803T075223Z
 DTSTART:20260806T060000Z
@@ -651,23 +669,6 @@ DESCRIPTION:微信视频号团队 | 微信视频号-视频生成基座大
  ，继续等待官方结果。\n\n结果确认（2026-08-09）：用户确
  认该投递已淘汰，流程结束。
 LOCATION:https://meeting.tencent.com/dm/QWNzQpcm7Yg2
-END:VEVENT
-BEGIN:VEVENT
-UID:event-76@autumn-recruitment
-DTSTAMP:20260806T125418Z
-DTSTART:20260807T080000Z
-DTEND:20260807T090000Z
-SUMMARY:一面 · 蔚来 · 蔚来AGI超星计划-面向销售的Agentic强
- 化学习研究
-DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
- 习研究 | 已确认本场为一面。原 2026-08-05 日程为改期前
- 的重复记录，已移除。形式：视频面试，涉及代码测试
- ，时长约 60 分钟。HR：Kaylee SUN 孙欣 +8618305285753。面试登
- 记表：https://nio.feishu.cn/hire/short_url/RxdwaHi1Gtg。\n\n用户确
- 认该场次已经复盘，不再提醒（2026-08-09）。\n\n状态确认
- （2026-08-09）：用户尚未收到淘汰或下一轮通知，继续等
- 待官方结果。
-LOCATION:https://nio.feishu.cn/hire/short_url/S3cJ0Y8J_Tg
 END:VEVENT
 BEGIN:VEVENT
 UID:event-74@autumn-recruitment
@@ -862,7 +863,15 @@ DESCRIPTION:阿里国际数字商业集团 | Agentic RL for Long-horizon ta
  6-07-28 的 Agentic Post-training 岗位面试属于两个不同投递。
  建议使用 PC 端 Chrome，提前测试摄像头、麦克风和音视频
  。面试安排联系电话：86-19103396039；邮箱：tx02575219@alibaba
- -inc.com。
+ -inc.com。\n\n面试完成（2026-08-10）：实际交流约 38 分钟，
+ 面试官为 Accio 算法 TL。流程为 PPT 自我介绍、虾皮多模
+ 态后训练与 CCCaption 深挖、千问 Agent 静态 next-action 评测
+ 与数据回流追问、哔哩哔哩长视频评测、职业意愿及反
+ 问。本场未进行 Coding，面试官说明 Coding 为可选项。反
+ 问获悉该岗位可按面试结果评估阿里星、Bravo Star 或普通
+ 校招定级；Accio 是面向国际 B2B 采购的付费长程 Agent 产
+ 品。详细复盘见 review.md；结果待通知。\n\n2026-08-11 收到
+ 后续面试邀约，确认本轮已通过。
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=b7R%2FnjEKg5nxBQVtPiHSHg%3D%3D
 END:VEVENT
@@ -886,7 +895,18 @@ DESCRIPTION:火山方舟 | 豆包大模型多模态算法工程师 - 火山
  电源并关闭无关应用；不建议使用企业内网或 VPN。超过
  约定时间 10 分钟面试官仍未上线时联系 HR。HR：王馨艺
  ，+8616635728288。面试须独立完成，不得使用 AI、搜索引擎
- 、外部代码工具或他人协助。
+ 、外部代码工具或他人协助。\n\n2026-08-11 一面已完成，
+ 正式交流约 29 分钟。本轮无 Coding。主要深挖：阿里消费
+ 类 Agent 的静态 next-action 自动评测、tool call 与 final respons
+ e 指标、约 90% 人工一致性、多合法调用路径、轨迹切片
+ 和评测集迭代；CCCaption 的长度 reward hacking、双奖励、动
+ 态 query 采样、Judge 与可验证 QA reward；Skill Routing 的 SFT 
+ 数据增强与评测。面试官说明团队重点更偏 Agent 训练，
+ 多模态用于 Agent 场景但不是 GUI Agent。面后结果当时暂未
+ 通知。完整复盘：data/knowledge/字节跳动-豆包大模型多模
+ 态算法工程师 - 火山方舟/review.md\n\n官网流程更新（2026-0
+ 8-11）：火山方舟岗位流程终止；转移至其他职位：豆包
+ 大模型算法研究员 - Data AML。
 LOCATION:https://t.zijieimg.com/6b0RcQaJzO4/
 END:VEVENT
 BEGIN:VEVENT
@@ -956,6 +976,30 @@ LOCATION:https://infoflow.baidu.com/meeting/invite?id=02618ae20d796401b56b5
  42123334d90
 END:VEVENT
 BEGIN:VEVENT
+UID:event-89@autumn-recruitment
+DTSTAMP:20260811T035033Z
+DTSTART:20260813T020000Z
+DTEND:20260813T030000Z
+SUMMARY:笔试 · 蚂蚁集团 · 多模态理解和生成算法
+DESCRIPTION:蚂蚁健康事业群 | 多模态理解和生成算法 | 面向
+ 图像、视频、语音、文档等多模态内容，开展理解、生
+ 成、编辑与交互算法研发；覆盖跨模态对齐、视觉问答
+ 、文档与视频理解、图文检索、Agent、多模态数据与评测
+ 体系及线上实验。 | 蚂蚁集团“多模态理解和生成算法
+ ”AI Coding笔试。开放窗口：2026-08-13 10:00–21:00（UTC+8），
+ 可在窗口内任意时间进入；进入云端IDE后开始120分钟倒
+ 计时。每人仅1次机会，未准备好不要按ENTER正式开始；
+ 若不参加最近场次，不要进入作答，系统将自动顺延。
+ 设备要求：Chrome 140+、电脑摄像头、稳定网络；建议提前
+ 完成兼容性诊断。考试期间在内置云端IDE完成任务并保
+ 持在答题页面；断电/断网后可重新打开链接继续，但计
+ 时不会重置。官网入口：https://talent.antgroup.com/personal/camp
+ us-application；公告：https://talent.antgroup.com/notice/campus?type=n
+ otice&subType=sxszplcqm。
+LOCATION:https://interview.antgroup.com/home/candidateExam?token=7dcf7c9f-e
+ 44b-42c3-8f39-3ffb26c89348
+END:VEVENT
+BEGIN:VEVENT
 UID:event-64@autumn-recruitment
 DTSTAMP:20260731T070147Z
 DTSTART:20260813T080000Z
@@ -1013,7 +1057,7 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  记表：https://nio.feishu.cn/hire/short_url/FpPD1_BEboo（多次面试
  仅需填写一次）\n如需改期，请提前 1 天联系 HR；建议提
  前 10 分钟调试麦克风、摄像头和网络。\n官方说明将在
- 面试结束后 5 个工作日内反馈结果。\n现有 2026-08-07 一面
+ 面试结束后 5 个工作日内反馈结果。\n现有 2026-08-05 一面
  已完成，因此本场按二面录入。
 LOCATION:https://nio.feishu.cn/hire/short_url/m1ey6vbsWyQ
 END:VEVENT
@@ -1041,5 +1085,27 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  个人中心展示为准。\n官网：https://campus-talent.alibaba.com/ca
  mpus/home\n招聘热线：0571-28285927（工作日 9:00-18:00）
 LOCATION:https://campus-talent.alibaba.com/personal/campus-application
+END:VEVENT
+BEGIN:VEVENT
+UID:event-91@autumn-recruitment
+DTSTAMP:20260811T094010Z
+DTSTART:20260818T070000Z
+DTEND:20260818T080000Z
+SUMMARY:二面 · 阿里巴巴集团 · Agentic RL for Long-horizon task-
+ 阿里星/Bravo Star
+DESCRIPTION:阿里国际数字商业集团 | Agentic RL for Long-horizon ta
+ sk-阿里星/Bravo Star | 阿里巴巴校园招聘视频面试。岗位：
+ Agentic RL for Long-horizon task-阿里星/Bravo Star；部门：阿里国
+ 际数字商业集团-Accio-算法。根据该投递已有一面记录，
+ 本场按二面录入。建议使用 PC 端 Chrome，并提前测试摄像
+ 头、麦克风和音视频。面试安排联系电话：86-19103396039；
+ 邮箱：tx02575219@alibaba-inc.com。反馈问卷：https://pingce.alibab
+ a.com/token?userToken=ER6wqn2AQABISe9rPtn8vNtarm0gr3HK6pgN%2Fjpqa96L%2B0KA
+ P7mYcSu%2Bz2EK%2FyOrMkw2MwaTzkufct1QAIOEEBMow7eKGGY2%2FXHB1Lj%2BG9fMQh7ykM
+ z7mTNw8%2BcA1kEEbUqIe4ajIpr1%2FAvS2ytAEtMLIZ3wbICED1qV%2Bc2i3cgaAzcLp5w%2B
+ DvIkimvl8y9OyKTtevdRQYLCzTMKlgDqtdM%2Fub1mAij%2FX2Z9LIJ6A4STENf2UiYfR%2Bdr
+ qGbnGRwBpy%2BuGEwHF%2F5m%2FuPcLG4UGL95Nv%2FeiZENyBs%3D
+LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
+ de=%2BcJnDtIjlLntwB%2BoUg52nQ%3D%3D&recruitType=campus
 END:VEVENT
 END:VCALENDAR
