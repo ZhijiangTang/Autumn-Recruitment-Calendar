@@ -927,20 +927,14 @@ DESCRIPTION:Nanbeige LLM基座研发团队 | 大模型算法工程师（基
  与训练/推理开销。\n\n【后训练】\n1. SFT：筛选和设计高
  质量指令数据，研究复杂指令与复杂环境的数据合成，
  提升 agentic | BOSS直聘视频面试。\n应聘职位：大模型算法
- 工程师（基座训练方向）\n面试时间：2026-08-11 20:00\n进入
- 方式：使用 +86 156****5156 登录或注册 BOSS直聘，点击面试
- 链接进入面试间。\n面试链接：https://zpurl.cn/1190uSaqrkL\n联
- 系人：孟先生，+86 13910085534。\n邀请邮件未注明轮次，该
- 投递暂无其他面试记录，按一面录入。\n\n面试已于 2026-0
- 8-11 完成。复盘依据本人转述整理，录音纪要未成功生成
- 。面试流程：自我介绍；基础模型能力提升与业务模型
- 发展的宏观讨论；SFT loss NaN 排障；流式均值；千问评测
- ；论文介绍。主要待补：SFT loss NaN 的系统排查框架。\n
- 补充追问：RL 采用同步还是异步训练，以及为什么不使
- 用异步。当前采用同步 rollout-update；单轮、单 action 场景
- 的轨迹短、环境等待有限，异步吞吐收益不明显，而 poli
- cy staleness、GRPO 组内策略版本一致性和工程复杂度成本更
- 高。
+ 工程师（基座训练方向）\n面试时间：2026-08-11 20:00\n面试
+ 链接：https://zpurl.cn/1190uSaqrkL\n联系人：孟先生，+86 1391008
+ 5534。\n\n面试已完成，约 70 分钟，结果待定；面试官表
+ 示通常一周内反馈。2026-08-12 用户补充 18 页录音转写稿
+ ，复盘已按原始问答校正。内容包括：团队与个人职责
+ 、应用后训练和基座发展、Agent 静态/端到端评测、rubric 
+ 过拟合、RL 奖励与同步/异步 rollout、SFT loss NaN、tool callin
+ g 推理链路、CCCaption、流式均值及团队反问。
 LOCATION:https://zpurl.cn/1190uSaqrkL
 END:VEVENT
 BEGIN:VEVENT
@@ -959,7 +953,13 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  新版 Chrome 测试摄像头、麦克风和网络，避免使用 VPN。HR
  ：邱宇阳，qiuyuyang05@kuaishou.com，19503882536。确认入口：htt
  ps://campus.kuaishou.cn/recruit/campus/e/interview.html?code=0aab7184-1fe6
- -403f-a7cf-9393ec809904
+ -403f-a7cf-9393ec809904\n\n面试已于 2026-08-12 完成，结果待定
+ ；面试官表示通常两三天内通知。流程：PPT 自我介绍；A
+ gent 评测与 skill routing SFT 深挖；CCCaption、长视频评测和 S
+ hopee 多模态 RL 论文/项目追问；手撕二维网格最大岛屿面
+ 积，DFS 实现经面试官检查后表示大致无问题；反问获悉
+ 团队偏业务 post-training，支持主站、电商、内容理解与 Ag
+ ent 平台，具体分流可能到三面确认。
 LOCATION:视频面试
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,6 +1073,33 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
 LOCATION:https://nio.feishu.cn/hire/short_url/m1ey6vbsWyQ
 END:VEVENT
 BEGIN:VEVENT
+UID:event-92@autumn-recruitment
+DTSTAMP:20260812T070213Z
+DTSTART:20260814T110000Z
+DTEND:20260814T120000Z
+SUMMARY:笔试 · 大疆创新 · 多模态大模型算法工程师（上
+ 海）
+DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） | 
+ 负责多模态大模型在边侧的算法选型、后训练与轻量化
+ ，开展语音/文本/图像意图理解、边侧推理优化及端云协
+ 同；要求具备 VLM、PyTorch，以及 SFT/DPO/RLHF 或推理优化实
+ 践。 | DJI 大疆 2027“拓疆者”校园招聘正式在线笔试（
+ 算法类试题）。\n考试时间：2026-08-14 19:00–20:00（北京时
+ 间），时长 60 分钟。\n平台：赛码在线考试系统；登录
+ 路径：https://dji.acmcoder.com/cand/login?843xkm76；登录账号：dji
+ ；登录密码：xrhhab。\n考试性质：闭卷；严禁使用任何 AI
+  工具。在线编程题可使用本地编译器，其他情况下不得
+ 离开考试界面。\n设备要求：电脑 + Chrome 80 及以上；全
+ 程摄像头、录屏及手机微信小程序监控；需共享整个屏
+ 幕，Mac 提前授权屏幕录制；禁止双屏、耳机、手机查询
+ 及无关软件弹窗。\n建议提前登录完成设备调试和练习，
+ 正式考试前准备空白草稿纸和笔，并在结束前手动交卷
+ 。\n异常或无法参加：o-liboqun.li@dji.com、o-madeline.wang@dji.co
+ m；设备故障说明：https://cdn.acmcoder.com/docs/issue/index.html；
+ 常见问题：http://oj.acmcoder.com/QA。
+LOCATION:https://dji.acmcoder.com/cand/login?843xkm76
+END:VEVENT
+BEGIN:VEVENT
 UID:event-80@autumn-recruitment
 DTSTAMP:20260807T084138Z
 DTSTART:20260815T060000Z
@@ -1098,6 +1125,34 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
 LOCATION:https://campus-talent.alibaba.com/personal/campus-application
 END:VEVENT
 BEGIN:VEVENT
+UID:event-94@autumn-recruitment
+DTSTAMP:20260812T101244Z
+DTSTART:20260817T060000Z
+DTEND:20260817T070000Z
+SUMMARY:一面 · 字节跳动 · 基于多模态大模型与用户行为
+ 理解的下一代分发与交互技术-抖音内容技术（北京/上海
+ /杭州/深圳）
+DESCRIPTION:抖音内容技术 | 基于多模态大模型与用户行为理
+ 解的下一代分发与交互技术-抖音内容技术（北京/上海/
+ 杭州/深圳） | 职位 ID：A249403A。2027届前沿技术领域人才
+ 校招，正式研发-算法。研究多模态大模型的模态理解、
+ 表征、世界知识与推理，并与推荐、搜索中的大规模用
+ 户行为理解结合；重点包括多模态完整训练与用户行为
+ 对齐、长序列高并发推理、通用推理能力与复杂推荐目
+ 标对齐。团队业务覆盖抖音、今日头条、西瓜视频、剪
+ 映，技术方向含 CV、NLP、音频、LLM、LLM4Rec、Agent、SAIL-VL 
+ 与音视频生成。 | 视频面试。HR：张嘉怡，+8618125037950；
+ 如需改期须至少提前 1 天联系。建议提前 10 分钟使用 PC 
+ Chrome 或 360 极速浏览器完成音视频测试并接入电源；网
+ 络异常时切换手机热点，不建议使用企业内网/VPN。面试
+ 须独立完成，不得使用 AI、搜索引擎、外部代码工具或
+ 他人协助。岗位方向：多模态大模型与用户行为理解、
+ 推荐/搜索、LLM4Rec、Agent、长序列高并发推理，以及模型
+ 能力与复杂推荐目标对齐。JD 明确写博士要求，但官网
+ 已进入面试中，应以实际邀约为准。
+LOCATION:https://t.zijieimg.com/7bHcM6yJ5z4/
+END:VEVENT
+BEGIN:VEVENT
 UID:event-91@autumn-recruitment
 DTSTAMP:20260811T094010Z
 DTSTART:20260818T070000Z
@@ -1118,5 +1173,23 @@ DESCRIPTION:阿里国际数字商业集团 | Agentic RL for Long-horizon ta
  qGbnGRwBpy%2BuGEwHF%2F5m%2FuPcLG4UGL95Nv%2FeiZENyBs%3D
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=%2BcJnDtIjlLntwB%2BoUg52nQ%3D%3D&recruitType=campus
+END:VEVENT
+BEGIN:VEVENT
+UID:event-93@autumn-recruitment
+DTSTAMP:20260812T091300Z
+DTSTART:20260819T070000Z
+DTEND:20260819T080000Z
+SUMMARY:一面 · 清闲智能创新 · AI 模型研究员0707
+DESCRIPTION:默认部门 | AI 模型研究员0707 | 邀请邮件称主要
+ 考察通用型业务问题、过往项目经历、价值观和软性技
+ 能。 | 清闲智能创新（深圳）有限公司视频面试邀请。\n
+ 岗位：AI 模型研究员0707。\n时间：2026-08-19 15:00（北京时
+ 间）。\n面试链接：https://e10s8ombcbw.feishu.cn/hire/short_url/va1
+ cK4Ceqdg\nHR：张海燕，+8618926575138；如需改期请至少提前 1 
+ 小时联系。\n信息登记表：https://e10s8ombcbw.feishu.cn/hire/shor
+ t_url/GUhgo5BWYzk\n考察内容：通用型业务问题、过往项目经
+ 历、价值观和软性技能。邀请未注明轮次，该投递暂无
+ 既有面试事件，按一面录入。未代用户点击接受/拒绝。
+LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/va1cK4Ceqdg
 END:VEVENT
 END:VCALENDAR
