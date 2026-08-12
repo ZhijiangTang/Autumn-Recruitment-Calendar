@@ -404,7 +404,9 @@ DESCRIPTION:阿里国际数字商业集团 | Agentic Post-training-阿里
  创业项目，构建面向跨境商家的 SaaS AI Agent，辅助商品出
  海售卖；主要为 skill-based Agent，同时涉及自研模型训练
  和开源模型应用。\n\n状态确认（2026-08-09）：用户尚未收
- 到淘汰或下一轮通知，继续等待官方结果。
+ 到淘汰或下一轮通知，继续等待官方结果。\n\n状态更新
+ （2026-08-11）：用户明确确认该流程已挂，投递归档为未
+ 通过。
 END:VEVENT
 BEGIN:VEVENT
 UID:event-58@autumn-recruitment
@@ -929,7 +931,16 @@ DESCRIPTION:Nanbeige LLM基座研发团队 | 大模型算法工程师（基
  方式：使用 +86 156****5156 登录或注册 BOSS直聘，点击面试
  链接进入面试间。\n面试链接：https://zpurl.cn/1190uSaqrkL\n联
  系人：孟先生，+86 13910085534。\n邀请邮件未注明轮次，该
- 投递暂无其他面试记录，按一面录入。
+ 投递暂无其他面试记录，按一面录入。\n\n面试已于 2026-0
+ 8-11 完成。复盘依据本人转述整理，录音纪要未成功生成
+ 。面试流程：自我介绍；基础模型能力提升与业务模型
+ 发展的宏观讨论；SFT loss NaN 排障；流式均值；千问评测
+ ；论文介绍。主要待补：SFT loss NaN 的系统排查框架。\n
+ 补充追问：RL 采用同步还是异步训练，以及为什么不使
+ 用异步。当前采用同步 rollout-update；单轮、单 action 场景
+ 的轨迹短、环境等待有限，异步吞吐收益不明显，而 poli
+ cy staleness、GRPO 组内策略版本一致性和工程复杂度成本更
+ 高。
 LOCATION:https://zpurl.cn/1190uSaqrkL
 END:VEVENT
 BEGIN:VEVENT
