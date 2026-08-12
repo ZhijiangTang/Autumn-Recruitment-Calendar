@@ -1053,6 +1053,26 @@ LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=4zbNBy%2FDaEGqnUOX4T1c9Q%3D%3D&recruitType=campus
 END:VEVENT
 BEGIN:VEVENT
+UID:event-95@autumn-recruitment
+DTSTAMP:20260812T133751Z
+DTSTART:20260814T030000Z
+DTEND:20260814T040000Z
+SUMMARY:HR面 · 拼多多 · 大模型算法工程师【2027届云弧计
+ 划】
+DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
+ 】 | 校招项目：云弧计划；志愿一；当前应聘职位；官
+ 网状态：待处理；简历评估尚未结束，可修改投递岗位
+ 。 个性测评：已确认参加，具体作答时间待定；有效期
+ 至2026-07-17 17:33，技术专业笔试另行通知。 | 拼多多集团-
+ PDD校园招聘大模型算法工程师远程HR面。登录密码：zyDs
+ 。须于2026-08-13 00:00前确认是否参加：https://careers.pddglobal
+ hr.com/campus/confirm?sendId=4cc37d4c66a549b4898ed9075e5bec21；逾期未
+ 回复默认参加。HR：李眠羊，电话/微信：15827141993，邮箱
+ ：limianyang@pinduoduo.com。建议提前10分钟进入并调试设备。
+LOCATION:https://interview.pddglobalhr.com/interview/livecode/hKYzxD9J37373
+ 549
+END:VEVENT
+BEGIN:VEVENT
 UID:event-88@autumn-recruitment
 DTSTAMP:20260810T095922Z
 DTSTART:20260814T070000Z
