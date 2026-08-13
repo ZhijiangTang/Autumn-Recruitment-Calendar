@@ -8,19 +8,6 @@ X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-UID:event-25@autumn-recruitment
-DTSTAMP:20260713T145224Z
-DTSTART:20260713T145000Z
-DTEND:20260713T155000Z
-SUMMARY:简历初筛 · vivo · AI大模型算法工程师-27届蓝极星
-DESCRIPTION:默认部门 | AI大模型算法工程师-27届蓝极星 | 负
- 责基座大模型与端侧多模态大模型研究，涵盖预训练、SF
- T、RL、模型结构与数据策略，并推进图像视频理解、模
- 型轻量化及端侧部署。任职资格明确要求博士学历。 | vi
- vo 官网投递记录显示：简历初筛-本轮淘汰（2026-07-26核对
- ）。
-END:VEVENT
-BEGIN:VEVENT
 UID:event-36@autumn-recruitment
 DTSTAMP:20260714T070216Z
 DTSTART:20260715T070000Z
@@ -184,22 +171,6 @@ DESCRIPTION:TRAE | 面向复杂软件工程项目的Agentic AI Coding关键
 LOCATION:https://t.zijieimg.com/js087rmzCzw/
 END:VEVENT
 BEGIN:VEVENT
-UID:event-50@autumn-recruitment
-DTSTAMP:20260723T065157Z
-DTSTART:20260723T061450Z
-DTEND:20260723T071450Z
-SUMMARY:简历初筛 · 米哈游 · 【提前批-基础研究】LLM Post-t
- rain 算法研究员
-DESCRIPTION:大模型 | 【提前批-基础研究】LLM Post-train 算法
- 研究员 | 校园招聘；工作地点：上海、北京；职位类型
- ：程序&技术类；职位性质：全职；官网当前状态：HR初
- 筛。 | 米哈游校园招聘官网投递记录：岗位【提前批-基
- 础研究】LLM Post-train 算法研究员，工作地点上海、北京
- ，职位类型程序&技术类，职位性质全职，投递时间 2026-0
- 7-23 14:14:50。此前状态为 HR 初筛；用户于 2026-08-06 确认该
- 岗位已挂，流程终止。
-END:VEVENT
-BEGIN:VEVENT
 UID:event-49@autumn-recruitment
 DTSTAMP:20260722T093859Z
 DTSTART:20260723T070000Z
@@ -298,7 +269,7 @@ UID:event-48@autumn-recruitment
 DTSTAMP:20260722T081358Z
 DTSTART:20260725T020000Z
 DTEND:20260725T030000Z
-SUMMARY:笔试 · 大疆创新 · 多模态大模型算法工程师（上
+SUMMARY:AI测评 · 大疆创新 · 多模态大模型算法工程师（上
  海）
 DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） | 
  负责多模态大模型在边侧的算法选型、后训练与轻量化
@@ -784,7 +755,7 @@ UID:event-77@autumn-recruitment
 DTSTAMP:20260807T063445Z
 DTSTART:20260809T063000Z
 DTEND:20260809T073000Z
-SUMMARY:笔试 · OPPO · AI研究员（AI多模态智能体）
+SUMMARY:AI测评 · OPPO · AI研究员（AI多模态智能体）
 DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
  聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
  、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
@@ -959,7 +930,8 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  hopee 多模态 RL 论文/项目追问；手撕二维网格最大岛屿面
  积，DFS 实现经面试官检查后表示大致无问题；反问获悉
  团队偏业务 post-training，支持主站、电商、内容理解与 Ag
- ent 平台，具体分流可能到三面确认。
+ ent 平台，具体分流可能到三面确认。\n2026-08-13 收到快手
+ 通知：已通过前序评估，进入下一轮选时。
 LOCATION:视频面试
 END:VEVENT
 BEGIN:VEVENT
@@ -982,7 +954,11 @@ DESCRIPTION:文心大模型 | 北京-大模型算法工程师（基座研
  #/sass-download\n变动/改期：https://talent.baidu.com/jobs/social\n视
  频工具问题反馈：baiduhi@baidu.com\n邮件日期：2026-08-10；百
  度人力资源部。\n邮件未注明轮次，该投递暂无其他面试
- 记录，按一面录入。
+ 记录，按一面录入。\n\n面试完成（2026-08-12）：约53分钟
+ 。包含网格 DFS Coding、允许使用 Codex 实现 ReAct 式 Deep Sear
+ ch 并追问结果选择、失败恢复与轮次成本，以及阿里 Agen
+ t 评测与 next-action GRPO 奖励设计。详细复盘见 review.md；
+ 结果待通知。
 LOCATION:https://infoflow.baidu.com/meeting/invite?id=02618ae20d796401b56b5
  42123334d90
 END:VEVENT
@@ -1073,6 +1049,22 @@ LOCATION:https://interview.pddglobalhr.com/interview/livecode/hKYzxD9J37373
  549
 END:VEVENT
 BEGIN:VEVENT
+UID:event-97@autumn-recruitment
+DTSTAMP:20260813T085600Z
+DTSTART:20260814T040000Z
+DTEND:20260814T050000Z
+SUMMARY:待办 · 快手 · 【快Star】多模态大模型算法工程师-
+ Keye
+DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye | 
+ 2027应届生；招聘类型：全职；意向地点：北京；官网投
+ 递记录当前状态：流程中；流程节点为投递简历 → 简历
+ 筛选 → 面试 → 录用评估 → offer → 预入职。 | 先确认
+ 阿里答辩安排，再选择快手下一轮面试时间；须在收到
+ 快手通知后 24 小时内完成选时；入口见 2026-08-13 快手邮
+ 件。
+LOCATION:在线
+END:VEVENT
+BEGIN:VEVENT
 UID:event-88@autumn-recruitment
 DTSTAMP:20260810T095922Z
 DTSTART:20260814T070000Z
@@ -1118,6 +1110,22 @@ DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） |
  m；设备故障说明：https://cdn.acmcoder.com/docs/issue/index.html；
  常见问题：http://oj.acmcoder.com/QA。
 LOCATION:https://dji.acmcoder.com/cand/login?843xkm76
+END:VEVENT
+BEGIN:VEVENT
+UID:event-96@autumn-recruitment
+DTSTAMP:20260813T041253Z
+DTSTART:20260815T020000Z
+DTEND:20260815T030000Z
+SUMMARY:AI测评 · vivo · AI大模型算法工程师（模型方向）-27
+ 届秋招
+DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
+ 届秋招 | 深圳/杭州，招12人。负责大模型SFT、RLHF/RLAIF、D
+ PO/PPO/GRPO训练与对齐，Agent轨迹与合成数据构造、奖励建
+ 模、规划与工具调用、评测体系及视觉/语音/文本多模态
+ 融合。 | vivo 人才测评；预计 30–40 分钟；每人仅一次机
+ 会；作答入口见 2026-08-13 邮件；链接于 2026-09-17 09:00 失
+ 效。
+LOCATION:在线
 END:VEVENT
 BEGIN:VEVENT
 UID:event-80@autumn-recruitment
