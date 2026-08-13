@@ -1000,7 +1000,11 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  参加。请使用 PC 端 Chrome 或 Firefox，提前 10 分钟调试网
  络和麦克风。HR：王婷，17318946273，tingwang@deeproute.ai。确
  认/拒绝/改期链接含个人访问令牌，出于安全未写入数据
- 库。
+ 库。\n\n2026-08-13：一面已完成，官方结果待通知。面试约
+ 47分钟，重点为阿里 Agent 评测与多工具匹配、B站长视频 
+ DSA、PPO/GRPO、自动驾驶 VLA 奖励设计及 PyTorch 代码审查；
+ 代码审查找出学习率过大和主要训练顺序问题。详细复
+ 盘见 knowledge_path/review.md。
 LOCATION:https://vc.feishu.cn/j/637811664
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,7 +1028,12 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  \n建议使用 PC 端 Chrome 浏览器；请提前打开链接测试摄像
  头、麦克风和音视频。\n面试结束后可填写邀请邮件中的
  面试体验反馈问卷。\n邮件未注明轮次，该投递暂无其他
- 面试记录，按一面录入。
+ 面试记录，按一面录入。\n\n2026-08-13：一面已完成，官方
+ 结果待通知。现有录音约17分钟且从并行策略讨论中途开
+ 始；重点考察 PP/CP/SP、Qwen3.5 混合注意力架构、Accuracy/Pre
+ cision/Recall/AUC、LLaVA 与 BLIP-2、SAO 及 Reward/Value/Advantage。
+ 面试官耐心补充了未答完整的知识点。详细复盘见 knowled
+ ge_path/review.md。
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=4zbNBy%2FDaEGqnUOX4T1c9Q%3D%3D&recruitType=campus
 END:VEVENT
