@@ -1076,7 +1076,8 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  筛选 → 面试 → 录用评估 → offer → 预入职。 | 先确认
  阿里答辩安排，再选择快手下一轮面试时间；须在收到
  快手通知后 24 小时内完成选时；入口见 2026-08-13 快手邮
- 件。
+ 件。\n2026-08-14：已完成选时，下一轮正式安排为2026-08-19 
+ 20:00。
 LOCATION:在线
 END:VEVENT
 BEGIN:VEVENT
@@ -1218,6 +1219,19 @@ LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=%2BcJnDtIjlLntwB%2BoUg52nQ%3D%3D&recruitType=campus
 END:VEVENT
 BEGIN:VEVENT
+UID:event-99@autumn-recruitment
+DTSTAMP:20260814T061947Z
+DTSTART:20260818T113000Z
+DTEND:20260818T123000Z
+SUMMARY:一面 · 酷哇科技 · 多模态大模型算法工程师
+DESCRIPTION:默认部门 | 多模态大模型算法工程师 | 腾讯会议
+ 视频面试，会议号100219305；建议提前5分钟进入并测试网
+ 络与设备。联系人：齐月，18500460131。如需改期须至少提
+ 前1天联系HR。邮件提供参加、不参加及更改时间的Moka确
+ 认入口。
+LOCATION:https://meeting.tencent.com/dm/uRi0S0ypElx3
+END:VEVENT
+BEGIN:VEVENT
 UID:event-93@autumn-recruitment
 DTSTAMP:20260812T091300Z
 DTSTART:20260819T070000Z
@@ -1234,5 +1248,25 @@ DESCRIPTION:默认部门 | AI 模型研究员0707 | 邀请邮件称主要
  历、价值观和软性技能。邀请未注明轮次，该投递暂无
  既有面试事件，按一面录入。未代用户点击接受/拒绝。
 LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/va1cK4Ceqdg
+END:VEVENT
+BEGIN:VEVENT
+UID:event-100@autumn-recruitment
+DTSTAMP:20260814T062054Z
+DTSTART:20260819T120000Z
+DTEND:20260819T130000Z
+SUMMARY:二面 · 快手 · 【快Star】多模态大模型算法工程师-
+ Keye
+DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye | 
+ 2027应届生；招聘类型：全职；意向地点：北京；官网投
+ 递记录当前状态：流程中；流程节点为投递简历 → 简历
+ 筛选 → 面试 → 录用评估 → offer → 预入职。 | 快手2027
+ 应届生校园招聘【快Star】多模态大模型算法工程师-Keye
+ 视频二面。请提前10分钟使用最新版Chrome进入并测试摄像
+ 头、麦克风和网络；避免企业内网或VPN。如需改期须至
+ 少提前1天联系HR。HR：邱宇阳（邱HR），qiuyuyang05@kuaishou.c
+ om，19503882536；等待超过5分钟可联系HR。确认入口：https:/
+ /campus.kuaishou.cn/recruit/campus/e/interview.html?code=63c6edee-f5dc-493
+ 8-b803-ede4fe2748a9
+LOCATION:https://viewcoder.qingque.cn/i/fcy-fwrt-kvx
 END:VEVENT
 END:VCALENDAR
