@@ -1097,7 +1097,14 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  仅需填写一次）\n如需改期，请提前 1 天联系 HR；建议提
  前 10 分钟调试麦克风、摄像头和网络。\n官方说明将在
  面试结束后 5 个工作日内反馈结果。\n现有 2026-08-05 一面
- 已完成，因此本场按二面录入。
+ 已完成，因此本场按二面录入。\n\n2026-08-14：二面已完成
+ ，官方结果待通知。面试围绕AI for Science定位、三段实习
+ 选择、B站长视频评测、阿里二方Agent评测与训练、离线GT
+ 与线上bad case、多轮Agent评测、skill routing、SFT/RL周期、MoE
+ 强化学习及业务后训练必要性展开；未进行代码测试。
+ 反问确认团队面向销售Agent，采用SFT+RL、自动化+人工评
+ 测，并约每周灰度发布一版模型。详细复盘见knowledge_path
+ /review.md。
 LOCATION:https://nio.feishu.cn/hire/short_url/m1ey6vbsWyQ
 END:VEVENT
 BEGIN:VEVENT
@@ -1169,6 +1176,46 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
 LOCATION:https://campus-talent.alibaba.com/personal/campus-application
 END:VEVENT
 BEGIN:VEVENT
+UID:event-103@autumn-recruitment
+DTSTAMP:20260814T114914Z
+DTSTART:20260815T100000Z
+DTEND:20260815T110000Z
+SUMMARY:笔试 · OPPO · AI研究员（AI多模态智能体）
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
+ 聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
+ 、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
+ ent 构建优化评估经验与科研能力。 | 【AI/算法类】OPPO 20
+ 27届秋招笔试题-0815。考试开放窗口：2026-08-15 08:00至23:59
+ ，计划18:00开始；考试时长140分钟，系统到点自动关闭。
+ 考试地址为私人专属链接，请勿转发；确认入口：https://
+ hr.nowcoder.com/v1/s/deIODZBk#。须使用电脑、最新版Chrome并全
+ 程开启摄像头，建议提前15分钟完成设备检查；1道题限Py
+ thon 3，另1道题可使用多种语言。按目录作答，目录提交
+ 后不可修改。此前0808场次因超时未参加，本次为招聘方
+ 重新发送的有效0815笔试邀请，原缺考记录保留。牛客支
+ 持：kaoshi@nowcoder.com，紧急电话18611869582、18611869571。
+LOCATION:https://hr.nowcoder.com/v1/s/6bLzaEkn#
+END:VEVENT
+BEGIN:VEVENT
+UID:event-101@autumn-recruitment
+DTSTAMP:20260814T065526Z
+DTSTART:20260816T070000Z
+DTEND:20260816T080000Z
+SUMMARY:待办 · 快手 · 【快Star】多模态大模型算法工程师-
+ Keye
+DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye | 
+ 2027应届生；招聘类型：全职；意向地点：北京；官网投
+ 递记录当前状态：流程中；流程节点为投递简历 → 简历
+ 筛选 → 面试 → 录用评估 → offer → 预入职。 | 完成快
+ 手2027届校园招聘在线测评。邮件要求收到邀请后7个工作
+ 日内完成；本日程提前安排在本周日。专属链接与实名
+ 信息绑定，须本人独立作答。建议使用Chrome、保证稳定
+ 网络，并预留连续作答时间；有计时项目时离开页面仍
+ 会继续倒计时。系统问题联系电话：19938296608（工作日9:3
+ 0-18:00）。
+LOCATION:https://datatalk360.com/XZVxZ
+END:VEVENT
+BEGIN:VEVENT
 UID:event-94@autumn-recruitment
 DTSTAMP:20260812T101244Z
 DTSTART:20260817T060000Z
@@ -1217,6 +1264,29 @@ DESCRIPTION:阿里国际数字商业集团 | Agentic RL for Long-horizon ta
  qGbnGRwBpy%2BuGEwHF%2F5m%2FuPcLG4UGL95Nv%2FeiZENyBs%3D
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=%2BcJnDtIjlLntwB%2BoUg52nQ%3D%3D&recruitType=campus
+END:VEVENT
+BEGIN:VEVENT
+UID:event-102@autumn-recruitment
+DTSTAMP:20260814T093938Z
+DTSTART:20260818T090000Z
+DTEND:20260818T100000Z
+SUMMARY:二面 · 阿里巴巴集团 · 算法工程师-多模态-Qwen手
+ 机智能
+DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 | 
+ 招聘项目：阿里巴巴2027届应届生\n所属：Token Foundry-Token 
+ Foundry-Qwen手机智能\n官网岗位名：算法工程师-多模态\n申
+ 请编号：100124460205\n申请日期：2026-08-05\n状态页：https://c
+ ampus-talent.alibaba.com/personal/campus-application\n录入时官网阶
+ 段：简历投递 | 阿里巴巴校园招聘视频面试。\\n面试职
+ 位：算法工程师-多模态\\n面试部门：Token Foundry-Token Found
+ ry-Qwen手机智能\\n面试时间：2026-08-18 17:00（北京时间）\\n
+ 面试链接：https://campus-talent.alibaba.com/interviewroom/landingPage
+ ?roomCode=T282HpKsNgTct3v2gKhvmg%3D%3D&recruitType=campus\\n面试安排
+ 联系电话：+86-17710112850\\n面试安排邮箱：hzc02550504@alibaba-
+ inc.com\\n建议使用 PC 端 Chrome；提前测试摄像头、麦克风
+ 和音视频。\\n邀请邮件未注明轮次；同一投递的一面已
+ 于 2026-08-13 完成，因此按二面录入。
+LOCATION:视频面试（阿里巴巴校园招聘面试间）
 END:VEVENT
 BEGIN:VEVENT
 UID:event-99@autumn-recruitment
