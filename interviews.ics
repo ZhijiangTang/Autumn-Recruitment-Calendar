@@ -1240,7 +1240,12 @@ DESCRIPTION:抖音内容技术 | 基于多模态大模型与用户行为理
  他人协助。岗位方向：多模态大模型与用户行为理解、
  推荐/搜索、LLM4Rec、Agent、长序列高并发推理，以及模型
  能力与复杂推荐目标对齐。JD 明确写博士要求，但官网
- 已进入面试中，应以实际邀约为准。
+ 已进入面试中，应以实际邀约为准。\n\n2026-08-17：一面已
+ 完成，官方结果待通知。面试官团队方向偏对话（抖音
+ 客服/数字人/工具调用/互训练），与JD多模态×分发不完
+ 全一致。考点：评测与业务对齐、离线与人工对齐、RL奖
+ 励映射、CCCaption论文深挖、GRPO长度偏好、手撕Word Break（
+ 通过，O(mn)）。详细复盘见knowledge_path/review.md。
 LOCATION:https://t.zijieimg.com/7bHcM6yJ5z4/
 END:VEVENT
 BEGIN:VEVENT
@@ -1338,5 +1343,23 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  /campus.kuaishou.cn/recruit/campus/e/interview.html?code=63c6edee-f5dc-493
  8-b803-ede4fe2748a9
 LOCATION:https://viewcoder.qingque.cn/i/fcy-fwrt-kvx
+END:VEVENT
+BEGIN:VEVENT
+UID:event-104@autumn-recruitment
+DTSTAMP:20260817T104349Z
+DTSTART:20260820T070000Z
+DTEND:20260820T080000Z
+SUMMARY:一面 · 阶跃星辰 · 算法研发实习生
+DESCRIPTION:默认部门 | 算法研发实习生 | 阶跃StepFun视频面
+ 试邀请。\n岗位：算法研发实习生。\n时间：2026-08-20 15:00
+ （北京时间），时长1小时（可能视面试情况缩减或延长
+ ，请预留缓冲时间）。\n形式：视频面试（飞书会议），
+ 会议号 834674695。\n面试地址：https://vc.feishu.cn/j/834674695\n
+ 联系人：刘琪，18116255744，liuqi@stepx.com。\n须在邮件中确
+ 认是否参加（参加/不参加/更改面试时间）；改期须及时
+ 联系刘琪；系统邮件勿直接回复。\n邀请未注明轮次，该
+ 投递暂无既有面试事件，按一面录入。未代用户点击接
+ 受/拒绝。
+LOCATION:https://vc.feishu.cn/j/834674695
 END:VEVENT
 END:VCALENDAR
