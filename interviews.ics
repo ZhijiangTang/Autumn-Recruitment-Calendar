@@ -1362,4 +1362,23 @@ DESCRIPTION:默认部门 | 算法研发实习生 | 阶跃StepFun视频面
  受/拒绝。
 LOCATION:https://vc.feishu.cn/j/834674695
 END:VEVENT
+BEGIN:VEVENT
+UID:event-105@autumn-recruitment
+DTSTAMP:20260817T121546Z
+DTSTART:20260820T121400Z
+DTEND:20260820T131400Z
+SUMMARY:AI测评 · 小米 · 多模态大模型算法工程师第 3 志愿
+DESCRIPTION:2027届校园招聘计划（正式算法类） | 多模态大
+ 模型算法工程师第 3 志愿 | 小米集团 2027 校招在线测评
+ （多模态大模型算法工程师 · 正式批第3志愿）。邮件要
+ 求收到链接后 72 小时内完成；按收到邮件时间 2026-08-17 2
+ 0:14 推算，截止 2026-08-20 20:14。作答时长约 30–45 分钟。
+ 设备：谷歌 Chrome 72+ 或 QQ/360 浏览器极速模式；可提前在
+  https://assistant.ceping.com 测试设备网速。网络：实时联网
+ ，带宽不低于 10Mbps，建议 50Mbps 以上独立光纤；校园网
+ 不通时建议备 4G 热点。断网/断电/误关页面可再次登录
+ 继续作答（系统保存进度）。客服电话：400-650-6886。
+LOCATION:https://xiaomiceping.ceping.com/Login/Elink?elink=HfmM0ogxfCbaMzxc
+ China259FVSEuiARVZ1e1IRq2n4WBAl7Ibm/RTIzklGTluaJdXukAoQYTrQti
+END:VEVENT
 END:VCALENDAR
