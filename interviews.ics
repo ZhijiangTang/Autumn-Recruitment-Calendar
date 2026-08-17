@@ -1244,6 +1244,19 @@ DESCRIPTION:抖音内容技术 | 基于多模态大模型与用户行为理
 LOCATION:https://t.zijieimg.com/7bHcM6yJ5z4/
 END:VEVENT
 BEGIN:VEVENT
+UID:event-99@autumn-recruitment
+DTSTAMP:20260814T061947Z
+DTSTART:20260817T073000Z
+DTEND:20260817T083000Z
+SUMMARY:一面 · 酷哇科技 · 多模态大模型算法工程师
+DESCRIPTION:默认部门 | 多模态大模型算法工程师 | 腾讯会议
+ 视频面试，会议号100219305；建议提前5分钟进入并测试网
+ 络与设备。联系人：齐月，18500460131。原约2026-08-18 19:30
+ 已改期为本时间。如需再改期须至少提前1天联系HR。邮
+ 件提供参加、不参加及更改时间的Moka确认入口。
+LOCATION:https://meeting.tencent.com/dm/uRi0S0ypElx3
+END:VEVENT
+BEGIN:VEVENT
 UID:event-91@autumn-recruitment
 DTSTAMP:20260811T094010Z
 DTSTART:20260818T070000Z
@@ -1287,19 +1300,6 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  和音视频。\\n邀请邮件未注明轮次；同一投递的一面已
  于 2026-08-13 完成，因此按二面录入。
 LOCATION:视频面试（阿里巴巴校园招聘面试间）
-END:VEVENT
-BEGIN:VEVENT
-UID:event-99@autumn-recruitment
-DTSTAMP:20260814T061947Z
-DTSTART:20260818T113000Z
-DTEND:20260818T123000Z
-SUMMARY:一面 · 酷哇科技 · 多模态大模型算法工程师
-DESCRIPTION:默认部门 | 多模态大模型算法工程师 | 腾讯会议
- 视频面试，会议号100219305；建议提前5分钟进入并测试网
- 络与设备。联系人：齐月，18500460131。如需改期须至少提
- 前1天联系HR。邮件提供参加、不参加及更改时间的Moka确
- 认入口。
-LOCATION:https://meeting.tencent.com/dm/uRi0S0ypElx3
 END:VEVENT
 BEGIN:VEVENT
 UID:event-93@autumn-recruitment
