@@ -1382,4 +1382,20 @@ DESCRIPTION:2027届校园招聘计划（正式算法类） | 多模态大
 LOCATION:https://xiaomiceping.ceping.com/Login/Elink?elink=HfmM0ogxfCbaMzxc
  China259FVSEuiARVZ1e1IRq2n4WBAl7Ibm/RTIzklGTluaJdXukAoQYTrQti
 END:VEVENT
+BEGIN:VEVENT
+UID:event-106@autumn-recruitment
+DTSTAMP:20260819T035906Z
+DTSTART:20260821T070000Z
+DTEND:20260821T080000Z
+SUMMARY:一面 · 美团 · 【北斗】广告大模型算法工程师 -【
+ 大模型应用】
+DESCRIPTION:核心本地商业-业务研发平台 | 【北斗】广告大
+ 模型算法工程师 -【大模型应用】 | 美团视频面试（建议
+  PC）。邮件未标明轮次，记一面，轮次待确认。\n面试部
+ 门：核心本地商业-业务研发平台。\n联系人：13858872710，
+ hezhongyao@meituan.com。\n进度/手册见校招邮件；系统邮件请
+ 勿直接回复。\n职位：【北斗】广告大模型算法工程师 -
+ 【大模型应用】。
+LOCATION:http://dpurl.cn/m6kWGn3z
+END:VEVENT
 END:VCALENDAR
