@@ -1246,7 +1246,9 @@ DESCRIPTION:抖音内容技术 | 基于多模态大模型与用户行为理
  客服/数字人/工具调用/互训练），与JD多模态×分发不完
  全一致。考点：评测与业务对齐、离线与人工对齐、RL奖
  励映射、CCCaption论文深挖、GRPO长度偏好、手撕Word Break（
- 通过，O(mn)）。详细复盘见knowledge_path/review.md。
+ 通过，O(mn)）。详细复盘见knowledge_path/review.md。\n流程终
+ 止：用户确认一面已挂（2026-08-19）；后续转投 Data-抖音
+ 「多模态大模型算法工程师」。
 LOCATION:https://t.zijieimg.com/7bHcM6yJ5z4/
 END:VEVENT
 BEGIN:VEVENT
@@ -1397,5 +1399,29 @@ DESCRIPTION:核心本地商业-业务研发平台 | 【北斗】广告大
  勿直接回复。\n职位：【北斗】广告大模型算法工程师 -
  【大模型应用】。
 LOCATION:http://dpurl.cn/m6kWGn3z
+END:VEVENT
+BEGIN:VEVENT
+UID:event-107@autumn-recruitment
+DTSTAMP:20260819T091908Z
+DTSTART:20260821T080000Z
+DTEND:20260821T090000Z
+SUMMARY:一面 · 字节跳动 · 多模态大模型算法工程师-抖音
+DESCRIPTION:Data-抖音 | 多模态大模型算法工程师-抖音 | 团队
+ ：Data-抖音\n职责：\n1、依托基座模型，面向抖音业务做
+ 模型后训练与能力增强（语言/图像/视频理解、推理与任
+ 务执行）。\n2、SFT、偏好优化、强化学习、蒸馏；建设
+ 多模态指令/推理/偏好/困难样本数据。\n3、长视频理解
+ 、多模态推理、知识增强、工具调用及必要的内容生成
+ 与编辑。\n4、建设通用能力、产品任务、可靠性与安全
+ 性评测体系，形成数据-训练-评测-产品反馈闭环。\n5、
+ 模型路由、推理优化、蒸馏与 | 多模态大模型算法工程
+ 师 - 抖音（Data-抖音）\n面试形式：视频面试\n面试时间
+ ：2026-08-21 16:00（北京时间）\n面试链接：https://t.zijieimg.c
+ om/CGysjz3dG40/\n进入方式：PC Chrome/360 网页版，或飞书客户
+ 端。\nHR：张嘉怡 +8618125037950（改期需提前 1 天）\n超时 1
+ 0 分钟面试官未上线请联系 HR。\n诚信：禁止 AI/搜索/外
+ 部协助；违规取消资格。\n体验问卷短信不影响结果；反
+ 馈 candidatefeedback.bytedance.com\n轮次：新岗位一面。
+LOCATION:https://t.zijieimg.com/CGysjz3dG40/
 END:VEVENT
 END:VCALENDAR
