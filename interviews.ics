@@ -1467,6 +1467,18 @@ DESCRIPTION:Data-抖音 | 多模态大模型算法工程师-抖音 | 团队
 LOCATION:https://t.zijieimg.com/CGysjz3dG40/
 END:VEVENT
 BEGIN:VEVENT
+UID:event-114@autumn-recruitment
+DTSTAMP:20260820T085229Z
+DTSTART:20260822T020000Z
+DTEND:20260822T030000Z
+SUMMARY:笔试 · 作业帮 · 大模型算法工程师（自然语言）-2
+ 7秋招
+DESCRIPTION:默认部门 | 大模型算法工程师（自然语言）-27秋
+ 招 | 邮件要求收到后3天内完成；按用户要求安排在本周
+ 六上午完成。HR：zhangjing166@zuoyebang.com。
+LOCATION:牛客在线笔试（私人链接见邮件）
+END:VEVENT
+BEGIN:VEVENT
 UID:event-108@autumn-recruitment
 DTSTAMP:20260819T092503Z
 DTSTART:20260822T035600Z
@@ -1521,6 +1533,19 @@ DESCRIPTION:中兴通讯 | 未来领军 · AI算法工程师 | 中兴通讯
  统自动发送，请勿直接回复）\n请您确认是否接受\n接受\
  n拒绝\n
 LOCATION:https://app.mokahr.com/su/ksvqfr
+END:VEVENT
+BEGIN:VEVENT
+UID:event-113@autumn-recruitment
+DTSTAMP:20260820T084451Z
+DTSTART:20260824T070000Z
+DTEND:20260824T080000Z
+SUMMARY:一面 · 小米 · 顶尖应届-垂域Agentic大模型算法工程
+ 师-AI实验室
+DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
+ 法工程师-AI实验室 | 视频面试；小米AI实验室。技术岗位
+ 可能包含代码考核，提前10分钟完成设备调试。联系人：
+ xueyirong1@xiaomi.com。
+LOCATION:https://mi.feishu.cn/hire/short_url/cKMMVZMayr8
 END:VEVENT
 BEGIN:VEVENT
 UID:event-112@autumn-recruitment
