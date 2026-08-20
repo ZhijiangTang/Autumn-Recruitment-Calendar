@@ -1314,17 +1314,21 @@ UID:event-93@autumn-recruitment
 DTSTAMP:20260812T091300Z
 DTSTART:20260819T070000Z
 DTEND:20260819T080000Z
-SUMMARY:一面 · 清闲智能创新 · AI 模型研究员0707
-DESCRIPTION:默认部门 | AI 模型研究员0707 | 邀请邮件称主要
- 考察通用型业务问题、过往项目经历、价值观和软性技
- 能。 | 清闲智能创新（深圳）有限公司视频面试邀请。\n
- 岗位：AI 模型研究员0707。\n时间：2026-08-19 15:00（北京时
- 间）。\n面试链接：https://e10s8ombcbw.feishu.cn/hire/short_url/va1
- cK4Ceqdg\nHR：张海燕，+8618926575138；如需改期请至少提前 1 
- 小时联系。\n信息登记表：https://e10s8ombcbw.feishu.cn/hire/shor
- t_url/GUhgo5BWYzk\n考察内容：通用型业务问题、过往项目经
- 历、价值观和软性技能。邀请未注明轮次，该投递暂无
- 既有面试事件，按一面录入。未代用户点击接受/拒绝。
+SUMMARY:一面 · 清闲智能创新 · 端侧模型研究员（27届校招
+ ）
+DESCRIPTION:默认部门 | 端侧模型研究员（27届校招） | 邀请
+ 邮件称主要考察通用型业务问题、过往项目经历、价值
+ 观和软性技能。 | 清闲智能创新（深圳）有限公司视频
+ 面试邀请。\n岗位：AI 模型研究员0707。\n时间：2026-08-19 1
+ 5:00（北京时间）。\n面试链接：https://e10s8ombcbw.feishu.cn/hi
+ re/short_url/va1cK4Ceqdg\nHR：张海燕，+8618926575138；如需改期
+ 请至少提前 1 小时联系。\n信息登记表：https://e10s8ombcbw.f
+ eishu.cn/hire/short_url/GUhgo5BWYzk\n考察内容：通用型业务问题
+ 、过往项目经历、价值观和软性技能。邀请未注明轮次
+ ，该投递暂无既有面试事件，按一面录入。未代用户点
+ 击接受/拒绝。\n后续 HR 将岗位口径更新为“端侧模型研
+ 究员（27届校招）”；该场与 2026-08-25 二面属于同一岗位
+ 流程。
 LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/va1cK4Ceqdg
 END:VEVENT
 BEGIN:VEVENT
@@ -1362,7 +1366,11 @@ DESCRIPTION:默认部门 | 算法研发实习生 | 阶跃StepFun视频面
  认是否参加（参加/不参加/更改面试时间）；改期须及时
  联系刘琪；系统邮件勿直接回复。\n邀请未注明轮次，该
  投递暂无既有面试事件，按一面录入。未代用户点击接
- 受/拒绝。
+ 受/拒绝。\n2026-08-20 一面已完成；复盘见 data/knowledge/阶
+ 跃星辰-算法研发实习生/review.md。核心考察多轮 Agent 工
+ 具调用后训练、课程奖励与过程 credit assignment；团队方
+ 向为 AI 手机的 user/agent memory 与主动感知。官方结果待通
+ 知。
 LOCATION:https://vc.feishu.cn/j/834674695
 END:VEVENT
 BEGIN:VEVENT
@@ -1513,6 +1521,24 @@ DESCRIPTION:中兴通讯 | 未来领军 · AI算法工程师 | 中兴通讯
  统自动发送，请勿直接回复）\n请您确认是否接受\n接受\
  n拒绝\n
 LOCATION:https://app.mokahr.com/su/ksvqfr
+END:VEVENT
+BEGIN:VEVENT
+UID:event-112@autumn-recruitment
+DTSTAMP:20260820T061820Z
+DTSTART:20260825T100000Z
+DTEND:20260825T110000Z
+SUMMARY:二面 · 清闲智能创新 · 端侧模型研究员（27届校招
+ ）
+DESCRIPTION:默认部门 | 端侧模型研究员（27届校招） | 邀请
+ 邮件称主要考察通用型业务问题、过往项目经历、价值
+ 观和软性技能。 | 清闲智能创新（深圳）有限公司视频
+ 面试邀请。岗位：端侧模型研究员（27届校招）。时间：
+ 2026-08-25 18:00（北京时间）。HR：张海燕，+8618926575138；如
+ 需改期请提前1小时联系。信息登记表：https://e10s8ombcbw.fe
+ ishu.cn/hire/short_url/a4LX4DSpsfM。考察内容：通用型业务问题
+ 、过往项目经历、价值观和软性技能。用户确认该场为
+ 二面；未代用户点击接受/拒绝。
+LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/rVfMCV1adVI
 END:VEVENT
 BEGIN:VEVENT
 UID:event-110@autumn-recruitment
