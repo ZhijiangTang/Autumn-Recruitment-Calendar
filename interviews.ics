@@ -1548,6 +1548,22 @@ DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
 LOCATION:https://mi.feishu.cn/hire/short_url/cKMMVZMayr8
 END:VEVENT
 BEGIN:VEVENT
+UID:event-115@autumn-recruitment
+DTSTAMP:20260820T090541Z
+DTSTART:20260824T110000Z
+DTEND:20260824T120000Z
+SUMMARY:三面 · 阿里巴巴集团 · 算法工程师-多模态-Qwen手
+ 机智能
+DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 | 
+ 招聘项目：阿里巴巴2027届应届生\n所属：Token Foundry-Token 
+ Foundry-Qwen手机智能\n官网岗位名：算法工程师-多模态\n申
+ 请编号：100124460205\n申请日期：2026-08-05\n状态页：https://c
+ ampus-talent.alibaba.com/personal/campus-application\n录入时官网阶
+ 段：简历投递 | Token Foundry / Qwen手机智能；提前确认音视
+ 频设备，面试链接及联系人见邀约邮件。
+LOCATION:阿里巴巴视频面试（私人链接见邮件）
+END:VEVENT
+BEGIN:VEVENT
 UID:event-112@autumn-recruitment
 DTSTAMP:20260820T061820Z
 DTSTART:20260825T100000Z
