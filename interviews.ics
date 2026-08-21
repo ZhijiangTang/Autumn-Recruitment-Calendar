@@ -1452,7 +1452,13 @@ DESCRIPTION:核心本地商业-业务研发平台 | 【北斗】广告大
  门：核心本地商业-业务研发平台。\n联系人：13858872710，
  hezhongyao@meituan.com。\n进度/手册见校招邮件；系统邮件请
  勿直接回复。\n职位：【北斗】广告大模型算法工程师 -
- 【大模型应用】。
+ 【大模型应用】。\n\n——面试复盘——\n2026-08-21 美团北
+ 斗广告大模型应用一面已完成。深挖二方 Agent 评测、数
+ 据飞轮、LongCode 时序评测、CCCaption 双奖励 RL、多模态 GRP
+ O 框架适配、数据清洗质量与收益代理指标、Agent RL/Harnes
+ s/RSI/OPD。团队为美团广告搜索推荐与模型自迭代方向。
+ 详细复盘：data/knowledge/美团-【北斗】广告大模型算法工
+ 程师-【大模型应用】/review-一面-2026-08-21.md。
 LOCATION:http://dpurl.cn/m6kWGn3z
 END:VEVENT
 BEGIN:VEVENT
@@ -1476,7 +1482,14 @@ DESCRIPTION:Data-抖音 | 多模态大模型算法工程师-抖音 | 团队
  端。\nHR：张嘉怡 +8618125037950（改期需提前 1 天）\n超时 1
  0 分钟面试官未上线请联系 HR。\n诚信：禁止 AI/搜索/外
  部协助；违规取消资格。\n体验问卷短信不影响结果；反
- 馈 candidatefeedback.bytedance.com\n轮次：新岗位一面。
+ 馈 candidatefeedback.bytedance.com\n轮次：新岗位一面。\n\n——
+ 面试复盘——\n2026-08-21 字节跳动抖音多模态大模型算法
+ 工程师一面已完成。深挖 Agent 分层评测、rubric 自迭代的
+ 分布 hacking/答案泄漏、next-action 与多步 Agent RL、OPD、线
+ 性注意力；概率题为两刀折木棍成三角形（答案 1/4），
+ 代码题为至多两笔股票交易最大利润（未完成两笔交易
+ 解法）。详细复盘：data/knowledge/字节跳动-多模态大模型
+ 算法工程师-抖音/review-一面-2026-08-21.md。
 LOCATION:https://t.zijieimg.com/CGysjz3dG40/
 END:VEVENT
 BEGIN:VEVENT
