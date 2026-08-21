@@ -1589,6 +1589,24 @@ DESCRIPTION:默认部门 | 端侧模型研究员（27届校招） | 邀请
 LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/rVfMCV1adVI
 END:VEVENT
 BEGIN:VEVENT
+UID:event-116@autumn-recruitment
+DTSTAMP:20260821T051046Z
+DTSTART:20260826T080000Z
+DTEND:20260826T090000Z
+SUMMARY:一面 · 小鹏集团 · 【27届校招】基座模型/多模态
+ 模型算法工程师
+DESCRIPTION:研发-算法 | 【27届校招】基座模型/多模态模型
+ 算法工程师 | 小鹏集团 27 届校招。2026-08-21 收到视频面
+ 试邀请，形式为飞书视频面试（含代码考核）。职位方
+ 向：基座模型/多模态模型算法。 | 小鹏集团【27届校招
+ 】基座模型/多模态模型算法工程师视频面试（含代码考
+ 核）。面试链接：https://xiaopeng.feishu.cn/hire/short_url/FSKOY0c8
+ mKk\\n联系人：张翰 +8617521094047，zhangh142@xiaopeng.com。\\n仅
+ 支持电脑 coding；飞书客户端需 4.4+；建议提前 2–3 分钟
+ 入会并完成音视频调试。
+LOCATION:飞书视频面试（含代码考核）
+END:VEVENT
+BEGIN:VEVENT
 UID:event-110@autumn-recruitment
 DTSTAMP:20260819T143229Z
 DTSTART:20260827T030000Z
