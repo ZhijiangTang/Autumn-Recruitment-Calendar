@@ -1594,7 +1594,12 @@ SUMMARY:一面 · 小米 · 顶尖应届-垂域Agentic大模型算法工程
 DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
  法工程师-AI实验室 | 视频面试；小米AI实验室。技术岗位
  可能包含代码考核，提前10分钟完成设备调试。联系人：
- xueyirong1@xiaomi.com。
+ xueyirong1@xiaomi.com。\n\n——面试复盘——\n2026-08-24 小米垂
+ 域 Agentic 大模型算法工程师一面已完成，约 56 分钟。重
+ 点深挖 Agent 评测、课程式 reward、多步 skill-routing RL、CCCa
+ ption 动态采样与长视频时序评测；无手撕。详细复盘：da
+ ta/knowledge/小米-顶尖应届-垂域Agentic大模型算法工程师-AI
+ 实验室/review-一面-2026-08-24.md。
 LOCATION:https://mi.feishu.cn/hire/short_url/cKMMVZMayr8
 END:VEVENT
 BEGIN:VEVENT
@@ -1610,7 +1615,14 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  请编号：100124460205\n申请日期：2026-08-05\n状态页：https://c
  ampus-talent.alibaba.com/personal/campus-application\n录入时官网阶
  段：简历投递 | Token Foundry / Qwen手机智能；提前确认音视
- 频设备，面试链接及联系人见邀约邮件。
+ 频设备，面试链接及联系人见邀约邮件。\n\n——三面复
+ 盘——\n2026-08-24 Token Foundry / Qwen手机智能三面已完成。
+ 项目交流覆盖Agent评测、skill routing、next-action RL、多业务
+ 联合训练与CCCaption；手撕LCS通过面试官检查。前段网络
+ 上行卡顿，切换热点后恢复。面试官说明本轮核心是补co
+ ding，并表示整体没有问题；官方结果待通知。详细复盘
+ ：data/knowledge/阿里巴巴集团-算法工程师-多模态-Qwen手机
+ 智能/review.md。
 LOCATION:阿里巴巴视频面试（私人链接见邮件）
 END:VEVENT
 BEGIN:VEVENT
@@ -1678,6 +1690,20 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
 LOCATION:https://viewcoder.qingque.cn/i/byp-olta-ulu
 END:VEVENT
 BEGIN:VEVENT
+UID:event-120@autumn-recruitment
+DTSTAMP:20260824T115831Z
+DTSTART:20260827T073000Z
+DTEND:20260827T080000Z
+SUMMARY:HR面 · 蔚来 · 蔚来AGI超星计划-面向销售的Agentic强
+ 化学习研究
+DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
+ 习研究 | 蔚来AGI超星计划 HRBP 终面；视频面试，时长30分
+ 钟，2026-08-27 15:30–16:00（北京时间）。HR沟通原文：可以
+ 安排HRBP进行终面。若未反馈，系统默认接受；如需调整
+ 请通过邀约邮件中的反馈入口操作。
+LOCATION:https://nio.feishu.cn/hire/short_url/_quOK80O4AA
+END:VEVENT
+BEGIN:VEVENT
 UID:event-118@autumn-recruitment
 DTSTAMP:20260824T061449Z
 DTSTART:20260828T030000Z
@@ -1700,5 +1726,23 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 腾讯2027校园
  未上线：0755-86013388，接通后输入855999。未经腾讯招聘许
  可不得录音或录像。
 LOCATION:https://meeting.tencent.com/dm/t8wRVJ3cvpDN
+END:VEVENT
+BEGIN:VEVENT
+UID:event-119@autumn-recruitment
+DTSTAMP:20260824T105135Z
+DTSTART:20260831T061500Z
+DTEND:20260831T071500Z
+SUMMARY:一面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 深信
+ 服科技27届[X-STAR]顶尖人才计划；已进入线上单人面试环
+ 节。具体技术岗位与业务部门待补充。 | 用户已于2026-08-
+ 24预约成功。面试时间：2026-08-31（周一）14:15。预约截止
+ 时间：2026-08-31 19:00。若需协调：中国科学院大学HR王女
+ 士，wanghaojie@sangfor.com.cn，19964170448。预约详情：https://app
+ .mokahr.com/candidate-appointment-interview/e4e5095fc0e0558667505573224b33
+ fe7b2fb65506472b7c36c246b3f2355dfec3eb11db18327125816872e6c89788f8daecf9f4
+ bf46a8aa84843ba9d7f9196a0f25ccc2599879d57c6d1ddafff5338e?businessUnitId=0&
+ orgId=sangfor#/appointment
+LOCATION:线上单人面试（正式面试通知链接待邮件补充）
 END:VEVENT
 END:VCALENDAR
