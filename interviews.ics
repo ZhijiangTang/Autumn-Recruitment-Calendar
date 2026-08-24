@@ -1489,7 +1489,8 @@ DESCRIPTION:Data-抖音 | 多模态大模型算法工程师-抖音 | 团队
  性注意力；概率题为两刀折木棍成三角形（答案 1/4），
  代码题为至多两笔股票交易最大利润（未完成两笔交易
  解法）。详细复盘：data/knowledge/字节跳动-多模态大模型
- 算法工程师-抖音/review-一面-2026-08-21.md。
+ 算法工程师-抖音/review-一面-2026-08-21.md。\n\n结果更新（20
+ 26-08-24）：用户确认该岗位未通过，流程终止。
 LOCATION:https://t.zijieimg.com/CGysjz3dG40/
 END:VEVENT
 BEGIN:VEVENT
@@ -1500,8 +1501,10 @@ DTEND:20260822T030000Z
 SUMMARY:笔试 · 作业帮 · 大模型算法工程师（自然语言）-2
  7秋招
 DESCRIPTION:默认部门 | 大模型算法工程师（自然语言）-27秋
- 招 | 邮件要求收到后3天内完成；按用户要求安排在本周
- 六上午完成。HR：zhangjing166@zuoyebang.com。
+ 招 | 流程结果（2026-08-24）：未通过，流程结束。 | 邮件
+ 要求收到后3天内完成；按用户要求安排在本周六上午完
+ 成。HR：zhangjing166@zuoyebang.com。\n流程结果（2026-08-24）：
+ 未通过。
 LOCATION:牛客在线笔试（私人链接见邮件）
 END:VEVENT
 BEGIN:VEVENT
@@ -1673,5 +1676,29 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  邮件不影响结果；建议 campus@kuaishou.com\n轮次：已有一面#
  73、二面#100，本场按三面录入。
 LOCATION:https://viewcoder.qingque.cn/i/byp-olta-ulu
+END:VEVENT
+BEGIN:VEVENT
+UID:event-118@autumn-recruitment
+DTSTAMP:20260824T061449Z
+DTSTART:20260828T030000Z
+DTEND:20260828T040000Z
+SUMMARY:一面 · 腾讯 · 算法-多模态方向
+DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 腾讯2027校园
+ 招聘算法研究类通用岗位，覆盖多模态理解与生成；工
+ 作地点包括深圳、北京、上海、广州，可由多个事业群
+ 筛选。当前进度：简历筛选中，简历已进入简历库供面
+ 试官筛选。\n流程更新（2026-08-24）：面试邀请中的职位
+ 名称为「算法工程师」，部门为腾讯AI平台部；与2026-08-1
+ 1投递的「算法-多模态方向」属于同一流程。 | 腾讯校园
+ 招聘算法工程师一面，部门：腾讯AI平台部。\\n时间：202
+ 6-08-28（周五）11:00–12:00；形式：单面；方式：腾讯会议
+ 。\\n本场需要考核代码能力，且可能考核AI实战能力；请
+ 使用PC端Chrome，提前阅读AI实战操作指南：https://cdn.tencent
+ group.qq.com/vv_static/ide/AICoding.pdf。\\n提前10分钟进入会议并
+ 检测设备；建议安装/升级腾讯会议。改期入口：https://jo
+ in.qq.com/interview_reply.html。\\n超过约定时间10分钟面试官仍
+ 未上线：0755-86013388，接通后输入855999。未经腾讯招聘许
+ 可不得录音或录像。
+LOCATION:https://meeting.tencent.com/dm/t8wRVJ3cvpDN
 END:VEVENT
 END:VCALENDAR
