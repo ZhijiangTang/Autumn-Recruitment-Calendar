@@ -1640,7 +1640,10 @@ DESCRIPTION:默认部门 | 端侧模型研究员（27届校招） | 邀请
  需改期请提前1小时联系。信息登记表：https://e10s8ombcbw.fe
  ishu.cn/hire/short_url/a4LX4DSpsfM。考察内容：通用型业务问题
  、过往项目经历、价值观和软性技能。用户确认该场为
- 二面；未代用户点击接受/拒绝。
+ 二面；未代用户点击接受/拒绝。\n2026-08-25 已完成二面；
+ 复盘已写入 data/knowledge/清闲智能创新-AI 模型研究员0707/r
+ eview.md。核心：Agent 技术路线选择、后训练投入产出、端
+ 侧 harness/模型协同、团队与职业匹配。
 LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/rVfMCV1adVI
 END:VEVENT
 BEGIN:VEVENT
@@ -1744,5 +1747,21 @@ DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 深信
  bf46a8aa84843ba9d7f9196a0f25ccc2599879d57c6d1ddafff5338e?businessUnitId=0&
  orgId=sangfor#/appointment
 LOCATION:线上单人面试（正式面试通知链接待邮件补充）
+END:VEVENT
+BEGIN:VEVENT
+UID:event-121@autumn-recruitment
+DTSTAMP:20260825T100018Z
+DTSTART:20260901T090000Z
+DTEND:20260901T100000Z
+SUMMARY:二面 · 元戎启行 · 【2027秋招】大模型算法工程师
+DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
+ 师 | 元戎启行 2027 秋招大模型算法工程师，视频面试邀
+ 约；具体团队职责待面试反问确认。 | 元戎启行【2027秋
+ 招】大模型算法工程师视频面试；会议号：648928721。面
+ 试时长1小时，可能延长，请预留充足时间；提前10分钟
+ 调试设备，推荐PC端Chrome/Firefox。联系人：王婷，1731894627
+ 3，tingwang@deeproute.ai。邀请邮件提供参加、不参加及更改
+ 时间入口。
+LOCATION:https://vc.feishu.cn/j/648928721
 END:VEVENT
 END:VCALENDAR
