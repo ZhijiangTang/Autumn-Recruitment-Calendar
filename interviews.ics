@@ -1784,6 +1784,31 @@ LOCATION:https://exam.nowcoder.com/cts/17521201/summary?id=99C5821D0D39AA6E
  5D2B1AAD67C4DCC3
 END:VEVENT
 BEGIN:VEVENT
+UID:event-125@autumn-recruitment
+DTSTAMP:20260826T152920Z
+DTSTART:20260831T160000Z
+DTEND:20260831T170000Z
+SUMMARY:待办 · 拼多多 · 大模型算法工程师【2027届云弧计
+ 划】
+DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
+ 】 | 校招项目：云弧计划；志愿一；当前应聘职位；官
+ 网状态：待处理；简历评估尚未结束，可修改投递岗位
+ 。 个性测评：已确认参加，具体作答时间待定；有效期
+ 至2026-07-17 17:33，技术专业笔试另行通知。 | 拼多多集团-
+ PDD2027年度校园招聘录用意向书。\n岗位：大模型算法工
+ 程师【2027届云弧计划】。\n邮件通知获得录用资格；须
+ 在 2026-09-01 00:00（北京时间）前确认接受「录用意向书」
+ ，逾期意向书不正式生效。\n确认链接：邮件写「点击链
+ 接」（专属链接请勿转发）；用户粘贴时未带上完整 URL
+ ，待补全后写入 location。\n后续将通过电话/邮件沟通具
+ 体 offer 详情。\n关联关系须在报到日前解除并告知 HR；
+ 不得在自媒体/社交平台披露本意向函、面试记录及 PDD 
+ 相关信息，否则可单方撤销且不赔偿。\n用户 2026-08-26 转
+ 发邮件，要求记入数据库；尚未确认是否已点接受。\n\n2
+ 026-08-26：用户确认已接受录用意向书，意向书正式生效
+ 。具体 offer 详情待电话/邮件沟通。
+END:VEVENT
+BEGIN:VEVENT
 UID:event-121@autumn-recruitment
 DTSTAMP:20260825T100018Z
 DTSTART:20260901T090000Z
@@ -1804,14 +1829,12 @@ UID:event-124@autumn-recruitment
 DTSTAMP:20260826T132422Z
 DTSTART:20260903T110000Z
 DTEND:20260903T120000Z
-SUMMARY:一面 · 同花顺 · 金融Agent算法工程师
-DESCRIPTION:iFinD | 金融Agent算法工程师 | AIME计划 · iFinD；金
- 融投研 Agent Scaffold、Agent 系统评估与 Agentic RL，覆盖检索
- 、工具调用、任务规划、事实核验、失败恢复和奖励设
- 计；官网应聘记录显示接受调剂、当前流程中。 | 同花
- 顺HR陈雨波邀约；面试开始前约5分钟发送会议ID。电脑端
- 建议Chrome参加。面试入口：https://job.10jqka.com.cn/#/meeting?au
- ditionId=11045411&code=b75ef33f13db7bcae9232ce54f0324f2
+SUMMARY:一面 · 同花顺 · 多模态大模型算法工程师
+DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
+ 师 | 同花顺HR陈雨波将简历转荐至多模态大模型算法部门
+ 并安排视频面试；开始前约5分钟发送同顺会议ID。电脑
+ 端建议Chrome参加。面试入口：https://job.10jqka.com.cn/#/meeting
+ ?auditionId=11045411&code=b75ef33f13db7bcae9232ce54f0324f2
 LOCATION:视频面试 · 同顺会议
 END:VEVENT
 END:VCALENDAR
