@@ -1799,4 +1799,19 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  时间入口。
 LOCATION:https://vc.feishu.cn/j/648928721
 END:VEVENT
+BEGIN:VEVENT
+UID:event-124@autumn-recruitment
+DTSTAMP:20260826T132422Z
+DTSTART:20260903T110000Z
+DTEND:20260903T120000Z
+SUMMARY:一面 · 同花顺 · 金融Agent算法工程师
+DESCRIPTION:iFinD | 金融Agent算法工程师 | AIME计划 · iFinD；金
+ 融投研 Agent Scaffold、Agent 系统评估与 Agentic RL，覆盖检索
+ 、工具调用、任务规划、事实核验、失败恢复和奖励设
+ 计；官网应聘记录显示接受调剂、当前流程中。 | 同花
+ 顺HR陈雨波邀约；面试开始前约5分钟发送会议ID。电脑端
+ 建议Chrome参加。面试入口：https://job.10jqka.com.cn/#/meeting?au
+ ditionId=11045411&code=b75ef33f13db7bcae9232ce54f0324f2
+LOCATION:视频面试 · 同顺会议
+END:VEVENT
 END:VCALENDAR
