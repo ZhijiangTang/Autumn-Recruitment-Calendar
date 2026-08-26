@@ -1288,7 +1288,8 @@ DESCRIPTION:阿里国际数字商业集团 | Agentic RL for Long-horizon ta
  P7mYcSu%2Bz2EK%2FyOrMkw2MwaTzkufct1QAIOEEBMow7eKGGY2%2FXHB1Lj%2BG9fMQh7ykM
  z7mTNw8%2BcA1kEEbUqIe4ajIpr1%2FAvS2ytAEtMLIZ3wbICED1qV%2Bc2i3cgaAzcLp5w%2B
  DvIkimvl8y9OyKTtevdRQYLCzTMKlgDqtdM%2Fub1mAij%2FX2Z9LIJ6A4STENf2UiYfR%2Bdr
- qGbnGRwBpy%2BuGEwHF%2F5m%2FuPcLG4UGL95Nv%2FeiZENyBs%3D
+ qGbnGRwBpy%2BuGEwHF%2F5m%2FuPcLG4UGL95Nv%2FeiZENyBs%3D\n2026-08-26 用户
+ 确认该投递流程已终止，二面后未通过。
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=%2BcJnDtIjlLntwB%2BoUg52nQ%3D%3D&recruitType=campus
 END:VEVENT
@@ -1376,7 +1377,8 @@ DESCRIPTION:默认部门 | 算法研发实习生 | 阶跃StepFun视频面
  跃星辰-算法研发实习生/review.md。核心考察多轮 Agent 工
  具调用后训练、课程奖励与过程 credit assignment；团队方
  向为 AI 手机的 user/agent memory 与主动感知。官方结果待通
- 知。
+ 知。\n2026-08-26 用户确认该投递流程已终止，一面后未通
+ 过。
 LOCATION:https://vc.feishu.cn/j/834674695
 END:VEVENT
 BEGIN:VEVENT
@@ -1747,6 +1749,22 @@ DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 深信
  bf46a8aa84843ba9d7f9196a0f25ccc2599879d57c6d1ddafff5338e?businessUnitId=0&
  orgId=sangfor#/appointment
 LOCATION:线上单人面试（正式面试通知链接待邮件补充）
+END:VEVENT
+BEGIN:VEVENT
+UID:event-122@autumn-recruitment
+DTSTAMP:20260826T080449Z
+DTSTART:20260831T110000Z
+DTEND:20260831T123000Z
+SUMMARY:笔试 · 昆仑芯 · 2027届-AIGC视觉多模态大模型架构
+ 工程师
+DESCRIPTION:默认部门 | 2027届-AIGC视觉多模态大模型架构工程
+ 师 | 昆仑芯（北京）科技股份有限公司在线考试邀请。
+ 岗位：2027届-AIGC视觉多模态大模型架构工程师。考试开
+ 放时间：2026-08-31 19:00–20:30，共90分钟。考试平台：牛客
+ 网。邮件说明如有变动可联系招聘方，但未提供具体联
+ 系人。
+LOCATION:https://exam.nowcoder.com/cts/17521201/summary?id=99C5821D0D39AA6E
+ 5D2B1AAD67C4DCC3
 END:VEVENT
 BEGIN:VEVENT
 UID:event-121@autumn-recruitment
