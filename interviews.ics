@@ -1702,7 +1702,14 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  不录用。\nHR：邱HR qiuyuyang05@kuaishou.com / 19503882536（改期
  提前 1 天；超时 5 分钟未上线联系 HR）\n体验问卷短信/
  邮件不影响结果；建议 campus@kuaishou.com\n轮次：已有一面#
- 73、二面#100，本场按三面录入。
+ 73、二面#100，本场按三面录入。\n\n2026-08-27 三面已完成
+ ，有效交流约18分钟，无Coding。重点核验阿里千问C端Agent
+ 自动评测、Tool Call课程学习、Next-action RL、multi-step Skill R
+ outing，以及模型/context/业务工具/团队规模。主要改进点
+ ：创新与ownership表达偏弱，多步训练边界及30B RL与122B SFT
+ /线上模型关系需讲清。详细复盘见 data/knowledge/快手-【
+ 快Star】多模态大模型算法工程师-Keye/review.md。官方结果
+ 待通知。
 LOCATION:https://viewcoder.qingque.cn/i/byp-olta-ulu
 END:VEVENT
 BEGIN:VEVENT
@@ -1842,5 +1849,28 @@ DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
  端建议Chrome参加。面试入口：https://job.10jqka.com.cn/#/meeting
  ?auditionId=11045411&code=b75ef33f13db7bcae9232ce54f0324f2
 LOCATION:视频面试 · 同顺会议
+END:VEVENT
+BEGIN:VEVENT
+UID:event-128@autumn-recruitment
+DTSTAMP:20260827T033552Z
+DTSTART:20260904T030000Z
+DTEND:20260904T040000Z
+SUMMARY:一面 · 上海未然图灵智能科技有限公司 · 大模型
+ 算法工程师【社招+校招】
+DESCRIPTION:ProphetLab | 大模型算法工程师【社招+校招】 | 地
+ 点：上海市静安区中兴路；薪资：40–70K·15薪。\\n\\n关
+ 于岗位：参与面向海外市场的 AI-native 产品，从 0 到 1 将
+ 大语言模型、Agent、实时搜索和专业数据整合为可持续使
+ 用、可规模化增长的 SaaS 服务。产品处于从 0 到 1 的关
+ 键阶段。\\n\\n职责：1. 参与海外 AI 产品的架构设计、开
+ 发和上线；2. 建设用户、权限、订阅、支付、计费等核
+ 心后端系统；3. 实现 AI  | ProphetLab（上海未然图灵智能科
+ 技有限公司）大模型算法工程师【社招+校招】视频面试
+ 。时间以 BOSS 直聘面试卡片为准：2026-09-04 11:00。联系人
+ ：张女士（HRD）。地点：上海市静安区中兴路；岗位标
+ 注薪资 40–70K·15薪。建议提前进入飞书会议完成音视频
+ 调试。
+LOCATION:视频面试（飞书：https://vc.feishu.cn/j/272196745；会议
+ 号：272-196-745）
 END:VEVENT
 END:VCALENDAR
