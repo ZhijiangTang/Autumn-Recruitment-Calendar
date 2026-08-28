@@ -787,7 +787,7 @@ UID:event-79@autumn-recruitment
 DTSTAMP:20260807T075616Z
 DTSTART:20260809T070000Z
 DTEND:20260809T080000Z
-SUMMARY:一面 · OPPO · AI研究员（AI多模态智能体）
+SUMMARY:AI测评 · OPPO · AI研究员（AI多模态智能体）
 DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
  聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
  、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
@@ -1723,7 +1723,16 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  习研究 | 蔚来AGI超星计划 HRBP 终面；视频面试，时长30分
  钟，2026-08-27 15:30–16:00（北京时间）。HR沟通原文：可以
  安排HRBP进行终面。若未反馈，系统默认接受；如需调整
- 请通过邀约邮件中的反馈入口操作。
+ 请通过邀约邮件中的反馈入口操作。\n\n2026-08-27：HRBP终
+ 面已完成，实际有效沟通约27分钟。重点围绕研究方向变
+ 化、三段实习、千问Agent评测、当前阿里实习与转正进度
+ 、为什么蔚来、求职标准、薪资预期、工作地点及是否
+ 愿意先实习再讨论校招Offer。候选人倾向上海，希望先明
+ 确校招Offer再考虑提前实习。HR表示正常Offer有机会，但
+ 高定级需结合横向比较和实际表现；岗位可Base上海/北京
+ /武汉/合肥，实习薪资约500元/天，最终以招聘同学口径
+ 为准。官方结果待通知；详细复盘见knowledge_path/review.md
+ 。
 LOCATION:https://nio.feishu.cn/hire/short_url/_quOK80O4AA
 END:VEVENT
 BEGIN:VEVENT
@@ -1747,8 +1756,89 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 腾讯2027校园
  检测设备；建议安装/升级腾讯会议。改期入口：https://jo
  in.qq.com/interview_reply.html。\\n超过约定时间10分钟面试官仍
  未上线：0755-86013388，接通后输入855999。未经腾讯招聘许
- 可不得录音或录像。
+ 可不得录音或录像。\n\n2026-08-28：一面已完成，实际有效
+ 沟通约56分钟，未进行代码或AI Coding实操。面试主要深挖
+ 阿里Agent评测与GRPO、Rubric校准、Shopee多模态后训练、数
+ 据飞轮、标签版本管理、multi-step状态及AI Coding使用。实
+ 际团队为腾讯AI平台部游戏AI/强化学习方向，服务王者自
+ 走棋，规划单向AI教官与双向AI助手；当前以文本state obse
+ rvation为主，LLM方案尚未正式上线，Base深圳。候选人接受
+ 深圳，并表示在已有Offer前提下愿意提前实习。官方结果
+ 待通知；详细复盘见knowledge_path/review.md。
 LOCATION:https://meeting.tencent.com/dm/t8wRVJ3cvpDN
+END:VEVENT
+BEGIN:VEVENT
+UID:event-130@autumn-recruitment
+DTSTAMP:20260827T091758Z
+DTSTART:20260829T020000Z
+DTEND:20260829T030000Z
+SUMMARY:AI测评 · 招银网络科技 · 算法工程师
+DESCRIPTION:招银网络科技 | 算法工程师 | 工作地点：杭州。
+ 参与大语言模型、智能客服、智能推荐、反欺诈、OCR、
+ 量化分析等人工智能方向在银行业务中的应用；开展机
+ 器学习、深度学习、自然语言处理、知识图谱及计算机
+ 视觉相关研究与落地。 | 招银网络科技2027秋招素质测评
+ ：能力测评30分钟、个性测评15分钟、心理测评7分钟；开
+ 放时间2026-08-27 00:00至2026-09-20 12:00，逾期不补测。准考通
+ 行证号14261455420960；技术测评为集中作答，时间另行通知
+ 。
+LOCATION:https://cmbnt.ceping.com/Login/Elink?elink=7TASYqzDMnRkJfnDCbaMzxc
+ China25WSaZT1/kMbhdBu/3fVuta4DD52pqVHlC442dtKB/1QdcaA0
+END:VEVENT
+BEGIN:VEVENT
+UID:event-134@autumn-recruitment
+DTSTAMP:20260828T092329Z
+DTSTART:20260829T060000Z
+DTEND:20260829T080000Z
+SUMMARY:笔试 · 得物 · 【27届校招】算法研究员-视觉方向
+DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 视
+ 觉与多模态理解、训练评测闭环、大模型/AI Agent（工具
+ 调用与任务编排）、供应链质检与商研场景；上海/杭州
+ 。官网第1志愿。 | 得物 App 2027 届秋招第 2 批算法策略（
+ 视觉）在线笔试。考试开放时间 14:00–17:00，作答时长 12
+ 0 分钟；建议 13:45 进入检查信息与摄像头。最新版 Chrome
+ ，全程摄像头；含 AI Coding 题型，按目录作答，提交目录
+ 后不可修改。确认入口：https://hr.nowcoder.com/v1/s/KMFgKEjz#；
+ 招聘流程咨询：campus@dewu.com。专属考试链接请勿转发。
+LOCATION:https://hr.nowcoder.com/v1/s/aBfbzxRF#
+END:VEVENT
+BEGIN:VEVENT
+UID:event-132@autumn-recruitment
+DTSTAMP:20260828T041151Z
+DTSTART:20260829T110000Z
+DTEND:20260829T115000Z
+SUMMARY:AI测评 · 去哪儿旅行 · AI算法工程师（大模型方向
+ ）
+DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 建设
+ 统一大模型能力平台；研发 AI Agent；构建人机协同的数
+ 据反馈、模型训练与评测闭环。要求熟悉 SFT、DPO、GRPO、
+ RAG、Agent、多模态等方向，并具备相关项目实践。 | 去哪
+ 儿旅行 2027 届校园招聘 AI 面试。开放窗口：2026-08-28 14:00
+  至 2026-08-30 22:00；计划于周日 19:00 完成，预计 40–50 分
+ 钟。仅支持 PC 端最新版 Chrome，全程摄像头并启用手机二
+ 机位监控；需关闭 VPN、插件及通信软件，避免切屏。专
+ 属链接请勿转发。技术支持：nowai@nowcoder.com。\n\n日程调
+ 整（2026-08-28）：为避开 2026-08-30 19:00 的滴滴固定场笔试
+ ，将本场可自由选择时间的 AI 面试计划提前至周六 19:00
+ 。
+LOCATION:https://t.zijieimg.com/GilEV7Mcbdk/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-136@autumn-recruitment
+DTSTAMP:20260828T094110Z
+DTSTART:20260830T110000Z
+DTEND:20260830T124000Z
+SUMMARY:笔试 · 滴滴 · 27届秋招-算法工程师（国际化外卖-
+ 分单）
+DESCRIPTION:国际化外卖 | 27届秋招-算法工程师（国际化外卖
+ -分单） | 滴滴 2027 届校招算法方向固定场在线笔试。岗
+ 位：算法工程师（国际化外卖-分单）；考试时间 19:00–2
+ 0:40，时长 100 分钟。需 Chrome 80+、电脑和摄像头，全程录
+ 屏与抓拍；可使用本地编译器，不得使用 AI 工具。建议
+ 提前完成系统练习与屏幕录制授权。登录凭据请查看原
+ 始邀请邮件，未写入数据库。流程咨询：campus@didiglobal.co
+ m。
+LOCATION:https://didi.acmcoder.com/cand/login?zxmn5pr9
 END:VEVENT
 BEGIN:VEVENT
 UID:event-123@autumn-recruitment
@@ -1820,6 +1910,26 @@ DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
  发邮件，要求记入数据库；尚未确认是否已点接受。\n\n2
  026-08-26：用户确认已接受录用意向书，意向书正式生效
  。具体 offer 详情待电话/邮件沟通。
+END:VEVENT
+BEGIN:VEVENT
+UID:event-135@autumn-recruitment
+DTSTAMP:20260828T092443Z
+DTSTART:20260901T030000Z
+DTEND:20260901T040000Z
+SUMMARY:一面 · OPPO · AI研究员（AI多模态智能体）
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
+ 聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
+ 、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
+ ent 构建优化评估经验与科研能力。 | OPPO AI研究员（AI多
+ 模态智能体）专业面试，视频面试。官方轮次名称为“
+ 专业面试”；按 AI 面试后的首场真人专业面试记录为一
+ 面。腾讯会议密码：249544。请提前 10 分钟进入并检查摄
+ 像头、麦克风及网络。确认链接：https://careers.oppo.com/feed
+ back?sign=J5VJbIlOkPoJs1Gulnz%2FOwokYpD0Nv6n%2B8z6EMH3FVoS5c4gCHORMVEWT%2F
+ qH%2F9K2ww1BBIAqlEefEV2L1A4U7fFnUb7%2FZXgJs1BfjIcP4IHZm%2BZIs%2FJHh69FqZg5
+ q29w；联系人：13728970612，v-lianglingling1@oppo.com。
+LOCATION:https://meeting.tencent.com/dm/gd4EjIzuuxyp?roomId=260382499677468
+ 9249&roomCode=&passWord=249544
 END:VEVENT
 BEGIN:VEVENT
 UID:event-121@autumn-recruitment
