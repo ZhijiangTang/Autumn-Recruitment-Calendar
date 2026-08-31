@@ -1846,10 +1846,16 @@ DTSTAMP:20260826T111018Z
 DTSTART:20260831T030000Z
 DTEND:20260831T034500Z
 SUMMARY:一面 · 中兴通讯 · AI算法工程师（未来领军）
-DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 中兴通
- 讯校园招聘视频面试；面试内容将在线转写为文字并保
- 存，仅用于面试评估，不保存录音录像。邮件要求通过
- 参加/不参加按钮确认。
+DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 2026-08-31
+  中兴通讯未来领军 AI算法工程师一面已完成。面试重点
+ ：Agent 自动化评测系统、规则与 AI Judge、评测一致率及
+ 人工标注成本；AI Coding 与 Agent Harness；编程语言、手写
+ 代码量和软件研发流程；职业规划、通信领域适应性和
+ 模型训练/AI应用偏好。无手撕。团队实际为路由器软件
+ 研发部门，主要建设研发流程 AI 工具和 Harness，当前及
+ 短期不涉及模型训练或后训练，与个人方向存在一定偏
+ 差。详细复盘：data/knowledge/中兴通讯-未来领军 · AI算法
+ 工程师/review.md
 LOCATION:腾讯会议：https://meeting.tencent.com/dm/PpoFRPKYb0UP
 END:VEVENT
 BEGIN:VEVENT
