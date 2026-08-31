@@ -1956,6 +1956,25 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
 LOCATION:https://vc.feishu.cn/j/648928721
 END:VEVENT
 BEGIN:VEVENT
+UID:event-140@autumn-recruitment
+DTSTAMP:20260831T120411Z
+DTSTART:20260901T110000Z
+DTEND:20260901T130000Z
+SUMMARY:笔试 · 美团 · 多模态生成大模型算法工程师
+DESCRIPTION:2027正式批-都喜欢 | 多模态生成大模型算法工程
+ 师 | 2027正式批志愿一；意向工作地：上海市、深圳市等
+ ；官网状态：网申成功。 | 美团2026年秋招第四场笔试【
+ 算法策略方向】，邮件未指定具体岗位，按统一算法笔
+ 试登记，关联当前美团正式批的多模态生成/大模型/大模
+ 型应用算法岗位。考试时间 19:00-21:00，建议提前15分钟登
+ 录并完成设备测试。全程开启电脑摄像头及手机第二机
+ 位；含 AI 实操题 / AI Coding 题，编程题共1道；按目录作
+ 答，目录提交后不可修改。确认参加：https://hr.nowcoder.com
+ /v1/s/DdtsH8g3#；考试专属地址：https://hr.nowcoder.com/v1/s/jPbHHJ
+ 4a#。考试期间不得使用搜索、聊天或 AI 工具。
+LOCATION:https://hr.nowcoder.com/v1/s/jPbHHJ4a#
+END:VEVENT
+BEGIN:VEVENT
 UID:event-139@autumn-recruitment
 DTSTAMP:20260831T033739Z
 DTSTART:20260902T110000Z
