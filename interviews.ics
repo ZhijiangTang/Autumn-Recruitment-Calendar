@@ -1954,6 +1954,20 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
 LOCATION:https://vc.feishu.cn/j/648928721
 END:VEVENT
 BEGIN:VEVENT
+UID:event-139@autumn-recruitment
+DTSTAMP:20260831T033739Z
+DTSTART:20260902T110000Z
+DTEND:20260902T120000Z
+SUMMARY:转正答辩 · 阿里巴巴集团 · AI应用算法工程师
+DESCRIPTION:千问事业部-千问算法技术-大模型训练及应用 | A
+ I应用算法工程师 | 阿里巴巴2027届应届生；所属部门：千
+ 问事业部-千问算法技术-大模型训练及应用；申请编号：
+ 100130980906；该投递为实习转正流程。 | 千问事业部实习
+ 转正答辩。对应岗位：AI应用算法工程师；部门：千问算
+ 法技术-大模型训练及应用；申请编号：100130980906。
+LOCATION:待补充
+END:VEVENT
+BEGIN:VEVENT
 UID:event-137@autumn-recruitment
 DTSTAMP:20260831T025633Z
 DTSTART:20260902T120000Z
@@ -1970,6 +1984,19 @@ DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 编号 M
  答 35 分钟。使用与网申一致的真实姓名、手机号和邮箱
  登录；建议提前检查 Chrome、摄像头、麦克风及扬声器。
 LOCATION:https://jinyuzhineng.com/su/4UYajwL7
+END:VEVENT
+BEGIN:VEVENT
+UID:event-138@autumn-recruitment
+DTSTAMP:20260831T025709Z
+DTSTART:20260903T030000Z
+DTEND:20260903T033000Z
+SUMMARY:交流 · 红杉中国 · 被投企业校招机会对接
+DESCRIPTION:人力资本团队 | 被投企业校招机会对接 | 与红杉
+ 中国人力资本团队进行约 30 分钟线上交流，沟通被投企
+ 业校招机会及感兴趣方向；多个机会可平行推进。飞书
+ 会议可能录制，用于 AI 生成会议纪要，内容仅供红杉内
+ 部参考。联系人：周丰，电话：18610112806。
+LOCATION:https://hongshan.feishu.cn/hire/short_url/EFv1yCSWXX4
 END:VEVENT
 BEGIN:VEVENT
 UID:event-129@autumn-recruitment
