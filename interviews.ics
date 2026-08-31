@@ -1862,18 +1862,20 @@ BEGIN:VEVENT
 UID:event-119@autumn-recruitment
 DTSTAMP:20260824T105135Z
 DTSTART:20260831T061500Z
-DTEND:20260831T071500Z
+DTEND:20260831T065900Z
 SUMMARY:一面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 深信
  服科技27届[X-STAR]顶尖人才计划；已进入线上单人面试环
- 节。具体技术岗位与业务部门待补充。 | 用户已于2026-08-
- 24预约成功。面试时间：2026-08-31（周一）14:15。预约截止
- 时间：2026-08-31 19:00。若需协调：中国科学院大学HR王女
- 士，wanghaojie@sangfor.com.cn，19964170448。预约详情：https://app
- .mokahr.com/candidate-appointment-interview/e4e5095fc0e0558667505573224b33
- fe7b2fb65506472b7c36c246b3f2355dfec3eb11db18327125816872e6c89788f8daecf9f4
- bf46a8aa84843ba9d7f9196a0f25ccc2599879d57c6d1ddafff5338e?businessUnitId=0&
- orgId=sangfor#/appointment
+ 节。具体技术岗位与业务部门待补充。 | 2026-08-31 深信服
+  X-STAR 一面已完成，实际交流约 44 分钟。流程：PPT 自我
+ 介绍；深挖 CCCaption 的 reward hacking、动态 query 采样、factu
+ ality reward、实验闭环与个人贡献；深挖千问 Agent 评测、
+ 数据筛选、课程式 reward、SFT/RL 数据及能力回归；追问 PP
+ O、GRPO、DAPO、GSPO、全模态、异步 RL 和 OPD；最后一道题
+ 只判断数据结构，回答栈正确，无完整手撕。团队为校
+ 招统一分配，面试官所在组做安全大模型、前后护栏、Ag
+ ent 工具/记忆安全及后训练。详细复盘：data/knowledge/深信
+ 服-[X-STAR]顶尖人才计划（本-硕）/review.md
 LOCATION:线上单人面试（正式面试通知链接待邮件补充）
 END:VEVENT
 BEGIN:VEVENT
