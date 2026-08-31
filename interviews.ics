@@ -1948,6 +1948,24 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
 LOCATION:https://vc.feishu.cn/j/648928721
 END:VEVENT
 BEGIN:VEVENT
+UID:event-137@autumn-recruitment
+DTSTAMP:20260831T025633Z
+DTSTART:20260902T120000Z
+DTEND:20260902T123500Z
+SUMMARY:AI测评 · 携程 · LLM算法工程师（2027届秋招）
+DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 编号 M
+ J036605；上海 | Trip.com Group | AI & BI；应届校招生。职责：
+ 旅游行业核心业务场景 Agent；语言/图像/语音视频等多模
+ 态 Agent 评估；多模态后训练全流程（数据处理、SFT、RLHF
+  等）；Agent 记忆系统与注册管理。要求：数学与算法基
+ 础，Python/C++，PyTorch/Transformers；Agent 落地与 Embedding/向量
+  | 携程 LLM算法工程师（2027届秋招）线上 AI 视频面试；
+ 邀请要求收到后 72 小时内完成，无真人面试官，预计作
+ 答 35 分钟。使用与网申一致的真实姓名、手机号和邮箱
+ 登录；建议提前检查 Chrome、摄像头、麦克风及扬声器。
+LOCATION:https://jinyuzhineng.com/su/4UYajwL7
+END:VEVENT
+BEGIN:VEVENT
 UID:event-129@autumn-recruitment
 DTSTAMP:20260827T060521Z
 DTSTART:20260903T070000Z
