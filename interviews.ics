@@ -2078,4 +2078,41 @@ DESCRIPTION:ProphetLab | 大模型算法工程师【社招+校招】 | 地
 LOCATION:视频面试（飞书：https://vc.feishu.cn/j/272196745；会议
  号：272-196-745）
 END:VEVENT
+BEGIN:VEVENT
+UID:event-141@autumn-recruitment
+DTSTAMP:20260901T030415Z
+DTSTART:20260904T155900Z
+DTEND:20260904T165900Z
+SUMMARY:AI测评 · 联想集团 · 通用人工智能研究
+DESCRIPTION:CTO Organization | 通用人工智能研究 | 联想校园招
+ 聘在线能力测评（SHL）。邮件说明：仅简历初筛通过者
+ 会收到测评邀请；须在收到邀请后的 3 个自然日内完成
+ 。数据库以 2026-09-04 23:59 作为截止占位，真实截止时刻
+ 以邮件收件时间 + 3 个自然日为准，建议提前完成。PC 端
+ 使用最新版 Chrome 或 Firefox，建议先完成考前练习和设备
+ 检测；可退出后继续，但最多退出 2 次，重新进入时不
+ 要更换浏览器；建议一次性完成。测评链接为个人专属
+ 链接，不得转发。SHL 技术支持：400-120-8840 转 2，asiamanage
+ dservices@shl.com；联想校招咨询：chinacampus@lenovo.com。
+LOCATION:https://integration-talentcentral.shlglobal.cn/Integration/ce/8b5c
+ 10fac09f4971a292fccec5a26a9a/?rid=1572490525
+END:VEVENT
+BEGIN:VEVENT
+UID:event-142@autumn-recruitment
+DTSTAMP:20260901T030415Z
+DTSTART:20260904T155900Z
+DTEND:20260904T172900Z
+SUMMARY:技术笔试 · 联想集团 · 通用人工智能研究
+DESCRIPTION:CTO Organization | 通用人工智能研究 | 联想校园招
+ 聘在线技术笔试（ACMCoder），与 SHL 在线能力测评为两个
+ 独立环节。须在收到邀请后的 3 个自然日内完成；数据
+ 库以 2026-09-04 23:59 作为截止占位，真实截止时刻以邮件
+ 收件时间 + 3 个自然日为准。考试时长按岗位为 60-90 分
+ 钟，打开试卷后计时不会停止，需预留完整时间一次完
+ 成。登录账号为 lenovo；临时登录密码见原始邀请邮件，
+ 不写入数据库。使用电脑及 Chrome 80+；考试期间不得跳出
+ 页面、使用 IM、佩戴耳机或传播题目。FAQ：http://oj.acmcode
+ r.com/QA；系统故障联系 Exam@acmcoder.com。
+LOCATION:https://lenovo.acmcoder.com/cand/login
+END:VEVENT
 END:VCALENDAR
