@@ -965,7 +965,8 @@ DESCRIPTION:文心大模型 | 北京-大模型算法工程师（基座研
  。包含网格 DFS Coding、允许使用 Codex 实现 ReAct 式 Deep Sear
  ch 并追问结果选择、失败恢复与轮次成本，以及阿里 Agen
  t 评测与 next-action GRPO 奖励设计。详细复盘见 review.md；
- 结果待通知。
+ 结果待通知。\n2026-09-01 用户确认该投递流程已结束，结
+ 果未通过。
 LOCATION:https://infoflow.baidu.com/meeting/invite?id=02618ae20d796401b56b5
  42123334d90
 END:VEVENT
@@ -1781,7 +1782,8 @@ DESCRIPTION:招银网络科技 | 算法工程师 | 工作地点：杭州。
  ：能力测评30分钟、个性测评15分钟、心理测评7分钟；开
  放时间2026-08-27 00:00至2026-09-20 12:00，逾期不补测。准考通
  行证号14261455420960；技术测评为集中作答，时间另行通知
- 。
+ 。\n2026-09-01 用户确认已完成；官方通过/未通过结果待通
+ 知，暂无单独复盘内容。
 LOCATION:https://cmbnt.ceping.com/Login/Elink?elink=7TASYqzDMnRkJfnDCbaMzxc
  China25WSaZT1/kMbhdBu/3fVuta4DD52pqVHlC442dtKB/1QdcaA0
 END:VEVENT
@@ -1799,7 +1801,9 @@ DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 视
  0 分钟；建议 13:45 进入检查信息与摄像头。最新版 Chrome
  ，全程摄像头；含 AI Coding 题型，按目录作答，提交目录
  后不可修改。确认入口：https://hr.nowcoder.com/v1/s/KMFgKEjz#；
- 招聘流程咨询：campus@dewu.com。专属考试链接请勿转发。
+ 招聘流程咨询：campus@dewu.com。专属考试链接请勿转发。\n
+ 2026-09-01 用户确认已完成；官方通过/未通过结果待通知
+ ，暂无单独复盘内容。
 LOCATION:https://hr.nowcoder.com/v1/s/aBfbzxRF#
 END:VEVENT
 BEGIN:VEVENT
@@ -1820,7 +1824,8 @@ DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 建设
  属链接请勿转发。技术支持：nowai@nowcoder.com。\n\n日程调
  整（2026-08-28）：为避开 2026-08-30 19:00 的滴滴固定场笔试
  ，将本场可自由选择时间的 AI 面试计划提前至周六 19:00
- 。
+ 。\n2026-09-01 用户确认已完成；官方通过/未通过结果待通
+ 知，暂无单独复盘内容。
 LOCATION:https://t.zijieimg.com/GilEV7Mcbdk/
 END:VEVENT
 BEGIN:VEVENT
@@ -1837,7 +1842,8 @@ DESCRIPTION:国际化外卖 | 27届秋招-算法工程师（国际化外卖
  屏与抓拍；可使用本地编译器，不得使用 AI 工具。建议
  提前完成系统练习与屏幕录制授权。登录凭据请查看原
  始邀请邮件，未写入数据库。流程咨询：campus@didiglobal.co
- m。
+ m。\n2026-09-01 用户确认已完成；官方通过/未通过结果待
+ 通知，暂无单独复盘内容。
 LOCATION:https://didi.acmcoder.com/cand/login?zxmn5pr9
 END:VEVENT
 BEGIN:VEVENT
@@ -1920,30 +1926,10 @@ DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
  。具体 offer 详情待电话/邮件沟通。
 END:VEVENT
 BEGIN:VEVENT
-UID:event-135@autumn-recruitment
-DTSTAMP:20260828T092443Z
-DTSTART:20260901T030000Z
-DTEND:20260901T040000Z
-SUMMARY:一面 · OPPO · AI研究员（AI多模态智能体）
-DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
- 聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
- 、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
- ent 构建优化评估经验与科研能力。 | OPPO AI研究员（AI多
- 模态智能体）专业面试，视频面试。官方轮次名称为“
- 专业面试”；按 AI 面试后的首场真人专业面试记录为一
- 面。腾讯会议密码：249544。请提前 10 分钟进入并检查摄
- 像头、麦克风及网络。确认链接：https://careers.oppo.com/feed
- back?sign=J5VJbIlOkPoJs1Gulnz%2FOwokYpD0Nv6n%2B8z6EMH3FVoS5c4gCHORMVEWT%2F
- qH%2F9K2ww1BBIAqlEefEV2L1A4U7fFnUb7%2FZXgJs1BfjIcP4IHZm%2BZIs%2FJHh69FqZg5
- q29w；联系人：13728970612，v-lianglingling1@oppo.com。
-LOCATION:https://meeting.tencent.com/dm/gd4EjIzuuxyp?roomId=260382499677468
- 9249&roomCode=&passWord=249544
-END:VEVENT
-BEGIN:VEVENT
 UID:event-121@autumn-recruitment
 DTSTAMP:20260825T100018Z
 DTSTART:20260901T090000Z
-DTEND:20260901T100000Z
+DTEND:20260901T092700Z
 SUMMARY:二面 · 元戎启行 · 【2027秋招】大模型算法工程师
 DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  师 | 元戎启行 2027 秋招大模型算法工程师，视频面试邀
@@ -1952,7 +1938,14 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  试时长1小时，可能延长，请预留充足时间；提前10分钟
  调试设备，推荐PC端Chrome/Firefox。联系人：王婷，1731894627
  3，tingwang@deeproute.ai。邀请邮件提供参加、不参加及更改
- 时间入口。
+ 时间入口。\n2026-09-01 二面/交叉面已完成，有效交流约27
+ 分钟。面试官来自泊车感知团队，明确表示本场通过，
+ 后续三面预计由整个泊车团队 leader 进行。流程：PPT 自
+ 我介绍；深挖 CCCaption 的双奖励、动态 query 采样和评测
+ 结果；介绍阿里 Agent 数据飞轮；开放设计自动驾驶感知 
+ GT/Prediction 自动化评测系统；讨论 VLM 空间定量/grounding 
+ 能力不足及专用检测分割模型、框选提示和定向训练方
+ 案；无手撕。详细复盘见 review.md。
 LOCATION:https://vc.feishu.cn/j/648928721
 END:VEVENT
 BEGIN:VEVENT
@@ -2007,19 +2000,6 @@ DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 编号 M
 LOCATION:https://jinyuzhineng.com/su/4UYajwL7
 END:VEVENT
 BEGIN:VEVENT
-UID:event-138@autumn-recruitment
-DTSTAMP:20260831T025709Z
-DTSTART:20260903T030000Z
-DTEND:20260903T033000Z
-SUMMARY:交流 · 红杉中国 · 被投企业校招机会对接
-DESCRIPTION:人力资本团队 | 被投企业校招机会对接 | 与红杉
- 中国人力资本团队进行约 30 分钟线上交流，沟通被投企
- 业校招机会及感兴趣方向；多个机会可平行推进。飞书
- 会议可能录制，用于 AI 生成会议纪要，内容仅供红杉内
- 部参考。联系人：周丰，电话：18610112806。
-LOCATION:https://hongshan.feishu.cn/hire/short_url/EFv1yCSWXX4
-END:VEVENT
-BEGIN:VEVENT
 UID:event-129@autumn-recruitment
 DTSTAMP:20260827T060521Z
 DTSTART:20260903T070000Z
@@ -2041,6 +2021,23 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  面、三面均已完成，本次按四面记录。
 LOCATION:视频面试（阿里巴巴校园招聘面试间；具体链接见
  原始邀约）
+END:VEVENT
+BEGIN:VEVENT
+UID:event-138@autumn-recruitment
+DTSTAMP:20260831T025709Z
+DTSTART:20260903T090000Z
+DTEND:20260903T093000Z
+SUMMARY:交流 · 红杉中国 · 被投企业校招机会对接
+DESCRIPTION:人力资本团队 | 被投企业校招机会对接 | 与红杉
+ 中国人力资本团队进行约 30 分钟线上交流，沟通被投企
+ 业校招机会及感兴趣方向；多个机会可平行推进。飞书
+ 会议可能录制，用于 AI 生成会议纪要，内容仅供红杉内
+ 部参考。联系人：周丰，电话：18610112806。\n2026-09-01 时
+ 间调整：原定 2026-09-03 11:00 因红杉方临时议程冲突，双
+ 方确认改为当日 17:00。\n改期后的正式会议链接已更新为
+ ：https://hongshan.feishu.cn/hire/short_url/o0ylf0iQ1TA；原会议链接
+ 不再作为当前入口。
+LOCATION:https://hongshan.feishu.cn/hire/short_url/o0ylf0iQ1TA
 END:VEVENT
 BEGIN:VEVENT
 UID:event-124@autumn-recruitment
@@ -2114,5 +2111,41 @@ DESCRIPTION:CTO Organization | 通用人工智能研究 | 联想校园招
  页面、使用 IM、佩戴耳机或传播题目。FAQ：http://oj.acmcode
  r.com/QA；系统故障联系 Exam@acmcoder.com。
 LOCATION:https://lenovo.acmcoder.com/cand/login
+END:VEVENT
+BEGIN:VEVENT
+UID:event-143@autumn-recruitment
+DTSTAMP:20260901T094304Z
+DTSTART:20260907T070000Z
+DTEND:20260907T080000Z
+SUMMARY:一面 · 字节跳动 · 广告算法工程师 - 国际化广告
+ 创意与品牌
+DESCRIPTION:国际化广告创意与品牌 | 广告算法工程师 - 国际
+ 化广告创意与品牌 | 国际商业产品技术品牌广告团队负
+ 责非中国区品牌广告变现。主要方向：1）高并发、高可
+ 用广告投放系统及人群触达、播放、种草等品牌竞价产
+ 品；2）品牌竞价广告出价策略和流量策略优化；3）使用
+ 深度学习、大语言模型和多模态模型优化品牌广告召回
+ 、粗排与精排；4）与产品团队协作设计品牌广告产品；5
+ ）品牌安全。校招生不强制要求广告经验，团队当前重
+ 点寻找具备多模态背景的候选人。 | 字节跳动视频面试
+ ：广告算法工程师 - 国际化广告创意与品牌。时间：2026-
+ 09-07 15:00（北京时间）；邮件未标明轮次，因该岗位此前
+ 无面试记录，按一面登记。建议 PC 端使用 Chrome 或 360 极
+ 速浏览器，提前 10 分钟测试摄像头、麦克风和扬声器；
+ 不建议使用企业内网或 VPN。HR：陈煜，+86 19381619320；如
+ 需调整请至少提前 1 天联系；面试官迟到超过 10 分钟可
+ 联系 HR。面试须独立完成，不得使用 AI、搜索引擎、外
+ 部代码工具或他人协助。\nHR 前置沟通补充：Yuki（TT 商
+ 业化 HR）说明简历评估已通过，本次安排给完成简历评
+ 估的老师面试。团队为 GMPT / Creative Intelligence and Brand Inno
+ vation Technology / Brand Innovation，面向海外广告主。明确考
+ 察维度：①手撕代码，可能为 LeetCode 中等至 Hard 边缘或 
+ ACM 竞赛入门原题；②机器学习、深度学习基础；③项目/
+ 实习的难点、亮点、深度、细节和个人思考；④字节范
+ ，要求坦诚清晰、表达简洁有逻辑、积极主动；⑤广告
+ 基础，包括出价、投放、召回、粗排、精排、流量策略
+ 及 TikTok 广告知识。HR 建议重点梳理 coding、基础知识和
+ 项目亮点；无广告经验不构成硬性障碍。
+LOCATION:https://t.zijieimg.com/87NtEkrx8_0/
 END:VEVENT
 END:VCALENDAR
