@@ -2076,6 +2076,64 @@ LOCATION:视频面试（飞书：https://vc.feishu.cn/j/272196745；会议
  号：272-196-745）
 END:VEVENT
 BEGIN:VEVENT
+UID:event-144@autumn-recruitment
+DTSTAMP:20260902T122845Z
+DTSTART:20260904T070000Z
+DTEND:20260904T073000Z
+SUMMARY:二面 · 中兴通讯 · AI算法工程师（未来领军）
+DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 中兴通
+ 讯校园招聘 AI算法工程师（未来领军）二面。时间：2026-
+ 09-04 15:00，预计 30 分钟，视频面试。需通过邀请邮件中
+ 的参加/不参加按钮确认；如行程冲突可选择不参加并补
+ 充说明。招聘方会将面试内容在线转写为文字，仅用于
+ 面试评估；邮件说明不保存录音录像。腾讯会议：https://
+ meeting.tencent.com/dm/SNMH2FluS3aE。
+LOCATION:https://meeting.tencent.com/dm/SNMH2FluS3aE
+END:VEVENT
+BEGIN:VEVENT
+UID:event-145@autumn-recruitment
+DTSTAMP:20260902T123025Z
+DTSTART:20260904T120000Z
+DTEND:20260904T130000Z
+SUMMARY:AI测评 · 华为 · AI模型工程师-多模态大模型
+DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
+ 多模态大模型 | 招聘类别：应届生；岗位类别：研发类
+ ；业务部门：智能汽车解决方案BU解决方案部；工作地点
+ ：上海、东莞、苏州、武汉。 | 华为校园招聘综合测评
+ 。用户计划于周五 2026-09-04 20:00 完成；官方截止时间为 2
+ 026-09-05 00:00:00。登录测评系统后立即开始计时，限时 60 
+ 分钟，应预留完整、不受打扰的时间并避免中途退出。
+ 题目没有标准对错，按真实情况作答并保持一致性，不
+ 需过度猜测。测评链接为个人专属入口，请勿转发；问
+ 题联系 talent@huawei.com。
+LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14650
+ 07542992898&auto_login=2
+END:VEVENT
+BEGIN:VEVENT
+UID:event-146@autumn-recruitment
+DTSTAMP:20260902T123206Z
+DTSTART:20260904T133000Z
+DTEND:20260904T143000Z
+SUMMARY:AI测评 · 东方财富 · EASTstar-算法工程师（多模态方
+ 向）-27届秋招
+DESCRIPTION:EASTstar | EASTstar-算法工程师（多模态方向）-27届
+ 秋招 | 东方财富 2027 届 EASTstar 算法工程师，多模态方向
+ 。简历已通过筛选并进入人才测评阶段。 | 东方财富 EAST
+ star 人才测评，包含思维逻辑测评和性格测评两部分。用
+ 户计划于周五 2026-09-04 21:30 完成，安排在华为 20:00-21:00 
+ 综合测评之后；官方未说明具体作答时长，应预留充足
+ 时间。须在收到邮件后的 3 天内完成，准确截止时刻以
+ 邮件收件时间为准。使用 Chrome 或 Firefox，提前检查网络
+ 和设备；点击测试链接即开始测评。HR：18909469863，工作
+ 日 09:00-11:30、13:00-18:00。确认参加入口含个人 access token
+ ，未写入数据库。\n同一流程另收到简历完善邀请：https:
+ //app.mokahr.com/su/ghphkk；应确保求职信息完整、准确。HR 邮
+ 箱：huawenqing@eastmoney.com；系统职位信息不等同于最终入
+ 职部门、岗位和地点。
+LOCATION:https://test.zhiding.com.cn/WebTest/Login.aspx?aid=492277&pid=3779
+ 8367&identify=522F6F635A131806B5B5C5213FC4926E
+END:VEVENT
+BEGIN:VEVENT
 UID:event-141@autumn-recruitment
 DTSTAMP:20260901T030415Z
 DTSTART:20260904T155900Z
@@ -2115,8 +2173,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-143@autumn-recruitment
 DTSTAMP:20260901T094304Z
-DTSTART:20260907T070000Z
-DTEND:20260907T080000Z
+DTSTART:20260909T070000Z
+DTEND:20260909T080000Z
 SUMMARY:一面 · 字节跳动 · 广告算法工程师 - 国际化广告
  创意与品牌
 DESCRIPTION:国际化广告创意与品牌 | 广告算法工程师 - 国际
@@ -2129,7 +2187,7 @@ DESCRIPTION:国际化广告创意与品牌 | 广告算法工程师 - 国际
  ）品牌安全。校招生不强制要求广告经验，团队当前重
  点寻找具备多模态背景的候选人。 | 字节跳动视频面试
  ：广告算法工程师 - 国际化广告创意与品牌。时间：2026-
- 09-07 15:00（北京时间）；邮件未标明轮次，因该岗位此前
+ 09-09 15:00（北京时间）；邮件未标明轮次，因该岗位此前
  无面试记录，按一面登记。建议 PC 端使用 Chrome 或 360 极
  速浏览器，提前 10 分钟测试摄像头、麦克风和扬声器；
  不建议使用企业内网或 VPN。HR：陈煜，+86 19381619320；如
@@ -2145,7 +2203,10 @@ DESCRIPTION:国际化广告创意与品牌 | 广告算法工程师 - 国际
  ，要求坦诚清晰、表达简洁有逻辑、积极主动；⑤广告
  基础，包括出价、投放、召回、粗排、精排、流量策略
  及 TikTok 广告知识。HR 建议重点梳理 coding、基础知识和
- 项目亮点；无广告经验不构成硬性障碍。
-LOCATION:https://t.zijieimg.com/87NtEkrx8_0/
+ 项目亮点；无广告经验不构成硬性障碍。\n2026-09-02 面试
+ 安排变更：原定 2026-09-07 15:00，现调整为 2026-09-09 15:00；
+ 新链接：https://t.zijieimg.com/lFDMV6wHnoo/，原链接不再作为当
+ 前入口。
+LOCATION:https://t.zijieimg.com/lFDMV6wHnoo/
 END:VEVENT
 END:VCALENDAR
