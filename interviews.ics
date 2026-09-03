@@ -1635,6 +1635,27 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
 LOCATION:阿里巴巴视频面试（私人链接见邮件）
 END:VEVENT
 BEGIN:VEVENT
+UID:event-149@autumn-recruitment
+DTSTAMP:20260903T085117Z
+DTSTART:20260825T074000Z
+DTEND:20260825T084000Z
+SUMMARY:待办 · 滴滴 · 27届秋招-大模型算法工程师
+DESCRIPTION:创新事业部 | 27届秋招-大模型算法工程师 | 岗位
+ 职责：\n1、参与基础大语言模型应用研发；\n2、结合机
+ 器学习、强化学习等技术优化基础大语言模型；\n3、调
+ 研并探索SFT/RLHF方向前沿算法、框架，持续提升现有算法
+ 的效率与效果。\n\n任职要求：\n1、2027届毕业生，本科及
+ 以上学历，计算机科学、软件工程、人工智能及相关专
+ 业优先；\n2、对AI技术及AI应用具有浓厚兴趣，有实际使
+ 用主流大模型产品（如ChatGPT、Claude、Gemini等）的经验 | 
+ 官网状态：原“27届秋招-大模型算法工程师”（创新事
+ 业部）已被转推荐至“27届秋招-算法工程师（国际化外
+ 卖-分单）”。保留原始投递记录，原岗位不再作为独立
+ 流程跟进。
+LOCATION:https://campus.didiglobal.com/campus_apply/didiglobal/96064#/candi
+ dateHome/applications
+END:VEVENT
+BEGIN:VEVENT
 UID:event-112@autumn-recruitment
 DTSTAMP:20260820T061820Z
 DTSTART:20260825T100000Z
@@ -1835,15 +1856,15 @@ DTSTART:20260830T110000Z
 DTEND:20260830T124000Z
 SUMMARY:笔试 · 滴滴 · 27届秋招-算法工程师（国际化外卖-
  分单）
-DESCRIPTION:国际化外卖 | 27届秋招-算法工程师（国际化外卖
- -分单） | 滴滴 2027 届校招算法方向固定场在线笔试。岗
- 位：算法工程师（国际化外卖-分单）；考试时间 19:00–2
- 0:40，时长 100 分钟。需 Chrome 80+、电脑和摄像头，全程录
- 屏与抓拍；可使用本地编译器，不得使用 AI 工具。建议
- 提前完成系统练习与屏幕录制授权。登录凭据请查看原
- 始邀请邮件，未写入数据库。流程咨询：campus@didiglobal.co
- m。\n2026-09-01 用户确认已完成；官方通过/未通过结果待
- 通知，暂无单独复盘内容。
+DESCRIPTION:国际化事业部 | 27届秋招-算法工程师（国际化外
+ 卖-分单） | 滴滴 2027 届校招算法方向固定场在线笔试。
+ 岗位：算法工程师（国际化外卖-分单）；考试时间 19:00
+ –20:40，时长 100 分钟。需 Chrome 80+、电脑和摄像头，全
+ 程录屏与抓拍；可使用本地编译器，不得使用 AI 工具。
+ 建议提前完成系统练习与屏幕录制授权。登录凭据请查
+ 看原始邀请邮件，未写入数据库。流程咨询：campus@didiglo
+ bal.com。\n2026-09-01 用户确认已完成；官方通过/未通过结
+ 果待通知，暂无单独复盘内容。
 LOCATION:https://didi.acmcoder.com/cand/login?zxmn5pr9
 END:VEVENT
 BEGIN:VEVENT
@@ -2169,6 +2190,21 @@ DESCRIPTION:CTO Organization | 通用人工智能研究 | 联想校园招
  页面、使用 IM、佩戴耳机或传播题目。FAQ：http://oj.acmcode
  r.com/QA；系统故障联系 Exam@acmcoder.com。
 LOCATION:https://lenovo.acmcoder.com/cand/login
+END:VEVENT
+BEGIN:VEVENT
+UID:event-148@autumn-recruitment
+DTSTAMP:20260903T074144Z
+DTSTART:20260908T030000Z
+DTEND:20260908T040000Z
+SUMMARY:一面 · 原力灵机 · 【27届校招】具身智能后训练算
+ 法工程师
+DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
+ 程师 | 原力灵机【27届校招】具身智能后训练算法工程师
+ 视频面试。时间：2026-09-08 11:00（北京时间）。建议提前1
+ 0分钟调试摄像头和麦克风；如面试官迟到超过5分钟，可
+ 联系HR刘秋廷（+86 17616082157）；如需调整时间，应至少提
+ 前1天联系。
+LOCATION:https://dexmal-inc.feishu.cn/hire/short_url/pk_loVzS4Ds
 END:VEVENT
 BEGIN:VEVENT
 UID:event-143@autumn-recruitment
