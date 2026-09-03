@@ -2070,7 +2070,45 @@ DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
  师 | 同花顺HR陈雨波将简历转荐至多模态大模型算法部门
  并安排视频面试；开始前约5分钟发送同顺会议ID。电脑
  端建议Chrome参加。面试入口：https://job.10jqka.com.cn/#/meeting
- ?auditionId=11045411&code=b75ef33f13db7bcae9232ce54f0324f2
+ ?auditionId=11045411&code=b75ef33f13db7bcae9232ce54f0324f2\n\n【面试复
+ 盘｜2026-09-03】视频面试，约19:07开始、19:54结束，有效交
+ 流约47分钟；使用PPT自我介绍，无手撕代码。\n流程与问
+ 题：①自我介绍后由候选人自行选择项目展开；②深挖CC
+ Caption：为何不用直接蒸馏、44K训练数据构造、query生成
+ 与难度判断、长caption导致reward hacking和幻觉、2B级小模型
+ 逐sub-caption验证、OCR复杂海报上的中英文混杂与信息遗漏
+ 、是否包含推理型query；③介绍B站多镜头长视频评测：
+ 传统分段平均对镜头换序不敏感、基于排序相关性的聚
+ 合、DAC指标、人工评测成本及约76%相关性；面试官追问Sp
+ earman原理；④介绍阿里千问多业务Agent：9个业务、闪购
+ 约4个工具、打车十余个工具、多业务组合调用、tool-call
+ 与final response奖励、格式/工具选择/参数漏斗、课程学习
+ 、约8K线上回流并人工标注的数据、SFT数据偏置与skill rou
+ ting修正；⑤询问AI Coding使用习惯、数学背景对模型工作
+ 的帮助、是否亲自推导RL公式、未来方向及秋招/实习意
+ 向。\n表现较好：CCCaption问题、数据与reward hacking闭环讲
+ 得完整；能说明小reward model与sub-caption拆分的效率权衡；
+ Agent评测、RL奖励和线上数据回流具有真实细节；反问能
+ 继续追问实时多模态模型的下游落地。\n待改进：①Spearm
+ an解释明显卡顿，应直接给出对rank做Pearson相关及无重复
+ 秩时ρ=1-6Σd_i²/[n(n²-1)]，再解释换序为何降低相关性；
+ ②DAPO口径不够准确，原论文是过滤pass rate为0或1的prompt
+ 组并持续oversample填满有效batch，不是简单对同一组反复
+ 多采直到有差异；③数学背景回答较空且术语含混，应
+ 使用KL divergence并结合具体推导；④明确承认未手推PPO，
+ 暴露PPO clipped objective、importance ratio、GAE与GRPO组内优势推
+ 导薄弱；⑤项目叙述较长、重复和口头停顿较多，后续
+ 按背景—问题—方法—结果—局限压缩；⑥AI Coding中“
+ 不要相信它的test”容易产生歧义，应改成AI生成代码和
+ 测试都需独立oracle、日志、diff review及人工验收。\n团队
+ 信息：同花顺多模态部门分两条线。一条面向机器人，
+ 涉及具身智能、世界模型、VLN导航；另一条训练自有多
+ 模态基座模型，重点探索约0.5—1秒粒度、可边听边思考
+ 和被用户打断的实时全双工交互，而非传统turn-based问答
+ 。模型会用于虚拟人和量产机器人；探索理解与生成统
+ 一、虚拟人视频、机器人关节/表情action输出，action侧涉
+ 及diffusion/flow matching。候选人明确希望参加秋招，并对多
+ 模态Agent方向表达兴趣。
 LOCATION:视频面试 · 同顺会议
 END:VEVENT
 BEGIN:VEVENT
