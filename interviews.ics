@@ -2330,4 +2330,28 @@ DESCRIPTION:国际化广告创意与品牌 | 广告算法工程师 - 国际
  前入口。
 LOCATION:https://t.zijieimg.com/lFDMV6wHnoo/
 END:VEVENT
+BEGIN:VEVENT
+UID:event-153@autumn-recruitment
+DTSTAMP:20260904T131011Z
+DTSTART:20260915T070000Z
+DTEND:20260915T080000Z
+SUMMARY:三面 · 小鹏集团 · 【27届校招】多模态Agent算法工
+ 程师
+DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师 
+ | 校招正式岗位；工作地点：上海、北京、深圳；意向城
+ 市顺序：上海、深圳、北京；岗位类别：研发-算法；官
+ 网当前阶段：投递简历。\n流程更新（2026-08-21）：后续
+ 面试通知使用「基座模型/多模态模型算法工程师」名称
+ ，与本投递为同一流程；二面安排在 2026-08-26 16:00。 | 小
+ 鹏集团【27届校招】多模态Agent算法工程师三面，官方本
+ 轮邀约中岗位显示为“基座模型/多模态模型算法工程师
+ ”；用户确认这是同一投递流程的第三轮面试，并非独
+ 立岗位。形式为飞书视频面试，含代码考核。仅支持电
+ 脑端 coding；可使用飞书网页版或4.4以上客户端。建议提
+ 前测试账号、摄像头、麦克风和网络，并提前2—3分钟进
+ 入。联系人：张翰，+86 17521094047，zhangh142@xiaopeng.com；如
+ 需改期请及时联系。用户尚未明确是否已点击接受邀请
+ ，因此结果记为待确认。
+LOCATION:https://xiaopeng.feishu.cn/hire/short_url/nfrEprQFJB0
+END:VEVENT
 END:VCALENDAR
