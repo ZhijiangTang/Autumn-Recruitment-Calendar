@@ -2230,6 +2230,33 @@ DESCRIPTION:CTO Organization | 通用人工智能研究 | 联想校园招
 LOCATION:https://lenovo.acmcoder.com/cand/login
 END:VEVENT
 BEGIN:VEVENT
+UID:event-135@autumn-recruitment
+DTSTAMP:20260828T092443Z
+DTSTART:20260907T080000Z
+DTEND:20260907T090000Z
+SUMMARY:一面 · OPPO · AI研究员（AI多模态智能体）
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 岗位
+ 聚焦智能体基础模型、数据飞轮、继续预训练、Agentic RL
+ 、智能体自演进及 Harness Engineering，要求具备大模型/AI Ag
+ ent 构建优化评估经验与科研能力。 | OPPO AI研究员（AI多
+ 模态智能体）专业面试，视频面试。官方轮次名称为“
+ 专业面试”；按 AI 面试后的首场真人专业面试记录为一
+ 面。腾讯会议密码：249544。请提前 10 分钟进入并检查摄
+ 像头、麦克风及网络。确认链接：https://careers.oppo.com/feed
+ back?sign=J5VJbIlOkPoJs1Gulnz%2FOwokYpD0Nv6n%2B8z6EMH3FVoS5c4gCHORMVEWT%2F
+ qH%2F9K2ww1BBIAqlEefEV2L1A4U7fFnUb7%2FZXgJs1BfjIcP4IHZm%2BZIs%2FJHh69FqZg5
+ q29w；联系人：13728970612，v-lianglingling1@oppo.com。\n2026-09-01 
+ 用户说明未点击确认，因此本场 OPPO 专业面试并未进行
+ ；原 11:00 安排取消，等待招聘方提供下一次面试机会。\
+ n\n2026-09-04 收到新的正式邀约：专业面试调整至 2026-09-07 
+ 16:00，仍为首次真人专业面试；腾讯会议入口已更新，会
+ 议密码仍为 249544。需尽快通过原确认链接反馈是否参加
+ ；如需改期，应通过确认页面或联系 HR。原未确认的 11:0
+ 0 安排不再有效。
+LOCATION:https://meeting.tencent.com/dm/uQOv0cGYJyCv?roomId=260382499677468
+ 9249&roomCode=&passWord=249544
+END:VEVENT
+BEGIN:VEVENT
 UID:event-148@autumn-recruitment
 DTSTAMP:20260903T074144Z
 DTSTART:20260908T030000Z
