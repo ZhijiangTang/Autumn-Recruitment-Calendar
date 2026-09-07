@@ -2820,6 +2820,34 @@ DESCRIPTION:一面 · 字节跳动 · 广告算法工程师 - 国际化广
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-157@autumn-recruitment
+DTSTAMP:20260907T094113Z
+DTSTART:20260909T110000Z
+DTEND:20260909T130000Z
+SUMMARY:笔试 · 华为 · AI模型工程师-多模态大模型
+TRANSP:OPAQUE
+DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
+ 多模态大模型 | 固定场次 · 2026-09-09 19:00 · 120 分钟 | 招
+ 聘类别：应届生；岗位类别：研发类；业务部门：智能
+ 汽车解决方案BU解决方案部；工作地点：上海、东莞、苏
+ 州、武汉。 | 试卷：【华为校园招聘 AI】；考试窗口固
+ 定为 2026-09-09 19:00–21:00，时长 120 分钟。建议提前 15 分
+ 钟核对信息、调试设备并按要求下载客户端。全程双机
+ 位监控，需准备带摄像头的电脑、手机、支架，确保电
+ 量和网络充足。确认参加：https://career.huawei.com/reccampporta
+ l/interview/feedbackResult.html?appointPersonId=3037008&isAbandon=1&type=e
+ xam&recType=CR；考试入口为私人专属链接，请勿转发。
+LOCATION:https://shixizhi.huawei.com/iexam/1366212223726481409/open/examInf
+ o?examId=1956276330867531778&identifyCode=AAAADAAAABAAAAAATv6cRSsbORydwFr2
+ vp9jESPzwcny9rdVGuTjrrawBOyTntene7otlzyjwUk6t_Bn6sUqAKGLWiTNFxUXcC1JSg
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:笔试 · 华为 · AI模型工程师-多模态大模型
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-156@autumn-recruitment
 DTSTAMP:20260907T074947Z
 DTSTART:20260910T030000Z
