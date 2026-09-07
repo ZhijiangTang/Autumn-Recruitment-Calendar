@@ -2740,15 +2740,14 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 固定
  。需尽快通过原确认链接反馈是否参加；如需改期，应
  通过确认页面或联系 HR。原未确认的 11:00 安排不再有效
  。\n\n2026-09-04 用户已通过官方确认入口确认参加本场面
- 试。
+ 试。\n\n2026-09-07：用户已完成本场面试。面试以项目深挖
+ 为主，重点讨论 Agent 自动化评测、Next-action RL、课程学
+ 习、多步环境交互、self-correction 与 Caption RL；无算法题
+ 或现场编码。完整复盘见 data/knowledge/OPPO-AI研究员（AI多
+ 模态智能体）/review.md。
 LOCATION:https://meeting.tencent.com/dm/uQOv0cGYJyCv?roomId=260382499677468
  9249&roomCode=&passWord=249544
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · OPPO · AI研究员（AI多模态智能体）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-148@autumn-recruitment
@@ -2821,6 +2820,28 @@ DESCRIPTION:一面 · 字节跳动 · 广告算法工程师 - 国际化广
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-156@autumn-recruitment
+DTSTAMP:20260907T074947Z
+DTSTART:20260910T030000Z
+DTEND:20260910T034500Z
+SUMMARY:一面 · 浪漫极客（北京）科技有限公司 · 算法工
+ 程师-实习生/应届（图像影像）
+TRANSP:OPAQUE
+DESCRIPTION:图像影像 | 算法工程师-实习生/应届（图像影像
+ ） | 固定场次 · 2026-09-10 11:00 · 45 分钟 | 视频面试；联
+ 系人：韩平平，电话：13011217076，邮箱：hanpingping@romangic.
+ com；如需改期请及时联系。
+LOCATION:腾讯会议：https://meeting.tencent.com/dm/Y84bCLBhfmH5（会
+ 议号：780964740）
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 浪漫极客（北京）科技有限公司 · 算法
+ 工程师-实习生/应届（图像影像）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-155@autumn-recruitment
 DTSTAMP:20260907T051535Z
 DTSTART:20260911T070000Z
@@ -2830,13 +2851,12 @@ TRANSP:OPAQUE
 DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
  场次 · 2026-09-11 15:00 · 60 分钟 | 深信服科技27届[X-STAR]顶
  尖人才计划；已进入线上单人面试环节。具体技术岗位
- 与业务部门待补充。 | 已成功预约周五 15:00 面试。预约
- 详情（私人链接）：https://app.mokahr.com/candidate-appointment-in
- terview/e4e5095fc0e0558667505573224b33fe7b2fb65506472b7c36c246b3f2355dfea2
- 49cfc5cad51796eb2de9834d29f079095727f3f98e1a8eb49484eb29bf6e60568e4b7b48e7
- 53ebf00308fc88deea56?businessUnitId=0&orgId=sangfor#/appointment；可预
- 约期限：2026-09-09 12:00。
-LOCATION:线上（Moka 面试预约）
+ 与业务部门待补充。 | 深信服 27届 [X-STAR] 顶尖人才计划
+ （本/硕）正式二面邀请。联系人：徐润，xurun@sangfor.com.c
+ n。请提前 5 分钟使用电脑测试设备并进入会议；预约成
+ 功后不可修改；如放弃则后续不再安排。
+LOCATION:腾讯会议：https://meeting.tencent.com/dm/y0G85yjIUyuX（会
+ 议号：289928474）
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
