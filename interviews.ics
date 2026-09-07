@@ -2773,6 +2773,28 @@ DESCRIPTION:一面 · 原力灵机 · 【27届校招】具身智能后训
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-158@autumn-recruitment
+DTSTAMP:20260907T115110Z
+DTSTART:20260908T073000Z
+DTEND:20260908T083000Z
+SUMMARY:一面 · 联想集团 · 通用人工智能研究
+TRANSP:OPAQUE
+DESCRIPTION:CTO Organization | 通用人工智能研究 | 固定场次 · 2
+ 026-09-08 15:30 · 60 分钟 | Microsoft Teams 视频面试，预计 40–
+ 60 分钟；请提前调试电脑、摄像头和麦克风。会议 ID：44
+ 9 908 656 561 651；密码：zJ2uP2SU。邮件原文要求于 2026-09-08 2
+ 4:00 前回复确认（该时刻晚于面试开始，建议尽快确认）
+ 。电话拨入：+86 400 813 1243，电话会议 ID：656 846 43#。
+LOCATION:https://teams.microsoft.com/meet/449908656561651?p=c0dnbPwLW2y9igE
+ R1b
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 联想集团 · 通用人工智能研究
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-143@autumn-recruitment
 DTSTAMP:20260901T094304Z
 DTSTART:20260909T070000Z
