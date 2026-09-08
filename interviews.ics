@@ -2892,6 +2892,32 @@ DESCRIPTION:一面 · 浪漫极客（北京）科技有限公司 · 算法
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-159@autumn-recruitment
+DTSTAMP:20260908T060637Z
+DTSTART:20260911T060000Z
+DTEND:20260911T070000Z
+SUMMARY:一面 · 科大讯飞 · AI研究算法工程师-多模态大模
+ 型方向(J12673)
+TRANSP:OPAQUE
+DESCRIPTION:AI研究院 | AI研究算法工程师-多模态大模型方向(
+ J12673) | 固定场次 · 2026-09-11 14:00 · 时长待确认 | 时长未
+ 确认，日历暂占 60 分钟 | 飞星计划，全职，合肥/广州，
+ 研究算法类。负责CV/NLP跨领域研究、多模态预训练与强
+ 化学习后训练，面向教育、医疗、汽车应用；2027届硕士
+ 及以上，顶会论文与评测竞赛经验优先。 | 轮次待确认
+ ；腾讯会议 ID：304899234；HR：吴致研，zywu56@iflytek.com，188
+ 01213037；建议提前 10 分钟入会并准备作品集、项目报告
+ 和代表性成果。
+LOCATION:腾讯会议：https://meeting.tencent.com/dm/bV9Unm25XXB2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 科大讯飞 · AI研究算法工程师-多模态大
+ 模型方向(J12673)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-155@autumn-recruitment
 DTSTAMP:20260907T051535Z
 DTSTART:20260911T070000Z
