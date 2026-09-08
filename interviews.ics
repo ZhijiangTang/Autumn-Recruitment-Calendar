@@ -2765,12 +2765,6 @@ DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
  7616082157）；如需调整时间，应至少提前1天联系。
 LOCATION:https://dexmal-inc.feishu.cn/hire/short_url/pk_loVzS4Ds
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 原力灵机 · 【27届校招】具身智能后训
- 练算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-158@autumn-recruitment
@@ -2938,6 +2932,30 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-160@autumn-recruitment
+DTSTAMP:20260908T064537Z
+DTSTART:20260914T080000Z
+DTEND:20260914T090000Z
+SUMMARY:二面 · 原力灵机 · 【27届校招】具身智能后训练算
+ 法工程师
+TRANSP:OPAQUE
+DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
+ 程师 | 固定场次 · 2026-09-14 16:00 · 时长待确认 | 时长未
+ 确认，日历暂占 60 分钟 | 通知未标明轮次；因 2026-09-08 
+ 一面已完成并随后收到本次邀约，按二面记录。HR：刘秋
+ 廷，+86 17616082157；如需改期须提前 1 天联系；建议提前 1
+ 0 分钟调试设备，面试官迟到超过 5 分钟时联系 HR。
+LOCATION:飞书视频面试：https://dexmal-inc.feishu.cn/hire/short_url/Q
+ JGqUNzxce4
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 原力灵机 · 【27届校招】具身智能后训
+ 练算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
