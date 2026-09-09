@@ -2621,10 +2621,9 @@ UID:event-141@autumn-recruitment
 DTSTAMP:20260901T030415Z
 DTSTART:20260904T155900Z
 DTEND:20260904T160000Z
-SUMMARY:时间待核实 · AI测评 · 联想集团 · 通用人工智能
- 研究
+SUMMARY:时间待核实 · AI测评 · 联想集团 · Agent算法研究员
 TRANSP:TRANSPARENT
-DESCRIPTION:CTO Organization | 通用人工智能研究 | 时间性质待
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 时间性质待
  核实 · 原记录 2026-09-04 23:59 | 联想校园招聘在线能力测
  评（SHL）。邮件说明：仅简历初筛通过者会收到测评邀
  请；须在收到邀请后的 3 个自然日内完成。数据库以 2026
@@ -2644,10 +2643,10 @@ UID:event-142@autumn-recruitment
 DTSTAMP:20260901T030415Z
 DTSTART:20260904T155900Z
 DTEND:20260904T160000Z
-SUMMARY:时间待核实 · 技术笔试 · 联想集团 · 通用人工智
- 能研究
+SUMMARY:时间待核实 · 技术笔试 · 联想集团 · Agent算法研
+ 究员
 TRANSP:TRANSPARENT
-DESCRIPTION:CTO Organization | 通用人工智能研究 | 时间性质待
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 时间性质待
  核实 · 原记录 2026-09-04 23:59 | 联想校园招聘在线技术笔
  试（ACMCoder），与 SHL 在线能力测评为两个独立环节。须
  在收到邀请后的 3 个自然日内完成；数据库以 2026-09-04 23
@@ -2773,21 +2772,22 @@ UID:event-158@autumn-recruitment
 DTSTAMP:20260907T115110Z
 DTSTART:20260908T073000Z
 DTEND:20260908T083000Z
-SUMMARY:一面 · 联想集团 · 通用人工智能研究
+SUMMARY:一面 · 联想集团 · Agent算法研究员
 TRANSP:OPAQUE
-DESCRIPTION:CTO Organization | 通用人工智能研究 | 固定场次 · 2
- 026-09-08 15:30 · 60 分钟 | Microsoft Teams 视频面试，预计 40–
- 60 分钟；请提前调试电脑、摄像头和麦克风。会议 ID：44
- 9 908 656 561 651；密码：zJ2uP2SU。邮件原文要求于 2026-09-08 2
- 4:00 前回复确认（该时刻晚于面试开始，建议尽快确认）
- 。电话拨入：+86 400 813 1243，电话会议 ID：656 846 43#。
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
+  2026-09-08 15:30 · 60 分钟 | Microsoft Teams 视频面试，预计 40
+ –60 分钟；请提前调试电脑、摄像头和麦克风。会议 ID
+ ：449 908 656 561 651；密码：zJ2uP2SU。邮件原文要求于 2026-09
+ -08 24:00 前回复确认（该时刻晚于面试开始，建议尽快确
+ 认）。电话拨入：+86 400 813 1243，电话会议 ID：656 846 43#
+ 。
 LOCATION:https://teams.microsoft.com/meet/449908656561651?p=c0dnbPwLW2y9igE
  R1b
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:一面 · 联想集团 · 通用人工智能研究
+DESCRIPTION:一面 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -2827,15 +2827,16 @@ DESCRIPTION:国际化广告创意与品牌 | 广告算法工程师 - 国际
  HR 建议重点梳理 coding、基础知识和项目亮点；无广告经
  验不构成硬性障碍。\n2026-09-02 面试安排变更：原定 2026-0
  9-07 15:00，现调整为 2026-09-09 15:00；新链接：https://t.zijieim
- g.com/lFDMV6wHnoo/，原链接不再作为当前入口。
+ g.com/lFDMV6wHnoo/，原链接不再作为当前入口。\n\n2026-09-09 
+ 一面约5分钟结束。面试官确认校招、国际化广告创意与
+ 品牌；候选人PPT自介主线为Agent评测/后训练。职业规划
+ 答主要做Agent/harness/后训练。面试官说明TikTok广告团队为
+ 传统搜广推，几乎不做Agent；询问是否感兴趣。候选人承
+ 认无搜广推经历，反问大模型策略后表示沉淀不够、不
+ 太会考虑。双方结束。用户确认本岗挂掉。未进入项目
+ 深挖/广告基础/手撕。
 LOCATION:https://t.zijieimg.com/lFDMV6wHnoo/
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 字节跳动 · 广告算法工程师 - 国际化广
- 告创意与品牌
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-161@autumn-recruitment
@@ -3042,6 +3043,46 @@ DESCRIPTION:二面 · 原力灵机 · 【27届校招】具身智能后训
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-165@autumn-recruitment
+DTSTAMP:20260909T082642Z
+DTSTART:20260914T100000Z
+DTEND:20260914T101500Z
+SUMMARY:作答计划 · 待办 · 联想集团 · Agent算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 截止 2026-09-
+ 14 23:59 · 计划 2026-09-14 18:00 · 作答 15 分钟 · 最迟开始 20
+ 26-09-14 23:44（未留调试缓冲） | 回复联想招聘邮件，确认
+ 参加2026-09-16 15:00的Agent算法研究员二面。官方要求：9月1
+ 4日之前回复。
+LOCATION:邮件回复
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:作答计划 · 待办 · 联想集团 · Agent算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-165-deadline@autumn-recruitment
+DTSTAMP:20260909T082642Z
+DTSTART:20260914T155900Z
+DTEND:20260914T160000Z
+SUMMARY:截止 · 待办 · 联想集团 · Agent算法研究员
+TRANSP:TRANSPARENT
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 截止 2026-09-
+ 14 23:59 · 尚未安排作答时段 · 作答 15 分钟 · 最迟开始 2
+ 026-09-14 23:44（未留调试缓冲） | 回复联想招聘邮件，确
+ 认参加2026-09-16 15:00的Agent算法研究员二面。官方要求：9
+ 月14日之前回复。
+LOCATION:邮件回复
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT45M
+ACTION:DISPLAY
+DESCRIPTION:截止 · 待办 · 联想集团 · Agent算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-153@autumn-recruitment
 DTSTAMP:20260904T131011Z
 DTSTART:20260915T070000Z
@@ -3072,6 +3113,28 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 小鹏集团 · 【27届校招】多模态Agent算法
  工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-164@autumn-recruitment
+DTSTAMP:20260909T082642Z
+DTSTART:20260916T070000Z
+DTEND:20260916T074500Z
+SUMMARY:二面 · 联想集团 · Agent算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
+  2026-09-16 15:00 · 45 分钟 | 联想2026秋季招聘线上 1V1 二面
+ ，预计45分钟，会有编程题考察，需提前准备可运行环境
+ 。会议链接：https://teams.microsoft.com/meet/476535029636924?p=ukchb
+ dF0J1XXyQtgws；会议 ID：476 535 029 636 924；密码：qt2fP9Hk。电
+ 话拨入：+86 400 813 1243；电话会议 ID：387 117 67#。请于2026-
+ 09-14之前回复邮件确认参加。
+LOCATION:Microsoft Teams
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 END:VCALENDAR
