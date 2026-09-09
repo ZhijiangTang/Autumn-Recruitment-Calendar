@@ -1823,7 +1823,7 @@ DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 时间性
  请勿直接回复）\n请您确认是否接受\n接受\n拒绝\n\n2026-08
  -27 用户将待复盘标记为已完成（跳过结构化复盘）。
 LOCATION:https://app.mokahr.com/su/ksvqfr
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-117@autumn-recruitment
@@ -2180,7 +2180,7 @@ DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 固定场
  或后训练，与个人方向存在一定偏差。详细复盘：data/kno
  wledge/中兴通讯-未来领军 · AI算法工程师/review.md
 LOCATION:腾讯会议：https://meeting.tencent.com/dm/PpoFRPKYb0UP
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-119@autumn-recruitment
@@ -2525,9 +2525,12 @@ DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 固定场
  试信号偏积极但不能据此判断结果：交流明显超时、持
  续场景追问，并反复核实Offer、薪资和地点。详细复盘见
   data/knowledge/中兴通讯-未来领军 · AI算法工程师/review.md
- 。
+ 。\n\n2026-09-09：未来领军项目结果未通过；招聘方表示未
+ 能在本届未来领军中匹配到合适职位。该结果仅终止未
+ 来领军流程，不代表中兴普通秋招结束。简历将按投递
+ 意向自动转入秋招流程，并免去秋招测评、笔试。
 LOCATION:https://meeting.tencent.com/dm/SNMH2FluS3aE
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-145@autumn-recruitment
@@ -2842,11 +2845,11 @@ BEGIN:VEVENT
 UID:event-161@autumn-recruitment
 DTSTAMP:20260909T023354Z
 DTSTART:20260909T090000Z
-DTEND:20260909T100000Z
+DTEND:20260909T094900Z
 SUMMARY:二面 · 腾讯 · 算法-多模态方向
 TRANSP:OPAQUE
 DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
- 26-09-09 17:00 · 60 分钟 | 腾讯2027校园招聘算法研究类通用
+ 26-09-09 17:00 · 49 分钟 | 腾讯2027校园招聘算法研究类通用
  岗位，覆盖多模态理解与生成；工作地点包括深圳、北
  京、上海、广州，可由多个事业群筛选。当前进度：简
  历筛选中，简历已进入简历库供面试官筛选。\n流程更新
@@ -2861,7 +2864,13 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  tml\\n如超过预定时间10分钟面试官仍未上线，请联系0755-8
  6013388，接通后输入分机855999，或回复面试邮件。\\n请提
  前10分钟入会并检测设备；未经腾讯招聘官方许可，不得
- 录音或录像。
+ 录音或录像。\n\n2026-09-09：二面已完成，实际有效沟通约
+ 49分钟，未进行代码或AI Coding。主要内容：秋招与Offer进
+ 展、阿里生活服务Agent评测及RL、skill routing多路径判定、
+ reward curriculum、GRPO/multi-step信用分配、CCCaption、职业选择
+ 与scope、AI Coding时代工程能力，以及王者万象棋灵宝/游
+ 戏教练Agent设计。复盘已追加到review.md；官方结果待通知
+ 。
 LOCATION:https://meeting.tencent.com/dm/WOScSGyljfUm
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -2892,11 +2901,6 @@ LOCATION:https://shixizhi.huawei.com/iexam/1366212223726481409/open/examInf
  o?examId=1956276330867531778&identifyCode=AAAADAAAABAAAAAATv6cRSsbORydwFr2
  vp9jESPzwcny9rdVGuTjrrawBOyTntene7otlzyjwUk6t_Bn6sUqAKGLWiTNFxUXcC1JSg
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:笔试 · 华为 · AI模型工程师-多模态大模型
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-156@autumn-recruitment
