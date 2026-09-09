@@ -2836,6 +2836,38 @@ DESCRIPTION:一面 · 字节跳动 · 广告算法工程师 - 国际化广
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-161@autumn-recruitment
+DTSTAMP:20260909T023354Z
+DTSTART:20260909T090000Z
+DTEND:20260909T100000Z
+SUMMARY:二面 · 腾讯 · 算法-多模态方向
+TRANSP:OPAQUE
+DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
+ 26-09-09 17:00 · 60 分钟 | 腾讯2027校园招聘算法研究类通用
+ 岗位，覆盖多模态理解与生成；工作地点包括深圳、北
+ 京、上海、广州，可由多个事业群筛选。当前进度：简
+ 历筛选中，简历已进入简历库供面试官筛选。\n流程更新
+ （2026-08-24）：面试邀请中的职位名称为「算法工程师」
+ ，部门为腾讯AI平台部；与2026-08-11投递的「算法-多模态
+ 方向」属于同一流程。 | 腾讯校园招聘算法工程师二面
+ ，部门：腾讯AI平台部。面试形式：单面；方式：腾讯会
+ 议。面试项目在通知中未填写。\\n本场需要考核代码能
+ 力，且面试官可能考核AI实战能力；请使用PC端Chrome参加
+ 。AI实战操作指南：https://cdn.tencentgroup.qq.com/vv_static/ide/AI
+ Coding.pdf\\n确认或改期入口：https://join.qq.com/interview_reply.h
+ tml\\n如超过预定时间10分钟面试官仍未上线，请联系0755-8
+ 6013388，接通后输入分机855999，或回复面试邮件。\\n请提
+ 前10分钟入会并检测设备；未经腾讯招聘官方许可，不得
+ 录音或录像。
+LOCATION:https://meeting.tencent.com/dm/WOScSGyljfUm
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 腾讯 · 算法-多模态方向
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-157@autumn-recruitment
 DTSTAMP:20260907T094113Z
 DTSTART:20260909T110000Z
