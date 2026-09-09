@@ -1062,7 +1062,7 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  。\n2026-08-13 收到快手通知：已通过前序评估，进入下一
  轮选时。
 LOCATION:视频面试
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-85@autumn-recruitment
@@ -1228,7 +1228,7 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  小时内完成选时；入口见 2026-08-13 快手邮件。\n2026-08-14
  ：已完成选时，下一轮正式安排为2026-08-19 20:00。
 LOCATION:在线
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-88@autumn-recruitment
@@ -1431,9 +1431,11 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  日程提前安排在本周日。专属链接与实名信息绑定，须
  本人独立作答。建议使用Chrome、保证稳定网络，并预留
  连续作答时间；有计时项目时离开页面仍会继续倒计时
- 。系统问题联系电话：19938296608（工作日9:30-18:00）。
+ 。系统问题联系电话：19938296608（工作日9:30-18:00）。\n流
+ 程关闭：用户已确认本岗位未通过，此待办关闭；此处
+ 已完成仅表示待办已关闭，不表示测评实际已作答。
 LOCATION:https://datatalk360.com/XZVxZ
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-94@autumn-recruitment
@@ -1589,7 +1591,7 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  。确认入口：https://campus.kuaishou.cn/recruit/campus/e/interview.ht
  ml?code=63c6edee-f5dc-4938-b803-ede4fe2748a9
 LOCATION:https://viewcoder.qingque.cn/i/fcy-fwrt-kvx
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-104@autumn-recruitment
@@ -2006,7 +2008,7 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  ata/knowledge/快手-【快Star】多模态大模型算法工程师-Keye/r
  eview.md。官方结果待通知。
 LOCATION:https://viewcoder.qingque.cn/i/byp-olta-ulu
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-120@autumn-recruitment
@@ -2915,6 +2917,55 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:一面 · 浪漫极客（北京）科技有限公司 · 算法
  工程师-实习生/应届（图像影像）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-163@autumn-recruitment
+DTSTAMP:20260909T060547Z
+DTSTART:20260910T073000Z
+DTEND:20260910T083000Z
+SUMMARY:三面 · 元戎启行 · 【2027秋招】大模型算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
+ 师 | 固定场次 · 2026-09-10 15:30 · 60 分钟 | 元戎启行 2027 
+ 秋招大模型算法工程师，视频面试邀约；具体团队职责
+ 待面试反问确认。 | 元戎启行（Deeproute.ai）【2027秋招】
+ 大模型算法工程师视频面试。邮件未注明轮次；一面（ev
+ ent-64，2026-08-13）已完成，二面（event-121，2026-09-01）已通
+ 过，按下一场记为三面。\n面试时间：2026年9月10日 星期
+ 四 15:30；时长 1 小时（可能延长，请预留充足时间）。
+ 形式：视频面试。\n面试地址：https://vc.feishu.cn/j/503149552
+ （会议号: 503149552）。请复制链接到 PC 端浏览器（推荐 C
+ hrome / Firefox），确保麦克风可用；提前 10 分钟调试设备
+ 并进入等候。\n联系人：王婷，17318946273，tingwang@deeproute.
+ ai。请关注【元戎启行招聘】微信公众号。\n邮件要求确
+ 认是否参加（参加 / 不参加 / 更改面试时间）；此邮件
+ 由企业操作、Moka 系统代发，请勿直接回复。未替用户点
+ 击确认入口。\n\n——邮件原文——\n亲爱的唐治江同学
+ ，\n你好！\n        感谢你对深圳元戎启行科技有限公司
+ （Deeproute.ai）的关注，我们诚邀你参与【2027秋招】大模
+ 型算法工程师岗位的 面试，具体安排如下：\n面试时间
+ ：2026年9月10日 星期四  15:30\n面试时长：1小时  （面试时
+ 间可能会有所延长，请您预留充足时间）\n面试形式：视
+ 频面试\n面试地址：https://vc.feishu.cn/j/503149552（会议号: 50
+ 3149552）（请复制此链接到PC端浏览器（推荐Chrome 浏览器/
+ Firefox 浏览器）参加在线面试，请确保麦克风可用）\n如
+ 面试安排有任何变动，请提前联系HR\n联系人：王婷1731894
+ 6273tingwang@deeproute.ai\n请提前准备一台电脑并保证网络畅
+ 通，提前10分钟调试好设备，点击链接进入面试等待\n请
+ 关注【元戎启行招聘】微信公众号，获取更多公司及招
+ 聘信息。\n感谢你投递Deeproute.ai，祝你面试顺利~\nDeeproute
+ .ai人力资源部\n请您确认是否参加\n参加\n不参加\n更改面
+ 试时间\n此邮件由企业操作、Moka系统代发，请勿直接回
+ 复。\n如有任何疑问，欢迎与招聘负责人联系，随时为您
+ 效劳。\n
+LOCATION:https://vc.feishu.cn/j/503149552
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 元戎启行 · 【2027秋招】大模型算法工程
+ 师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
