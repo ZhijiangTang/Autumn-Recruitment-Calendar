@@ -2538,7 +2538,7 @@ DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
  过/未通过。
 LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14650
  07542992898&auto_login=2
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-145-deadline@autumn-recruitment
@@ -2564,7 +2564,7 @@ DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
  通过/未通过。
 LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14650
  07542992898&auto_login=2
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-146@autumn-recruitment
@@ -2870,11 +2870,13 @@ DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
  位监控，需准备带摄像头的电脑、手机、支架，确保电
  量和网络充足。确认参加：https://career.huawei.com/reccampporta
  l/interview/feedbackResult.html?appointPersonId=3037008&isAbandon=1&type=e
- xam&recType=CR；考试入口为私人专属链接，请勿转发。
+ xam&recType=CR；考试入口为私人专属链接，请勿转发。\n\n20
+ 26-09-10：用户确认已主动撤销该岗位投递，不再继续流程
+ ；这是个人选择，并非公司筛选未通过。
 LOCATION:https://shixizhi.huawei.com/iexam/1366212223726481409/open/examInf
  o?examId=1956276330867531778&identifyCode=AAAADAAAABAAAAAATv6cRSsbORydwFr2
  vp9jESPzwcny9rdVGuTjrrawBOyTntene7otlzyjwUk6t_Bn6sUqAKGLWiTNFxUXcC1JSg
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-156@autumn-recruitment
@@ -3113,6 +3115,35 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 联想集团 · Agent算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-167@autumn-recruitment
+DTSTAMP:20260910T041633Z
+DTSTART:20260917T090000Z
+DTEND:20260917T100000Z
+SUMMARY:一面 · 地平线 · 【2027届校招】多模态大模型算法
+ 工程师-预研
+TRANSP:OPAQUE
+DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
+ 工程师-预研 | 固定场次 · 2026-09-17 17:00 · 60 分钟 | 第一
+ 志愿；意向工作地点：上海市-嘉定区；机构：算法预研
+ 部。负责自动驾驶原生多模态大模型研发、世界模型落
+ 地与模型评估链路建设。 | 地平线视频面试邀约；邮件
+ 未注明轮次，因该投递此前仅有简历初筛，按一面记录
+ ，轮次待确认。接受面试：https://email.wintalent.cn/wt/Horizon/
+ kurl?k=zIB3EjabMvyIfama&sign=8059cd6370399e6ab3d722b41da6910dc2dfbe0690c96
+ 26bb93c670034e5cab3；拒绝面试：https://email.wintalent.cn/wt/Horizon
+ /kurl?k=aQ73ieaj6jYrmaz2&sign=8059cd6370399e6a333249d234127c719669eca4101b
+ 746fb93c670034e5cab3；如需改期至少提前1天联系HR：010-8345-255
+ 1；若面试官迟到超过10分钟请联系HR。
+LOCATION:https://vc.feishu.cn/j/776789331?locale=1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 地平线 · 【2027届校招】多模态大模型算
+ 法工程师-预研
 END:VALARM
 END:VEVENT
 END:VCALENDAR
