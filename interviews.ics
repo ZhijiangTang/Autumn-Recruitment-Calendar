@@ -3073,6 +3073,61 @@ LOCATION:腾讯会议：https://meeting.tencent.com/dm/y0G85yjIUyuX（会
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:event-175@autumn-recruitment
+DTSTAMP:20260911T094259Z
+DTSTART:20260912T070000Z
+DTEND:20260912T090000Z
+SUMMARY:作答计划 · 笔试 · 中国电信 · 【2027校招】策略工
+ 程师
+TRANSP:OPAQUE
+DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
+  截止 2026-09-13 23:59 · 计划 2026-09-12 15:00 · 作答 120 分钟 
+ · 最迟开始 2026-09-13 21:59（未留调试缓冲） | 中电信人工
+ 智能公司2027校园招聘策略工程师。2026-09-11收到在线笔试
+ 邀请，已通过简历筛选。笔试由招聘方自主安排，可在
+ 截止前自行选择时间完成；官方截止为2026-09-13 24:00，邮
+ 件未注明实际考试时长。 | 用户计划于本周六2026-09-12 15:
+ 00完成，暂预留120分钟；官方邮件未注明实际考试时长，
+ 开始前应先核对系统显示时长。官方截止时间为2026-09-13 
+ 24:00。建议使用Chrome；突发情况可关闭浏览器后重新登录
+ 。个人专属考试入口存于投递记录，不写入公开日历。
+LOCATION:在线笔试（牛客网；个人入口见投递详情）
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:作答计划 · 笔试 · 中国电信 · 【2027校招】策
+ 略工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-175-deadline@autumn-recruitment
+DTSTAMP:20260911T094259Z
+DTSTART:20260913T155900Z
+DTEND:20260913T160000Z
+SUMMARY:截止 · 笔试 · 中国电信 · 【2027校招】策略工程师
+TRANSP:TRANSPARENT
+DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
+  截止 2026-09-13 23:59 · 尚未安排作答时段 · 作答 120 分钟 
+ · 最迟开始 2026-09-13 21:59（未留调试缓冲） | 中电信人工
+ 智能公司2027校园招聘策略工程师。2026-09-11收到在线笔试
+ 邀请，已通过简历筛选。笔试由招聘方自主安排，可在
+ 截止前自行选择时间完成；官方截止为2026-09-13 24:00，邮
+ 件未注明实际考试时长。 | 用户计划于本周六2026-09-12 15:
+ 00完成，暂预留120分钟；官方邮件未注明实际考试时长，
+ 开始前应先核对系统显示时长。官方截止时间为2026-09-13 
+ 24:00。建议使用Chrome；突发情况可关闭浏览器后重新登录
+ 。个人专属考试入口存于投递记录，不写入公开日历。
+LOCATION:在线笔试（牛客网；个人入口见投递详情）
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT150M
+ACTION:DISPLAY
+DESCRIPTION:截止 · 笔试 · 中国电信 · 【2027校招】策略工
+ 程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-170@autumn-recruitment
 DTSTAMP:20260911T042719Z
 DTSTART:20260913T110000Z
