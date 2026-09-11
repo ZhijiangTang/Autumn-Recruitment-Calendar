@@ -528,18 +528,20 @@ DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
  模型）（校招） | 固定场次 · 2026-07-29 19:00 · 时长待确
  认 | 时长未确认，日历暂占 60 分钟 | B-UP 校招；B 站主站
  搜索算法与大语言模型方向。面试反问获悉团队主要负
- 责主站搜索推荐，并承担 AI 搜索等 AI 需求。 | 哔哩哔哩
-  B-UP 搜索算法工程师（大语言模型）一面已于 2026-07-29 19
- :00 完成，面试官迟到约 15 分钟。主要内容：数据飞轮、
- 强化学习、多模态感知论文；围绕明星识别和品牌识别
- 追问数据生产管线；手撕数据流中位数；系统/算法题为 
- 2 亿多 Query 中找最热门的 10 个。反问获悉团队负责 B 站
- 主站搜索推荐，也承担 AI 搜索等 AI 需求。\n\n状态确认
- （2026-08-09）：用户尚未收到淘汰或下一轮通知，继续等
- 待官方结果。
+ 责主站搜索推荐，并承担 AI 搜索等 AI 需求。\n\n流程结
+ 果（2026-09-11）：用户确认 B 站该投递已挂，招聘流程终
+ 止。 | 哔哩哔哩 B-UP 搜索算法工程师（大语言模型）一
+ 面已于 2026-07-29 19:00 完成，面试官迟到约 15 分钟。主要
+ 内容：数据飞轮、强化学习、多模态感知论文；围绕明
+ 星识别和品牌识别追问数据生产管线；手撕数据流中位
+ 数；系统/算法题为 2 亿多 Query 中找最热门的 10 个。反
+ 问获悉团队负责 B 站主站搜索推荐，也承担 AI 搜索等 AI 
+ 需求。\n\n状态确认（2026-08-09）：用户尚未收到淘汰或下
+ 一轮通知，继续等待官方结果。\n\n后续状态补充：招聘
+ 同学此前明确确认一面通过，但下一轮长期未排期。
 LOCATION:https://interview.nowcoder.com/interview/31958441/interviewee?code
  =MQBLQdDz
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-59@autumn-recruitment
@@ -1544,13 +1546,15 @@ SUMMARY:一面 · 酷哇科技 · 多模态大模型算法工程师
 TRANSP:OPAQUE
 DESCRIPTION:默认部门 | 多模态大模型算法工程师 | 固定场次
   · 2026-08-17 15:30 · 时长待确认 | 时长未确认，日历暂占 6
- 0 分钟 | 腾讯会议视频面试，会议号100219305；建议提前5
- 分钟进入并测试网络与设备。联系人：齐月，18500460131。
- 原约2026-08-18 19:30已改期为本时间。如需再改期须至少提
- 前1天联系HR。邮件提供参加、不参加及更改时间的Moka确
- 认入口。
+ 0 分钟 | 流程结果（2026-09-11）：用户确认该岗位已挂，
+ 招聘流程终止。 | 腾讯会议视频面试，会议号100219305；
+ 建议提前5分钟进入并测试网络与设备。联系人：齐月，1
+ 8500460131。原约2026-08-18 19:30已改期为本时间。如需再改期
+ 须至少提前1天联系HR。邮件提供参加、不参加及更改时
+ 间的Moka确认入口。\n\n2026-09-11 用户确认：该岗位已挂，
+ 流程终止；未提供更具体淘汰原因。
 LOCATION:https://meeting.tencent.com/dm/uRi0S0ypElx3
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-91@autumn-recruitment
@@ -1757,21 +1761,23 @@ SUMMARY:一面 · 美团 · 【北斗】广告大模型算法工程师 -【
 TRANSP:OPAQUE
 DESCRIPTION:核心本地商业-业务研发平台 | 【北斗】广告大
  模型算法工程师 -【大模型应用】 | 固定场次 · 2026-08-21 
- 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分钟 | 美
- 团视频面试（建议 PC）。邮件未标明轮次，记一面，轮
- 次待确认。\n面试部门：核心本地商业-业务研发平台。\n
- 联系人：13858872710，hezhongyao@meituan.com。\n进度/手册见校
- 招邮件；系统邮件请勿直接回复。\n职位：【北斗】广告
- 大模型算法工程师 -【大模型应用】。\n\n——面试复盘
- ——\n2026-08-21 美团北斗广告大模型应用一面已完成。深
- 挖二方 Agent 评测、数据飞轮、LongCode 时序评测、CCCaption 
- 双奖励 RL、多模态 GRPO 框架适配、数据清洗质量与收益
- 代理指标、Agent RL/Harness/RSI/OPD。团队为美团广告搜索推
- 荐与模型自迭代方向。详细复盘：data/knowledge/美团-【北
- 斗】广告大模型算法工程师-【大模型应用】/review-一面-2
- 026-08-21.md。
+ 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分钟 | 流
+ 程结果（2026-09-11）：用户确认该岗位已挂，招聘流程终
+ 止。 | 美团视频面试（建议 PC）。邮件未标明轮次，记
+ 一面，轮次待确认。\n面试部门：核心本地商业-业务研
+ 发平台。\n联系人：13858872710，hezhongyao@meituan.com。\n进度/
+ 手册见校招邮件；系统邮件请勿直接回复。\n职位：【北
+ 斗】广告大模型算法工程师 -【大模型应用】。\n\n——
+ 面试复盘——\n2026-08-21 美团北斗广告大模型应用一面已
+ 完成。深挖二方 Agent 评测、数据飞轮、LongCode 时序评测
+ 、CCCaption 双奖励 RL、多模态 GRPO 框架适配、数据清洗质
+ 量与收益代理指标、Agent RL/Harness/RSI/OPD。团队为美团广
+ 告搜索推荐与模型自迭代方向。详细复盘：data/knowledge/
+ 美团-【北斗】广告大模型算法工程师-【大模型应用】/re
+ view-一面-2026-08-21.md。\n\n2026-09-11 用户确认：该岗位已挂
+ ，流程终止；未提供更具体淘汰原因。
 LOCATION:http://dpurl.cn/m6kWGn3z
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-107@autumn-recruitment
@@ -1920,16 +1926,19 @@ SUMMARY:一面 · 小米 · 顶尖应届-垂域Agentic大模型算法工程
 TRANSP:OPAQUE
 DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
  法工程师-AI实验室 | 固定场次 · 2026-08-24 15:00 · 时长待
- 确认 | 时长未确认，日历暂占 60 分钟 | 视频面试；小米A
- I实验室。技术岗位可能包含代码考核，提前10分钟完成
- 设备调试。联系人：xueyirong1@xiaomi.com。\n\n——面试复盘
- ——\n2026-08-24 小米垂域 Agentic 大模型算法工程师一面已
- 完成，约 56 分钟。重点深挖 Agent 评测、课程式 reward、
- 多步 skill-routing RL、CCCaption 动态采样与长视频时序评测
- ；无手撕。详细复盘：data/knowledge/小米-顶尖应届-垂域Age
- ntic大模型算法工程师-AI实验室/review-一面-2026-08-24.md。
+ 确认 | 时长未确认，日历暂占 60 分钟 | 流程结果（2026-09
+ -11）：用户确认该岗位已挂，招聘流程终止。 | 视频面
+ 试；小米AI实验室。技术岗位可能包含代码考核，提前10
+ 分钟完成设备调试。联系人：xueyirong1@xiaomi.com。\n\n——
+ 面试复盘——\n2026-08-24 小米垂域 Agentic 大模型算法工程
+ 师一面已完成，约 56 分钟。重点深挖 Agent 评测、课程式
+  reward、多步 skill-routing RL、CCCaption 动态采样与长视频时
+ 序评测；无手撕。详细复盘：data/knowledge/小米-顶尖应届-
+ 垂域Agentic大模型算法工程师-AI实验室/review-一面-2026-08-24
+ .md。\n\n2026-09-11 用户确认：该岗位已挂，流程终止；未
+ 提供更具体淘汰原因。
 LOCATION:https://mi.feishu.cn/hire/short_url/cKMMVZMayr8
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-115@autumn-recruitment
@@ -3029,38 +3038,39 @@ DESCRIPTION:AI研究院 | AI研究算法工程师-多模态大模型方向(
  及以上，顶会论文与评测竞赛经验优先。 | 轮次待确认
  ；腾讯会议 ID：304899234；HR：吴致研，zywu56@iflytek.com，188
  01213037；建议提前 10 分钟入会并准备作品集、项目报告
- 和代表性成果。
+ 和代表性成果。\n2026-09-11 用户确认：当日面试官方向主
+ 要为多模态生成，与候选人求职方向不够匹配；招聘方
+ 将更换面试官并重新安排。本场取消，不视为未通过，
+ 投递继续处于面试流程。
 LOCATION:腾讯会议：https://meeting.tencent.com/dm/bV9Unm25XXB2
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 科大讯飞 · AI研究算法工程师-多模态大
- 模型方向(J12673)
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-155@autumn-recruitment
 DTSTAMP:20260907T051535Z
 DTSTART:20260911T070000Z
-DTEND:20260911T080000Z
+DTEND:20260911T073300Z
 SUMMARY:二面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 TRANSP:OPAQUE
 DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
- 场次 · 2026-09-11 15:00 · 60 分钟 | 深信服科技27届[X-STAR]顶
+ 场次 · 2026-09-11 15:00 · 33 分钟 | 深信服科技27届[X-STAR]顶
  尖人才计划；已进入线上单人面试环节。具体技术岗位
  与业务部门待补充。 | 深信服 27届 [X-STAR] 顶尖人才计划
  （本/硕）正式二面邀请。联系人：徐润，xurun@sangfor.com.c
  n。请提前 5 分钟使用电脑测试设备并进入会议；预约成
- 功后不可修改；如放弃则后续不再安排。
+ 功后不可修改；如放弃则后续不再安排。\n\n——面试复
+ 盘（2026-09-11）——\n深信服 X-STAR 二面已完成，实际有效
+ 交流约 33 分钟；共享 9 页 PPT，无 Coding。重点讨论阿里
+ 生活服务 Agent 评测与 next-action RL、Shopee 多模态 reasoning 
+ 后训练、CCCaption 动态 query/双奖励，以及 ECG Benchmark 的 FF
+ D 与 PSSM。面试官评价研究成果较好，并介绍 AI Lab 主要
+ 为安全、私有云及 AI 原生业务赋能。主要改进项：项目
+ 回答需压缩、关键指标补全口径、Judge 稳定性方案、FFD 
+ 分布级定义与 PSSM 架构细节。详细复盘：data/knowledge/深
+ 信服-[X-STAR]顶尖人才计划（本-硕）/review.md。
 LOCATION:腾讯会议：https://meeting.tencent.com/dm/y0G85yjIUyuX（会
  议号：289928474）
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-170@autumn-recruitment
