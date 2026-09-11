@@ -8,6 +8,70 @@ X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
+UID:event-168@autumn-recruitment
+DTSTAMP:20260911T041833Z
+DTSTART:20260913T155900Z
+DTEND:20260913T160000Z
+SUMMARY:截止 · AI测评 · 华为 · AI模型研究员-多模态大模
+ 型
+TRANSP:TRANSPARENT
+DESCRIPTION:媒体与体验技术研究院 | AI模型研究员-多模态大
+ 模型 | 截止 2026-09-13 23:59 · 尚未安排作答时段 · 作答时
+ 长待确认 | 投递信息：应届生，第二志愿；申请日期：20
+ 26-09-10；用户选择地点：上海、北京、深圳、杭州。\n\n
+ 官网岗位：AI模型研究员；岗位意向：多模态大模型；研
+ 发类；更新于 2026-07-23。\n官网可选地点：深圳、上海、
+ 北京、南京、杭州、西安、东莞、成都、武汉、苏州、
+ 长沙、济南、合肥。\n部门意向：媒体与体验技术研究院
+ 。\n\n岗位职责：\n1. 领导多模态大模型创新研究，包括
+ 新型架构设计、跨模态融合算法开 | 华为要求重新完成
+ 在线测评：前期测评无法提取详细测试结果。请在安静
+ 、不受打扰的环境中连续完成，不要刻意揣测题意。官
+ 方通知未提供失效时间或预计时长；本周末为用户自行
+ 设定的完成目标。
+LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14656
+ 28037783552&auto_login=2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+DESCRIPTION:截止 · AI测评 · 华为 · AI模型研究员-多模态大
+ 模型
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-169@autumn-recruitment
+DTSTAMP:20260911T042045Z
+DTSTART:20260921T110000Z
+DTEND:20260921T123000Z
+SUMMARY:可选作答窗口 · 笔试 · 招银网络科技 · 算法工程
+ 师
+TRANSP:TRANSPARENT
+DESCRIPTION:招银网络科技 | 算法工程师 | 开放 2026-09-21 19:00 
+ · 截止 2026-09-21 20:30 · 尚未安排作答时段 · 作答时长待
+ 确认 | 工作地点：杭州。参与大语言模型、智能客服、
+ 智能推荐、反欺诈、OCR、量化分析等人工智能方向在银
+ 行业务中的应用；开展机器学习、深度学习、自然语言
+ 处理、知识图谱及计算机视觉相关研究与落地。 | 招商
+ 银行·招银网络科技2027届秋招技术测评。应选择《算法
+ 》试卷，允许语言：Java/C++/Python；所选试卷方向将决定
+ 后续面试及录用方向。素质测评必须在技术测评前完成
+ ，数据库事件#130已确认完成。考试需电脑与手机双机位
+ 、全程摄像；禁止计算器及手机辅助，页面最多跳出5次
+ 。准考通行证号：11262143297729；准考邮箱：tang_zhi_jiang@163
+ .com。官方未单独说明作答时长，仅说明19:00-20:30内均可
+ 登录作答。
+LOCATION:https://cmbnt.ceping.com/Login/Elink?elink=7TASYqzDMnRkJfnDCbaMzxc
+ China25WSaZT1/kMbhdBu/XE3ft7ZDp8hyuCbaMzxcChina25J11m9Z192G4RhZCguH
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER;RELATED=END:-PT90M
+ACTION:DISPLAY
+DESCRIPTION:可选作答窗口 · 笔试 · 招银网络科技 · 算法工
+ 程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-36@autumn-recruitment
 DTSTAMP:20260714T070216Z
 DTSTART:20260715T070000Z
@@ -2996,6 +3060,37 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-170@autumn-recruitment
+DTSTAMP:20260911T042719Z
+DTSTART:20260913T110000Z
+DTEND:20260913T130000Z
+SUMMARY:笔试 · 小红书 · 【2027校招】Agent/大模型算法工程
+ 师-rednote国际化
+TRANSP:OPAQUE
+DESCRIPTION:算法-大模型 | 【2027校招】Agent/大模型算法工程
+ 师-rednote国际化 | 固定场次 · 2026-09-13 19:00 · 120 分钟 | 
+ 官网状态：未开始；志愿二；意向工作城市：上海市。\n
+ 职位方向：算法；子方向：大模型。\n工作地点：北京市
+ 、上海市、新加坡。\n职责：以 VLM/Agent 融合文本、图像
+ 、视频、音频信号，服务国际化内容风险识别、内容分
+ 级与治理；研发 ReAct、Tool Use、Multi-Agent、意图理解和任
+ 务规划系统；推进上下文管理、编排策略、Agentic RL Post-t
+ raining 以及 LLM/VL | 小红书在线考试；岗位：【2027校招】A
+ gent/大模型算法工程师-rednote国际化；试卷：算法-NLP、算
+ 法-CV；账号：redcampus；密码：93tej5；确认情况：已确认
+ 参加。请使用 Chrome 80+ 和带摄像头的电脑；考试全程摄
+ 像头监控，禁止跳出页面、使用即时通讯软件或传播试
+ 题；结束时系统自动提交。
+LOCATION:http://redcampus.acmcoder.com/cand/login
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:笔试 · 小红书 · 【2027校招】Agent/大模型算法工
+ 程师-rednote国际化
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
