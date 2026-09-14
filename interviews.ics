@@ -3175,12 +3175,6 @@ DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
 LOCATION:飞书视频面试：https://dexmal-inc.feishu.cn/hire/short_url/Q
  JGqUNzxce4
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 原力灵机 · 【27届校招】具身智能后训
- 练算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-165@autumn-recruitment
@@ -3275,6 +3269,33 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 联想集团 · Agent算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-176@autumn-recruitment
+DTSTAMP:20260914T132455Z
+DTSTART:20260916T100000Z
+DTEND:20260916T110000Z
+SUMMARY:三面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
+ 场次 · 2026-09-16 18:00 · 时长待确认 | 时长未确认，日历
+ 暂占 60 分钟 | 深信服科技27届[X-STAR]顶尖人才计划；已进
+ 入线上单人面试环节。具体技术岗位与业务部门待补充
+ 。 | 深信服27届[X-STAR]顶尖人才计划（本/硕）线下一站式
+ 面试；当天完成后续全部面试环节。官方未注明结束时
+ 间，建议预留整个晚上。请携带2份纸质简历。联系人：
+ 杨天敏，13263960581（有事提前短信告知）。参加确认：htt
+ ps://app.mokahr.com/interviewer-status?attendStatus=4&access_token=8f920a6
+ 03bb649dbb106610fedead33b6cb9f1a9ef9b4c029a80b34bb7a66adf&businessUnitId=0
+ &orgId=sangfor；如需放弃或改期，请使用原邮件对应链接。
+LOCATION:浙江省杭州市拱墅区大关路167号远洋国际中心C座27
+ 楼
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
