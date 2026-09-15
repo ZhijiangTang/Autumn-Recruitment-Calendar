@@ -3327,4 +3327,29 @@ DESCRIPTION:一面 · 地平线 · 【2027届校招】多模态大模型算
  法工程师-预研
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-177@autumn-recruitment
+DTSTAMP:20260915T025701Z
+DTSTART:20260918T070000Z
+DTEND:20260918T080000Z
+SUMMARY:三面 · 原力灵机 · 【27届校招】具身智能后训练算
+ 法工程师
+TRANSP:OPAQUE
+DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
+ 程师 | 固定场次 · 2026-09-18 15:00 · 时长待确认 | 时长未
+ 确认，日历暂占 60 分钟 | 原力灵机【27届校招】具身智
+ 能后训练算法工程师三面；主要考察通用业务问题、过
+ 往项目经历、价值观与软性技能。HR：刘秋廷，+86 17616082
+ 157；如需改期须提前1天联系；建议提前10分钟调试麦克
+ 风和摄像头，面试官迟到超过5分钟时联系HR。
+LOCATION:飞书视频面试：https://dexmal-inc.feishu.cn/hire/short_url/Q
+ n3d0G9Q6Z0
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 原力灵机 · 【27届校招】具身智能后训
+ 练算法工程师
+END:VALARM
+END:VEVENT
 END:VCALENDAR
