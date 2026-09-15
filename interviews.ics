@@ -3347,4 +3347,28 @@ DESCRIPTION:三面 · 原力灵机 · 【27届校招】具身智能后训
  练算法工程师
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-180@autumn-recruitment
+DTSTAMP:20260915T035729Z
+DTSTART:20260921T070000Z
+DTEND:20260921T080000Z
+SUMMARY:一面 · MiniMax · 大模型数据链路工程师-2027届
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | 大模型数据链路工程师-2027届 | 固定
+ 场次 · 2026-09-21 15:00 · 时长待确认 | 时长未确认，日历
+ 暂占 60 分钟 | MiniMax 大模型数据链路工程师-2027届视频一
+ 面。HR曹诗情表示本轮为数据方向校招面试，也会交流评
+ 测相关内容；主要考察动手能力、通用业务问题、过往
+ 项目经历、价值观与软性技能，并包含代码考核，严禁
+ 使用AI辅助工具。建议提前10分钟调试设备；如需改期须
+ 提前1天联系HR缪缪（+86 13077304043），面试官迟到超过5分
+ 钟时联系HR。
+LOCATION:https://vrfi1sk8a0.feishu.cn/hire/short_url/xc_c5TticwM
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · MiniMax · 大模型数据链路工程师-2027届
+END:VALARM
+END:VEVENT
 END:VCALENDAR
