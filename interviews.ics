@@ -700,7 +700,7 @@ DESCRIPTION:TGT-顶尖青年技术天才计划 | 基于电商大模型的Mi
  ；本次按 TGT 主投递补录，若实测对应 JDS 可再改挂。\n
  结果：已完成作答；通过与否待官方通知。
 LOCATION:京东在线测评系统（行测）
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-76@autumn-recruitment
@@ -1632,7 +1632,7 @@ DESCRIPTION:默认部门 | 端侧模型研究员（27届校招） | 固定
  新为“端侧模型研究员（27届校招）”；该场与 2026-08-25 
  二面属于同一岗位流程。
 LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/va1cK4Ceqdg
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-100@autumn-recruitment
@@ -1723,9 +1723,10 @@ DESCRIPTION:创屹科技(庞伯特) | 多模态大模型算法工程师 |
  rness，以及 25 匹马逻辑题（7 场，答对）。面试官介绍团
  队做乒乓球/网球智能硬件，方向为教练 Agent、用户记忆
  与运动世界模型。详细复盘：data/knowledge/创屹科技(庞伯
- 特)-多模态大模型算法工程师/review-一面-2026-08-20.md。
+ 特)-多模态大模型算法工程师/review-一面-2026-08-20.md。\n\n2
+ 026-09-15 用户确认：该岗位流程已淘汰，不再推进。
 LOCATION:https://bcn7pbier5xg.feishu.cn/hire/short_url/TH4850j5QCc
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-105@autumn-recruitment
@@ -2011,9 +2012,10 @@ DESCRIPTION:默认部门 | 端侧模型研究员（27届校招） | 固定
  26-08-25 已完成二面；复盘已写入 data/knowledge/清闲智能创
  新-AI 模型研究员0707/review.md。核心：Agent 技术路线选择
  、后训练投入产出、端侧 harness/模型协同、团队与职业
- 匹配。
+ 匹配。\n\n2026-09-15 用户确认：该岗位流程已淘汰，不再
+ 推进。
 LOCATION:https://e10s8ombcbw.feishu.cn/hire/short_url/rVfMCV1adVI
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-116@autumn-recruitment
@@ -2229,7 +2231,7 @@ DESCRIPTION:国际化事业部 | 27届秋招-算法工程师（国际化外
  1 用户确认已完成；官方通过/未通过结果待通知，暂无
  单独复盘内容。
 LOCATION:https://didi.acmcoder.com/cand/login?zxmn5pr9
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-123@autumn-recruitment
@@ -2457,13 +2459,10 @@ DESCRIPTION:人力资本团队 | 被投企业校招机会对接 | 固定场
  -03 11:00 因红杉方临时议程冲突，双方确认改为当日 17:00
  。\n改期后的正式会议链接已更新为：https://hongshan.feishu.
  cn/hire/short_url/o0ylf0iQ1TA；原会议链接不再作为当前入口。
+ \n\n2026-09-15 用户确认：该被投企业校招机会对接流程不
+ 再推进，按淘汰关闭。
 LOCATION:https://hongshan.feishu.cn/hire/short_url/o0ylf0iQ1TA
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:交流 · 红杉中国 · 被投企业校招机会对接
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-124@autumn-recruitment
@@ -2541,10 +2540,11 @@ DESCRIPTION:ProphetLab | 大模型算法工程师【社招+校招】 | 固
  。地点：上海市静安区中兴路；岗位标注薪资 40–70K·15
  薪。建议提前进入飞书会议完成音视频调试。\n\n2026-09-09
  ：用户确认无需复盘；已将待复盘项标记为已完成（跳
- 过结构化复盘），不据此推断官方通过/未通过。
+ 过结构化复盘），不据此推断官方通过/未通过。\n\n2026-0
+ 9-15 用户确认：该岗位流程已淘汰，不再推进。
 LOCATION:视频面试（飞书：https://vc.feishu.cn/j/272196745；会议
  号：272-196-745）
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-144@autumn-recruitment
@@ -2962,16 +2962,11 @@ TRANSP:OPAQUE
 DESCRIPTION:图像影像 | 算法工程师-实习生/应届（图像影像
  ） | 固定场次 · 2026-09-10 11:00 · 45 分钟 | 视频面试；联
  系人：韩平平，电话：13011217076，邮箱：hanpingping@romangic.
- com；如需改期请及时联系。
+ com；如需改期请及时联系。\n\n2026-09-15 用户决定主动放
+ 弃该机会，不再参加或继续推进；非公司淘汰。
 LOCATION:腾讯会议：https://meeting.tencent.com/dm/Y84bCLBhfmH5（会
  议号：780964740）
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 浪漫极客（北京）科技有限公司 · 算法
- 工程师-实习生/应届（图像影像）
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-163@autumn-recruitment
