@@ -12,8 +12,8 @@ UID:event-168@autumn-recruitment
 DTSTAMP:20260911T041833Z
 DTSTART:20260913T155900Z
 DTEND:20260913T160000Z
-SUMMARY:截止 · AI测评 · 华为 · AI模型研究员-多模态大模
- 型
+SUMMARY:已完成 · 截止 · AI测评 · 华为 · AI模型研究员-多
+ 模态大模型
 TRANSP:TRANSPARENT
 DESCRIPTION:媒体与体验技术研究院 | AI模型研究员-多模态大
  模型 | 截止 2026-09-13 23:59 · 尚未安排作答时段 · 作答时
@@ -28,16 +28,10 @@ DESCRIPTION:媒体与体验技术研究院 | AI模型研究员-多模态大
  在线测评：前期测评无法提取详细测试结果。请在安静
  、不受打扰的环境中连续完成，不要刻意揣测题意。官
  方通知未提供失效时间或预计时长；本周末为用户自行
- 设定的完成目标。
+ 设定的完成目标。 用户确认已完成；明确无需复盘。
 LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14656
  28037783552&auto_login=2
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT90M
-ACTION:DISPLAY
-DESCRIPTION:截止 · AI测评 · 华为 · AI模型研究员-多模态大
- 模型
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-169@autumn-recruitment
@@ -2715,8 +2709,8 @@ UID:event-154@autumn-recruitment
 DTSTAMP:20260905T160113Z
 DTSTART:20260906T110000Z
 DTEND:20260906T130000Z
-SUMMARY:作答计划 · 笔试 · 携程 · LLM算法工程师（2027届秋
- 招）
+SUMMARY:已完成 · 作答计划 · 笔试 · 携程 · LLM算法工程师
+ （2027届秋招）
 TRANSP:OPAQUE
 DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 开放 2
  026-09-06 19:00 · 截止 2026-09-06 21:00 · 计划 2026-09-06 19:00 · 
@@ -2731,22 +2725,18 @@ DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 开放 2
  启摄像头。建议提前15分钟进入并完成设备检测。私人考
  试链接：https://exam.nowcoder.com/cts/17521189/summary?id=F0B50F763609
  50C25D2B1AAD67C4DCC3；技术支持：kaoshi@nowcoder.com，18611869582 / 
- 18611869571；招聘流程咨询：campus@trip.com。
+ 18611869571；招聘流程咨询：campus@trip.com。 用户确认已完
+ 成；明确无需复盘。
 LOCATION:线上（牛客网）
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:作答计划 · 笔试 · 携程 · LLM算法工程师（2027
- 届秋招）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-154-deadline@autumn-recruitment
 DTSTAMP:20260905T160113Z
 DTSTART:20260906T130000Z
 DTEND:20260906T130100Z
-SUMMARY:截止 · 笔试 · 携程 · LLM算法工程师（2027届秋招）
+SUMMARY:已完成 · 截止 · 笔试 · 携程 · LLM算法工程师（202
+ 7届秋招）
 TRANSP:TRANSPARENT
 DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 截止 2
  026-09-06 21:00 · 尚未安排作答时段 · 作答 120 分钟 · 最迟
@@ -2761,7 +2751,8 @@ DESCRIPTION:默认部门 | LLM算法工程师（2027届秋招） | 截止 2
  前15分钟进入并完成设备检测。私人考试链接：https://exam
  .nowcoder.com/cts/17521189/summary?id=F0B50F76360950C25D2B1AAD67C4DCC3；
  技术支持：kaoshi@nowcoder.com，18611869582 / 18611869571；招聘流
- 程咨询：campus@trip.com。
+ 程咨询：campus@trip.com。 用户确认已完成；明确无需复盘
+ 。
 LOCATION:线上（牛客网）
 STATUS:CONFIRMED
 END:VEVENT
@@ -3072,8 +3063,8 @@ UID:event-175@autumn-recruitment
 DTSTAMP:20260911T094259Z
 DTSTART:20260912T070000Z
 DTEND:20260912T090000Z
-SUMMARY:作答计划 · 笔试 · 中国电信 · 【2027校招】策略工
- 程师
+SUMMARY:已完成 · 作答计划 · 笔试 · 中国电信 · 【2027校
+ 招】策略工程师
 TRANSP:OPAQUE
 DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
   截止 2026-09-13 23:59 · 计划 2026-09-12 15:00 · 作答 120 分钟 
@@ -3085,22 +3076,18 @@ DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
  00完成，暂预留120分钟；官方邮件未注明实际考试时长，
  开始前应先核对系统显示时长。官方截止时间为2026-09-13 
  24:00。建议使用Chrome；突发情况可关闭浏览器后重新登录
- 。个人专属考试入口存于投递记录，不写入公开日历。
+ 。个人专属考试入口存于投递记录，不写入公开日历。 
+ 用户确认已完成；明确无需复盘。
 LOCATION:在线笔试（牛客网；个人入口见投递详情）
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:作答计划 · 笔试 · 中国电信 · 【2027校招】策
- 略工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-175-deadline@autumn-recruitment
 DTSTAMP:20260911T094259Z
 DTSTART:20260913T155900Z
 DTEND:20260913T160000Z
-SUMMARY:截止 · 笔试 · 中国电信 · 【2027校招】策略工程师
+SUMMARY:已完成 · 截止 · 笔试 · 中国电信 · 【2027校招】
+ 策略工程师
 TRANSP:TRANSPARENT
 DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
   截止 2026-09-13 23:59 · 尚未安排作答时段 · 作答 120 分钟 
@@ -3112,15 +3099,10 @@ DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
  00完成，暂预留120分钟；官方邮件未注明实际考试时长，
  开始前应先核对系统显示时长。官方截止时间为2026-09-13 
  24:00。建议使用Chrome；突发情况可关闭浏览器后重新登录
- 。个人专属考试入口存于投递记录，不写入公开日历。
+ 。个人专属考试入口存于投递记录，不写入公开日历。 
+ 用户确认已完成；明确无需复盘。
 LOCATION:在线笔试（牛客网；个人入口见投递详情）
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT150M
-ACTION:DISPLAY
-DESCRIPTION:截止 · 笔试 · 中国电信 · 【2027校招】策略工
- 程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-170@autumn-recruitment
@@ -3143,15 +3125,10 @@ DESCRIPTION:算法-大模型 | 【2027校招】Agent/大模型算法工程
  法-CV；账号：redcampus；密码：93tej5；确认情况：已确认
  参加。请使用 Chrome 80+ 和带摄像头的电脑；考试全程摄
  像头监控，禁止跳出页面、使用即时通讯软件或传播试
- 题；结束时系统自动提交。
+ 题；结束时系统自动提交。 用户确认已完成；明确无需
+ 复盘。
 LOCATION:http://redcampus.acmcoder.com/cand/login
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:笔试 · 小红书 · 【2027校招】Agent/大模型算法工
- 程师-rednote国际化
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-160@autumn-recruitment
