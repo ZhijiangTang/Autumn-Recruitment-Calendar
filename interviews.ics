@@ -3375,4 +3375,33 @@ ACTION:DISPLAY
 DESCRIPTION:一面 · MiniMax · 大模型数据链路工程师-2027届
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-182@autumn-recruitment
+DTSTAMP:20260916T031711Z
+DTSTART:20260922T113000Z
+DTEND:20260922T123000Z
+SUMMARY:一面 · 网易 · 大模型算法工程师（智能NPC方向）
+TRANSP:OPAQUE
+DESCRIPTION:雷火事业群 | 大模型算法工程师（智能NPC方向）
+  | 固定场次 · 2026-09-22 19:30 · 时长待确认 | 时长未确认
+ ，日历暂占 60 分钟 | 杭州｜2027届雷火秋季校园招聘；官
+ 网显示等待筛选结果 | 网易游戏雷火事业群「大模型算
+ 法工程师（智能NPC方向）」视频一面。采用二机位监控
+ ：电脑为主机位，手机置于侧后方展示面试环境；正式
+ 开始后不可返回二机位调试环节。建议提前进入链接完
+ 成摆放与设备调试，电脑和手机均连接电源，并预留安
+ 静、网络稳定的环境。邀请函称本次面试共1场，未注明
+ 预计时长。
+LOCATION:网易集团视频（二机位）：https://emeeting.netease.com/v
+ 2/index?meetingId=140472&appId=leihuo-campus-ehr-emeeting&role=interviewee
+ &userId=662606456&userName=%E5%94%90%E6%B2%BB%E6%B1%9F&timestamp=178952852
+ 2244&sign=8e25229c98569275921d6479825eced0539409fbf72eed25b5daad9663b4f6ce
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 网易 · 大模型算法工程师（智能NPC方向
+ ）
+END:VALARM
+END:VEVENT
 END:VCALENDAR
