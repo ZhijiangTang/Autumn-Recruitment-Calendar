@@ -3001,12 +3001,6 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  效劳。\n
 LOCATION:https://vc.feishu.cn/j/503149552
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 元戎启行 · 【2027秋招】大模型算法工程
- 师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-159@autumn-recruitment
@@ -3402,6 +3396,39 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:一面 · 网易 · 大模型算法工程师（智能NPC方向
  ）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-183@autumn-recruitment
+DTSTAMP:20260916T082410Z
+DTSTART:20260923T063000Z
+DTEND:20260923T070000Z
+SUMMARY:四面 · 元戎启行 · 【2027秋招】大模型算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
+ 师 | 固定场次 · 2026-09-23 14:30 · 30 分钟 | 元戎启行 2027 
+ 秋招大模型算法工程师，视频面试邀约；具体团队职责
+ 待面试反问确认。 | 2026-09-16 收到 Deeproute.ai / Moka 面试邀
+ 约。结合本投递既有一面、二面、三面记录，本次按四
+ 面登记。\n官方时长 30 分钟，可能延长；请提前 10 分钟
+ 使用 PC 调试网络、麦克风，推荐 Chrome 或 Firefox。\n会议
+ 号：863274689\n联系人：王婷，17318946273，tingwang@deeproute.ai\
+ n参加：https://app.mokahr.com/interviewer-status?attendStatus=4&access_
+ token=cde13ccd9dd44a5884dc334d4bafd94294886a22c33e4b439a4bad402d60db95&bus
+ inessUnitId=0&orgId=deeproute\n不参加：https://app.mokahr.com/intervie
+ w/reject-reason-page?access_token=cde13ccd9dd44a5884dc334d4bafd94294886a22
+ c33e4b439a4bad402d60db95&businessUnitId=0&orgId=deeproute\n更改时间：
+ https://app.mokahr.com/external_link_pages/interview/time_not_suitable?acc
+ ess_token=cde13ccd9dd44a5884dc334d4bafd94294886a22c33e4b439a4bad402d60db95
+ &orgId=deeproute&businessUnitId=0\n邮件由 Moka 代发，请勿直接回
+ 复。
+LOCATION:https://vc.feishu.cn/j/863274689
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:四面 · 元戎启行 · 【2027秋招】大模型算法工程
+ 师
 END:VALARM
 END:VEVENT
 END:VCALENDAR
