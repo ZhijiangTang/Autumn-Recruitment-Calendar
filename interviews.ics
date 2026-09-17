@@ -3311,11 +3311,6 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  已接受（用户于 2026-09-17 统一确认）。
 LOCATION:腾讯会议（链接待通知）
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 腾讯 · 算法-多模态方向
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-167@autumn-recruitment
@@ -3503,6 +3498,34 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:四面 · 元戎启行 · 【2027秋招】大模型算法工程
  师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-186@autumn-recruitment
+DTSTAMP:20260917T130734Z
+DTSTART:20260929T060000Z
+DTEND:20260929T070000Z
+SUMMARY:二面 · 同花顺 · 多模态大模型算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
+ 师 | 固定场次 · 2026-09-29 14:00 · 60 分钟 | 同花顺【多模
+ 态大模型算法工程师】视频面试；邀约未写轮次，按已
+ 完成一面（event-124，2026-09-03）记为二面。\n形式：同顺
+ 会议，预计 1 小时。预约时间前 5 分钟将会议 ID 发到邮
+ 箱；手机端会议 ID 由面试官提前 3-5 分钟告知，请留意
+ 短信。\nHR：陈雨波，17621300112。\n电脑参加（推荐，Chrome
+ ）：https://job.10jqka.com.cn/#/meeting?auditionId=11047914&code=85aeaf5
+ f177c53aa46750ac6678422f8\n手机参加：https://meetingx.myhithink.com/ 
+ 下载同顺会议 APP，打开后输入会议 ID。\n公司简介摘录
+ ：成立于1995年，2009年创业板上市，总部杭州，员工4000
+ 余人；国内证券交易系统市占率约90%。
+LOCATION:https://job.10jqka.com.cn/#/meeting?auditionId=11047914&code=85aea
+ f5f177c53aa46750ac6678422f8
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 同花顺 · 多模态大模型算法工程师
 END:VALARM
 END:VEVENT
 END:VCALENDAR
