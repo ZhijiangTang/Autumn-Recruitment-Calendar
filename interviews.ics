@@ -3268,29 +3268,26 @@ BEGIN:VEVENT
 UID:event-184@autumn-recruitment
 DTSTAMP:20260917T024158Z
 DTSTART:20260917T030000Z
-DTEND:20260917T040000Z
-SUMMARY:四面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+DTEND:20260917T032000Z
+SUMMARY:HR面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 TRANSP:OPAQUE
 DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
- 场次 · 2026-09-17 11:00 · 时长待确认 | 时长未确认，日历
- 暂占 60 分钟 | 深信服科技27届[X-STAR]顶尖人才计划；已进
- 入线上单人面试环节。具体技术岗位与业务部门待补充
- 。 | 2026-09-17 深信服集团 27届 [X-STAR] 顶尖人才计划（本/
- 硕）后续面试。结合已有一面、二面、三面记录，本次
- 按四面登记；官方通知未标明轮次。\n腾讯会议号：708823
- 396。\n联系人：杨天敏，yangtianmin@sangfor.com.cn。\n请提前 5
-  分钟使用电脑测试设备并进入面试间等候；研发岗位含
- 技术考察。面试时间预约成功后不可修改；若放弃则后
- 续不再安排。\n官方未注明时长，日历按系统默认时长暂
- 占位。\n参加状态：已接受（用户于 2026-09-17 统一确认）
- 。
+ 场次 · 2026-09-17 11:00 · 20 分钟 | 深信服科技27届[X-STAR]顶
+ 尖人才计划；已进入线上单人面试环节。具体技术岗位
+ 与业务部门待补充。 | 2026-09-17 深信服集团 27届 [X-STAR] 
+ 顶尖人才计划（本/硕）后续面试；邀请未注明轮次，实
+ 际内容为 HR / 综合面。用户已确认并参加。\n腾讯会议号
+ ：708823396。联系人：杨天敏，yangtianmin@sangfor.com.cn。\n实
+ 际交流约 20 分钟，无技术或 Coding 考察；重点确认核心
+ 能力、坚持案例、个性、竞争 Offer、阿里转正进度和薪
+ 资预期。面试官详细介绍 AI 安全、AI 云基础设施与 AI 原
+ 生业务，并表示前序面试表现不错、候选人“99.9% 没问
+ 题”。该表述记为本轮强口头通过信号，不等同于正式
+ 意向或 Offer。\n招聘同事后续推进；意向预计 9 月底前明
+ 确，薪资沟通可能在 10 月。详细复盘见 knowledge_path/review
+ .md。
 LOCATION:https://meeting.tencent.com/dm/blKH2Je8EU6p
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:四面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-181@autumn-recruitment
