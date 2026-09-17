@@ -3265,32 +3265,30 @@ DESCRIPTION:三面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:event-167@autumn-recruitment
-DTSTAMP:20260910T041633Z
-DTSTART:20260917T090000Z
-DTEND:20260917T100000Z
-SUMMARY:一面 · 地平线 · 【2027届校招】多模态大模型算法
- 工程师-预研
+UID:event-184@autumn-recruitment
+DTSTAMP:20260917T024158Z
+DTSTART:20260917T030000Z
+DTEND:20260917T040000Z
+SUMMARY:四面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 TRANSP:OPAQUE
-DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
- 工程师-预研 | 固定场次 · 2026-09-17 17:00 · 60 分钟 | 第一
- 志愿；意向工作地点：上海市-嘉定区；机构：算法预研
- 部。负责自动驾驶原生多模态大模型研发、世界模型落
- 地与模型评估链路建设。 | 地平线视频面试邀约；邮件
- 未注明轮次，因该投递此前仅有简历初筛，按一面记录
- ，轮次待确认。接受面试：https://email.wintalent.cn/wt/Horizon/
- kurl?k=zIB3EjabMvyIfama&sign=8059cd6370399e6ab3d722b41da6910dc2dfbe0690c96
- 26bb93c670034e5cab3；拒绝面试：https://email.wintalent.cn/wt/Horizon
- /kurl?k=aQ73ieaj6jYrmaz2&sign=8059cd6370399e6a333249d234127c719669eca4101b
- 746fb93c670034e5cab3；如需改期至少提前1天联系HR：010-8345-255
- 1；若面试官迟到超过10分钟请联系HR。
-LOCATION:https://vc.feishu.cn/j/776789331?locale=1
+DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
+ 场次 · 2026-09-17 11:00 · 时长待确认 | 时长未确认，日历
+ 暂占 60 分钟 | 深信服科技27届[X-STAR]顶尖人才计划；已进
+ 入线上单人面试环节。具体技术岗位与业务部门待补充
+ 。 | 2026-09-17 深信服集团 27届 [X-STAR] 顶尖人才计划（本/
+ 硕）后续面试。结合已有一面、二面、三面记录，本次
+ 按四面登记；官方通知未标明轮次。用户已明确确认参
+ 加。\n腾讯会议号：708823396。\n联系人：杨天敏，yangtianmi
+ n@sangfor.com.cn。\n请提前 5 分钟使用电脑测试设备并进入
+ 面试间等候；研发岗位含技术考察。面试时间预约成功
+ 后不可修改；若放弃则后续不再安排。\n官方未注明时长
+ ，日历按系统默认时长暂占位。
+LOCATION:https://meeting.tencent.com/dm/blKH2Je8EU6p
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:一面 · 地平线 · 【2027届校招】多模态大模型算
- 法工程师-预研
+DESCRIPTION:四面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -3318,6 +3316,38 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 腾讯 · 算法-多模态方向
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-167@autumn-recruitment
+DTSTAMP:20260910T041633Z
+DTSTART:20260918T030000Z
+DTEND:20260918T040000Z
+SUMMARY:一面 · 地平线 · 【2027届校招】多模态大模型算法
+ 工程师-预研
+TRANSP:OPAQUE
+DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
+ 工程师-预研 | 固定场次 · 2026-09-18 11:00 · 60 分钟 | 第一
+ 志愿；意向工作地点：上海市-嘉定区；机构：算法预研
+ 部。负责自动驾驶原生多模态大模型研发、世界模型落
+ 地与模型评估链路建设。 | 地平线【2027届校招】多模态
+ 大模型算法工程师-预研视频面试；邮件未注明轮次，因
+ 该投递此前仅有简历初筛，按一面记录，轮次待确认。\n
+ 2026-09-17 收到改期通知：原定 2026-09-17 17:00–18:00，现调
+ 整为 2026-09-18 11:00–12:00；会议链接不变。\n接受面试：ht
+ tps://email.wintalent.cn/wt/Horizon/kurl?k=BbUryaaNnEnQrarY&sign=8059cd637
+ 0399e6a7fdae1d238d8aa16236f8494df1f30f0b93c670034e5cab3\n拒绝面试：ht
+ tps://email.wintalent.cn/wt/Horizon/kurl?k=yqyYzeabM7bMfaE7&sign=8059cd637
+ 0399e6aaff3ce0f72c1d17877695d24ab35f85db93c670034e5cab3\n如需改期至
+ 少提前 1 天联系 HR：(010) 8345-2549；若面试官迟到超过 10 
+ 分钟请联系 HR。未替用户点击接受或拒绝入口。
+LOCATION:https://vc.feishu.cn/j/776789331?locale=1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 地平线 · 【2027届校招】多模态大模型算
+ 法工程师-预研
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
