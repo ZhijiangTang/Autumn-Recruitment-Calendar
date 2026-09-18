@@ -66,6 +66,23 @@ DESCRIPTION:可选作答窗口 · 笔试 · 招银网络科技 · 算法工
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-188@autumn-recruitment
+DTSTAMP:20260918T075908Z
+DTSTART:20260921T160000Z
+DTEND:20260921T160100Z
+SUMMARY:已完成 · 截止 · 待办 · 联想集团 · Agent算法研究
+ 员
+TRANSP:TRANSPARENT
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 截止 2026-09-
+ 22 00:00 · 尚未安排作答时段 · 作答 10 分钟 · 最迟开始 2
+ 026-09-21 23:50（未留调试缓冲） | 回复联想招聘邮件，确
+ 认是否参加2026-09-24 14:30的Agent算法研究员三面。原文要
+ 求“请于9月22日之前回复”，按2026-09-22 00:00记录截止边
+ 界。\n完成状态（2026-09-18）：已回复邮件并确认参加。
+LOCATION:邮件回复
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:event-36@autumn-recruitment
 DTSTAMP:20260714T070216Z
 DTSTART:20260715T070000Z
@@ -3205,15 +3222,11 @@ DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师
  头、麦克风和网络，并提前2—3分钟进入。联系人：张翰
  ，+86 17521094047，zhangh142@xiaopeng.com；如需改期请及时联系
  。用户尚未明确是否已点击接受邀请，因此结果记为待
- 确认。
+ 确认。\n\n完成状态（2026-09-18）：用户确认已参加并完成
+ 本场三面，不需要复盘；官方流程结果尚未确认。此前
+ “尚未明确是否接受邀请”的备注已失效。
 LOCATION:https://xiaopeng.feishu.cn/hire/short_url/nfrEprQFJB0
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 小鹏集团 · 【27届校招】多模态Agent算法
- 工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-164@autumn-recruitment
@@ -3255,14 +3268,11 @@ DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
  ps://app.mokahr.com/interviewer-status?attendStatus=4&access_token=8f920a6
  03bb649dbb106610fedead33b6cb9f1a9ef9b4c029a80b34bb7a66adf&businessUnitId=0
  &orgId=sangfor；如需放弃或改期，请使用原邮件对应链接。
+ \n\n完成状态（2026-09-18）：用户确认已参加并完成本场三
+ 面，不需要复盘；官方流程结果尚未确认。
 LOCATION:浙江省杭州市拱墅区大关路167号远洋国际中心C座27
  楼
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-184@autumn-recruitment
@@ -3492,6 +3502,30 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:四面 · 元戎启行 · 【2027秋招】大模型算法工程
  师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-187@autumn-recruitment
+DTSTAMP:20260918T075908Z
+DTSTART:20260924T063000Z
+DTEND:20260924T071500Z
+SUMMARY:三面 · 联想集团 · Agent算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
+  2026-09-24 14:30 · 45 分钟 | 联想2026秋季招聘 Agent算法研究
+ 员线上 1V1 三面，预计45分钟，包含编程题考察，需提前
+ 准备可运行环境。Microsoft Teams 会议 ID：483 294 138 777 276；
+ 密码：FW2bc76P。电话拨入：+86 400 813 1243\,\,322312631#；电话
+ 会议 ID：322 312 631#。邮件要求于2026年9月22日之前回复确
+ 认是否参加。\n\n参加状态（2026-09-18）：用户已回复并确
+ 认参加。
+LOCATION:https://teams.microsoft.com/meet/483294138777276?p=Kqh1rYl9G0AUOyQ
+ OGO
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
