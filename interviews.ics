@@ -3338,12 +3338,6 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
  一确认）。
 LOCATION:https://vc.feishu.cn/j/776789331?locale=1
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 地平线 · 【2027届校招】多模态大模型算
- 法工程师-预研
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-177@autumn-recruitment
