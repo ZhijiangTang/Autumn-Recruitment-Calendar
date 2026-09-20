@@ -3353,32 +3353,35 @@ BEGIN:VEVENT
 UID:event-177@autumn-recruitment
 DTSTAMP:20260915T025701Z
 DTSTART:20260918T100000Z
-DTEND:20260918T110000Z
+DTEND:20260918T103500Z
 SUMMARY:三面 · 原力灵机 · 【27届校招】具身智能后训练算
  法工程师
 TRANSP:OPAQUE
 DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
- 程师 | 固定场次 · 2026-09-18 18:00 · 时长待确认 | 时长未
- 确认，日历暂占 60 分钟 | 原力灵机【27届校招】具身智
- 能后训练算法工程师三面；主要考察通用业务问题、过
- 往项目经历、价值观与软性技能。HR：刘秋廷，+86 17616082
- 157；如需改期须提前1天联系；建议提前10分钟调试麦克
- 风和摄像头，面试官迟到超过5分钟时联系HR。\n参加状态
- ：已接受（用户于 2026-09-17 统一确认）。\n\n改期：原 202
- 6-09-18 15:00，旧链接 https://dexmal-inc.feishu.cn/hire/short_url/Qn3d
- 0G9Q6Z0 ；现 2026-09-18 18:00，新链接 https://dexmal-inc.feishu.cn/h
- ire/short_url/3eFMZNMR3a4 。考察仍为通用业务问题、过往项目
- 经历、价值观与软性技能。HR：刘秋廷，+8617616082157；改
- 期须提前 1 天；提前 10 分钟调试麦克风和摄像头；面试
- 官迟到超过 5 分钟联系 HR。
+ 程师 | 固定场次 · 2026-09-18 18:00 · 35 分钟 | 原力灵机【27
+ 届校招】具身智能后训练算法工程师三面；主要考察通
+ 用业务问题、过往项目经历、价值观与软性技能。HR：刘
+ 秋廷，+86 17616082157；如需改期须提前1天联系；建议提前1
+ 0分钟调试麦克风和摄像头，面试官迟到超过5分钟时联系
+ HR。\n参加状态：已接受（用户于 2026-09-17 统一确认）。\
+ n\n改期：原 2026-09-18 15:00，旧链接 https://dexmal-inc.feishu.cn/
+ hire/short_url/Qn3d0G9Q6Z0 ；现 2026-09-18 18:00，新链接 https://dex
+ mal-inc.feishu.cn/hire/short_url/3eFMZNMR3a4 。考察仍为通用业务
+ 问题、过往项目经历、价值观与软性技能。HR：刘秋廷，
+ +8617616082157；改期须提前 1 天；提前 10 分钟调试麦克风
+ 和摄像头；面试官迟到超过 5 分钟联系 HR。\n\n——面试
+ 复盘（2026-09-18）——\n三面已完成，实际有效交流约35分
+ 钟，无Coding。前半段深挖CCCaption的reward hacking、动态query
+ 采样、消融、bad case与训练效率；后半段讨论VLA/π0、Flow 
+ Matching动作表示、多轮RL、离散action token、具身产业分工
+ 和职业规划。项目掌握仍较扎实，但具身开放题暴露了
+ 明显短板：混淆去噪积分步与环境决策步，对连续动作
+ 策略如何进入多轮RL没有形成可执行方案，职业转向理由
+ 也偏泛。面试官随后详细介绍公司自研双臂轮式机器人
+ 、开放世界zero-shot算法目标，以及物流/工业/商超的ToB落
+ 地路径。完整复盘见knowledge_path下review.md。
 LOCATION:https://dexmal-inc.feishu.cn/hire/short_url/3eFMZNMR3a4
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 原力灵机 · 【27届校招】具身智能后训
- 练算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-180@autumn-recruitment
