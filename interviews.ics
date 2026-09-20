@@ -3445,6 +3445,38 @@ DESCRIPTION:一面 · 字节跳动 · 面向国际电商场景的大模型
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-189@autumn-recruitment
+DTSTAMP:20260920T051708Z
+DTSTART:20260922T070000Z
+DTEND:20260922T080000Z
+SUMMARY:四面 · 腾讯 · 算法-多模态方向
+TRANSP:OPAQUE
+DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
+ 26-09-22 15:00 · 60 分钟 | 腾讯2027校园招聘算法研究类通用
+ 岗位，覆盖多模态理解与生成；工作地点包括深圳、北
+ 京、上海、广州，可由多个事业群筛选。当前进度：简
+ 历筛选中，简历已进入简历库供面试官筛选。\n流程更新
+ （2026-08-24）：面试邀请中的职位名称为「算法工程师」
+ ，部门为腾讯AI平台部；与2026-08-11投递的「算法-多模态
+ 方向」属于同一流程。 | 腾讯校园招聘算法工程师四面
+ ，部门：腾讯AI平台部；形式：线上单面；方式：腾讯会
+ 议。时间：2026-09-22（周二）15:00–16:00。\n请提前10分钟
+ 进入会议链接并检测设备。技术岗位可能进行在线代码
+ 考核及AI实战能力考察，建议使用PC端Chrome并提前阅读AI
+ 实战操作指南：https://cdn.tencentgroup.qq.com/vv_static/ide/AICodin
+ g.pdf\n确认或改期入口：https://join.qq.com/interview_reply.html\n
+ 如超过约定时间10分钟面试官仍未上线，请联系0755-8601338
+ 8，接通后输入855999，或回复面试邮件。未经腾讯招聘官
+ 方许可，不得录音或录像。\n当前参加状态：待确认。
+LOCATION:https://meeting.tencent.com/dm/73NMvc9Pwp0F
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:四面 · 腾讯 · 算法-多模态方向
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-182@autumn-recruitment
 DTSTAMP:20260916T031711Z
 DTSTART:20260922T113000Z
