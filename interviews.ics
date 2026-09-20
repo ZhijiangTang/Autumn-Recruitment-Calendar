@@ -3564,6 +3564,37 @@ DESCRIPTION:三面 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-190@autumn-recruitment
+DTSTAMP:20260920T093456Z
+DTSTART:20260928T070000Z
+DTEND:20260928T080000Z
+SUMMARY:二面 · 地平线 · 【2027届校招】多模态大模型算法
+ 工程师-预研
+TRANSP:OPAQUE
+DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
+ 工程师-预研 | 固定场次 · 2026-09-28 15:00 · 60 分钟 | 第一
+ 志愿；意向工作地点：上海市-嘉定区；机构：算法预研
+ 部。负责自动驾驶原生多模态大模型研发、世界模型落
+ 地与模型评估链路建设。 | 地平线【2027届校招】多模态
+ 大模型算法工程师-预研视频面试；该投递的一面已于2026
+ -09-18完成，因此本次按二面记录。\n时间：2026-09-28 15:00
+ –16:00；方式：飞书视频会议。\n接受面试：https://email.wi
+ ntalent.cn/wt/Horizon/kurl?k=2eiUJvaziimm2ajq&sign=8059cd6370399e6a5f52c8f
+ 9e3611d5858182daa8e8a32a8b93c670034e5cab3\n拒绝面试：https://email.wi
+ ntalent.cn/wt/Horizon/kurl?k=zYzUZrafmqMbuaqa&sign=8059cd6370399e6ac013c3c
+ 68bb790828a0c0cb1fccf5b3bb93c670034e5cab3\n如需改期至少提前1天联
+ 系HR：(010) 8345-2549；如果超过约定时间10分钟面试官仍未
+ 上线，请联系HR。\n当前参加状态：待确认。
+LOCATION:https://vc.feishu.cn/j/189021769?locale=1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 地平线 · 【2027届校招】多模态大模型算
+ 法工程师-预研
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-186@autumn-recruitment
 DTSTAMP:20260917T130734Z
 DTSTART:20260929T060000Z
