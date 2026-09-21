@@ -3607,43 +3607,6 @@ DESCRIPTION:三面 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:event-191@autumn-recruitment
-DTSTAMP:20260921T033720Z
-DTSTART:20260924T083000Z
-DTEND:20260924T093000Z
-SUMMARY:一面 · 快手 · 多模态大模型算法工程师
-TRANSP:OPAQUE
-DESCRIPTION:快手 | 多模态大模型算法工程师 | 固定场次 · 20
- 26-09-24 16:30 · 时长待确认 | 时长未确认，日历暂占 60 分
- 钟 | 打造服务于短视频、直播、搜索推荐、电商与创作
- 者玩法的多模态基座模型；探索多阶段预训练、SFT、RLHF
- 、图像/语音/音频/视频统一处理，以及MoE、蒸馏剪枝等
- 性能与效率技术。任职侧重计算机视觉、NLP、大模型训
- 练、多模态项目与论文经历。用户于2026-09-16确认官网投
- 递，意向地点顺序为杭州、北京。 | 快手2027应届生正式
- 批视频面试。原投递名称为「多模态大模型算法工程师
- 」，本次邀约职位名称为「大模型应用算法工程师」；
- 暂作为同一正式批流程记录，实际团队与岗位调整情况
- 待面试或官网确认。该投递此前没有真人面试事件，本
- 场按一面记录。\n请使用最新版Chrome及带摄像头、麦克风
- 的电脑，提前10分钟进入链接测试设备；不建议使用企业
- 内网或VPN。严禁使用辅助面试软件。\n确认入口：https://c
- ampus.kuaishou.cn/recruit/campus/e/interview.html?code=9e1d6c4e-aa86-427e-
- 8b7b-d025fb98617b\nHR：邱宇阳（邱HR），qiuyuyang05@kuaishou.com，
- 19503882536；改期须提前1天联系，等待超过5分钟可联系HR
- 。面试体验建议：campus@kuaishou.com。\n参加状态：已确认
- （用户于2026-09-21明确确认）。\n日程提示：当天14:30–15:
- 15有联想三面，二者不重叠；本场与用户此前说明的周四
- 16:30–18:00实习周会冲突，需要另行协调周会。
-LOCATION:https://viewcoder.qingque.cn/i/xko-rqcu-cth
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 快手 · 多模态大模型算法工程师
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:event-190@autumn-recruitment
 DTSTAMP:20260920T093456Z
 DTSTART:20260928T070000Z
@@ -3672,6 +3635,45 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 地平线 · 【2027届校招】多模态大模型算
  法工程师-预研
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-191@autumn-recruitment
+DTSTAMP:20260921T033720Z
+DTSTART:20260928T083000Z
+DTEND:20260928T093000Z
+SUMMARY:一面 · 快手 · 多模态大模型算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:快手 | 多模态大模型算法工程师 | 固定场次 · 20
+ 26-09-28 16:30 · 时长待确认 | 时长未确认，日历暂占 60 分
+ 钟 | 打造服务于短视频、直播、搜索推荐、电商与创作
+ 者玩法的多模态基座模型；探索多阶段预训练、SFT、RLHF
+ 、图像/语音/音频/视频统一处理，以及MoE、蒸馏剪枝等
+ 性能与效率技术。任职侧重计算机视觉、NLP、大模型训
+ 练、多模态项目与论文经历。用户于2026-09-16确认官网投
+ 递，意向地点顺序为杭州、北京。 | 快手2027应届生正式
+ 批视频面试。原投递名称为「多模态大模型算法工程师
+ 」，本次邀约职位名称为「大模型应用算法工程师」；
+ 暂作为同一正式批流程记录，实际团队与岗位调整情况
+ 待面试或官网确认。该投递此前没有真人面试事件，本
+ 场按一面记录。\n请使用最新版Chrome及带摄像头、麦克风
+ 的电脑，提前10分钟进入链接测试设备；不建议使用企业
+ 内网或VPN。严禁使用辅助面试软件。\n确认入口：https://c
+ ampus.kuaishou.cn/recruit/campus/e/interview.html?code=d0be7f4d-d274-4168-
+ 8a4c-af30cdd83a64\nHR：邱宇阳（邱HR），qiuyuyang05@kuaishou.com，
+ 19503882536；改期须提前1天联系，等待超过5分钟可联系HR
+ 。面试体验建议：campus@kuaishou.com。\n参加状态：已确认
+ 。\n改期记录：原定 2026-09-24 16:30，现改为 2026-09-28 16:30
+ ；会议链接同步更换为 https://viewcoder.qingque.cn/i/lfc-jnbm-avp
+ 。\n日程检查：当天15:00–16:00有地平线二面，本场按默
+ 认60分钟占用16:30–17:30，两场之间有30分钟缓冲，不冲突
+ 。
+LOCATION:https://viewcoder.qingque.cn/i/lfc-jnbm-avp
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 快手 · 多模态大模型算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
