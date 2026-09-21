@@ -3692,4 +3692,32 @@ ACTION:DISPLAY
 DESCRIPTION:二面 · 同花顺 · 多模态大模型算法工程师
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-193@autumn-recruitment
+DTSTAMP:20260921T065816Z
+DTSTART:20260929T080000Z
+DTEND:20260929T090000Z
+SUMMARY:HR面 · 原力灵机 · 【27届校招】具身智能后训练算
+ 法工程师
+TRANSP:OPAQUE
+DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
+ 程师 | 固定场次 · 2026-09-29 16:00 · 时长待确认 | 时长未
+ 确认，日历暂占 60 分钟 | 原力灵机【27届校招】具身智
+ 能后训练算法工程师电话面试。邀请未明确轮次；该投
+ 递已完成三轮视频面试，本次采用电话形式并附候选人
+ 信息登记表，暂按HR面记录，实际轮次待确认。\n邀请未
+ 注明预计时长，日历暂按默认60分钟占位。\n如需改期须
+ 提前1天联系HR刘秋廷：+86 17616082157。\n信息登记表：https:
+ //dexmal-inc.feishu.cn/hire/short_url/KP0-IAejiPc；如已填写过可忽
+ 略。\n当前参加状态：待确认。\n日程提示：当天14:00–15
+ :00有同花顺面试，本场16:00开始，中间有1小时缓冲。
+LOCATION:电话面试
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:HR面 · 原力灵机 · 【27届校招】具身智能后训练
+ 算法工程师
+END:VALARM
+END:VEVENT
 END:VCALENDAR
