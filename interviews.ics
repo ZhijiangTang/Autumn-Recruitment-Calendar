@@ -3458,11 +3458,11 @@ BEGIN:VEVENT
 UID:event-189@autumn-recruitment
 DTSTAMP:20260920T051708Z
 DTSTART:20260922T070000Z
-DTEND:20260922T080000Z
+DTEND:20260922T073200Z
 SUMMARY:四面 · 腾讯 · 算法-多模态方向
 TRANSP:OPAQUE
 DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
- 26-09-22 15:00 · 60 分钟 | 腾讯2027校园招聘算法研究类通用
+ 26-09-22 15:00 · 32 分钟 | 腾讯2027校园招聘算法研究类通用
  岗位，覆盖多模态理解与生成；工作地点包括深圳、北
  京、上海、广州，可由多个事业群筛选。当前进度：简
  历筛选中，简历已进入简历库供面试官筛选。\n流程更新
@@ -3477,14 +3477,19 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  g.pdf\n确认或改期入口：https://join.qq.com/interview_reply.html\n
  如超过约定时间10分钟面试官仍未上线，请联系0755-8601338
  8，接通后输入855999，或回复面试邮件。未经腾讯招聘官
- 方许可，不得录音或录像。\n当前参加状态：待确认。
+ 方许可，不得录音或录像。\n当前参加状态：待确认。\n2
+ 026-09-22 面试已完成。有效交流约 32 分钟（转写 07:12–38:
+ 58）。面试官查看流程后说明此前含初试和交叉面，本轮
+ 为总监面。\n主要内容：CCCaption 研究项目、阿里 Agent 静
+ 态评测与 next-action RL、评测集线上 bad case 回流、近期判
+ 别式/决策模型在 Agent 中的应用，以及《王者万象棋》“
+ 灵宝”AI 的产品与技术路线。\n复盘结论：研究与业务经
+ 历匹配，真实产品体验和具体反馈加分；主要风险是项
+ 目回答过长、个人贡献边界说明偏晚、跨版本评测闭环
+ 不完整，以及 GRPO 动态采样口径仍不严谨。完整复盘见 a
+ pplication.knowledge_path。
 LOCATION:https://meeting.tencent.com/dm/73NMvc9Pwp0F
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:四面 · 腾讯 · 算法-多模态方向
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-182@autumn-recruitment
@@ -3730,6 +3735,42 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:HR面 · 原力灵机 · 【27届校招】具身智能后训练
  算法工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-194@autumn-recruitment
+DTSTAMP:20260922T074454Z
+DTSTART:20260929T090000Z
+DTEND:20260929T100000Z
+SUMMARY:二面 · 字节跳动 · 面向国际电商场景的大模型应
+ 用-国际电商（杭州）
+TRANSP:OPAQUE
+DESCRIPTION:国际电商 | 面向国际电商场景的大模型应用-国
+ 际电商（杭州） | 固定场次 · 2026-09-29 17:00 · 时长待确
+ 认 | 时长未确认，日历暂占 60 分钟 | 面向国际电商场景
+ 的大模型应用方向，工作地点杭州；具体团队职责与技
+ 术路线待面试确认。 | 字节跳动校园招聘视频面试邀约
+ 。岗位：面向国际电商场景的大模型应用-国际电商（杭
+ 州）。官方未注明轮次；该岗位一面已于 2026-09-21 完成
+ ，本场暂按二面记录，轮次待官方确认。\n面试链接：htt
+ ps://t.zijieimg.com/BvAqLrBGM-M/\n请使用电脑和最新版飞书，提
+ 前10分钟调试麦克风与摄像头；研发岗位可能包含代码考
+ 核。面试期间不得切换屏幕，不得使用 AI、搜索引擎、
+ 外部代码工具或他人协助。\nHR：钱婧，+86 18806502989；如
+ 需改期须提前1天联系，面试官迟到超过5分钟时联系HR。\
+ n参加状态：待确认（本次新邀约未提供确认入口，用户
+ 尚未明确表示接受）。\n日程风险：同日16:00有原力灵机H
+ R电话面；两场均按默认60分钟占位时，原力灵机预计17:00
+ 结束，与本场17:00首尾相接，没有缓冲。建议确认原力灵
+ 机实际时长，或至少提前告知对方17:00有下一场。当天14:
+ 00另有同花顺二面。
+LOCATION:https://t.zijieimg.com/BvAqLrBGM-M/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 字节跳动 · 面向国际电商场景的大模型
+ 应用-国际电商（杭州）
 END:VALARM
 END:VEVENT
 END:VCALENDAR
