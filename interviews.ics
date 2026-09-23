@@ -3810,4 +3810,32 @@ DESCRIPTION:二面 · 字节跳动 · 面向国际电商场景的大模型
  应用-国际电商（杭州）
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-196@autumn-recruitment
+DTSTAMP:20260923T074417Z
+DTSTART:20261008T070000Z
+DTEND:20261008T080000Z
+SUMMARY:一面 · 阿里巴巴集团 · 算法工程师-多模态
+TRANSP:OPAQUE
+DESCRIPTION:淘天集团-智能算法产品事业部-文本搜索 | 算法
+ 工程师-多模态 | 固定场次 · 2026-10-08 15:00 · 时长待确认 
+ | 时长未确认，日历暂占 60 分钟 | 阿里巴巴2027届应届生
+ ；所属部门：淘天集团-智能算法产品事业部；申请编号
+ ：100142360300。 | 阿里巴巴校园招聘视频面试。职位：算
+ 法工程师-多模态；部门：淘天集团-智能算法产品事业部
+ -文本搜索。开始时间：2026-10-08 15:00（北京时间），通知
+ 未给出结束时间。建议使用PC端最新版Chrome，提前打开专
+ 属面试间测试摄像头、麦克风和音视频。面试安排联系
+ 人电话：+86-13810610529；邮箱：hmy02282845@taobao.com。招聘热
+ 线：0571-28285927（工作日9:00–18:00）。面试后反馈问卷链
+ 接见原始邀请邮件。当前参加状态：待确认。
+LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
+ de=q8fbf9jaXUQAL%2F5tUQtUew%3D%3D
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 阿里巴巴集团 · 算法工程师-多模态
+END:VALARM
+END:VEVENT
 END:VCALENDAR
