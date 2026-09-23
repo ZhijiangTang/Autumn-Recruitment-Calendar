@@ -3495,31 +3495,34 @@ BEGIN:VEVENT
 UID:event-182@autumn-recruitment
 DTSTAMP:20260916T031711Z
 DTSTART:20260922T113000Z
-DTEND:20260922T123000Z
+DTEND:20260922T124200Z
 SUMMARY:一面 · 网易 · 大模型算法工程师（智能NPC方向）
 TRANSP:OPAQUE
 DESCRIPTION:雷火事业群 | 大模型算法工程师（智能NPC方向）
-  | 固定场次 · 2026-09-22 19:30 · 时长待确认 | 时长未确认
- ，日历暂占 60 分钟 | 杭州｜2027届雷火秋季校园招聘；官
- 网显示等待筛选结果 | 网易游戏雷火事业群「大模型算
- 法工程师（智能NPC方向）」视频一面。采用二机位监控
- ：电脑为主机位，手机置于侧后方展示面试环境；正式
- 开始后不可返回二机位调试环节。建议提前进入链接完
- 成摆放与设备调试，电脑和手机均连接电源，并预留安
- 静、网络稳定的环境。邀请函称本次面试共1场，未注明
- 预计时长。\n参加状态：已接受（用户于 2026-09-17 统一确
- 认）。
+  | 固定场次 · 2026-09-22 19:30 · 72 分钟 | 杭州｜2027届雷火
+ 秋季校园招聘；官网显示等待筛选结果 | 网易游戏雷火
+ 事业群「大模型算法工程师（智能NPC方向）」视频一面
+ 。采用二机位监控：电脑为主机位，手机置于侧后方展
+ 示面试环境；正式开始后不可返回二机位调试环节。建
+ 议提前进入链接完成摆放与设备调试，电脑和手机均连
+ 接电源，并预留安静、网络稳定的环境。邀请函称本次
+ 面试共1场，未注明预计时长。\n参加状态：已接受（用
+ 户于 2026-09-17 统一确认）。\n2026-09-22 面试已完成。有效
+ 交流约 72 分钟（转写 07:41–79:55；此前为摄像头重进）
+ 。\n流程：自我介绍后手撕 LeetCode 739「每日温度」；随
+ 后深入追问阿里 Agent 的 tool-call 漏斗、Hungarian matching、fi
+ nal response、数据飞轮、A/B、GRPO reward、exposure bias、token 
+ 级信用分配、静态评测盲区和 GRPO 标准化；最后交流游
+ 戏经历和智能 NPC 业务。\n复盘结论：项目细节真实，expo
+ sure bias、指标谱系和静态评测盲区有可用回答；主要风
+ 险是每日温度未完成、Hungarian/匹配逻辑混乱、工具多调
+ 用不惩罚、A/B/Judge 校准和业务指标桥接不足。完整复盘
+ 见 application.knowledge_path。
 LOCATION:网易集团视频（二机位）：https://emeeting.netease.com/v
  2/index?meetingId=140472&appId=leihuo-campus-ehr-emeeting&role=interviewee
  &userId=662606456&userName=%E5%94%90%E6%B2%BB%E6%B1%9F&timestamp=178952852
  2244&sign=8e25229c98569275921d6479825eced0539409fbf72eed25b5daad9663b4f6ce
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 网易 · 大模型算法工程师（智能NPC方向
- ）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-183@autumn-recruitment
@@ -3590,18 +3593,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-187@autumn-recruitment
 DTSTAMP:20260918T075908Z
-DTSTART:20260924T063000Z
-DTEND:20260924T071500Z
+DTSTART:20260924T030000Z
+DTEND:20260924T034500Z
 SUMMARY:三面 · 联想集团 · Agent算法研究员
 TRANSP:OPAQUE
 DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
-  2026-09-24 14:30 · 45 分钟 | 联想2026秋季招聘 Agent算法研究
+  2026-09-24 11:00 · 45 分钟 | 联想2026秋季招聘 Agent算法研究
  员线上 1V1 三面，预计45分钟，包含编程题考察，需提前
  准备可运行环境。Microsoft Teams 会议 ID：483 294 138 777 276；
  密码：FW2bc76P。电话拨入：+86 400 813 1243\,\,322312631#；电话
  会议 ID：322 312 631#。邮件要求于2026年9月22日之前回复确
  认是否参加。\n\n参加状态（2026-09-18）：用户已回复并确
- 认参加。
+ 认参加。\n\n改期记录（2026-09-23）：原定2026-09-24 14:30，
+ 已与联想协调并调整为同日上午11:00；其余会议方式与链
+ 接不变。
 LOCATION:https://teams.microsoft.com/meet/483294138777276?p=Kqh1rYl9G0AUOyQ
  OGO
 STATUS:CONFIRMED
@@ -3609,6 +3614,38 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 联想集团 · Agent算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-195@autumn-recruitment
+DTSTAMP:20260923T063320Z
+DTSTART:20260924T063000Z
+DTEND:20260924T070000Z
+SUMMARY:五面 · 腾讯 · 算法-多模态方向
+TRANSP:OPAQUE
+DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
+ 26-09-24 14:30 · 30 分钟 | 腾讯2027校园招聘算法研究类通用
+ 岗位，覆盖多模态理解与生成；工作地点包括深圳、北
+ 京、上海、广州，可由多个事业群筛选。当前进度：简
+ 历筛选中，简历已进入简历库供面试官筛选。\n流程更新
+ （2026-08-24）：面试邀请中的职位名称为「算法工程师」
+ ，部门为腾讯AI平台部；与2026-08-11投递的「算法-多模态
+ 方向」属于同一流程。 | 腾讯校园招聘算法工程师第五
+ 轮面试，部门：腾讯AI平台部；形式：线上单面；方式：
+ 腾讯会议。时间：2026-09-24（周四）14:30–15:00。请提前10
+ 分钟进入会议并检测设备。技术岗位可能进行在线代码
+ 考核及AI实战能力考察，建议使用PC端Chrome并提前阅读AI
+ 实战操作指南：https://cdn.tencentgroup.qq.com/vv_static/ide/AICodin
+ g.pdf 。确认或改期入口：https://join.qq.com/interview_reply.html 
+ 。如超过约定时间10分钟面试官仍未上线，请联系0755-8601
+ 3388，接通后输入855999，或回复面试邮件。未经腾讯招聘
+ 官方许可不得录音或录像。当前参加状态：待确认。
+LOCATION:https://meeting.tencent.com/dm/pBkgKyRMvpdx
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:五面 · 腾讯 · 算法-多模态方向
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
