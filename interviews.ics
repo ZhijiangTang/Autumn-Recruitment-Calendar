@@ -3528,11 +3528,11 @@ BEGIN:VEVENT
 UID:event-183@autumn-recruitment
 DTSTAMP:20260916T082410Z
 DTSTART:20260923T063000Z
-DTEND:20260923T070000Z
-SUMMARY:四面 · 元戎启行 · 【2027秋招】大模型算法工程师
+DTEND:20260923T065600Z
+SUMMARY:HR面 · 元戎启行 · 【2027秋招】大模型算法工程师
 TRANSP:OPAQUE
 DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
- 师 | 固定场次 · 2026-09-23 14:30 · 30 分钟 | 元戎启行 2027 
+ 师 | 固定场次 · 2026-09-23 14:30 · 26 分钟 | 元戎启行 2027 
  秋招大模型算法工程师，视频面试邀约；具体团队职责
  待面试反问确认。 | 2026-09-16 收到 Deeproute.ai / Moka 面试邀
  约。结合本投递既有一面、二面、三面记录，本次按四
@@ -3548,14 +3548,13 @@ DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  ess_token=cde13ccd9dd44a5884dc334d4bafd94294886a22c33e4b439a4bad402d60db95
  &orgId=deeproute&businessUnitId=0\n邮件由 Moka 代发，请勿直接回
  复。\n参加状态：已接受（用户于 2026-09-17 统一确认）。
+ \n\n2026-09-23：HR面已完成，有效沟通约26分钟。HR介绍薪酬
+ 、作息、福利与上海落户口径，并明确表示将申请意向
+ 书，后续按部门排序陆续谈薪；当前尚未发放意向书或Of
+ fer，投递状态继续保留为interview。详细复盘见knowledge_path
+ /review.md。
 LOCATION:https://vc.feishu.cn/j/863274689
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:四面 · 元戎启行 · 【2027秋招】大模型算法工程
- 师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-192@autumn-recruitment
@@ -3639,7 +3638,8 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  g.pdf 。确认或改期入口：https://join.qq.com/interview_reply.html 
  。如超过约定时间10分钟面试官仍未上线，请联系0755-8601
  3388，接通后输入855999，或回复面试邮件。未经腾讯招聘
- 官方许可不得录音或录像。当前参加状态：待确认。
+ 官方许可不得录音或录像。当前参加状态：已确认参加
+ （用户于2026-09-23确认）。
 LOCATION:https://meeting.tencent.com/dm/pBkgKyRMvpdx
 STATUS:CONFIRMED
 BEGIN:VALARM
