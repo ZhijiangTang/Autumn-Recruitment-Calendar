@@ -3593,11 +3593,11 @@ BEGIN:VEVENT
 UID:event-195@autumn-recruitment
 DTSTAMP:20260923T063320Z
 DTSTART:20260924T063000Z
-DTEND:20260924T070000Z
-SUMMARY:五面 · 腾讯 · 算法-多模态方向
+DTEND:20260924T064500Z
+SUMMARY:HR面 · 腾讯 · 算法-多模态方向
 TRANSP:OPAQUE
 DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
- 26-09-24 14:30 · 30 分钟 | 腾讯2027校园招聘算法研究类通用
+ 26-09-24 14:30 · 15 分钟 | 腾讯2027校园招聘算法研究类通用
  岗位，覆盖多模态理解与生成；工作地点包括深圳、北
  京、上海、广州，可由多个事业群筛选。当前进度：简
  历筛选中，简历已进入简历库供面试官筛选。\n流程更新
@@ -3613,14 +3613,16 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  。如超过约定时间10分钟面试官仍未上线，请联系0755-8601
  3388，接通后输入855999，或回复面试邮件。未经腾讯招聘
  官方许可不得录音或录像。当前参加状态：已确认参加
- （用户于2026-09-23确认）。
+ （用户于2026-09-23确认）。\n2026-09-24：第五轮实际为HR面
+ ，已完成，有效交流约15分钟。讨论研究与业务偏好、职
+ 业规划、项目复盘、游戏AI兴趣、深圳工作地点及Offer决
+ 策。HR说明当前是TEG与IEG大模型应用团队，阶段性重点为
+ 王者万象棋，另有多个游戏AI项目；当前不做基模。未给
+ 出正式录用承诺、薪资方案或反馈期限。深圳工作与上
+ 海户籍/公积金安排仅表示公司层面可能，个人情况未承
+ 诺。详见review.md。
 LOCATION:https://meeting.tencent.com/dm/pBkgKyRMvpdx
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:五面 · 腾讯 · 算法-多模态方向
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-187@autumn-recruitment
