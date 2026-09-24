@@ -3560,12 +3560,12 @@ BEGIN:VEVENT
 UID:event-192@autumn-recruitment
 DTSTAMP:20260921T061339Z
 DTSTART:20260923T083000Z
-DTEND:20260923T091500Z
+DTEND:20260923T091100Z
 SUMMARY:一面 · vivo · AI大模型算法工程师（模型方向）-27
  届秋招
 TRANSP:OPAQUE
 DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
- 届秋招 | 固定场次 · 2026-09-23 16:30 · 45 分钟 | 深圳/杭州
+ 届秋招 | 固定场次 · 2026-09-23 16:30 · 41 分钟 | 深圳/杭州
  ，招12人。负责大模型SFT、RLHF/RLAIF、DPO/PPO/GRPO训练与对
  齐，Agent轨迹与合成数据构造、奖励建模、规划与工具调
  用、评测体系及视觉/语音/文本多模态融合。 | vivo「AI大
@@ -3579,41 +3579,15 @@ DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
  ivo.com，或拨打0755-36991888转64073/64143。若需改期，在预约
  系统选择拒绝面试并备注可面试时间；资源有限，不保
  证协调成功。\n本时间由用户反馈期望时间后获正式邀约
- ，参加状态视为已确认。
+ ，参加状态视为已确认。\n\n2026-09-23：vivo一面已完成，
+ 有效交流约41分钟。主要深挖阿里Agent评测与next-action GRPO
+ 、PPO/GRPO/DAPO、训练监控、CCCaption动态query采样与factuality 
+ reward、Shopee数学后训练，并包含一道未进入转写画面的Co
+ ding题。实际团队负责蓝心大模型端侧能力、业务微调、
+ 量化与手机部署；当前以具体手机功能为主，也在长期
+ 推进Agent。完整复盘见knowledge_path/review.md。
 LOCATION:https://meeting.tencent.com/dm/JPLNJIyM46cd
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · vivo · AI大模型算法工程师（模型方向）-
- 27届秋招
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:event-187@autumn-recruitment
-DTSTAMP:20260918T075908Z
-DTSTART:20260924T030000Z
-DTEND:20260924T034500Z
-SUMMARY:三面 · 联想集团 · Agent算法研究员
-TRANSP:OPAQUE
-DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
-  2026-09-24 11:00 · 45 分钟 | 联想2026秋季招聘 Agent算法研究
- 员线上 1V1 三面，预计45分钟，包含编程题考察，需提前
- 准备可运行环境。Microsoft Teams 会议 ID：483 294 138 777 276；
- 密码：FW2bc76P。电话拨入：+86 400 813 1243\,\,322312631#；电话
- 会议 ID：322 312 631#。邮件要求于2026年9月22日之前回复确
- 认是否参加。\n\n参加状态（2026-09-18）：用户已回复并确
- 认参加。\n\n改期记录（2026-09-23）：原定2026-09-24 14:30，
- 已与联想协调并调整为同日上午11:00；其余会议方式与链
- 接不变。
-LOCATION:https://teams.microsoft.com/meet/483294138777276?p=Kqh1rYl9G0AUOyQ
- OGO
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 联想集团 · Agent算法研究员
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-195@autumn-recruitment
@@ -3646,6 +3620,36 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:五面 · 腾讯 · 算法-多模态方向
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-187@autumn-recruitment
+DTSTAMP:20260918T075908Z
+DTSTART:20260924T073000Z
+DTEND:20260924T081500Z
+SUMMARY:三面 · 联想集团 · Agent算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
+  2026-09-24 15:30 · 45 分钟 | 联想2026秋季招聘 Agent算法研究
+ 员线上 1V1 三面，预计45分钟，包含编程题考察，需提前
+ 准备可运行环境。Microsoft Teams 会议 ID：483 294 138 777 276；
+ 密码：FW2bc76P。电话拨入：+86 400 813 1243\,\,322312631#；电话
+ 会议 ID：322 312 631#。邮件要求于2026年9月22日之前回复确
+ 认是否参加。\n\n参加状态（2026-09-18）：用户已回复并确
+ 认参加。\n\n改期记录（2026-09-23）：原定2026-09-24 14:30，
+ 已与联想协调并调整为同日上午11:00；其余会议方式与链
+ 接不变。\n\n最新正式邀约（2026-09-24记录）：本场三面时
+ 间以2026-09-24 15:30–16:15为准，替代此前14:30及11:00记录；T
+ eams链接、会议ID与密码不变。含编程题，需准备可运行
+ 环境。最新邮件要求9月23日之前回复确认；原场已确认
+ 参加，本次改期后的回复情况未另行核实。
+LOCATION:https://teams.microsoft.com/meet/483294138777276?p=Kqh1rYl9G0AUOyQ
+ OGO
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
