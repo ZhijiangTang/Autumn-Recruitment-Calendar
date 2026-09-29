@@ -3703,15 +3703,16 @@ DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
  f177c53aa46750ac6678422f8\n手机参加：https://meetingx.myhithink.com/ 
  下载同顺会议 APP，打开后输入会议 ID。\n公司简介摘录
  ：成立于1995年，2009年创业板上市，总部杭州，员工4000
- 余人；国内证券交易系统市占率约90%。
+ 余人；国内证券交易系统市占率约90%。\n2026-09-29 用户提
+ 供二面录音，已参加，有效交流约35分钟；官方结果待通
+ 知。重点讨论金融Agent场景的专家参与、rubric自动生成、
+ 训练reward与线上/离线环境一致性。二面面试官表示其团
+ 队与一面可能不同，会向HR核实；实际归属未定。完整复
+ 盘：data/knowledge/同花顺-多模态大模型算法工程师/review.md
+ 。
 LOCATION:https://job.10jqka.com.cn/#/meeting?auditionId=11047914&code=85aea
  f5f177c53aa46750ac6678422f8
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 同花顺 · 多模态大模型算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-193@autumn-recruitment
