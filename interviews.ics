@@ -3834,4 +3834,33 @@ ACTION:DISPLAY
 DESCRIPTION:一面 · 小马智行 · PonyStar顶尖人才计划（27届）
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-200@autumn-recruitment
+DTSTAMP:20260929T030206Z
+DTSTART:20261010T060000Z
+DTEND:20261010T070000Z
+SUMMARY:三面 · 地平线 · 【2027届校招】多模态大模型算法
+ 工程师-预研
+TRANSP:OPAQUE
+DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
+ 工程师-预研 | 固定场次 · 2026-10-10 14:00 · 60 分钟 | 第一
+ 志愿；意向工作地点：上海市-嘉定区；机构：算法预研
+ 部。负责自动驾驶原生多模态大模型研发、世界模型落
+ 地与模型评估链路建设。 | 地平线【2027届校招】多模态
+ 大模型算法工程师-预研视频面试，2026-10-10 14:00–15:00（
+ 北京时间）。一面和二面已完成，本次暂按三面记录；
+ 邮件未明示轮次。参加状态：用户已确认接受（2026-09-29
+ ）。接受链接：https://email.wintalent.cn/wt/Horizon/kurl?k=fAfqqiaV
+ r2E3iaqU&sign=8059cd6370399e6a8c938a36b2f99e9e15c5a621f808d539b93c670034e5
+ cab3 。如需调整，至少提前1天联系HR：(010)83452549；面试
+ 官迟到超过10分钟可联系HR。
+LOCATION:https://vc.feishu.cn/j/661234784?locale=1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 地平线 · 【2027届校招】多模态大模型算
+ 法工程师-预研
+END:VALARM
+END:VEVENT
 END:VCALENDAR
