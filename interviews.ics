@@ -3131,7 +3131,9 @@ DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
  确认，日历暂占 60 分钟 | 通知未标明轮次；因 2026-09-08 
  一面已完成并随后收到本次邀约，按二面记录。HR：刘秋
  廷，+86 17616082157；如需改期须提前 1 天联系；建议提前 1
- 0 分钟调试设备，面试官迟到超过 5 分钟时联系 HR。
+ 0 分钟调试设备，面试官迟到超过 5 分钟时联系 HR。\n2026
+ -09-29 HRBP 电话确认三轮业务面试均已通过，后续待谈薪
+ ；本轮先前仅记已完成，现据 HRBP 明确答复补记通过。
 LOCATION:飞书视频面试：https://dexmal-inc.feishu.cn/hire/short_url/Q
  JGqUNzxce4
 STATUS:CONFIRMED
@@ -3346,7 +3348,9 @@ DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
  策略如何进入多轮RL没有形成可执行方案，职业转向理由
  也偏泛。面试官随后详细介绍公司自研双臂轮式机器人
  、开放世界zero-shot算法目标，以及物流/工业/商超的ToB落
- 地路径。完整复盘见knowledge_path下review.md。
+ 地路径。完整复盘见knowledge_path下review.md。\n2026-09-29 HRBP 
+ 电话确认三轮业务面试均已通过，后续待谈薪；本轮先
+ 前仅记已完成，现据 HRBP 明确答复补记通过。
 LOCATION:https://dexmal-inc.feishu.cn/hire/short_url/3eFMZNMR3a4
 STATUS:CONFIRMED
 END:VEVENT
@@ -3732,15 +3736,19 @@ DESCRIPTION:具身智能 | 【27届校招】具身智能后训练算法工
  提前1天联系HR刘秋廷：+86 17616082157。\n信息登记表：https:
  //dexmal-inc.feishu.cn/hire/short_url/KP0-IAejiPc；如已填写过可忽
  略。\n当前参加状态：待确认。\n日程提示：当天14:00–15
- :00有同花顺面试，本场16:00开始，中间有1小时缓冲。
+ :00有同花顺面试，本场16:00开始，中间有1小时缓冲。\n202
+ 6-09-29 已参加 HRBP 电话沟通，约12分30秒。HRBP明确表示全
+ 部面试已结束且通过；目前薪资范围未定、没有意向书
+ 环节，预计10月下旬至11月直接进入谈薪（仅为估计）。H
+ RBP称拟入VLA预训练团队，虽当前投递名称为具身智能后
+ 训练算法工程师，正式团队/职责须再核对。HRBP表示会添
+ 加微信，是否已添加未确认。完整复盘见data/knowledge/原
+ 力灵机-【27届校招】具身智能后训练算法工程师/review.md
+ 。\nHRBP 联系电话：18310719227（用户于2026-09-29补充；姓名
+ 未核实）。此人为后续谈薪/入职对接HRBP，与面试安排HR
+ 刘秋廷17616082157区分。
 LOCATION:电话面试
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:HR面 · 原力灵机 · 【27届校招】具身智能后训练
- 算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-194@autumn-recruitment
