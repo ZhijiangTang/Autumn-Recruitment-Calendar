@@ -3776,15 +3776,14 @@ DESCRIPTION:国际电商 | 面向国际电商场景的大模型应用-国
  R电话面；两场均按默认60分钟占位时，原力灵机预计17:00
  结束，与本场17:00首尾相接，没有缓冲。建议确认原力灵
  机实际时长，或至少提前告知对方17:00有下一场。当天14:
- 00另有同花顺二面。
+ 00另有同花顺二面。\n2026-09-29 用户提供本场面试转录，
+ 确认已参加；官方结果待通知。有效交流约60分钟，重点
+ 为阿里 Agent 评测/单步 RL、GRPO/DPO 代码、Adam 和长上下文
+ 基础。复盘见 data/knowledge/字节跳动-面向国际电商场景的
+ 大模型应用-国际电商（杭州）/review.md 的二面章节。转
+ 录未包含代码画面，不能判断 DPO 实现是否正确。
 LOCATION:https://t.zijieimg.com/BvAqLrBGM-M/
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 字节跳动 · 面向国际电商场景的大模型
- 应用-国际电商（杭州）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-196@autumn-recruitment
@@ -3870,6 +3869,42 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 地平线 · 【2027届校招】多模态大模型算
  法工程师-预研
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-201@autumn-recruitment
+DTSTAMP:20260930T031400Z
+DTSTART:20261012T070000Z
+DTEND:20261012T080000Z
+SUMMARY:二面 · 快手 · 大模型应用算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:快手 | 大模型应用算法工程师 | 固定场次 · 2026-
+ 10-12 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分钟 
+ | 用户确认这是独立于「多模态大模型算法工程师」的新
+ 岗位。意向地点：杭州、北京；招聘类型：全职；项目
+ ：2027应届生；投递时间：2026-09-16。官网当前进度：面试
+ 。具体岗位职责待确认。\n2026-09-28一面得知：团队做AIGC
+ 智能创作Agent；包括数字人直播场控、营销视频生成的Ski
+ ll/工具编排、SFT/RL、Rubric评测及training-free探索。直播场
+ 控约3秒轮询，关注转化 | 快手2027应届生「大模型应用算
+ 法工程师」新一场视频面试邀约。此前本岗位一面已于20
+ 26-09-28完成，本场暂按二面记录；邮件未注明官方轮次与
+ 面试时长。\n面试链接：https://viewcoder.qingque.cn/i/qqs-gryb-dr
+ s\n确认入口：https://campus.kuaishou.cn/recruit/campus/e/interview.ht
+ ml?code=91984242-a741-4ba0-85b2-f6e9485b9db6\n参会确认状态：尚未
+ 获用户确认；本次仅记录邀约，未代为点击确认。\n请使
+ 用最新版Chrome和有摄像头、麦克风的电脑，提前10分钟进
+ 入链接调试设备；更换网络后需重测。关闭下载软件，
+ 避免企业内网或VPN，不使用辅助面试软件。\n如需改期，
+ 请至少提前1天联系HR邱宇阳（邱HR）：qiuyuyang05@kuaishou.com
+ ，19503882536；面试官迟到超过5分钟可联系HR。面试体验建
+ 议：campus@kuaishou.com。
+LOCATION:https://viewcoder.qingque.cn/i/qqs-gryb-drs
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 快手 · 大模型应用算法工程师
 END:VALARM
 END:VEVENT
 END:VCALENDAR
