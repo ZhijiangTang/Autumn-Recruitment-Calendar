@@ -8,6 +8,154 @@ X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:PT15M
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
+UID:event-23@autumn-recruitment
+DTSTAMP:20260712T093558Z
+DTSTART:20260717T093700Z
+DTEND:20260717T093800Z
+SUMMARY:已归档 · 截止 · AI测评 · 拼多多 · 算法工程师
+TRANSP:TRANSPARENT
+DESCRIPTION:技术专场 | 算法工程师 | 截止 2026-07-17 17:37 · 尚
+ 未安排作答时段 · 作答时长待确认 | 校招项目：技术专
+ 场；志愿一；当前应聘职位；官网状态：待处理；简历
+ 评估尚未结束，可修改投递岗位。 个性测评：已确认参
+ 加，具体作答时间待定；有效期至2026-07-17 17:33，技术专
+ 业笔试另行通知。 | 拼多多集团在线个性测评。链接：ht
+ tps://7pd.cn/vwyqZ21d；须在2026-07-17 17:37（周五）前完成。技
+ 术专业笔试另行通知，通常提前1-3天发送。集团级通知
+ ，关联技术专场与云弧计划投递。\n\n拼多多集团共用个
+ 性测评已完成或被后续流程复用；云弧计划已推进至面
+ 试，清除过期待作答状态（2026-08-09 审计）。\n\n2026-10-05 
+ 数据整备：现有材料仅确认关闭待复盘/复用流程，未单
+ 独确认本人实际参加。本条归档避免继续提醒；参加情
+ 况及官方结果待核实，不以流程推进或跳过复盘推断参
+ 加。
+LOCATION:https://7pd.cn/vwyqZ21d
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-24@autumn-recruitment
+DTSTAMP:20260712T093558Z
+DTSTART:20260717T093700Z
+DTEND:20260717T093800Z
+SUMMARY:已归档 · 截止 · AI测评 · 拼多多 · 大模型算法工
+ 程师【2027届云弧计划】
+TRANSP:TRANSPARENT
+DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
+ 】 | 截止 2026-07-17 17:37 · 尚未安排作答时段 · 作答时长
+ 待确认 | 校招项目：云弧计划；志愿一；当前应聘职位
+ ；官网状态：待处理；简历评估尚未结束，可修改投递
+ 岗位。 个性测评：已确认参加，具体作答时间待定；有
+ 效期至2026-07-17 17:33，技术专业笔试另行通知。 | 拼多多
+ 集团在线个性测评。链接：https://7pd.cn/vwyqZ21d；须在2026-0
+ 7-17 17:37（周五）前完成。技术专业笔试另行通知，通常
+ 提前1-3天发送。集团级通知，关联技术专场与云弧计划
+ 投递。\n\n拼多多集团共用个性测评已完成或被后续流程
+ 复用；云弧计划已推进至面试，清除过期待作答状态（20
+ 26-08-09 审计）。\n\n2026-10-05 数据整备：现有材料仅确认
+ 关闭待复盘/复用流程，未单独确认本人实际参加。本条
+ 归档避免继续提醒；参加情况及官方结果待核实，不以
+ 流程推进或跳过复盘推断参加。
+LOCATION:https://7pd.cn/vwyqZ21d
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-79@autumn-recruitment
+DTSTAMP:20260807T075616Z
+DTSTART:20260807T070200Z
+DTEND:20260809T070200Z
+SUMMARY:已完成 · 可选作答窗口 · AI测评 · OPPO · AI研究员
+ （AI多模态智能体）
+TRANSP:TRANSPARENT
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 开放 2
+ 026-08-07 15:02 · 截止 2026-08-09 15:02 · 尚未安排作答时段 · 
+ 作答时长待确认 | 岗位聚焦智能体基础模型、数据飞轮
+ 、继续预训练、Agentic RL、智能体自演进及 Harness Engineerin
+ g，要求具备大模型/AI Agent 构建优化评估经验与科研能力
+ 。 | OPPO 在线 AI 面试（牛客 NowAI）。岗位：AI研究员（AI
+ 多模态智能体）。\n面试窗口（北京时间）：2026-08-07 15:0
+ 2 ～ 2026-08-09 15:02；逾期视为放弃。\n日历 scheduled_at 按窗
+ 口截止提醒记为 2026-08-09 15:00。\n面试链接（私人专属勿
+ 转发）：https://hr.nowcoder.com/v1/s/zvn1oSC1#\n方式：手机微信
+ 小程序 或 电脑网页（二选一）；同时仅允许一端登录。
+ \n建议提前 ≥1 小时进入；安静、网络畅通；国外请关 VP
+ N；注意电量。\nPC 网络中断可退出改手机端续面。\n支持
+ ：nowai@nowcoder.com\n前置：性格测评 event-77 另计。\n\n官网
+ 核验（2026-08-09）：OPPO 应聘记录显示 AI 面试已完成，当
+ 前仍为综合评估中。\n\n2026-10-05 数据整备：原 scheduled_at=
+ 2026-08-09 15:00 是提醒节点或截止占位，已移出固定开始时
+ 间；按原邀请区分开放窗口、截止和未知时间，不推断
+ 实际开考时刻。
+LOCATION:https://hr.nowcoder.com/v1/s/zvn1oSC1#
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-89@autumn-recruitment
+DTSTAMP:20260811T035033Z
+DTSTART:20260813T020000Z
+DTEND:20260813T130000Z
+SUMMARY:已归档 · 可选作答窗口 · 笔试 · 蚂蚁集团 · 多模
+ 态理解和生成算法
+TRANSP:TRANSPARENT
+DESCRIPTION:蚂蚁健康事业群 | 多模态理解和生成算法 | 开放
+  2026-08-13 10:00 · 截止 2026-08-13 21:00 · 尚未安排作答时段 
+ · 作答 120 分钟 · 最迟开始 2026-08-13 19:00（未留调试缓冲
+ ） | 面向图像、视频、语音、文档等多模态内容，开展
+ 理解、生成、编辑与交互算法研发；覆盖跨模态对齐、
+ 视觉问答、文档与视频理解、图文检索、Agent、多模态数
+ 据与评测体系及线上实验。 | 蚂蚁集团“多模态理解和
+ 生成算法”AI Coding笔试。开放窗口：2026-08-13 10:00–21:00
+ （UTC+8），可在窗口内任意时间进入；进入云端IDE后开始
+ 120分钟倒计时。每人仅1次机会，未准备好不要按ENTER正
+ 式开始；若不参加最近场次，不要进入作答，系统将自
+ 动顺延。设备要求：Chrome 140+、电脑摄像头、稳定网络；
+ 建议提前完成兼容性诊断。考试期间在内置云端IDE完成
+ 任务并保持在答题页面；断电/断网后可重新打开链接继
+ 续，但计时不会重置。官网入口：https://talent.antgroup.com/p
+ ersonal/campus-application；公告：https://talent.antgroup.com/notice/c
+ ampus?type=notice&subType=sxszplcqm。\n\n2026-08-27 用户将待复盘标
+ 记为已完成（跳过结构化复盘）。\n\n2026-10-05 数据整备
+ ：现有材料仅确认关闭待复盘/复用流程，未单独确认本
+ 人实际参加。本条归档避免继续提醒；参加情况及官方
+ 结果待核实，不以流程推进或跳过复盘推断参加。\n\n2026
+ -10-05 数据整备：原 scheduled_at=2026-08-13 10:00 是提醒节点或
+ 截止占位，已移出固定开始时间；按原邀请区分开放窗
+ 口、截止和未知时间，不推断实际开考时刻。
+LOCATION:https://interview.antgroup.com/home/candidateExam?token=7dcf7c9f-e
+ 44b-42c3-8f39-3ffb26c89348
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-105@autumn-recruitment
+DTSTAMP:20260817T121546Z
+DTSTART:20260820T121400Z
+DTEND:20260820T121500Z
+SUMMARY:已归档 · 截止 · AI测评 · 小米 · 多模态大模型算
+ 法工程师第 3 志愿
+TRANSP:TRANSPARENT
+DESCRIPTION:2027届校园招聘计划（正式算法类） | 多模态大
+ 模型算法工程师第 3 志愿 | 截止 2026-08-20 20:14 · 尚未安
+ 排作答时段 · 作答时长待确认 | 小米集团 2027 校招在线
+ 测评（多模态大模型算法工程师 · 正式批第3志愿）。邮
+ 件要求收到链接后 72 小时内完成；按收到邮件时间 2026-0
+ 8-17 20:14 推算，截止 2026-08-20 20:14。作答时长约 30–45 分
+ 钟。设备：谷歌 Chrome 72+ 或 QQ/360 浏览器极速模式；可提
+ 前在 https://assistant.ceping.com 测试设备网速。网络：实时
+ 联网，带宽不低于 10Mbps，建议 50Mbps 以上独立光纤；校
+ 园网不通时建议备 4G 热点。断网/断电/误关页面可再次
+ 登录继续作答（系统保存进度）。客服电话：400-650-6886
+ 。\n\n2026-08-27 用户将待复盘标记为已完成（跳过结构化
+ 复盘）。\n\n2026-10-05 数据整备：现有材料仅确认关闭待
+ 复盘/复用流程，未单独确认本人实际参加。本条归档避
+ 免继续提醒；参加情况及官方结果待核实，不以流程推
+ 进或跳过复盘推断参加。\n\n2026-10-05 数据整备：原 schedul
+ ed_at=2026-08-20 20:14 是提醒节点或截止占位，已移出固定开
+ 始时间；按原邀请区分开放窗口、截止和未知时间，不
+ 推断实际开考时刻。
+LOCATION:https://xiaomiceping.ceping.com/Login/Elink?elink=HfmM0ogxfCbaMzxc
+ China259FVSEuiARVZ1e1IRq2n4WBAl7Ibm/RTIzklGTluaJdXukAoQYTrQti
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:event-168@autumn-recruitment
 DTSTAMP:20260911T041833Z
 DTSTART:20260913T155900Z
@@ -168,23 +316,23 @@ BEGIN:VEVENT
 UID:event-41@autumn-recruitment
 DTSTAMP:20260719T144508Z
 DTSTART:20260719T110000Z
-DTEND:20260719T110100Z
-SUMMARY:时间待核实 · 技术笔试 · 拼多多 · 大模型算法工
- 程师【2027届云弧计划】
-TRANSP:TRANSPARENT
+DTEND:20260719T130000Z
+SUMMARY:技术笔试 · 拼多多 · 大模型算法工程师【2027届云
+ 弧计划】
+TRANSP:OPAQUE
 DESCRIPTION:云弧计划 | 大模型算法工程师【2027届云弧计划
- 】 | 时间性质待核实 · 原记录 2026-07-19 19:00 | 校招项目
- ：云弧计划；志愿一；当前应聘职位；官网状态：待处
- 理；简历评估尚未结束，可修改投递岗位。 个性测评：
- 已确认参加，具体作答时间待定；有效期至2026-07-17 17:33
- ，技术专业笔试另行通知。 | 【云弧计划】2027届大模型
- 算法工程师笔试（0719），19:00-21:00，共4题。题目方向：0
- 1序列唯一赋值、时空可达二维LIS、允许丢弃请求的最少
- 批次DP、单环图GF(2)最小费用及方案数。依据大模型请求
- 分批题暂关联云弧计划；详细复盘见 review.md；未记录各
- 题AC情况，不作结果预测。
+ 】 | 固定场次 · 2026-07-19 19:00 · 120 分钟 | 校招项目：云
+ 弧计划；志愿一；当前应聘职位；官网状态：待处理；
+ 简历评估尚未结束，可修改投递岗位。 个性测评：已确
+ 认参加，具体作答时间待定；有效期至2026-07-17 17:33，技
+ 术专业笔试另行通知。 | 【云弧计划】2027届大模型算法
+ 工程师笔试（0719），19:00-21:00，共4题。题目方向：01序
+ 列唯一赋值、时空可达二维LIS、允许丢弃请求的最少批
+ 次DP、单环图GF(2)最小费用及方案数。依据大模型请求分
+ 批题暂关联云弧计划；详细复盘见 review.md；未记录各题A
+ C情况，不作结果预测。
 LOCATION:https://hr.nowcoder.com/v1/s/XTzEPi7T#
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-40@autumn-recruitment
@@ -299,34 +447,34 @@ BEGIN:VEVENT
 UID:event-44@autumn-recruitment
 DTSTAMP:20260721T104936Z
 DTSTART:20260723T110000Z
-DTEND:20260723T110100Z
-SUMMARY:时间待核实 · 笔试 · 百度 · 2027校园招聘-北京-智
- 能体算法工程师(J101659)
-TRANSP:TRANSPARENT
+DTEND:20260723T130000Z
+SUMMARY:笔试 · 百度 · 2027校园招聘-北京-智能体算法工程
+ 师(J101659)
+TRANSP:OPAQUE
 DESCRIPTION:文心大模型 | 2027校园招聘-北京-智能体算法工程
- 师(J101659) | 时间性质待核实 · 原记录 2026-07-23 19:00 | 正
- 式校招；北京；与 AIDU 并行。官网最初职位为北京-智能
- 体算法工程师（J101017），笔试通知使用岗位码 J101659，
- 用户确认属于同一投递。官网曾显示“共享中”；2026-07-
- 29 用户确认流程已结束、未通过。 | 百度2027校园招聘在
- 线笔试（简历初筛通过，进入复筛）。\n岗位名称：2027
- 校园招聘-北京-智能体算法工程师(J101659)（库内原记录为
-  J101017，按用户确认挂 application #24 并更新岗位码）。\n
- 考试时间：2026-07-23 19:00:00 -- 21:00:00（北京时间），时长1
- 20分钟。\n考试地址（私人专属，勿转发）：https://hr.nowco
- der.com/v1/s/jdg2je15#\n特别说明：校招「不海笔」；笔试与
- 面试无严格先后，可能先收面试再笔试，仍须参加；笔
- 试成绩为后续重要参考，部分部门无笔试成绩无法推进
- 。\n设备：全程摄像头；最新版 Chrome；带摄像头电脑；
- 提前15分钟打开链接核对信息与调试。\n练习：AI coding htt
- ps://www.nowcoder.com/problem/aicoding/ ；prompt https://www.nowcoder.com
- /exam/oj/ta?tpId=408\n编程语言多种，需自行处理输入输出。
- 故障处理见通知（exam→w1、DNS、热点、刷新重进）。\n题
- 型提交后不可返改。摄像头防作弊；代码查重。\n问题反
- 馈：考试页咨询 / kaoshi@nowcoder.com / 18518151358、18518151187。
- \n通知要求点击确认是否参加考试。\n最终结果：官网曾
- 显示“共享中”；2026-07-29 用户确认该投递流程已结束、
- 未通过。
+ 师(J101659) | 固定场次 · 2026-07-23 19:00 · 120 分钟 | 正式校
+ 招；北京；与 AIDU 并行。官网最初职位为北京-智能体算
+ 法工程师（J101017），笔试通知使用岗位码 J101659，用户
+ 确认属于同一投递。官网曾显示“共享中”；2026-07-29 用
+ 户确认流程已结束、未通过。 | 百度2027校园招聘在线笔
+ 试（简历初筛通过，进入复筛）。\n岗位名称：2027校园
+ 招聘-北京-智能体算法工程师(J101659)（库内原记录为 J1010
+ 17，按用户确认挂 application #24 并更新岗位码）。\n考试
+ 时间：2026-07-23 19:00:00 -- 21:00:00（北京时间），时长120分
+ 钟。\n考试地址（私人专属，勿转发）：https://hr.nowcoder.c
+ om/v1/s/jdg2je15#\n特别说明：校招「不海笔」；笔试与面试
+ 无严格先后，可能先收面试再笔试，仍须参加；笔试成
+ 绩为后续重要参考，部分部门无笔试成绩无法推进。\n设
+ 备：全程摄像头；最新版 Chrome；带摄像头电脑；提前15
+ 分钟打开链接核对信息与调试。\n练习：AI coding https://www
+ .nowcoder.com/problem/aicoding/ ；prompt https://www.nowcoder.com/exam/oj
+ /ta?tpId=408\n编程语言多种，需自行处理输入输出。故障处
+ 理见通知（exam→w1、DNS、热点、刷新重进）。\n题型提交
+ 后不可返改。摄像头防作弊；代码查重。\n问题反馈：考
+ 试页咨询 / kaoshi@nowcoder.com / 18518151358、18518151187。\n通知
+ 要求点击确认是否参加考试。\n最终结果：官网曾显示“
+ 共享中”；2026-07-29 用户确认该投递流程已结束、未通过
+ 。
 LOCATION:https://hr.nowcoder.com/v1/s/jdg2je15#
 STATUS:CANCELLED
 END:VEVENT
@@ -844,23 +992,48 @@ BEGIN:VEVENT
 UID:event-78@autumn-recruitment
 DTSTAMP:20260807T063658Z
 DTSTART:20260808T020000Z
-DTEND:20260808T020100Z
-SUMMARY:时间待核实 · 笔试 · 卓驭科技 · 多模态大模型后
- 训练算法工程师
+DTEND:20260808T030000Z
+SUMMARY:已完成 · 作答计划 · 笔试 · 卓驭科技 · 多模态大
+ 模型后训练算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:领航者计划 | 多模态大模型后训练算法工程师 | 
+ 开放 2026-08-07 09:23 · 截止 2026-08-21 09:23 · 计划 2026-08-08 10
+ :00 · 作答时长待确认 | 卓驭科技 在线测评（多模态大模
+ 型后训练算法工程师 · 领航者计划）。\n测评链接：https
+ ://zyt-hr.ceping.com/pc?aId=WyI92zBn/dfIAqlMhDSVlA==\n登录邮箱：tang_
+ zhi_jiang@163.com\n通行证：63263991024126\n邀请有效期：2026-08-0
+ 7 09:23 ～ 2026-08-21 09:23。\n预计用时：60～90 分钟。\n用户
+ 计划：本周末完成；日历按 2026-08-08 10:00（周六）提醒。
+ \n环境自检：https://assistant.ceping.com\n浏览器：Chrome 63+ 或 
+ QQ/360 极速模式；需开启摄像头/音频；带宽建议 ≥50Mbps
+ 。\n纪律：禁止切屏/双屏/耳机/通讯软件；系统升级作弊
+ 筛查。\n客服：400-650-6886\n断网可重新登录续答（进度一
+ 般会保存）。\n\n用户确认该场次已经复盘，不再提醒（2
+ 026-08-09）。
+LOCATION:https://zyt-hr.ceping.com/pc?aId=WyI92zBn/dfIAqlMhDSVlA==
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-78-deadline@autumn-recruitment
+DTSTAMP:20260807T063658Z
+DTSTART:20260821T012300Z
+DTEND:20260821T012400Z
+SUMMARY:已完成 · 截止 · 笔试 · 卓驭科技 · 多模态大模型
+ 后训练算法工程师
 TRANSP:TRANSPARENT
 DESCRIPTION:领航者计划 | 多模态大模型后训练算法工程师 | 
- 时间性质待核实 · 原记录 2026-08-08 10:00 | 卓驭科技 在线
- 测评（多模态大模型后训练算法工程师 · 领航者计划）
- 。\n测评链接：https://zyt-hr.ceping.com/pc?aId=WyI92zBn/dfIAqlMhDSVl
- A==\n登录邮箱：tang_zhi_jiang@163.com\n通行证：63263991024126\n
- 邀请有效期：2026-08-07 09:23 ～ 2026-08-21 09:23。\n预计用时
- ：60～90 分钟。\n用户计划：本周末完成；日历按 2026-08-0
- 8 10:00（周六）提醒。\n环境自检：https://assistant.ceping.com\
- n浏览器：Chrome 63+ 或 QQ/360 极速模式；需开启摄像头/音
- 频；带宽建议 ≥50Mbps。\n纪律：禁止切屏/双屏/耳机/通
- 讯软件；系统升级作弊筛查。\n客服：400-650-6886\n断网可
- 重新登录续答（进度一般会保存）。\n\n用户确认该场次
- 已经复盘，不再提醒（2026-08-09）。
+ 截止 2026-08-21 09:23 · 尚未安排作答时段 · 作答时长待确
+ 认 | 卓驭科技 在线测评（多模态大模型后训练算法工程
+ 师 · 领航者计划）。\n测评链接：https://zyt-hr.ceping.com/pc?
+ aId=WyI92zBn/dfIAqlMhDSVlA==\n登录邮箱：tang_zhi_jiang@163.com\n通
+ 行证：63263991024126\n邀请有效期：2026-08-07 09:23 ～ 2026-08-21
+  09:23。\n预计用时：60～90 分钟。\n用户计划：本周末完
+ 成；日历按 2026-08-08 10:00（周六）提醒。\n环境自检：http
+ s://assistant.ceping.com\n浏览器：Chrome 63+ 或 QQ/360 极速模式
+ ；需开启摄像头/音频；带宽建议 ≥50Mbps。\n纪律：禁止
+ 切屏/双屏/耳机/通讯软件；系统升级作弊筛查。\n客服：
+ 400-650-6886\n断网可重新登录续答（进度一般会保存）。\n\
+ n用户确认该场次已经复盘，不再提醒（2026-08-09）。
 LOCATION:https://zyt-hr.ceping.com/pc?aId=WyI92zBn/dfIAqlMhDSVlA==
 STATUS:CANCELLED
 END:VEVENT
@@ -868,12 +1041,55 @@ BEGIN:VEVENT
 UID:event-81@autumn-recruitment
 DTSTAMP:20260807T094104Z
 DTSTART:20260808T020000Z
-DTEND:20260808T020100Z
-SUMMARY:时间待核实 · 笔试 · OPPO · AI研究员（AI多模态智
- 能体）
+DTEND:20260808T042000Z
+SUMMARY:已取消 · 作答计划 · 笔试 · OPPO · AI研究员（AI多
+ 模态智能体）
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 开放 2
+ 026-08-08 08:00 · 截止 2026-08-08 23:59 · 计划 2026-08-08 10:00 · 
+ 作答 140 分钟 · 最迟开始 2026-08-08 21:39（未留调试缓冲）
+  | 岗位聚焦智能体基础模型、数据飞轮、继续预训练、Ag
+ entic RL、智能体自演进及 Harness Engineering，要求具备大模
+ 型/AI Agent 构建优化评估经验与科研能力。 | 【AI/算法类
+ 】OPPO 2027届秋招笔试题-0808\n考试时间窗口：(北京时间) 2
+ 026-08-08 08:00:00 -- 23:59:59\n考试时长：140分钟（到点自动关
+ 闭，请预留足够时间）\n考试地址（私人专属，勿转发）
+ ：https://hr.nowcoder.com/v1/s/D0ibZoh3#\n用户计划：本周末（周
+ 六 08-08）完成。\n设备：电脑+摄像头；最新版 Chrome；勿
+ 用平板。开考前关闭其他浏览器窗口、QQ/微信等；网速
+ 建议 100KB/S 以上。\n编程语言：1题限 Python 3；另1题可选 
+ C/C++/Java/Python3 等（需自处理输入输出）。\n作答：按目
+ 录作答，完成当前目录后才能进下一目录；提交目录后
+ 不可改。\n诚信：全程摄像头监控；勿找人代考；勿跳出
+ 无关页面（前3次切换弹窗提示）；代码查重；泄题/作弊
+ 取消资格并记入诚信档案。\n突发：断网/死机可刷新或
+ 重新进入；重新登录超过两分钟累加跳出次数。\nDNS 加
+ 载问题可试 223.5.5.5 / 114.114.114.114 或手机热点。\n牛客技
+ 术支持：kaoshi@nowcoder.com；紧急 18611869582 / 18611869571；页
+ 面右侧在线咨询。\n说明：库内另有 2026-08-09 笔试/一面
+ 安排，本场为 0808 AI/算法牛客卷，与 08-09 不同入口。\n\n
+ 结果更新（2026-08-09）：用户确认未在 2026-08-08 23:59 前进
+ 入考试，因超时未参加本场笔试。邮件规则写明缺考视
+ 为自动放弃、无其他考试机会；用户已通过 OPPO 招聘官
+ 方微信渠道申请补考，投递总状态暂不改为 rejected，等
+ 待官网或招聘方最终反馈。\n\n2026-10-05 数据整备：用户
+ 已确认0808场因超时未参加，原“未通过”容易误解为作
+ 答后的成绩结论，改为“已取消”；缺考及0815补考历史
+ 均保留，投递状态不变。
+LOCATION:https://hr.nowcoder.com/v1/s/D0ibZoh3#
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-81-deadline@autumn-recruitment
+DTSTAMP:20260807T094104Z
+DTSTART:20260808T155959Z
+DTEND:20260808T160059Z
+SUMMARY:已取消 · 截止 · 笔试 · OPPO · AI研究员（AI多模态
+ 智能体）
 TRANSP:TRANSPARENT
-DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 时间
- 性质待核实 · 原记录 2026-08-08 10:00 | 岗位聚焦智能体基
+DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 截止 2
+ 026-08-08 23:59 · 尚未安排作答时段 · 作答 140 分钟 · 最迟
+ 开始 2026-08-08 21:39（未留调试缓冲） | 岗位聚焦智能体基
  础模型、数据飞轮、继续预训练、Agentic RL、智能体自演
  进及 Harness Engineering，要求具备大模型/AI Agent 构建优化
  评估经验与科研能力。 | 【AI/算法类】OPPO 2027届秋招笔
@@ -898,89 +1114,37 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 时间
  本场笔试。邮件规则写明缺考视为自动放弃、无其他考
  试机会；用户已通过 OPPO 招聘官方微信渠道申请补考，
  投递总状态暂不改为 rejected，等待官网或招聘方最终反
- 馈。
+ 馈。\n\n2026-10-05 数据整备：用户已确认0808场因超时未参
+ 加，原“未通过”容易误解为作答后的成绩结论，改为
+ “已取消”；缺考及0815补考历史均保留，投递状态不变
+ 。
 LOCATION:https://hr.nowcoder.com/v1/s/D0ibZoh3#
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-75@autumn-recruitment
 DTSTAMP:20260806T111348Z
 DTSTART:20260808T110000Z
-DTEND:20260808T110100Z
-SUMMARY:时间待核实 · 笔试 · 京东 · 算法工程师-语言大模
- 型
-TRANSP:TRANSPARENT
-DESCRIPTION:JDS-新星计划 | 算法工程师-语言大模型 | 时间性
- 质待核实 · 原记录 2026-08-08 19:00 | 负责自然语言处理与
- 语言大模型相关算法研发，覆盖语义分析、意图识别、
- 智能对话、语言生成，以及模型训练、评估和部署。 | 
- 京东集团 2027 校园招聘专业笔试，试卷：京东集团2027校
- 招-算法试卷-0808；考试时段 19:00-20:40，时长100分钟。全
- 程开启摄像头，建议提前15分钟使用最新版 Chrome 完成设
- 备检测。JDS 技术方向若多个岗位均需笔试，只按意向岗
- 位安排一次，登录作答后无需重复笔试；每个项目最多
- 连续3次机会，缺席当前场且不登录将顺延。确认入口：h
- ttps://hr.nowcoder.com/v1/s/M4VYiqVp#。本场为专业笔试，与 2026-0
- 8-04 已完成的京东行测不是同一场。\n\n官网核验（2026-08-
- 09）：京东应聘记录仍显示“简历筛选中”；专业笔试是
- 否实际完成仍待用户确认。\n\n完成确认（2026-08-09）：用
- 户确认已参加本场专业笔试，官方结果待通知。
+DTEND:20260808T124000Z
+SUMMARY:笔试 · 京东 · 算法工程师-语言大模型
+TRANSP:OPAQUE
+DESCRIPTION:JDS-新星计划 | 算法工程师-语言大模型 | 固定场
+ 次 · 2026-08-08 19:00 · 100 分钟 | 负责自然语言处理与语言
+ 大模型相关算法研发，覆盖语义分析、意图识别、智能
+ 对话、语言生成，以及模型训练、评估和部署。 | 京东
+ 集团 2027 校园招聘专业笔试，试卷：京东集团2027校招-算
+ 法试卷-0808；考试时段 19:00-20:40，时长100分钟。全程开启
+ 摄像头，建议提前15分钟使用最新版 Chrome 完成设备检测
+ 。JDS 技术方向若多个岗位均需笔试，只按意向岗位安排
+ 一次，登录作答后无需重复笔试；每个项目最多连续3次
+ 机会，缺席当前场且不登录将顺延。确认入口：https://hr.
+ nowcoder.com/v1/s/M4VYiqVp#。本场为专业笔试，与 2026-08-04 已
+ 完成的京东行测不是同一场。\n\n官网核验（2026-08-09）：
+ 京东应聘记录仍显示“简历筛选中”；专业笔试是否实
+ 际完成仍待用户确认。\n\n完成确认（2026-08-09）：用户确
+ 认已参加本场专业笔试，官方结果待通知。
 LOCATION:https://hr.nowcoder.com/v1/s/OJZ31GAn#
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:event-77@autumn-recruitment
-DTSTAMP:20260807T063445Z
-DTSTART:20260809T063000Z
-DTEND:20260809T063100Z
-SUMMARY:时间待核实 · AI测评 · OPPO · AI研究员（AI多模态智
- 能体）
-TRANSP:TRANSPARENT
-DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 时间
- 性质待核实 · 原记录 2026-08-09 14:30 | 岗位聚焦智能体基
- 础模型、数据飞轮、继续预训练、Agentic RL、智能体自演
- 进及 Harness Engineering，要求具备大模型/AI Agent 构建优化
- 评估经验与科研能力。 | OPPO 校招在线性格测评（AI研究
- 员·AI多模态智能体）。\n测评链接：https://oppo-tts.i-select.
- cn/validate.aspx?t_c_unique_id=F4C8E7AE-F35E-447C-9209-31C5EBB48432\n时
- 限：收到通知后 48 小时内完成；答题约 15–20 分钟。\n
- 用户于 2026-08-07 14:33 前后转发邮件；日历 scheduled_at 按约
-  48h 截止提醒记为 2026-08-09 14:30（以邮件实际收到时间为
- 准）。\n要求：答案无对错、保持一致性、勿中途终止；
- 电脑需 Win7+/IE11|Chrome|Firefox、带宽≥2M；手机/Pad 可用（
- 安卓4.4+/iOS8+，不支持 Windows Phone）。\n系统支持：焦老师
-  15210628298、荀老师 16601314513（仅系统问题）。\n诚信：须
- 独立完成，不可找人代测。\n\n官网核验（2026-08-09）：OPP
- O 应聘记录显示测评已完成，当前仍为综合评估中。
-LOCATION:https://oppo-tts.i-select.cn/validate.aspx?t_c_unique_id=F4C8E7AE-
- F35E-447C-9209-31C5EBB48432
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:event-79@autumn-recruitment
-DTSTAMP:20260807T075616Z
-DTSTART:20260809T070000Z
-DTEND:20260809T070100Z
-SUMMARY:时间待核实 · AI测评 · OPPO · AI研究员（AI多模态智
- 能体）
-TRANSP:TRANSPARENT
-DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 时间
- 性质待核实 · 原记录 2026-08-09 15:00 | 岗位聚焦智能体基
- 础模型、数据飞轮、继续预训练、Agentic RL、智能体自演
- 进及 Harness Engineering，要求具备大模型/AI Agent 构建优化
- 评估经验与科研能力。 | OPPO 在线 AI 面试（牛客 NowAI）
- 。岗位：AI研究员（AI多模态智能体）。\n面试窗口（北
- 京时间）：2026-08-07 15:02 ～ 2026-08-09 15:02；逾期视为放弃
- 。\n日历 scheduled_at 按窗口截止提醒记为 2026-08-09 15:00。\n
- 面试链接（私人专属勿转发）：https://hr.nowcoder.com/v1/s/zvn
- 1oSC1#\n方式：手机微信小程序 或 电脑网页（二选一）；
- 同时仅允许一端登录。\n建议提前 ≥1 小时进入；安静、
- 网络畅通；国外请关 VPN；注意电量。\nPC 网络中断可退
- 出改手机端续面。\n支持：nowai@nowcoder.com\n前置：性格测
- 评 event-77 另计。\n\n官网核验（2026-08-09）：OPPO 应聘记录
- 显示 AI 面试已完成，当前仍为综合评估中。
-LOCATION:https://hr.nowcoder.com/v1/s/zvn1oSC1#
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-84@autumn-recruitment
@@ -1169,35 +1333,6 @@ LOCATION:https://infoflow.baidu.com/meeting/invite?id=02618ae20d796401b56b5
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-89@autumn-recruitment
-DTSTAMP:20260811T035033Z
-DTSTART:20260813T020000Z
-DTEND:20260813T020100Z
-SUMMARY:时间待核实 · 笔试 · 蚂蚁集团 · 多模态理解和生
- 成算法
-TRANSP:TRANSPARENT
-DESCRIPTION:蚂蚁健康事业群 | 多模态理解和生成算法 | 时间
- 性质待核实 · 原记录 2026-08-13 10:00 | 面向图像、视频、
- 语音、文档等多模态内容，开展理解、生成、编辑与交
- 互算法研发；覆盖跨模态对齐、视觉问答、文档与视频
- 理解、图文检索、Agent、多模态数据与评测体系及线上实
- 验。 | 蚂蚁集团“多模态理解和生成算法”AI Coding笔试
- 。开放窗口：2026-08-13 10:00–21:00（UTC+8），可在窗口内任
- 意时间进入；进入云端IDE后开始120分钟倒计时。每人仅1
- 次机会，未准备好不要按ENTER正式开始；若不参加最近场
- 次，不要进入作答，系统将自动顺延。设备要求：Chrome 1
- 40+、电脑摄像头、稳定网络；建议提前完成兼容性诊断
- 。考试期间在内置云端IDE完成任务并保持在答题页面；
- 断电/断网后可重新打开链接继续，但计时不会重置。官
- 网入口：https://talent.antgroup.com/personal/campus-application；公
- 告：https://talent.antgroup.com/notice/campus?type=notice&subType=sxszpl
- cqm。\n\n2026-08-27 用户将待复盘标记为已完成（跳过结构
- 化复盘）。
-LOCATION:https://interview.antgroup.com/home/candidateExam?token=7dcf7c9f-e
- 44b-42c3-8f39-3ffb26c89348
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:event-64@autumn-recruitment
 DTSTAMP:20260731T070147Z
 DTSTART:20260813T080000Z
@@ -1207,17 +1342,23 @@ TRANSP:OPAQUE
 DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  师 | 固定场次 · 2026-08-13 16:00 · 时长待确认 | 时长未确
  认，日历暂占 60 分钟 | 元戎启行 2027 秋招大模型算法工
- 程师，视频面试邀约；具体团队职责待面试反问确认。 |
-  元戎启行 2027 秋招大模型算法工程师视频面试，预计 1 
- 小时，会议号 637811664。邮件未注明轮次，暂按一面记录
- ；当前待确认是否参加。请使用 PC 端 Chrome 或 Firefox，提
- 前 10 分钟调试网络和麦克风。HR：王婷，17318946273，tingwa
- ng@deeproute.ai。确认/拒绝/改期链接含个人访问令牌，出于
- 安全未写入数据库。\n\n2026-08-13：一面已完成，官方结果
- 待通知。面试约47分钟，重点为阿里 Agent 评测与多工具
- 匹配、B站长视频 DSA、PPO/GRPO、自动驾驶 VLA 奖励设计及 P
- yTorch 代码审查；代码审查找出学习率过大和主要训练顺
- 序问题。详细复盘见 knowledge_path/review.md。
+ 程师，视频面试邀约；具体团队职责待面试反问确认。\n
+ \n2026-10-08录入用户提供的录用资格通知邮件（邮件发送/
+ 收信日期未提供）：获得元戎启行2027秋季校园招聘录用
+ 资格。官方录取职位：算法工程师；工作地点：深圳。
+ 具体Offer沟通预计于11月陆续开始，未给出具体日期、薪
+ 资、职级、答复期限或入职日期。与HR完成Offer信息沟通
+ 确认后，领取学校三方协议并签订； | 元戎启行 2027 秋
+ 招大模型算法工程师视频面试，预计 1 小时，会议号 6378
+ 11664。邮件未注明轮次，暂按一面记录；当前待确认是否
+ 参加。请使用 PC 端 Chrome 或 Firefox，提前 10 分钟调试网
+ 络和麦克风。HR：王婷，17318946273，tingwang@deeproute.ai。确
+ 认/拒绝/改期链接含个人访问令牌，出于安全未写入数据
+ 库。\n\n2026-08-13：一面已完成，官方结果待通知。面试约
+ 47分钟，重点为阿里 Agent 评测与多工具匹配、B站长视频 
+ DSA、PPO/GRPO、自动驾驶 VLA 奖励设计及 PyTorch 代码审查；
+ 代码审查找出学习率过大和主要训练顺序问题。详细复
+ 盘见 knowledge_path/review.md。
 LOCATION:https://vc.feishu.cn/j/637811664
 STATUS:CONFIRMED
 END:VEVENT
@@ -1360,7 +1501,10 @@ DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） |
  /cdn.acmcoder.com/docs/issue/index.html；常见问题：http://oj.acmcode
  r.com/QA。\n\n2026-09-09：用户确认无需复盘；已将待复盘项
  标记为已完成（跳过结构化复盘），不据此推断官方通
- 过/未通过。
+ 过/未通过。\n\n2026-10-05 数据整备：现有材料仅确认关闭
+ 待复盘/复用流程，未单独确认本人实际参加。本条归档
+ 避免继续提醒；参加情况及官方结果待核实，不以流程
+ 推进或跳过复盘推断参加。
 LOCATION:https://dji.acmcoder.com/cand/login?843xkm76
 STATUS:CONFIRMED
 END:VEVENT
@@ -1368,20 +1512,47 @@ BEGIN:VEVENT
 UID:event-96@autumn-recruitment
 DTSTAMP:20260813T041253Z
 DTSTART:20260815T020000Z
-DTEND:20260815T020100Z
-SUMMARY:时间待核实 · AI测评 · vivo · AI大模型算法工程师
- （模型方向）-27届秋招
+DTEND:20260815T030000Z
+SUMMARY:已归档 · 作答计划 · AI测评 · vivo · AI大模型算法
+ 工程师（模型方向）-27届秋招
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
+ 届秋招 | 截止 2026-09-17 09:00 · 计划 2026-08-15 10:00 · 作答
+ 时长待确认 | 深圳/杭州，招12人。负责大模型SFT、RLHF/RLA
+ IF、DPO/PPO/GRPO训练与对齐，Agent轨迹与合成数据构造、奖
+ 励建模、规划与工具调用、评测体系及视觉/语音/文本多
+ 模态融合。 | vivo 人才测评；预计 30–40 分钟；每人仅一
+ 次机会；作答入口见 2026-08-13 邮件；链接于 2026-09-17 09:00
+  失效。\n\n2026-08-27 用户将待复盘标记为已完成（跳过结
+ 构化复盘）。\n\n2026-10-05 数据整备：现有材料仅确认关
+ 闭待复盘/复用流程，未单独确认本人实际参加。本条归
+ 档避免继续提醒；参加情况及官方结果待核实，不以流
+ 程推进或跳过复盘推断参加。
+LOCATION:在线
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-96-deadline@autumn-recruitment
+DTSTAMP:20260813T041253Z
+DTSTART:20260917T010000Z
+DTEND:20260917T010100Z
+SUMMARY:已归档 · 截止 · AI测评 · vivo · AI大模型算法工程
+ 师（模型方向）-27届秋招
 TRANSP:TRANSPARENT
 DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
- 届秋招 | 时间性质待核实 · 原记录 2026-08-15 10:00 | 深圳/
- 杭州，招12人。负责大模型SFT、RLHF/RLAIF、DPO/PPO/GRPO训练
- 与对齐，Agent轨迹与合成数据构造、奖励建模、规划与工
- 具调用、评测体系及视觉/语音/文本多模态融合。 | vivo 
- 人才测评；预计 30–40 分钟；每人仅一次机会；作答入
- 口见 2026-08-13 邮件；链接于 2026-09-17 09:00 失效。\n\n2026-08
- -27 用户将待复盘标记为已完成（跳过结构化复盘）。
+ 届秋招 | 截止 2026-09-17 09:00 · 尚未安排作答时段 · 作答
+ 时长待确认 | 深圳/杭州，招12人。负责大模型SFT、RLHF/RLA
+ IF、DPO/PPO/GRPO训练与对齐，Agent轨迹与合成数据构造、奖
+ 励建模、规划与工具调用、评测体系及视觉/语音/文本多
+ 模态融合。 | vivo 人才测评；预计 30–40 分钟；每人仅一
+ 次机会；作答入口见 2026-08-13 邮件；链接于 2026-09-17 09:00
+  失效。\n\n2026-08-27 用户将待复盘标记为已完成（跳过结
+ 构化复盘）。\n\n2026-10-05 数据整备：现有材料仅确认关
+ 闭待复盘/复用流程，未单独确认本人实际参加。本条归
+ 档避免继续提醒；参加情况及官方结果待核实，不以流
+ 程推进或跳过复盘推断参加。
 LOCATION:在线
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-80@autumn-recruitment
@@ -1487,7 +1658,10 @@ DESCRIPTION:快手 | 【快Star】多模态大模型算法工程师-Keye |
  连续作答时间；有计时项目时离开页面仍会继续倒计时
  。系统问题联系电话：19938296608（工作日9:30-18:00）。\n流
  程关闭：用户已确认本岗位未通过，此待办关闭；此处
- 已完成仅表示待办已关闭，不表示测评实际已作答。
+ 已完成仅表示待办已关闭，不表示测评实际已作答。\n\n2
+ 026-10-05 数据整备：本待办仅因岗位流程终止而关闭，原
+ “已完成”不代表实际作答，结果改为“已取消”；保
+ 留上方原始说明。
 LOCATION:https://datatalk360.com/XZVxZ
 STATUS:CANCELLED
 END:VEVENT
@@ -1590,14 +1764,14 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  法工程师-多模态\n申请编号：100124460205\n申请日期：2026-0
  8-05\n状态页：https://campus-talent.alibaba.com/personal/campus-applic
  ation\n录入时官网阶段：简历投递 | 阿里巴巴校园招聘视
- 频面试。\\n面试职位：算法工程师-多模态\\n面试部门：T
- oken Foundry-Token Foundry-Qwen手机智能\\n面试时间：2026-08-18 17
- :00（北京时间）\\n面试链接：https://campus-talent.alibaba.com/i
- nterviewroom/landingPage?roomCode=T282HpKsNgTct3v2gKhvmg%3D%3D&recruitType
- =campus\\n面试安排联系电话：+86-17710112850\\n面试安排邮箱
- ：hzc02550504@alibaba-inc.com\\n建议使用 PC 端 Chrome；提前测试
- 摄像头、麦克风和音视频。\\n邀请邮件未注明轮次；同
- 一投递的一面已于 2026-08-13 完成，因此按二面录入。
+ 频面试。\n面试职位：算法工程师-多模态\n面试部门：Tok
+ en Foundry-Token Foundry-Qwen手机智能\n面试时间：2026-08-18 17:00
+ （北京时间）\n面试链接：https://campus-talent.alibaba.com/inter
+ viewroom/landingPage?roomCode=T282HpKsNgTct3v2gKhvmg%3D%3D&recruitType=cam
+ pus\n面试安排联系电话：+86-17710112850\n面试安排邮箱：hzc0
+ 2550504@alibaba-inc.com\n建议使用 PC 端 Chrome；提前测试摄像
+ 头、麦克风和音视频。\n邀请邮件未注明轮次；同一投递
+ 的一面已于 2026-08-13 完成，因此按二面录入。
 LOCATION:视频面试（阿里巴巴校园招聘面试间）
 STATUS:CONFIRMED
 END:VEVENT
@@ -1721,30 +1895,6 @@ LOCATION:https://bcn7pbier5xg.feishu.cn/hire/short_url/TH4850j5QCc
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-105@autumn-recruitment
-DTSTAMP:20260817T121546Z
-DTSTART:20260820T121400Z
-DTEND:20260820T121500Z
-SUMMARY:时间待核实 · AI测评 · 小米 · 多模态大模型算法
- 工程师第 3 志愿
-TRANSP:TRANSPARENT
-DESCRIPTION:2027届校园招聘计划（正式算法类） | 多模态大
- 模型算法工程师第 3 志愿 | 时间性质待核实 · 原记录 202
- 6-08-20 20:14 | 小米集团 2027 校招在线测评（多模态大模型
- 算法工程师 · 正式批第3志愿）。邮件要求收到链接后 72
-  小时内完成；按收到邮件时间 2026-08-17 20:14 推算，截止 
- 2026-08-20 20:14。作答时长约 30–45 分钟。设备：谷歌 Chrome
-  72+ 或 QQ/360 浏览器极速模式；可提前在 https://assistant.cep
- ing.com 测试设备网速。网络：实时联网，带宽不低于 10Mbp
- s，建议 50Mbps 以上独立光纤；校园网不通时建议备 4G 热
- 点。断网/断电/误关页面可再次登录继续作答（系统保存
- 进度）。客服电话：400-650-6886。\n\n2026-08-27 用户将待复
- 盘标记为已完成（跳过结构化复盘）。
-LOCATION:https://xiaomiceping.ceping.com/Login/Elink?elink=HfmM0ogxfCbaMzxc
- China259FVSEuiARVZ1e1IRq2n4WBAl7Ibm/RTIzklGTluaJdXukAoQYTrQti
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:event-106@autumn-recruitment
 DTSTAMP:20260819T035906Z
 DTSTART:20260821T070000Z
@@ -1825,66 +1975,6 @@ LOCATION:牛客在线笔试（私人链接见邮件）
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:event-108@autumn-recruitment
-DTSTAMP:20260819T092503Z
-DTSTART:20260822T035600Z
-DTEND:20260822T035700Z
-SUMMARY:时间待核实 · AI测评 · 中兴通讯 · AI算法工程师（
- 未来领军）
-TRANSP:TRANSPARENT
-DESCRIPTION:中兴通讯 | AI算法工程师（未来领军） | 时间性
- 质待核实 · 原记录 2026-08-22 11:56 | 中兴通讯校园招聘人
- 才测评（邮件称已进入人才测评阶段）。\n测评链接：htt
- ps://app.mokahr.com/su/ksvqfr\n链接有效期 72 小时；按首次贴出
- 邮件时间 2026-08-19 11:56 推算，截止 2026-08-22 11:56（周六）
- 。\n只有一次机会，成绩不达标将终止招聘流程且无法重
- 新申请；测评中途勿退出考试页面。\n设备：最新版 Chrom
- e，或 QQ / 360 浏览器极速模式。预检：https://assistant.ceping
- .com\n后台实时监控，不诚信作废并记入网申档案。关闭
- 其他网页及微信/QQ，不要离开作答页面，跳出次数达限
- 将自动结束。\n断网断电或误关页面可再登录续答（网络
- 通畅会保存进度）。操作问题客服 400 650 6886（24 小时）
- 。校招 QQ 群：关注「中兴通讯招聘」公众号回复「校招Q
- Q群」。\n官网投递查询：https://job.zte.com.cn （个人信息-
- 投递记录）\n内推投递查询：https://app.mokahr.com/m/candidate/a
- pplications/deliver-query/zte\n岗位名邮件未写，按画像暂记「
- 未来领军 · AI算法工程师」，待官网投递记录核对。\n\n
- ——邮件原文——\n亲爱的唐治江同学\n您好！欢迎参加
- 中兴通讯校园招聘，您已进入人才测评阶段，点击下方
- 链接可开始测评，\nhttps://app.mokahr.com/su/ksvqfr\n\n注意：链
- 接有效期为72小时，请在有效期内作答。同时，请您务必
- 认真作答，本测评只有一次机会，若成绩不达标将终止
- 招聘流程，且无法重新申请，测评中途请勿退出考试页
- 面，谢谢！\n\n您可以通过以下方式查看测评及后续面试
- 的进展情况：\n1、官网投递查询：登录招聘官网job.zte.com
- .cn，在“个人信息-投递记录”中查看\n2、内推投递查询
- ：点击链接快速查询https://app.mokahr.com/m/candidate/applications
- /deliver-query/zte\n【其他注意事项】\n1、测评设备要求\n请
- 使用最新版谷歌Chrome浏览器或 QQ 、360浏览器极速模式登
- 录系统作答。\n2、测评设备检验\n可提前登入非考试链接
-  https://assistant.ceping.com，对电脑浏览器、摄像头、手机拍
- 照和网速进行测试，如不符要求，请调整或更换电脑设
- 备或网络。\n3、关于诚信作答\n测评有后台实时监控机制
- ，凡出现不诚信行为，系统将自动作废测评成绩并记入
- 个人网申档案。\n4、测评注意事项\n请确保作答过程不受
- 外界干扰，作答时务必关闭电脑上的其他网页及微信、QQ
- 等通讯软件，不要离开作答页面，每次页面跳转均会有
- 提醒，且有跳出次数限制，达到次数后，将自动结束作
- 答。\n5、紧急情况\n在考试过程中，如遇断网断电或不小
- 心关闭了答题页面，您可再次登录答题页面继续作答，
- 网络通畅情况下系统会保存作答进度，如有无法解决的
- 系统问题，请加入校招QQ群咨询（关注“中兴通讯招聘”
- 微信公众号，回复“校招QQ群”获取群号，并根据最高学
- 历院校所在地选择加入）。\n6、答题过程中，如有无法
- 登录、无法按照合适版本的浏览器进行作答等操作性问
- 题，请拨打24小时客户热线400 650 6886，客服人员会提供远
- 程帮助。\n祝您求职顺利！\n（此邮件为系统自动发送，
- 请勿直接回复）\n请您确认是否接受\n接受\n拒绝\n\n2026-08
- -27 用户将待复盘标记为已完成（跳过结构化复盘）。
-LOCATION:https://app.mokahr.com/su/ksvqfr
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:event-117@autumn-recruitment
 DTSTAMP:20260821T100938Z
 DTSTART:20260823T060000Z
@@ -1898,14 +1988,17 @@ DESCRIPTION:待补充 | 岗位待确认（安克创新2027届校招） |
  ：安克创造者启航试炼（10–30分钟）和安克创新AI飞行
  员试炼（90–180分钟）。 | 本周完成安克创新2027校招测
  评，日历按2026-08-23 14:00提醒，建议预留至17:00。链接有
- 效期5天。\\n包含：1）安克创造者启航试炼，10–30分钟
- ；2）安克创新AI飞行员试炼，90–180分钟，需下载考试软
- 件、全程使用同一台带摄像头电脑。\\n校招相同测评结
- 果3个月内复用；若3个月内已完成相同测评，无需重复作
- 答。\\n测评过程禁止截图、拍照、录音、录像或传播。
- 技术支持：recruit-support@anker-in.com；校招咨询：campus@anker-
- in.com。\n\n2026-08-27 用户将待复盘标记为已完成（跳过结
- 构化复盘）。
+ 效期5天。\n包含：1）安克创造者启航试炼，10–30分钟；
+ 2）安克创新AI飞行员试炼，90–180分钟，需下载考试软件
+ 、全程使用同一台带摄像头电脑。\n校招相同测评结果3
+ 个月内复用；若3个月内已完成相同测评，无需重复作答
+ 。\n测评过程禁止截图、拍照、录音、录像或传播。技术
+ 支持：recruit-support@anker-in.com；校招咨询：campus@anker-in.com
+ 。\n\n2026-08-27 用户将待复盘标记为已完成（跳过结构化
+ 复盘）。\n\n2026-10-05 数据整备：现有材料仅确认关闭待
+ 复盘/复用流程，未单独确认本人实际参加。本条归档避
+ 免继续提醒；参加情况及官方结果待核实，不以流程推
+ 进或跳过复盘推断参加。
 LOCATION:https://talent.anker-in.com/e-entrance/il5dnns48xgdruwh
 STATUS:CANCELLED
 END:VEVENT
@@ -2026,17 +2119,17 @@ DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师
  算法工程师」名称，与本投递为同一流程；二面安排在 2
  026-08-26 16:00。 | 小鹏集团【27届校招】基座模型/多模态
  模型算法工程师视频面试（含代码考核）。面试链接：ht
- tps://xiaopeng.feishu.cn/hire/short_url/FSKOY0c8mKk\\n联系人：张翰 +
- 8617521094047，zhangh142@xiaopeng.com。\\n仅支持电脑 coding；飞
- 书客户端需 4.4+；建议提前 2–3 分钟入会并完成音视频
- 调试。\n\n流程合并说明（2026-08-21）：该通知与应用 67「
- 【27届校招】多模态Agent算法工程师」属于同一岗位流程
- ；原一面已于 2026-08-06 完成，本场为二面。\n2026-08-26 二
- 面已完成，有效交流约47分钟，未进行Coding。核心考察：
- 消费类Agent后训练、流式视频与Memory、DSA长视频评测、Flo
- w-GRPO、多模态后训练、MoE稳定训练、端侧部署与量化。
- 详细复盘见 data/knowledge/小鹏集团-【27届校招】多模态Agen
- t算法工程师/review.md。官方结果待通知。
+ tps://xiaopeng.feishu.cn/hire/short_url/FSKOY0c8mKk\n联系人：张翰 +8
+ 617521094047，zhangh142@xiaopeng.com。\n仅支持电脑 coding；飞书
+ 客户端需 4.4+；建议提前 2–3 分钟入会并完成音视频调
+ 试。\n\n流程合并说明（2026-08-21）：该通知与应用 67「【
+ 27届校招】多模态Agent算法工程师」属于同一岗位流程；
+ 原一面已于 2026-08-06 完成，本场为二面。\n2026-08-26 二面
+ 已完成，有效交流约47分钟，未进行Coding。核心考察：消
+ 费类Agent后训练、流式视频与Memory、DSA长视频评测、Flow-G
+ RPO、多模态后训练、MoE稳定训练、端侧部署与量化。详
+ 细复盘见 data/knowledge/小鹏集团-【27届校招】多模态Agent
+ 算法工程师/review.md。官方结果待通知。
 LOCATION:飞书视频面试（含代码考核）
 STATUS:CONFIRMED
 END:VEVENT
@@ -2113,23 +2206,23 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  （2026-08-24）：面试邀请中的职位名称为「算法工程师」
  ，部门为腾讯AI平台部；与2026-08-11投递的「算法-多模态
  方向」属于同一流程。 | 腾讯校园招聘算法工程师一面
- ，部门：腾讯AI平台部。\\n时间：2026-08-28（周五）11:00–
- 12:00；形式：单面；方式：腾讯会议。\\n本场需要考核代
+ ，部门：腾讯AI平台部。\n时间：2026-08-28（周五）11:00–1
+ 2:00；形式：单面；方式：腾讯会议。\n本场需要考核代
  码能力，且可能考核AI实战能力；请使用PC端Chrome，提前
  阅读AI实战操作指南：https://cdn.tencentgroup.qq.com/vv_static/ide
- /AICoding.pdf。\\n提前10分钟进入会议并检测设备；建议安
- 装/升级腾讯会议。改期入口：https://join.qq.com/interview_repl
- y.html。\\n超过约定时间10分钟面试官仍未上线：0755-8601338
- 8，接通后输入855999。未经腾讯招聘许可不得录音或录像
- 。\n\n2026-08-28：一面已完成，实际有效沟通约56分钟，未
- 进行代码或AI Coding实操。面试主要深挖阿里Agent评测与GRP
- O、Rubric校准、Shopee多模态后训练、数据飞轮、标签版本
- 管理、multi-step状态及AI Coding使用。实际团队为腾讯AI平
- 台部游戏AI/强化学习方向，服务王者自走棋，规划单向AI
- 教官与双向AI助手；当前以文本state observation为主，LLM方
- 案尚未正式上线，Base深圳。候选人接受深圳，并表示在
- 已有Offer前提下愿意提前实习。官方结果待通知；详细复
- 盘见knowledge_path/review.md。
+ /AICoding.pdf。\n提前10分钟进入会议并检测设备；建议安装
+ /升级腾讯会议。改期入口：https://join.qq.com/interview_reply.h
+ tml。\n超过约定时间10分钟面试官仍未上线：0755-86013388，
+ 接通后输入855999。未经腾讯招聘许可不得录音或录像。\n
+ \n2026-08-28：一面已完成，实际有效沟通约56分钟，未进行
+ 代码或AI Coding实操。面试主要深挖阿里Agent评测与GRPO、Ru
+ bric校准、Shopee多模态后训练、数据飞轮、标签版本管理
+ 、multi-step状态及AI Coding使用。实际团队为腾讯AI平台部
+ 游戏AI/强化学习方向，服务王者自走棋，规划单向AI教官
+ 与双向AI助手；当前以文本state observation为主，LLM方案尚
+ 未正式上线，Base深圳。候选人接受深圳，并表示在已有O
+ ffer前提下愿意提前实习。官方结果待通知；详细复盘见k
+ nowledge_path/review.md。
 LOCATION:https://meeting.tencent.com/dm/t8wRVJ3cvpDN
 STATUS:CONFIRMED
 END:VEVENT
@@ -2137,58 +2230,142 @@ BEGIN:VEVENT
 UID:event-130@autumn-recruitment
 DTSTAMP:20260827T091758Z
 DTSTART:20260829T020000Z
-DTEND:20260829T020100Z
-SUMMARY:时间待核实 · AI测评 · 招银网络科技 · 算法工程
- 师
-TRANSP:TRANSPARENT
-DESCRIPTION:招银网络科技 | 算法工程师 | 时间性质待核实 ·
-  原记录 2026-08-29 10:00 | 工作地点：杭州。参与大语言模
- 型、智能客服、智能推荐、反欺诈、OCR、量化分析等人
- 工智能方向在银行业务中的应用；开展机器学习、深度
- 学习、自然语言处理、知识图谱及计算机视觉相关研究
- 与落地。 | 招银网络科技2027秋招素质测评：能力测评30
- 分钟、个性测评15分钟、心理测评7分钟；开放时间2026-08-
- 27 00:00至2026-09-20 12:00，逾期不补测。准考通行证号14261455
- 420960；技术测评为集中作答，时间另行通知。\n2026-09-01 
- 用户确认已完成；官方通过/未通过结果待通知，暂无单
- 独复盘内容。
+DTEND:20260829T030000Z
+SUMMARY:已完成 · 作答计划 · AI测评 · 招银网络科技 · 算
+ 法工程师
+TRANSP:OPAQUE
+DESCRIPTION:招银网络科技 | 算法工程师 | 开放 2026-08-27 00:00 
+ · 截止 2026-09-20 12:00 · 计划 2026-08-29 10:00 · 作答 60 分钟 
+ · 最迟开始 2026-09-20 11:00（未留调试缓冲） | 工作地点：
+ 杭州。参与大语言模型、智能客服、智能推荐、反欺诈
+ 、OCR、量化分析等人工智能方向在银行业务中的应用；
+ 开展机器学习、深度学习、自然语言处理、知识图谱及
+ 计算机视觉相关研究与落地。 | 招银网络科技2027秋招素
+ 质测评：能力测评30分钟、个性测评15分钟、心理测评7分
+ 钟；开放时间2026-08-27 00:00至2026-09-20 12:00，逾期不补测。
+ 准考通行证号14261455420960；技术测评为集中作答，时间另
+ 行通知。\n2026-09-01 用户确认已完成；官方通过/未通过结
+ 果待通知，暂无单独复盘内容。\n\n2026-10-05 数据整备：
+ 原日程按60分钟预留；邀请列出能力30、个性15、心理7分
+ 钟。duration_minutes 表示安排时长，不作为实际作答时长证
+ 明。
 LOCATION:https://cmbnt.ceping.com/Login/Elink?elink=7TASYqzDMnRkJfnDCbaMzxc
  China25WSaZT1/kMbhdBu/3fVuta4DD52pqVHlC442dtKB/1QdcaA0
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-130-deadline@autumn-recruitment
+DTSTAMP:20260827T091758Z
+DTSTART:20260920T040000Z
+DTEND:20260920T040100Z
+SUMMARY:已完成 · 截止 · AI测评 · 招银网络科技 · 算法工
+ 程师
+TRANSP:TRANSPARENT
+DESCRIPTION:招银网络科技 | 算法工程师 | 截止 2026-09-20 12:00 
+ · 尚未安排作答时段 · 作答 60 分钟 · 最迟开始 2026-09-20
+  11:00（未留调试缓冲） | 工作地点：杭州。参与大语言
+ 模型、智能客服、智能推荐、反欺诈、OCR、量化分析等
+ 人工智能方向在银行业务中的应用；开展机器学习、深
+ 度学习、自然语言处理、知识图谱及计算机视觉相关研
+ 究与落地。 | 招银网络科技2027秋招素质测评：能力测评3
+ 0分钟、个性测评15分钟、心理测评7分钟；开放时间2026-08
+ -27 00:00至2026-09-20 12:00，逾期不补测。准考通行证号1426145
+ 5420960；技术测评为集中作答，时间另行通知。\n2026-09-01 
+ 用户确认已完成；官方通过/未通过结果待通知，暂无单
+ 独复盘内容。\n\n2026-10-05 数据整备：原日程按60分钟预留
+ ；邀请列出能力30、个性15、心理7分钟。duration_minutes 表
+ 示安排时长，不作为实际作答时长证明。
+LOCATION:https://cmbnt.ceping.com/Login/Elink?elink=7TASYqzDMnRkJfnDCbaMzxc
+ China25WSaZT1/kMbhdBu/3fVuta4DD52pqVHlC442dtKB/1QdcaA0
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-134@autumn-recruitment
 DTSTAMP:20260828T092329Z
 DTSTART:20260829T060000Z
-DTEND:20260829T060100Z
-SUMMARY:时间待核实 · 笔试 · 得物 · 【27届校招】算法研
- 究员-视觉方向
-TRANSP:TRANSPARENT
-DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 时
- 间性质待核实 · 原记录 2026-08-29 14:00 | 视觉与多模态理
- 解、训练评测闭环、大模型/AI Agent（工具调用与任务编
- 排）、供应链质检与商研场景；上海/杭州。官网第1志愿
- 。 | 得物 App 2027 届秋招第 2 批算法策略（视觉）在线笔
- 试。考试开放时间 14:00–17:00，作答时长 120 分钟；建议 
- 13:45 进入检查信息与摄像头。最新版 Chrome，全程摄像头
- ；含 AI Coding 题型，按目录作答，提交目录后不可修改。
- 确认入口：https://hr.nowcoder.com/v1/s/KMFgKEjz#；招聘流程咨询
- ：campus@dewu.com。专属考试链接请勿转发。\n2026-09-01 用户
- 确认已完成；官方通过/未通过结果待通知，暂无单独复
- 盘内容。
+DTEND:20260829T080000Z
+SUMMARY:已完成 · 作答计划 · 笔试 · 得物 · 【27届校招】
+ 算法研究员-视觉方向
+TRANSP:OPAQUE
+DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 开
+ 放 2026-08-29 14:00 · 截止 2026-08-29 17:00 · 计划 2026-08-29 14:00
+  · 作答 120 分钟 · 最迟开始 2026-08-29 15:00（未留调试缓
+ 冲） | 视觉与多模态理解、训练评测闭环、大模型/AI Agen
+ t（工具调用与任务编排）、供应链质检与商研场景；上
+ 海/杭州。官网第1志愿。 | 得物 App 2027 届秋招第 2 批算
+ 法策略（视觉）在线笔试。考试开放时间 14:00–17:00，作
+ 答时长 120 分钟；建议 13:45 进入检查信息与摄像头。最
+ 新版 Chrome，全程摄像头；含 AI Coding 题型，按目录作答
+ ，提交目录后不可修改。确认入口：https://hr.nowcoder.com/v1
+ /s/KMFgKEjz#；招聘流程咨询：campus@dewu.com。专属考试链接
+ 请勿转发。\n2026-09-01 用户确认已完成；官方通过/未通过
+ 结果待通知，暂无单独复盘内容。
 LOCATION:https://hr.nowcoder.com/v1/s/aBfbzxRF#
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-134-deadline@autumn-recruitment
+DTSTAMP:20260828T092329Z
+DTSTART:20260829T090000Z
+DTEND:20260829T090100Z
+SUMMARY:已完成 · 截止 · 笔试 · 得物 · 【27届校招】算法
+ 研究员-视觉方向
+TRANSP:TRANSPARENT
+DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 截
+ 止 2026-08-29 17:00 · 尚未安排作答时段 · 作答 120 分钟 · 
+ 最迟开始 2026-08-29 15:00（未留调试缓冲） | 视觉与多模态
+ 理解、训练评测闭环、大模型/AI Agent（工具调用与任务
+ 编排）、供应链质检与商研场景；上海/杭州。官网第1志
+ 愿。 | 得物 App 2027 届秋招第 2 批算法策略（视觉）在线
+ 笔试。考试开放时间 14:00–17:00，作答时长 120 分钟；建
+ 议 13:45 进入检查信息与摄像头。最新版 Chrome，全程摄像
+ 头；含 AI Coding 题型，按目录作答，提交目录后不可修改
+ 。确认入口：https://hr.nowcoder.com/v1/s/KMFgKEjz#；招聘流程咨
+ 询：campus@dewu.com。专属考试链接请勿转发。\n2026-09-01 用
+ 户确认已完成；官方通过/未通过结果待通知，暂无单独
+ 复盘内容。
+LOCATION:https://hr.nowcoder.com/v1/s/aBfbzxRF#
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-132@autumn-recruitment
 DTSTAMP:20260828T041151Z
 DTSTART:20260829T110000Z
-DTEND:20260829T110100Z
-SUMMARY:时间待核实 · AI测评 · 去哪儿旅行 · AI算法工程师
- （大模型方向）
+DTEND:20260829T115000Z
+SUMMARY:已完成 · 作答计划 · AI测评 · 去哪儿旅行 · AI算
+ 法工程师（大模型方向）
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 开放 
+ 2026-08-28 14:00 · 截止 2026-08-30 22:00 · 计划 2026-08-29 19:00 · 
+ 作答 50 分钟 · 最迟开始 2026-08-30 21:10（未留调试缓冲） 
+ | 建设统一大模型能力平台；研发 AI Agent；构建人机协同
+ 的数据反馈、模型训练与评测闭环。要求熟悉 SFT、DPO、G
+ RPO、RAG、Agent、多模态等方向，并具备相关项目实践。 | 
+ 去哪儿旅行 2027 届校园招聘 AI 面试。开放窗口：2026-08-28
+  14:00 至 2026-08-30 22:00；计划于周日 19:00 完成，预计 40–5
+ 0 分钟。仅支持 PC 端最新版 Chrome，全程摄像头并启用手
+ 机二机位监控；需关闭 VPN、插件及通信软件，避免切屏
+ 。专属链接请勿转发。技术支持：nowai@nowcoder.com。\n\n日
+ 程调整（2026-08-28）：为避开 2026-08-30 19:00 的滴滴固定场
+ 笔试，将本场可自由选择时间的 AI 面试计划提前至周六 
+ 19:00。\n2026-09-01 用户确认已完成；官方通过/未通过结果
+ 待通知，暂无单独复盘内容。\n\n2026-10-05 数据整备：原
+ 日程按邀请估时40–50分钟的上限预留50分钟，不作为实
+ 际作答时长证明。
+LOCATION:https://t.zijieimg.com/GilEV7Mcbdk/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-132-deadline@autumn-recruitment
+DTSTAMP:20260828T041151Z
+DTSTART:20260830T140000Z
+DTEND:20260830T140100Z
+SUMMARY:已完成 · 截止 · AI测评 · 去哪儿旅行 · AI算法工
+ 程师（大模型方向）
 TRANSP:TRANSPARENT
-DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 时间
- 性质待核实 · 原记录 2026-08-29 19:00 | 建设统一大模型能
+DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 截止 
+ 2026-08-30 22:00 · 尚未安排作答时段 · 作答 50 分钟 · 最迟
+ 开始 2026-08-30 21:10（未留调试缓冲） | 建设统一大模型能
  力平台；研发 AI Agent；构建人机协同的数据反馈、模型
  训练与评测闭环。要求熟悉 SFT、DPO、GRPO、RAG、Agent、多
  模态等方向，并具备相关项目实践。 | 去哪儿旅行 2027 
@@ -2200,28 +2377,29 @@ DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 时间
  ）：为避开 2026-08-30 19:00 的滴滴固定场笔试，将本场可
  自由选择时间的 AI 面试计划提前至周六 19:00。\n2026-09-01 
  用户确认已完成；官方通过/未通过结果待通知，暂无单
- 独复盘内容。
+ 独复盘内容。\n\n2026-10-05 数据整备：原日程按邀请估时40
+ –50分钟的上限预留50分钟，不作为实际作答时长证明。
 LOCATION:https://t.zijieimg.com/GilEV7Mcbdk/
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-136@autumn-recruitment
 DTSTAMP:20260828T094110Z
 DTSTART:20260830T110000Z
-DTEND:20260830T110100Z
-SUMMARY:时间待核实 · 笔试 · 滴滴 · 27届秋招-算法工程师
- （国际化外卖-分单）
-TRANSP:TRANSPARENT
+DTEND:20260830T124000Z
+SUMMARY:笔试 · 滴滴 · 27届秋招-算法工程师（国际化外卖-
+ 分单）
+TRANSP:OPAQUE
 DESCRIPTION:国际化事业部 | 27届秋招-算法工程师（国际化外
- 卖-分单） | 时间性质待核实 · 原记录 2026-08-30 19:00 | 滴
- 滴 2027 届校招算法方向固定场在线笔试。岗位：算法工
- 程师（国际化外卖-分单）；考试时间 19:00–20:40，时长 1
- 00 分钟。需 Chrome 80+、电脑和摄像头，全程录屏与抓拍；
- 可使用本地编译器，不得使用 AI 工具。建议提前完成系
- 统练习与屏幕录制授权。登录凭据请查看原始邀请邮件
- ，未写入数据库。流程咨询：campus@didiglobal.com。\n2026-09-0
- 1 用户确认已完成；官方通过/未通过结果待通知，暂无
- 单独复盘内容。
+ 卖-分单） | 固定场次 · 2026-08-30 19:00 · 100 分钟 | 滴滴 20
+ 27 届校招算法方向固定场在线笔试。岗位：算法工程师
+ （国际化外卖-分单）；考试时间 19:00–20:40，时长 100 分
+ 钟。需 Chrome 80+、电脑和摄像头，全程录屏与抓拍；可使
+ 用本地编译器，不得使用 AI 工具。建议提前完成系统练
+ 习与屏幕录制授权。登录凭据请查看原始邀请邮件，未
+ 写入数据库。流程咨询：campus@didiglobal.com。\n2026-09-01 用
+ 户确认已完成；官方通过/未通过结果待通知，暂无单独
+ 复盘内容。
 LOCATION:https://didi.acmcoder.com/cand/login?zxmn5pr9
 STATUS:CANCELLED
 END:VEVENT
@@ -2272,19 +2450,40 @@ BEGIN:VEVENT
 UID:event-122@autumn-recruitment
 DTSTAMP:20260826T080449Z
 DTSTART:20260831T110000Z
-DTEND:20260831T110100Z
-SUMMARY:时间待核实 · 笔试 · 昆仑芯 · 2027届-AIGC视觉多模
- 态大模型架构工程师
-TRANSP:TRANSPARENT
+DTEND:20260831T123000Z
+SUMMARY:已完成 · 作答计划 · 笔试 · 昆仑芯 · 2027届-AIGC视
+ 觉多模态大模型架构工程师
+TRANSP:OPAQUE
 DESCRIPTION:默认部门 | 2027届-AIGC视觉多模态大模型架构工程
- 师 | 时间性质待核实 · 原记录 2026-08-31 19:00 | 昆仑芯（
- 北京）科技股份有限公司在线考试邀请。岗位：2027届-AIG
- C视觉多模态大模型架构工程师。考试开放时间：2026-08-31
-  19:00–20:30，共90分钟。考试平台：牛客网。邮件说明如
- 有变动可联系招聘方，但未提供具体联系人。
+ 师 | 开放 2026-08-31 19:00 · 截止 2026-08-31 20:30 · 计划 2026-08
+ -31 19:00 · 作答 90 分钟 · 最迟开始 2026-08-31 19:00（未留调
+ 试缓冲） | 昆仑芯（北京）科技股份有限公司在线考试
+ 邀请。岗位：2027届-AIGC视觉多模态大模型架构工程师。
+ 考试开放时间：2026-08-31 19:00–20:30，共90分钟。考试平台
+ ：牛客网。邮件说明如有变动可联系招聘方，但未提供
+ 具体联系人。
 LOCATION:https://exam.nowcoder.com/cts/17521201/summary?id=99C5821D0D39AA6E
  5D2B1AAD67C4DCC3
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-122-deadline@autumn-recruitment
+DTSTAMP:20260826T080449Z
+DTSTART:20260831T123000Z
+DTEND:20260831T123100Z
+SUMMARY:已完成 · 截止 · 笔试 · 昆仑芯 · 2027届-AIGC视觉多
+ 模态大模型架构工程师
+TRANSP:TRANSPARENT
+DESCRIPTION:默认部门 | 2027届-AIGC视觉多模态大模型架构工程
+ 师 | 截止 2026-08-31 20:30 · 尚未安排作答时段 · 作答 90 分
+ 钟 · 最迟开始 2026-08-31 19:00（未留调试缓冲） | 昆仑芯
+ （北京）科技股份有限公司在线考试邀请。岗位：2027届-
+ AIGC视觉多模态大模型架构工程师。考试开放时间：2026-08
+ -31 19:00–20:30，共90分钟。考试平台：牛客网。邮件说明
+ 如有变动可联系招聘方，但未提供具体联系人。
+LOCATION:https://exam.nowcoder.com/cts/17521201/summary?id=99C5821D0D39AA6E
+ 5D2B1AAD67C4DCC3
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-125@autumn-recruitment
@@ -2324,19 +2523,24 @@ TRANSP:OPAQUE
 DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  师 | 固定场次 · 2026-09-01 17:00 · 27 分钟 | 元戎启行 2027 
  秋招大模型算法工程师，视频面试邀约；具体团队职责
- 待面试反问确认。 | 元戎启行【2027秋招】大模型算法工
- 程师视频面试；会议号：648928721。面试时长1小时，可能
- 延长，请预留充足时间；提前10分钟调试设备，推荐PC端C
- hrome/Firefox。联系人：王婷，17318946273，tingwang@deeproute.ai
- 。邀请邮件提供参加、不参加及更改时间入口。\n2026-09-0
- 1 二面/交叉面已完成，有效交流约27分钟。面试官来自泊
- 车感知团队，明确表示本场通过，后续三面预计由整个
- 泊车团队 leader 进行。流程：PPT 自我介绍；深挖 CCCaption 
- 的双奖励、动态 query 采样和评测结果；介绍阿里 Agent 数
- 据飞轮；开放设计自动驾驶感知 GT/Prediction 自动化评测
- 系统；讨论 VLM 空间定量/grounding 能力不足及专用检测分
- 割模型、框选提示和定向训练方案；无手撕。详细复盘
- 见 review.md。
+ 待面试反问确认。\n\n2026-10-08录入用户提供的录用资格通
+ 知邮件（邮件发送/收信日期未提供）：获得元戎启行2027
+ 秋季校园招聘录用资格。官方录取职位：算法工程师；
+ 工作地点：深圳。具体Offer沟通预计于11月陆续开始，未
+ 给出具体日期、薪资、职级、答复期限或入职日期。与HR
+ 完成Offer信息沟通确认后，领取学校三方协议并签订； | 
+ 元戎启行【2027秋招】大模型算法工程师视频面试；会议
+ 号：648928721。面试时长1小时，可能延长，请预留充足时
+ 间；提前10分钟调试设备，推荐PC端Chrome/Firefox。联系人
+ ：王婷，17318946273，tingwang@deeproute.ai。邀请邮件提供参加
+ 、不参加及更改时间入口。\n2026-09-01 二面/交叉面已完成
+ ，有效交流约27分钟。面试官来自泊车感知团队，明确表
+ 示本场通过，后续三面预计由整个泊车团队 leader 进行。
+ 流程：PPT 自我介绍；深挖 CCCaption 的双奖励、动态 query 
+ 采样和评测结果；介绍阿里 Agent 数据飞轮；开放设计自
+ 动驾驶感知 GT/Prediction 自动化评测系统；讨论 VLM 空间定
+ 量/grounding 能力不足及专用检测分割模型、框选提示和定
+ 向训练方案；无手撕。详细复盘见 review.md。
 LOCATION:https://vc.feishu.cn/j/648928721
 STATUS:CONFIRMED
 END:VEVENT
@@ -2360,7 +2564,10 @@ DESCRIPTION:2027正式批-都喜欢 | 多模态生成大模型算法工程
  属地址：https://hr.nowcoder.com/v1/s/jPbHHJ4a#。考试期间不得使
  用搜索、聊天或 AI 工具。\n\n2026-09-09：用户确认无需复
  盘；已将待复盘项标记为已完成（跳过结构化复盘），
- 不据此推断官方通过/未通过。
+ 不据此推断官方通过/未通过。\n\n2026-10-05 数据整备：现
+ 有材料仅确认关闭待复盘/复用流程，未单独确认本人实
+ 际参加。本条归档避免继续提醒；参加情况及官方结果
+ 待核实，不以流程推进或跳过复盘推断参加。
 LOCATION:https://hr.nowcoder.com/v1/s/jPbHHJ4a#
 STATUS:CANCELLED
 END:VEVENT
@@ -2380,7 +2587,10 @@ DESCRIPTION:千问事业部-千问算法技术-大模型训练及应用 | A
  师；部门：千问算法技术-大模型训练及应用；申请编号
  ：100130980906。\n\n2026-09-09：用户确认无需复盘；已将待复
  盘项标记为已完成（跳过结构化复盘），不据此推断官
- 方通过/未通过。
+ 方通过/未通过。\n\n2026-10-05 数据整备：现有材料仅确认
+ 关闭待复盘/复用流程，未单独确认本人实际参加。本条
+ 归档避免继续提醒；参加情况及官方结果待核实，不以
+ 流程推进或跳过复盘推断参加。
 LOCATION:待补充
 STATUS:CONFIRMED
 END:VEVENT
@@ -2431,7 +2641,10 @@ DESCRIPTION:Token Foundry | 算法工程师-多模态-Qwen手机智能 |
  件进入。此前一面、二面、三面均已完成，本次按四面
  记录。\n\n2026-09-09：用户确认无需复盘；已将待复盘项标
  记为已完成（跳过结构化复盘），不据此推断官方通过/
- 未通过。
+ 未通过。\n\n2026-10-05 数据整备：现有材料仅确认关闭待
+ 复盘/复用流程，未单独确认本人实际参加。本条归档避
+ 免继续提醒；参加情况及官方结果待核实，不以流程推
+ 进或跳过复盘推断参加。
 LOCATION:视频面试（阿里巴巴校园招聘面试间；具体链接见
  原始邀约）
 STATUS:CONFIRMED
@@ -2521,20 +2734,20 @@ SUMMARY:一面 · 上海未然图灵智能科技有限公司 · 大模型
 TRANSP:OPAQUE
 DESCRIPTION:ProphetLab | 大模型算法工程师【社招+校招】 | 固
  定场次 · 2026-09-04 11:00 · 60 分钟 | 地点：上海市静安区
- 中兴路；薪资：40–70K·15薪。\\n\\n关于岗位：参与面向
- 海外市场的 AI-native 产品，从 0 到 1 将大语言模型、Agent
- 、实时搜索和专业数据整合为可持续使用、可规模化增
- 长的 SaaS 服务。产品处于从 0 到 1 的关键阶段。\\n\\n职
- 责：1. 参与海外 AI 产品的架构设计、开发和上线；2. 建
- 设用户、权限、订阅、支付、计费等核心后端系统；3. 
- 实现 AI  | ProphetLab（上海未然图灵智能科技有限公司）大
- 模型算法工程师【社招+校招】视频面试。时间以 BOSS 直
- 聘面试卡片为准：2026-09-04 11:00。联系人：张女士（HRD）
- 。地点：上海市静安区中兴路；岗位标注薪资 40–70K·15
- 薪。建议提前进入飞书会议完成音视频调试。\n\n2026-09-09
- ：用户确认无需复盘；已将待复盘项标记为已完成（跳
- 过结构化复盘），不据此推断官方通过/未通过。\n\n2026-0
- 9-15 用户确认：该岗位流程已淘汰，不再推进。
+ 中兴路；薪资：40–70K·15薪。\n\n关于岗位：参与面向海
+ 外市场的 AI-native 产品，从 0 到 1 将大语言模型、Agent、
+ 实时搜索和专业数据整合为可持续使用、可规模化增长
+ 的 SaaS 服务。产品处于从 0 到 1 的关键阶段。\n\n职责：1
+ . 参与海外 AI 产品的架构设计、开发和上线；2. 建设用
+ 户、权限、订阅、支付、计费等核心后端系统；3. 实现 A
+ I 任务调度 | ProphetLab（上海未然图灵智能科技有限公司
+ ）大模型算法工程师【社招+校招】视频面试。时间以 BOS
+ S 直聘面试卡片为准：2026-09-04 11:00。联系人：张女士（HR
+ D）。地点：上海市静安区中兴路；岗位标注薪资 40–70K
+ ·15薪。建议提前进入飞书会议完成音视频调试。\n\n2026-0
+ 9-09：用户确认无需复盘；已将待复盘项标记为已完成（
+ 跳过结构化复盘），不据此推断官方通过/未通过。\n\n202
+ 6-09-15 用户确认：该岗位流程已淘汰，不再推进。
 LOCATION:视频面试（飞书：https://vc.feishu.cn/j/272196745；会议
  号：272-196-745）
 STATUS:CANCELLED
@@ -2585,7 +2798,7 @@ UID:event-145@autumn-recruitment
 DTSTAMP:20260902T123025Z
 DTSTART:20260904T120000Z
 DTEND:20260904T130000Z
-SUMMARY:已完成 · 作答计划 · AI测评 · 华为 · AI模型工程
+SUMMARY:已归档 · 作答计划 · AI测评 · 华为 · AI模型工程
  师-多模态大模型
 TRANSP:OPAQUE
 DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
@@ -2601,7 +2814,10 @@ DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
  测评链接为个人专属入口，请勿转发；问题联系 talent@hua
  wei.com。\n\n2026-09-09：用户确认无需复盘；已将待复盘项
  标记为已完成（跳过结构化复盘），不据此推断官方通
- 过/未通过。
+ 过/未通过。\n\n2026-10-05 数据整备：现有材料仅确认关闭
+ 待复盘/复用流程，未单独确认本人实际参加。本条归档
+ 避免继续提醒；参加情况及官方结果待核实，不以流程
+ 推进或跳过复盘推断参加。
 LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14650
  07542992898&auto_login=2
 STATUS:CANCELLED
@@ -2611,7 +2827,7 @@ UID:event-145-deadline@autumn-recruitment
 DTSTAMP:20260902T123025Z
 DTSTART:20260904T160000Z
 DTEND:20260904T160100Z
-SUMMARY:已完成 · 截止 · AI测评 · 华为 · AI模型工程师-多
+SUMMARY:已归档 · 截止 · AI测评 · 华为 · AI模型工程师-多
  模态大模型
 TRANSP:TRANSPARENT
 DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
@@ -2627,7 +2843,10 @@ DESCRIPTION:智能汽车解决方案BU解决方案部 | AI模型工程师-
  。测评链接为个人专属入口，请勿转发；问题联系 talent@
  huawei.com。\n\n2026-09-09：用户确认无需复盘；已将待复盘
  项标记为已完成（跳过结构化复盘），不据此推断官方
- 通过/未通过。
+ 通过/未通过。\n\n2026-10-05 数据整备：现有材料仅确认关
+ 闭待复盘/复用流程，未单独确认本人实际参加。本条归
+ 档避免继续提醒；参加情况及官方结果待核实，不以流
+ 程推进或跳过复盘推断参加。
 LOCATION:https://eztest.org/exam/session/188050/cn/#/login?permit=ATA_14650
  07542992898&auto_login=2
 STATUS:CANCELLED
@@ -2659,52 +2878,6 @@ DESCRIPTION:EASTstar | EASTstar-算法工程师（多模态方向）-27届
 LOCATION:https://test.zhiding.com.cn/WebTest/Login.aspx?aid=492277&pid=3779
  8367&identify=522F6F635A131806B5B5C5213FC4926E
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:event-141@autumn-recruitment
-DTSTAMP:20260901T030415Z
-DTSTART:20260904T155900Z
-DTEND:20260904T160000Z
-SUMMARY:时间待核实 · AI测评 · 联想集团 · Agent算法研究员
-TRANSP:TRANSPARENT
-DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 时间性质待
- 核实 · 原记录 2026-09-04 23:59 | 联想校园招聘在线能力测
- 评（SHL）。邮件说明：仅简历初筛通过者会收到测评邀
- 请；须在收到邀请后的 3 个自然日内完成。数据库以 2026
- -09-04 23:59 作为截止占位，真实截止时刻以邮件收件时间 
- + 3 个自然日为准，建议提前完成。PC 端使用最新版 Chrome
-  或 Firefox，建议先完成考前练习和设备检测；可退出后
- 继续，但最多退出 2 次，重新进入时不要更换浏览器；
- 建议一次性完成。测评链接为个人专属链接，不得转发
- 。SHL 技术支持：400-120-8840 转 2，asiamanagedservices@shl.com；
- 联想校招咨询：chinacampus@lenovo.com。\n2026-09-24 用户确认已
- 实际参加/完成；官方结果未单独确认。
-LOCATION:https://integration-talentcentral.shlglobal.cn/Integration/ce/8b5c
- 10fac09f4971a292fccec5a26a9a/?rid=1572490525
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-UID:event-142@autumn-recruitment
-DTSTAMP:20260901T030415Z
-DTSTART:20260904T155900Z
-DTEND:20260904T160000Z
-SUMMARY:时间待核实 · 技术笔试 · 联想集团 · Agent算法研
- 究员
-TRANSP:TRANSPARENT
-DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 时间性质待
- 核实 · 原记录 2026-09-04 23:59 | 联想校园招聘在线技术笔
- 试（ACMCoder），与 SHL 在线能力测评为两个独立环节。须
- 在收到邀请后的 3 个自然日内完成；数据库以 2026-09-04 23
- :59 作为截止占位，真实截止时刻以邮件收件时间 + 3 个
- 自然日为准。考试时长按岗位为 60-90 分钟，打开试卷后
- 计时不会停止，需预留完整时间一次完成。登录账号为 l
- enovo；临时登录密码见原始邀请邮件，不写入数据库。使
- 用电脑及 Chrome 80+；考试期间不得跳出页面、使用 IM、佩
- 戴耳机或传播题目。FAQ：http://oj.acmcoder.com/QA；系统故障
- 联系 Exam@acmcoder.com。\n2026-09-24 用户确认已实际参加/完成
- ；官方结果未单独确认。
-LOCATION:https://lenovo.acmcoder.com/cand/login
-STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:event-154@autumn-recruitment
@@ -2893,21 +3066,21 @@ DESCRIPTION:腾讯AI平台部 | 算法-多模态方向 | 固定场次 · 20
  ，部门为腾讯AI平台部；与2026-08-11投递的「算法-多模态
  方向」属于同一流程。 | 腾讯校园招聘算法工程师二面
  ，部门：腾讯AI平台部。面试形式：单面；方式：腾讯会
- 议。面试项目在通知中未填写。\\n本场需要考核代码能
- 力，且面试官可能考核AI实战能力；请使用PC端Chrome参加
- 。AI实战操作指南：https://cdn.tencentgroup.qq.com/vv_static/ide/AI
- Coding.pdf\\n确认或改期入口：https://join.qq.com/interview_reply.h
- tml\\n如超过预定时间10分钟面试官仍未上线，请联系0755-8
- 6013388，接通后输入分机855999，或回复面试邮件。\\n请提
- 前10分钟入会并检测设备；未经腾讯招聘官方许可，不得
- 录音或录像。\n\n2026-09-09：二面已完成，实际有效沟通约
- 49分钟，未进行代码或AI Coding。主要内容：秋招与Offer进
- 展、阿里生活服务Agent评测及RL、skill routing多路径判定、
- reward curriculum、GRPO/multi-step信用分配、CCCaption、职业选择
- 与scope、AI Coding时代工程能力，以及王者万象棋灵宝/游
- 戏教练Agent设计。复盘已追加到review.md；官方结果待通知
- 。\n2026-09-24 用户确认已实际参加/完成；官方结果未单独
- 确认。
+ 议。面试项目在通知中未填写。\n本场需要考核代码能力
+ ，且面试官可能考核AI实战能力；请使用PC端Chrome参加。A
+ I实战操作指南：https://cdn.tencentgroup.qq.com/vv_static/ide/AICodi
+ ng.pdf\n确认或改期入口：https://join.qq.com/interview_reply.html\n
+ 如超过预定时间10分钟面试官仍未上线，请联系0755-8601338
+ 8，接通后输入分机855999，或回复面试邮件。\n请提前10分
+ 钟入会并检测设备；未经腾讯招聘官方许可，不得录音
+ 或录像。\n\n2026-09-09：二面已完成，实际有效沟通约49分
+ 钟，未进行代码或AI Coding。主要内容：秋招与Offer进展、
+ 阿里生活服务Agent评测及RL、skill routing多路径判定、reward
+  curriculum、GRPO/multi-step信用分配、CCCaption、职业选择与sco
+ pe、AI Coding时代工程能力，以及王者万象棋灵宝/游戏教
+ 练Agent设计。复盘已追加到review.md；官方结果待通知。\n2
+ 026-09-24 用户确认已实际参加/完成；官方结果未单独确认
+ 。
 LOCATION:https://meeting.tencent.com/dm/WOScSGyljfUm
 STATUS:CONFIRMED
 END:VEVENT
@@ -2963,36 +3136,41 @@ TRANSP:OPAQUE
 DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  师 | 固定场次 · 2026-09-10 15:30 · 60 分钟 | 元戎启行 2027 
  秋招大模型算法工程师，视频面试邀约；具体团队职责
- 待面试反问确认。 | 元戎启行（Deeproute.ai）【2027秋招】
- 大模型算法工程师视频面试。邮件未注明轮次；一面（ev
- ent-64，2026-08-13）已完成，二面（event-121，2026-09-01）已通
- 过，按下一场记为三面。\n面试时间：2026年9月10日 星期
- 四 15:30；时长 1 小时（可能延长，请预留充足时间）。
- 形式：视频面试。\n面试地址：https://vc.feishu.cn/j/503149552
- （会议号: 503149552）。请复制链接到 PC 端浏览器（推荐 C
- hrome / Firefox），确保麦克风可用；提前 10 分钟调试设备
- 并进入等候。\n联系人：王婷，17318946273，tingwang@deeproute.
- ai。请关注【元戎启行招聘】微信公众号。\n邮件要求确
- 认是否参加（参加 / 不参加 / 更改面试时间）；此邮件
- 由企业操作、Moka 系统代发，请勿直接回复。未替用户点
- 击确认入口。\n\n——邮件原文——\n亲爱的唐治江同学
- ，\n你好！\n        感谢你对深圳元戎启行科技有限公司
- （Deeproute.ai）的关注，我们诚邀你参与【2027秋招】大模
- 型算法工程师岗位的 面试，具体安排如下：\n面试时间
- ：2026年9月10日 星期四  15:30\n面试时长：1小时  （面试时
- 间可能会有所延长，请您预留充足时间）\n面试形式：视
- 频面试\n面试地址：https://vc.feishu.cn/j/503149552（会议号: 50
- 3149552）（请复制此链接到PC端浏览器（推荐Chrome 浏览器/
- Firefox 浏览器）参加在线面试，请确保麦克风可用）\n如
- 面试安排有任何变动，请提前联系HR\n联系人：王婷1731894
- 6273tingwang@deeproute.ai\n请提前准备一台电脑并保证网络畅
- 通，提前10分钟调试好设备，点击链接进入面试等待\n请
- 关注【元戎启行招聘】微信公众号，获取更多公司及招
- 聘信息。\n感谢你投递Deeproute.ai，祝你面试顺利~\nDeeproute
- .ai人力资源部\n请您确认是否参加\n参加\n不参加\n更改面
- 试时间\n此邮件由企业操作、Moka系统代发，请勿直接回
- 复。\n如有任何疑问，欢迎与招聘负责人联系，随时为您
- 效劳。\n
+ 待面试反问确认。\n\n2026-10-08录入用户提供的录用资格通
+ 知邮件（邮件发送/收信日期未提供）：获得元戎启行2027
+ 秋季校园招聘录用资格。官方录取职位：算法工程师；
+ 工作地点：深圳。具体Offer沟通预计于11月陆续开始，未
+ 给出具体日期、薪资、职级、答复期限或入职日期。与HR
+ 完成Offer信息沟通确认后，领取学校三方协议并签订； | 
+ 元戎启行（Deeproute.ai）【2027秋招】大模型算法工程师视
+ 频面试。邮件未注明轮次；一面（event-64，2026-08-13）已
+ 完成，二面（event-121，2026-09-01）已通过，按下一场记为
+ 三面。\n面试时间：2026年9月10日 星期四 15:30；时长 1 小
+ 时（可能延长，请预留充足时间）。形式：视频面试。\n
+ 面试地址：https://vc.feishu.cn/j/503149552（会议号: 503149552）
+ 。请复制链接到 PC 端浏览器（推荐 Chrome / Firefox），确
+ 保麦克风可用；提前 10 分钟调试设备并进入等候。\n联
+ 系人：王婷，17318946273，tingwang@deeproute.ai。请关注【元戎
+ 启行招聘】微信公众号。\n邮件要求确认是否参加（参加
+  / 不参加 / 更改面试时间）；此邮件由企业操作、Moka 系
+ 统代发，请勿直接回复。未替用户点击确认入口。\n\n—
+ —邮件原文——\n亲爱的唐治江同学，\n你好！\n        感
+ 谢你对深圳元戎启行科技有限公司（Deeproute.ai）的关注
+ ，我们诚邀你参与【2027秋招】大模型算法工程师岗位的 
+ 面试，具体安排如下：\n面试时间：2026年9月10日 星期四 
+  15:30\n面试时长：1小时  （面试时间可能会有所延长，请
+ 您预留充足时间）\n面试形式：视频面试\n面试地址：http
+ s://vc.feishu.cn/j/503149552（会议号: 503149552）（请复制此链
+ 接到PC端浏览器（推荐Chrome 浏览器/Firefox 浏览器）参加
+ 在线面试，请确保麦克风可用）\n如面试安排有任何变动
+ ，请提前联系HR\n联系人：王婷17318946273tingwang@deeproute.ai\n
+ 请提前准备一台电脑并保证网络畅通，提前10分钟调试好
+ 设备，点击链接进入面试等待\n请关注【元戎启行招聘】
+ 微信公众号，获取更多公司及招聘信息。\n感谢你投递Dee
+ proute.ai，祝你面试顺利~\nDeeproute.ai人力资源部\n请您确认
+ 是否参加\n参加\n不参加\n更改面试时间\n此邮件由企业操
+ 作、Moka系统代发，请勿直接回复。\n如有任何疑问，欢
+ 迎与招聘负责人联系，随时为您效劳。\n
 LOCATION:https://vc.feishu.cn/j/503149552
 STATUS:CONFIRMED
 END:VEVENT
@@ -3505,25 +3683,30 @@ TRANSP:OPAQUE
 DESCRIPTION:大模型算法团队 | 【2027秋招】大模型算法工程
  师 | 固定场次 · 2026-09-23 14:30 · 26 分钟 | 元戎启行 2027 
  秋招大模型算法工程师，视频面试邀约；具体团队职责
- 待面试反问确认。 | 2026-09-16 收到 Deeproute.ai / Moka 面试邀
- 约。结合本投递既有一面、二面、三面记录，本次按四
- 面登记。\n官方时长 30 分钟，可能延长；请提前 10 分钟
- 使用 PC 调试网络、麦克风，推荐 Chrome 或 Firefox。\n会议
- 号：863274689\n联系人：王婷，17318946273，tingwang@deeproute.ai\
- n参加：https://app.mokahr.com/interviewer-status?attendStatus=4&access_
- token=cde13ccd9dd44a5884dc334d4bafd94294886a22c33e4b439a4bad402d60db95&bus
- inessUnitId=0&orgId=deeproute\n不参加：https://app.mokahr.com/intervie
- w/reject-reason-page?access_token=cde13ccd9dd44a5884dc334d4bafd94294886a22
- c33e4b439a4bad402d60db95&businessUnitId=0&orgId=deeproute\n更改时间：
- https://app.mokahr.com/external_link_pages/interview/time_not_suitable?acc
- ess_token=cde13ccd9dd44a5884dc334d4bafd94294886a22c33e4b439a4bad402d60db95
- &orgId=deeproute&businessUnitId=0\n邮件由 Moka 代发，请勿直接回
- 复。\n参加状态：已接受（用户于 2026-09-17 统一确认）。
- \n\n2026-09-23：HR面已完成，有效沟通约26分钟。HR介绍薪酬
- 、作息、福利与上海落户口径，并明确表示将申请意向
- 书，后续按部门排序陆续谈薪；当前尚未发放意向书或Of
- fer，投递状态继续保留为interview。详细复盘见knowledge_path
- /review.md。
+ 待面试反问确认。\n\n2026-10-08录入用户提供的录用资格通
+ 知邮件（邮件发送/收信日期未提供）：获得元戎启行2027
+ 秋季校园招聘录用资格。官方录取职位：算法工程师；
+ 工作地点：深圳。具体Offer沟通预计于11月陆续开始，未
+ 给出具体日期、薪资、职级、答复期限或入职日期。与HR
+ 完成Offer信息沟通确认后，领取学校三方协议并签订； | 
+ 2026-09-16 收到 Deeproute.ai / Moka 面试邀约。结合本投递既有
+ 一面、二面、三面记录，本次按四面登记。\n官方时长 30
+  分钟，可能延长；请提前 10 分钟使用 PC 调试网络、麦
+ 克风，推荐 Chrome 或 Firefox。\n会议号：863274689\n联系人：
+ 王婷，17318946273，tingwang@deeproute.ai\n参加：https://app.mokahr.
+ com/interviewer-status?attendStatus=4&access_token=cde13ccd9dd44a5884dc334
+ d4bafd94294886a22c33e4b439a4bad402d60db95&businessUnitId=0&orgId=deeproute
+ \n不参加：https://app.mokahr.com/interview/reject-reason-page?access_t
+ oken=cde13ccd9dd44a5884dc334d4bafd94294886a22c33e4b439a4bad402d60db95&busi
+ nessUnitId=0&orgId=deeproute\n更改时间：https://app.mokahr.com/extern
+ al_link_pages/interview/time_not_suitable?access_token=cde13ccd9dd44a5884d
+ c334d4bafd94294886a22c33e4b439a4bad402d60db95&orgId=deeproute&businessUnit
+ Id=0\n邮件由 Moka 代发，请勿直接回复。\n参加状态：已接
+ 受（用户于 2026-09-17 统一确认）。\n\n2026-09-23：HR面已完
+ 成，有效沟通约26分钟。HR介绍薪酬、作息、福利与上海
+ 落户口径，并明确表示将申请意向书，后续按部门排序
+ 陆续谈薪；当前尚未发放意向书或Offer，投递状态继续保
+ 留为interview。详细复盘见knowledge_path/review.md。
 LOCATION:https://vc.feishu.cn/j/863274689
 STATUS:CONFIRMED
 END:VEVENT
