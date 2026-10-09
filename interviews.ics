@@ -150,10 +150,16 @@ DESCRIPTION:2027届校园招聘计划（正式算法类） | 多模态大
  进或跳过复盘推断参加。\n\n2026-10-05 数据整备：原 schedul
  ed_at=2026-08-20 20:14 是提醒节点或截止占位，已移出固定开
  始时间；按原邀请区分开放窗口、截止和未知时间，不
- 推断实际开考时刻。
+ 推断实际开考时刻。\n\n2026-10-09 用户明确反馈：小米 · 2
+ 027届校园招聘计划（正式算法类），多模态大模型算法
+ 工程师第 3 志愿，这条投递“挂了”。据用户反馈记录
+ 当前投递流程未通过，application.status 更新为 rejected。具
+ 体淘汰阶段及原因未提供，也未补充单场AI测评的实际参
+ 加情况或结果；本条测评保留已归档及参加情况待核实
+ 的历史记录。
 LOCATION:https://xiaomiceping.ceping.com/Login/Elink?elink=HfmM0ogxfCbaMzxc
  China259FVSEuiARVZ1e1IRq2n4WBAl7Ibm/RTIzklGTluaJdXukAoQYTrQti
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-168@autumn-recruitment
@@ -2298,10 +2304,15 @@ DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 开
  新版 Chrome，全程摄像头；含 AI Coding 题型，按目录作答
  ，提交目录后不可修改。确认入口：https://hr.nowcoder.com/v1
  /s/KMFgKEjz#；招聘流程咨询：campus@dewu.com。专属考试链接
- 请勿转发。\n2026-09-01 用户确认已完成；官方通过/未通过
- 结果待通知，暂无单独复盘内容。
+ 请勿转发。\n2026-09-01 用户确认已完成；当时官方通过/未
+ 通过结果待通知，暂无单独复盘内容。\n2026-10-09 用户明
+ 确反馈：得物 · 技术类，【27届校招】算法研究员-视觉
+ 方向，这条投递“挂了”。据用户反馈记录当前投递流
+ 程未通过，application.status 更新为 rejected。具体淘汰阶段
+ 、原因或单场笔试结果未提供；本场笔试仍按已有实际
+ 参加记录保留为已完成。
 LOCATION:https://hr.nowcoder.com/v1/s/aBfbzxRF#
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-134-deadline@autumn-recruitment
@@ -2322,10 +2333,14 @@ DESCRIPTION:技术类 | 【27届校招】算法研究员-视觉方向 | 截
  头；含 AI Coding 题型，按目录作答，提交目录后不可修改
  。确认入口：https://hr.nowcoder.com/v1/s/KMFgKEjz#；招聘流程咨
  询：campus@dewu.com。专属考试链接请勿转发。\n2026-09-01 用
- 户确认已完成；官方通过/未通过结果待通知，暂无单独
- 复盘内容。
+ 户确认已完成；当时官方通过/未通过结果待通知，暂无
+ 单独复盘内容。\n2026-10-09 用户明确反馈：得物 · 技术类
+ ，【27届校招】算法研究员-视觉方向，这条投递“挂了
+ ”。据用户反馈记录当前投递流程未通过，application.statu
+ s 更新为 rejected。具体淘汰阶段、原因或单场笔试结果未
+ 提供；本场笔试仍按已有实际参加记录保留为已完成。
 LOCATION:https://hr.nowcoder.com/v1/s/aBfbzxRF#
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-132@autumn-recruitment
@@ -2461,10 +2476,14 @@ DESCRIPTION:默认部门 | 2027届-AIGC视觉多模态大模型架构工程
  邀请。岗位：2027届-AIGC视觉多模态大模型架构工程师。
  考试开放时间：2026-08-31 19:00–20:30，共90分钟。考试平台
  ：牛客网。邮件说明如有变动可联系招聘方，但未提供
- 具体联系人。
+ 具体联系人。\n2026-10-09 用户明确反馈本岗位“挂了”，
+ 据用户反馈记录当前投递流程未通过，application.status 更
+ 新为 rejected。用户未提供具体淘汰阶段、原因或单场笔
+ 试结果；本场笔试仍按已有实际参加记录保留为已完成
+ 。
 LOCATION:https://exam.nowcoder.com/cts/17521201/summary?id=99C5821D0D39AA6E
  5D2B1AAD67C4DCC3
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-122-deadline@autumn-recruitment
@@ -2480,10 +2499,14 @@ DESCRIPTION:默认部门 | 2027届-AIGC视觉多模态大模型架构工程
  （北京）科技股份有限公司在线考试邀请。岗位：2027届-
  AIGC视觉多模态大模型架构工程师。考试开放时间：2026-08
  -31 19:00–20:30，共90分钟。考试平台：牛客网。邮件说明
- 如有变动可联系招聘方，但未提供具体联系人。
+ 如有变动可联系招聘方，但未提供具体联系人。\n2026-10-0
+ 9 用户明确反馈本岗位“挂了”，据用户反馈记录当前投
+ 递流程未通过，application.status 更新为 rejected。用户未提
+ 供具体淘汰阶段、原因或单场笔试结果；本场笔试仍按
+ 已有实际参加记录保留为已完成。
 LOCATION:https://exam.nowcoder.com/cts/17521201/summary?id=99C5821D0D39AA6E
  5D2B1AAD67C4DCC3
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-125@autumn-recruitment
@@ -3601,7 +3624,7 @@ DESCRIPTION:国际电商 | 面向国际电商场景的大模型应用-国
  数量与 FLOPs、batch size 选择及商品尺寸业务方案存在明显
  硬伤。完整复盘见 knowledge_path。
 LOCATION:https://t.zijieimg.com/rSp0dRC30J0/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-189@autumn-recruitment
@@ -3960,13 +3983,18 @@ DESCRIPTION:国际电商 | 面向国际电商场景的大模型应用-国
  结束，与本场17:00首尾相接，没有缓冲。建议确认原力灵
  机实际时长，或至少提前告知对方17:00有下一场。当天14:
  00另有同花顺二面。\n2026-09-29 用户提供本场面试转录，
- 确认已参加；官方结果待通知。有效交流约60分钟，重点
- 为阿里 Agent 评测/单步 RL、GRPO/DPO 代码、Adam 和长上下文
- 基础。复盘见 data/knowledge/字节跳动-面向国际电商场景的
- 大模型应用-国际电商（杭州）/review.md 的二面章节。转
- 录未包含代码画面，不能判断 DPO 实现是否正确。
+ 确认已参加；当时官方结果待通知。有效交流约60分钟，
+ 重点为阿里 Agent 评测/单步 RL、GRPO/DPO 代码、Adam 和长上
+ 下文基础。复盘见 data/knowledge/字节跳动-面向国际电商场
+ 景的大模型应用-国际电商（杭州）/review.md 的二面章节
+ 。转录未包含代码画面，不能判断 DPO 实现是否正确。\n2
+ 026-10-09 用户明确反馈本岗位“挂了”，当前投递流程未
+ 通过，application.status 更新为 rejected；作为最近一场面试
+ 后的流程结果，将本记录结果更新为未通过。用户未提
+ 供具体淘汰阶段或原因；历史一面及此前流程终止后重
+ 新激活的记录保留。
 LOCATION:https://t.zijieimg.com/BvAqLrBGM-M/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-196@autumn-recruitment
@@ -3986,15 +4014,16 @@ DESCRIPTION:淘天集团-智能算法产品事业部-文本搜索 | 算法
  属面试间测试摄像头、麦克风和音视频。面试安排联系
  人电话：+86-13810610529；邮箱：hmy02282845@taobao.com。招聘热
  线：0571-28285927（工作日9:00–18:00）。面试后反馈问卷链
- 接见原始邀请邮件。当前参加状态：待确认。
+ 接见原始邀请邮件。参加及结果记录：2026-10-08用户提供
+ 本场面试转写，确认已完成，当时通过与否尚未确认；20
+ 26-10-09用户明确反馈该投递“挂了”，据用户反馈记录未
+ 通过。未提供具体淘汰原因。\n复盘已归档：评测真值与
+ 独立验证、训练rubric定义、GRPO裁剪梯度及OPD/KL为本场重
+ 点。转写不含共享编辑器题面或代码，不能据此认定代
+ 码通过。
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=q8fbf9jaXUQAL%2F5tUQtUew%3D%3D
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 阿里巴巴集团 · 算法工程师-多模态
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-199@autumn-recruitment
@@ -4088,6 +4117,41 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 快手 · 大模型应用算法工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-203@autumn-recruitment
+DTSTAMP:20261008T160000Z
+DTSTART:20261015T113000Z
+DTEND:20261015T123000Z
+SUMMARY:三面 · 同花顺 · 多模态大模型算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
+ 师 | 固定场次 · 2026-10-15 19:30 · 60 分钟 | 轮次依据：邀
+ 请邮件未注明轮次；用户明确确认是原岗位三面，关联
+ 原多模态大模型算法工程师投递。\nHR：陈雨波，1762130011
+ 2。\n视频面试使用同顺会议，整场预计持续1小时；建议
+ 使用电脑和Chrome浏览器参加。\n邮件说明：预约面试时间
+ 前5分钟将同顺会议ID发送到邮箱；手机参加方式说明面
+ 试官提前3–5分钟告知会议ID，请留意手机短信。会议ID
+ 尚未提供。\n电脑入口：https://job.10jqka.com.cn/#/meeting?auditi
+ onId=11049262&code=dba941bbf393c1f3fc447cdcd82e8fba\n手机入口：https:
+ //meetingx.myhithink.com/ ，下载并安装同顺会议APP，打开后输
+ 入会议ID。\n邀请邮件未提供新的团队分工或面试结果信
+ 息，原团队归属待HR核实的记录保留。\n邮件公司简介原
+ 文（仅保留邮件说法，未作独立核实）：我们公司成立
+ 于1995年，是一家专业的互联网金融数据服务商，2009年在
+ 深圳创业板上市，目前有员工4000余人，总部位于杭州。
+ 公司具有行业最为齐全的产品线，在国内证券交易系统
+ 市场占有率高达90%。
+LOCATION:同顺会议（视频面试，推荐Chrome）：https://job.10jqka
+ .com.cn/#/meeting?auditionId=11049262&code=dba941bbf393c1f3fc447cdcd82e8fb
+ a
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 同花顺 · 多模态大模型算法工程师
 END:VALARM
 END:VEVENT
 END:VCALENDAR
