@@ -2047,19 +2047,31 @@ SUMMARY:一面 · 小米 · 顶尖应届-垂域Agentic大模型算法工程
 TRANSP:OPAQUE
 DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
  法工程师-AI实验室 | 固定场次 · 2026-08-24 15:00 · 时长待
- 确认 | 时长未确认，日历暂占 60 分钟 | 流程结果（2026-09
- -11）：用户确认该岗位已挂，招聘流程终止。 | 视频面
- 试；小米AI实验室。技术岗位可能包含代码考核，提前10
- 分钟完成设备调试。联系人：xueyirong1@xiaomi.com。\n\n——
- 面试复盘——\n2026-08-24 小米垂域 Agentic 大模型算法工程
- 师一面已完成，约 56 分钟。重点深挖 Agent 评测、课程式
-  reward、多步 skill-routing RL、CCCaption 动态采样与长视频时
- 序评测；无手撕。详细复盘：data/knowledge/小米-顶尖应届-
- 垂域Agentic大模型算法工程师-AI实验室/review-一面-2026-08-24
- .md。\n\n2026-09-11 用户确认：该岗位已挂，流程终止；未
- 提供更具体淘汰原因。
+ 确认 | 时长未确认，日历暂占 60 分钟 | 历史反馈（2026-09
+ -11）：用户当时确认该岗位已挂，招聘流程终止。\n\n最
+ 新进展（2026-10-10用户提供）：收到同名岗位2026-10-14 17:30
+ （北京时间）的视频面试邀请，用户确认属于“原流程
+ 的二面或后续轮次”。当前更新为面试中，暂记二面；
+ 确切官方轮次与面试时长待确认。历史反馈保留，不再
+ 作为当前流程终止结论，也不据此推断旧一面官方通过
+ 。 | 视频面试；小米AI实验室。技术岗位可能包含代码考
+ 核，提前10分钟完成设备调试。联系人：xueyirong1@xiaomi.com
+ 。\n\n——面试复盘——\n2026-08-24 小米垂域 Agentic 大模型
+ 算法工程师一面已完成，约 56 分钟。重点深挖 Agent 评测
+ 、课程式 reward、多步 skill-routing RL、CCCaption 动态采样与
+ 长视频时序评测；无手撕。详细复盘：data/knowledge/小米-
+ 顶尖应届-垂域Agentic大模型算法工程师-AI实验室/review-一
+ 面-2026-08-24.md。\n\n2026-09-11 用户确认：该岗位已挂，流程
+ 终止；未提供更具体淘汰原因。\n\n2026-10-10数据校正：用
+ 户提供同名岗位的新邀请，并确认是“原流程的二面或
+ 后续轮次”。9月11日原反馈仅说明岗位整体流程终止，
+ 未提供单场一面官方结果；不能据整体反馈将本场判为
+ 未通过。根据8月24日已有实际参加及复盘证据，本场resul
+ t恢复为已完成（单场官方结果未核实），不是通过。9月
+ 11日历史反馈原文保留；本次后续面试另记event_id=211，当
+ 前申请状态为interview。
 LOCATION:https://mi.feishu.cn/hire/short_url/cKMMVZMayr8
-STATUS:CANCELLED
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-115@autumn-recruitment
@@ -4214,6 +4226,60 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:一面 · 中国电信 · 【2027校招】策略工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-211@autumn-recruitment
+DTSTAMP:20261010T083410Z
+DTSTART:20261014T093000Z
+DTEND:20261014T103000Z
+SUMMARY:二面 · 小米 · 顶尖应届-垂域Agentic大模型算法工程
+ 师-AI实验室
+TRANSP:OPAQUE
+DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
+ 法工程师-AI实验室 | 固定场次 · 2026-10-14 17:30 · 时长待
+ 确认 | 时长未确认，日历暂占 60 分钟 | 历史反馈（2026-09
+ -11）：用户当时确认该岗位已挂，招聘流程终止。\n\n最
+ 新进展（2026-10-10用户提供）：收到同名岗位2026-10-14 17:30
+ （北京时间）的视频面试邀请，用户确认属于“原流程
+ 的二面或后续轮次”。当前更新为面试中，暂记二面；
+ 确切官方轮次与面试时长待确认。历史反馈保留，不再
+ 作为当前流程终止结论，也不据此推断旧一面官方通过
+ 。 | 小米集团人力资源部邀请：顶尖应届-垂域Agentic大模
+ 型算法工程师-AI实验室。\n视频面试：2026-10-14（周三）17
+ :30，北京时间（GMT+08:00）。\n面试链接：https://mi.feishu.cn/
+ hire/short_url/gAkBD5hX3Iw\n轮次依据：2026-10-10用户确认“原流
+ 程的二面或后续轮次”，不是重新开始的一面。按原流
+ 程后续面试暂记二面；邮件未明确官方轮次，是否二面
+ 或更后轮次仍待确认。旧一面不据后续邀请推断为官方
+ 通过。\n时长待确认：邮件未提供。数据库留空，日历按
+ 系统默认暂占60分钟，不表示招聘方确认17:30–18:30。\n请
+ 提前10分钟（17:20）调试麦克风和摄像头参加面试；保持
+ 网络畅通，环境安静。技术岗位如需代码考核，请使用
+ 电脑端飞书客户端或浏览器。\n电脑端建议使用最新版本
+ Google Chrome或360浏览器；移动端建议使用微信、Google Chrome
+ 或Safari浏览器。\n加入面试方法手册：https://bytedance.feishu
+ .cn/docx/A70GdHCIeoomwqxTZEsc5yjGnhb\n改期或取消需提前1天联系
+ ：sundawei3@xiaomi.com。未提供联系人姓名及电话，不按邮箱
+ 猜测姓名。\n面试后将发送满意度调研问卷，问卷发放和
+ 填写不影响面试结果。\n招聘体验反馈及常见问题平台：
+ https://zorez6d54b.feishu.cn/app/H4kcbB0zQa3APps8qNFc5tpmnZb?pageId=pgeI2N
+ dH1bjvIAHP\n面试须知：请勿透露第三方商业秘密；小米表
+ 示可能提醒并终止涉密话题，保留按规定处理的权利。
+ 原邮件说明点击接受面试视为理解并承诺遵守这些事项
+ 。\n参加/接受状态未确认：当前仅记录邀请，未点击接
+ 受或代为回复联系人。\n2026-10-10用户提供同名岗位的新
+ 面试邀请，结合用户确认这是原流程后续面试，将本岗
+ 位当前状态从rejected更新为interview；保留历史流程终止反
+ 馈，不推断旧一面官方通过，也不影响其他小米岗位。
+ 邮件未给出收件时间。
+LOCATION:https://mi.feishu.cn/hire/short_url/gAkBD5hX3Iw
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 小米 · 顶尖应届-垂域Agentic大模型算法
+ 工程师-AI实验室
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
