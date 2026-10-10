@@ -232,6 +232,35 @@ LOCATION:邮件回复
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:event-208@autumn-recruitment
+DTSTAMP:20261008T160000Z
+DTSTART:20261012T090700Z
+DTEND:20261012T090800Z
+SUMMARY:截止 · 待办 · 联想集团 · Agent算法研究员
+TRANSP:TRANSPARENT
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 截止 2026-10-
+ 12 17:07 · 尚未安排作答时段 · 作答时长待确认 | 用户于2
+ 026-10-09提供联想通用人工智能研究录用意向邮件，明确
+ 通过校招面试。邮件要求3天内接受/拒绝，电话口述72小
+ 时，逾期自动失效。用户提供邮件头时间：2026-10-09 17:07
+ （北京时间）。按电话明确的72小时，答复截止记录为202
+ 6-10-12 17:07（北京时间）。当前未获得本人接受/拒绝决定
+ 。正式offer：邮件称确认接受后约1周，电话称7工作日，
+ 手册明确提交材料后约7工作日；接受意向后还须等待材
+ 料收集邮件。本次仅记录，不执行意向操作。完整邮件
+ 及手册见data/knowledge/联想集团-通用人工智能研究/。\n邮
+ 件发件人：chinacampus@lenovo.com；收件人：tang_zhi_jiang@163.com
+ 。本人接受／拒绝决定仍待确认，未操作意向链接。
+LOCATION:https://talent.lenovo.com.cn/account/offer?token=c0d7e5af200146188
+ 2e55f3f16c7f4b4
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+DESCRIPTION:截止 · 待办 · 联想集团 · Agent算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-36@autumn-recruitment
 DTSTAMP:20260714T070216Z
 DTSTART:20260715T070000Z
@@ -4045,14 +4074,35 @@ DESCRIPTION:PonyStar顶尖人才计划 | PonyStar顶尖人才计划（27届
  风和网络，准备纸笔，保持手机畅通。包含 coding 和 CS 
  基础（算法与数据结构、数学、操作系统）考察；禁止 A
  I 面试辅助工具，并对题目保密。联系人：盖秋璇，+86180
- 42959990，qiuxuangai@pony.ai。官方未给出时长。
+ 42959990，qiuxuangai@pony.ai。官方未给出时长。\n\n2026-10-09 面
+ 试转写复盘：用户提供下午面试转写，确认已参加并完
+ 成，官方通过与否未知。复盘及原始转写归档于 data/knowl
+ edge/小马智行-PonyStar顶尖人才计划（27届）/；无完整编程
+ 题面、代码或测试输出，不推断最终代码正确性。本轮
+ 确认一、二面采用统一技术池，若进入三面可能再匹配
+ 团队，具体职责尚未确认。
 LOCATION:https://ponyai.feishu.cn/hire/short_url/5LcNqp5zNus
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 小马智行 · PonyStar顶尖人才计划（27届）
-END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-207@autumn-recruitment
+DTSTAMP:20261008T160000Z
+DTSTART:20261009T084600Z
+DTEND:20261009T090200Z
+SUMMARY:交流 · 联想集团 · Agent算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
+  2026-10-09 16:46 · 16 分钟 | 2026-10-09 16:46 HR电话薪酬沟通，
+ 转写标注16分9秒，日程按16分钟记录。B6；固定月薪27700
+ 元，12个月固定年薪332400元；年终奖基数39888元（固定年
+ 薪12%），乘时间系数、个人绩效0.8–1.2、部门绩效0–3。
+ 默认三个系数均1时目标年现金372288元，非保底奖金。房
+ 补1000元/月一年另计；无签字费；HR表示本次B6报价不可
+ 再调整。本人月薪期望3万元以上，表示需考虑。来源与
+ 完整记录：data/knowledge/联想集团-通用人工智能研究/offer-
+ 2026-10-09.md。
+LOCATION:电话
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-200@autumn-recruitment
@@ -4073,15 +4123,22 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
  ）。接受链接：https://email.wintalent.cn/wt/Horizon/kurl?k=fAfqqiaV
  r2E3iaqU&sign=8059cd6370399e6a8c938a36b2f99e9e15c5a621f808d539b93c670034e5
  cab3 。如需调整，至少提前1天联系HR：(010)83452549；面试
- 官迟到超过10分钟可联系HR。
+ 官迟到超过10分钟可联系HR。\n\n2026-10-10 用户提供下午面
+ 试转写，确认已参加并完成；官方结果待通知，邮件未
+ 明示轮次，继续暂记三面。原始转写归档：data/knowledge/
+ 地平线-【2027届校招】多模态大模型算法工程师-预研/tran
+ script-三面-2026-10-10.txt（SHA-256：3ca3412b8dc68454b97ea47a78557e455
+ bef773d137df03b47485ebd8c53ab7d）；复盘见同目录 review.md 的 even
+ t_id=200。\n转写可见交流约 44 分钟（录音时间轴 12:59–56:
+ 46，不据此推算实际北京时间）；本轮未见 coding。讨论
+ 阿里评测与 next-action RL、Shopee 后训练、CCCaption、OPD 后续
+ 实验及职业方向。\n本轮新增确认团队主线为视频生成仿
+ 真、车上输出动作的 policy model 和闭环 RL 后训练，配套
+ 数据/训练优化/端侧量化部署/评测；预研团队不直接客
+ 户交付，部分模型交给其他团队做车型适配与交付。后
+ 续 RSI/auto research 为可能方向，个人分工仍未确认。
 LOCATION:https://vc.feishu.cn/j/661234784?locale=1
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 地平线 · 【2027届校招】多模态大模型算
- 法工程师-预研
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-201@autumn-recruitment
@@ -4152,6 +4209,61 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 同花顺 · 多模态大模型算法工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-209@autumn-recruitment
+DTSTAMP:20261010T055957Z
+DTSTART:20261019T070000Z
+DTEND:20261019T080000Z
+SUMMARY:二面 · 小马智行 · PonyStar顶尖人才计划（27届）
+TRANSP:OPAQUE
+DESCRIPTION:PonyStar顶尖人才计划 | PonyStar顶尖人才计划（27届
+ ） | 固定场次 · 2026-10-19 15:00 · 时长待确认 | 时长未确
+ 认，日历暂占 60 分钟 | 正式校招；北京、广州、上海。
+ 方向包括多模态语义融合、VLM/VLA、扩散模型与世界模型
+ 、强化学习、具身智能、AI基础设施及数据工程。要求包
+ 括顶会论文、顶尖竞赛或优秀学业背景之一。 | 小马智
+ 行 PonyStar 顶尖人才计划同一投递流程；本次邀约职位原
+ 文：研发工程师 - 工程/算法/模型（27校招）。\n轮次待
+ 确认：已有 2026-10-09 一面完成记录（event_id=199），此次
+ 后续邀请暂记二面；邮件未明确轮次，不据此认定具体
+ 团队已匹配。官方未给出面试时长。\n面试形式：飞书视
+ 频面试。须准备电脑、纸笔，确保电脑网络畅通并保持
+ 手机畅通。\n招聘要求：禁止使用 AI 面试辅助工具；请
+ 对面试题目保密，邮件声明对泄漏题目的行为保留追究
+ 责任的权利。\n考察内容：coding 能力及 CS 基础知识，包
+ 括算法与数据结构、数学基础、操作系统等。\n联系人：
+ 盖秋璇；联系电话：+8618042959990；邮箱：qiuxuangai@pony.ai。
+ \n设备与环境：着装整洁；选择相对封闭安静的空间，视
+ 频区域整洁、光线充足；面试期间手机和电脑通知静音
+ 。提前下载飞书（https://www.feishu.cn/download），或测试使
+ 用 Chrome/火狐浏览器网页版加入面试。提前 10 分钟自行
+ 发起视频通话，确认摄像头、麦克风或扬声器可用，并
+ 保证设备电量充足。\n邀约来源：用户转发的招聘邮件；
+ 参加确认情况未另行提供。
+LOCATION:https://ponyai.feishu.cn/hire/short_url/5dORRUTr4_w
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 小马智行 · PonyStar顶尖人才计划（27届）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:strategy-103-reply_by@autumn-recruitment
+DTSTAMP:20261008T160000Z
+DTSTART:20261012T090700Z
+DTEND:20261012T092200Z
+SUMMARY:Offer答复期限 · 联想集团 · Agent算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
+  2026-10-12 17:07 · 15 分钟 | 详情见本地收入与跟进记录
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Offer答复期限 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 END:VCALENDAR
