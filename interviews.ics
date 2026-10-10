@@ -4177,6 +4177,46 @@ DESCRIPTION:二面 · 快手 · 大模型应用算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-210@autumn-recruitment
+DTSTAMP:20261010T080254Z
+DTSTART:20261013T060000Z
+DTEND:20261013T063000Z
+SUMMARY:一面 · 中国电信 · 【2027校招】策略工程师
+TRANSP:OPAQUE
+DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
+  固定场次 · 2026-10-13 14:00 · 30 分钟 | 中电信人工智能公
+ 司2027校园招聘策略工程师。2026-09-11收到在线笔试邀请，
+ 已通过简历筛选。笔试由招聘方自主安排，可在截止前
+ 自行选择时间完成；官方截止为2026-09-13 24:00，邮件未注
+ 明实际考试时长。 | 邀请公司原文：中电信人工智能公
+ 司；岗位：【2027校招】策略工程师。\n视频面试：2026-10-
+ 13（周二）14:00，北京时间。预计30分钟，可能视面试情
+ 况缩减或延长，请预留缓冲；13:50提前接入，提前调试好
+ 设备，保持环境安静。\n腾讯会议链接：https://meeting.tence
+ nt.com/dm/XuoYX9nuz5Ir\n会议号：222804872。\n联系电话：131319363
+ 06；联系邮箱：liziyi@imwarewh.com。邀请未给出联系人姓名
+ 。\n轮次待确认：邮件仅称面试，未注明第几轮；现有该
+ 岗位仅有简历初筛及笔试记录，暂记一面。\n参加状态：
+ 待确认。邮件要求确认是否参加，当前仅记录邀请，未
+ 访问参加/不参加链接，未代为确认出席。\n参加链接：ht
+ tps://app.mokahr.com/interviewer-status?attendStatus=4&access_token=f38bbc
+ a09906426c9f1268f526f3bbc9ca11e0b9daf94343ba5f85183317e60f&businessUnitId=
+ 0&orgId=chinatelecomai\n不参加链接：https://app.mokahr.com/interview
+ /reject-reason-page?access_token=f38bbca09906426c9f1268f526f3bbc9ca11e0b9d
+ af94343ba5f85183317e60f&businessUnitId=0&orgId=chinatelecomai\n如需另
+ 行安排时间，请通过以上电话或邮箱及时沟通；系统邮
+ 件由企业操作、Moka代发，请勿直接回复。\n邮件未给出
+ 收件时间。既往笔试仅记录已完成，不据本次邀约补填
+ 笔试通过结论。
+LOCATION:https://meeting.tencent.com/dm/XuoYX9nuz5Ir
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 中国电信 · 【2027校招】策略工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-203@autumn-recruitment
 DTSTAMP:20261008T160000Z
 DTSTART:20261015T113000Z
