@@ -4393,15 +4393,32 @@ DESCRIPTION:默认部门 | 北京-智能体算法工程师 | 固定场次
  b77678；新版会议链接为https://infoflow.baidu.com/meeting/invite?id
  =7dce2f8dd4e1c1b48918e8c0ddec73e7。原邀请时长和官方轮次均未
  注明，新版仍未注明；继续暂记一面、时长留空。新版
- 下载和设备要求与原邀约一致。
+ 下载和设备要求与原邀约一致。\n\n2026-10-14 面试完成记
+ 录：用户提供当天下午百度面试转写，确认已实际参加
+ 并完成。轮次仍暂记一面，官方未明示；结尾仅结束交
+ 流，无明确通过、下一轮或录用承诺，官方结果待通知
+ 。\n可见正式交流为录音时间轴约06:35–68:32，约62分钟，
+ 面试官称正好一小时。录音相对时间不当作实际北京时
+ 间；原邀请时长未知，duration_minutes继续留空。\n本轮codin
+ g为未知长度数据流的等概率k项抽样（蓄水池采样）。在
+ 多次提示后推出k/i入池、均匀替换和k/n证明；随机API边
+ 界仍未确认，转写无完整代码/运行输出，不记AC。\n项目
+ 重点为数据飞轮workflow/业务Agent/Judge与训练对象、置信分
+ 流和标注效率、长视频时序评测；没有GRPO公式、KL或clip
+ 原理追问，不混入其他场次失误。\n岗位确认：百度To C
+ 图像/视频AI原生内容生成Agent策略，交付物直接给C端用
+ 户，模型编排为主；不太做Agent背后LLM训练；不是剪辑或
+ 数字人方向，具体图像模型训练范围未明确。\n渠道/计
+ 划：08:13仅回忆可能BOSS投递，不回写确定渠道；问答表
+ 示非AIDU，但发言切分有ASR歧义，不扩大为确定社招/正式
+ 批，不与旧百度岗位合并。\n原始转写逐字节归档：data/k
+ nowledge/百度-北京-智能体算法工程师/transcript-一面-2026-10-
+ 14.txt；SHA-256：58e9bd2da177f25c571b218bc6017f3323712ccaf4147d6e4d7e953
+ 1476bee5e。\n结构化复盘：data/knowledge/百度-北京-智能体算
+ 法工程师/review.md；event_id: 213。
 LOCATION:https://infoflow.baidu.com/meeting/invite?id=7dce2f8dd4e1c1b48918e
  8c0ddec73e7
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 百度 · 北京-智能体算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-211@autumn-recruitment
@@ -4447,15 +4464,37 @@ DESCRIPTION:顶尖应届生项目 | 顶尖应届-垂域Agentic大模型算
  面试邀请，结合用户确认这是原流程后续面试，将本岗
  位当前状态从rejected更新为interview；保留历史流程终止反
  馈，不推断旧一面官方通过，也不影响其他小米岗位。
- 邮件未给出收件时间。
+ 邮件未给出收件时间。\n\n2026-10-14 二面完成记录：用户
+ 提供小米面试转写，确认已实际参加并完成。40:39–40:49
+ 询问是否二面，面试官明确确认，因此本场轮次不再仅
+ 暂记；41:01说明顶尖流程含HR约4–5面，仅为流程概况，
+ 不表示本轮通过或已安排下一轮。官方结果未通知。\n可
+ 见正式交流为录音相对时间04:26–41:24，约37分钟；不反
+ 推实际北京时间，原邀请时长未知，duration_minutes继续留
+ 空。全程没有coding、完整公式推导或运行结果。\n主要讨
+ 论：Caption双奖励、query难度采样、工业多模态与工具边
+ 界、能力跷跷板、稀缺工业数据合成/回流、自进化反馈
+ 方向、next-action RL课程奖励及部署节奏。\n课程细节：口
+ 述约20K，两阶段训练case一致，第一阶段格式/工具选择，
+ 第二阶段引入参数与Judge；分层在reward，不补样本比例、
+ 旧权重或工具/回复配比。RL本轮原话为没有全量上线，
+ 不补灰度或单凭此句扩成从未任何上线；RL一版3–4天、S
+ FT约3小时为项目口述周期，不推广算法倍数。模型型号
+ 和2B/32B谱系有ASR歧义，阿里职级“应该P6”不据此改写其
+ 他offer条件。\n岗位新增：工业和汽车垂域LM；工业异常
+ 检测、精密设计与设计软件结合，工业智能平台借助垂
+ 域工具进行质量问题至设备根因的长链归因，要求多模
+ 态理解与任务规划/编排。是团队目标/讨论场景，不把候
+ 选人提出的方案写成已实施；一面知识库/Text-to-SQL与当
+ 时20–30B信息按历史日期保留。\n原始转写逐字节归档：d
+ ata/knowledge/小米-顶尖应届-垂域Agentic大模型算法工程师-AI
+ 实验室/transcript-二面-2026-10-14.txt；SHA-256：3a89ab6a9955fd24af4
+ 394c122d6678dca4f6f4cfc172aefac535b4166bdda14。\n复盘已追加：data/k
+ nowledge/小米-顶尖应届-垂域Agentic大模型算法工程师-AI实
+ 验室/review.md；event_id: 211。历史一面、9月反馈和其他小
+ 米岗位不变。
 LOCATION:https://mi.feishu.cn/hire/short_url/gAkBD5hX3Iw
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 小米 · 顶尖应届-垂域Agentic大模型算法
- 工程师-AI实验室
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-203@autumn-recruitment
