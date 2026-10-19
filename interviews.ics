@@ -236,7 +236,8 @@ UID:event-208@autumn-recruitment
 DTSTAMP:20261008T160000Z
 DTSTART:20261012T090700Z
 DTEND:20261012T090800Z
-SUMMARY:截止 · 待办 · 联想集团 · Agent算法研究员
+SUMMARY:已完成 · 截止 · 待办 · 联想集团 · Agent算法研究
+ 员
 TRANSP:TRANSPARENT
 DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 截止 2026-10-
  12 17:07 · 尚未安排作答时段 · 作答时长待确认 | 用户于2
@@ -250,15 +251,16 @@ DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 截止 2026-10-
  料收集邮件。本次仅记录，不执行意向操作。完整邮件
  及手册见data/knowledge/联想集团-通用人工智能研究/。\n邮
  件发件人：chinacampus@lenovo.com；收件人：tang_zhi_jiang@163.com
- 。本人接受／拒绝决定仍待确认，未操作意向链接。
+ 。本人接受／拒绝决定仍待确认，未操作意向链接。\n\n2
+ 026-10-19 用户明确确认本次联想意向答复待办已处理完成
+ ，结果记为已完成；接受或拒绝的具体选择、实际处理
+ 时刻、材料提交及正式书面Offer状态未说明，不据此改写
+ 为已接受意向或已接受书面Offer。原答复截止2026-10-12 17:0
+ 7保留为历史依据，对应重复答复提醒按本待办完成状态
+ 关闭。
 LOCATION:https://talent.lenovo.com.cn/account/offer?token=c0d7e5af200146188
  2e55f3f16c7f4b4
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT90M
-ACTION:DISPLAY
-DESCRIPTION:截止 · 待办 · 联想集团 · Agent算法研究员
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-36@autumn-recruitment
@@ -576,7 +578,7 @@ DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） |
  状态确认（2026-08-09）：用户尚未收到淘汰或下一轮通知
  ，继续等待官方结果。
 LOCATION:https://www.talovative.com
-STATUS:TENTATIVE
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-52@autumn-recruitment
@@ -914,7 +916,7 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  待官方结果。\n\n日期更正（2026-08-10）：用户确认实际面
  试日期为 2026-08-05，原记录 2026-08-07 有误。
 LOCATION:https://nio.feishu.cn/hire/short_url/S3cJ0Y8J_Tg
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-67@autumn-recruitment
@@ -1522,7 +1524,7 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  、自动化+人工评测，并约每周灰度发布一版模型。详细
  复盘见knowledge_path/review.md。
 LOCATION:https://nio.feishu.cn/hire/short_url/m1ey6vbsWyQ
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-92@autumn-recruitment
@@ -1557,7 +1559,7 @@ DESCRIPTION:大疆创新 | 多模态大模型算法工程师（上海） |
  避免继续提醒；参加情况及官方结果待核实，不以流程
  推进或跳过复盘推断参加。
 LOCATION:https://dji.acmcoder.com/cand/login?843xkm76
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-96@autumn-recruitment
@@ -2252,7 +2254,7 @@ DESCRIPTION:蔚来 | 蔚来AGI超星计划-面向销售的Agentic强化学
  习薪资约500元/天，最终以招聘同学口径为准。官方结果
  待通知；详细复盘见knowledge_path/review.md。
 LOCATION:https://nio.feishu.cn/hire/short_url/_quOK80O4AA
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-118@autumn-recruitment
@@ -2425,7 +2427,7 @@ DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 开放
  日程按邀请估时40–50分钟的上限预留50分钟，不作为实
  际作答时长证明。
 LOCATION:https://t.zijieimg.com/GilEV7Mcbdk/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-132-deadline@autumn-recruitment
@@ -2452,7 +2454,7 @@ DESCRIPTION:默认部门 | AI算法工程师（大模型方向） | 截止
  独复盘内容。\n\n2026-10-05 数据整备：原日程按邀请估时40
  –50分钟的上限预留50分钟，不作为实际作答时长证明。
 LOCATION:https://t.zijieimg.com/GilEV7Mcbdk/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-136@autumn-recruitment
@@ -4322,17 +4324,14 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
  用有前置摄像头的设备，提前准备笔和纸演算。\n严禁截
  图、录屏或第三方协助；逾期未完成视为自动放弃。\n当
  前仅记录邀请和本人作答计划，未访问开始测评链接，
- 未启动或代做测评。完成情况待用户确认。
+ 未启动或代做测评。完成情况待用户确认。\n\n2026-10-19 
+ 用户明确确认本次地平线人才测评已完成，结果记为已
+ 完成；实际作答时间、成绩与是否通过均未提供，保留
+ 原作答计划及时间依据，不据此改为录用。
 LOCATION:https://dipingxian.ceping.com/Login/Elink?elink=A5fd2BWUa/KIV4I78U
  mkg3CbaMzxcChina253VG7f1t6QjKSy9CbaMzxcChina257ReoFCUaIWRTlqM4MO1TqwKAQA&l
  ocale=1
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:笔试 · 地平线 · 【2027届校招】多模态大模型算
- 法工程师-预研
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-210@autumn-recruitment
@@ -4558,16 +4557,13 @@ DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
  于1995年，是一家专业的互联网金融数据服务商，2009年在
  深圳创业板上市，目前有员工4000余人，总部位于杭州。
  公司具有行业最为齐全的产品线，在国内证券交易系统
- 市场占有率高达90%。
+ 市场占有率高达90%。\n\n2026-10-19 用户明确确认本场三面
+ 已参加并完成，结果记为已完成；未提供通过/未通过结
+ 论或复盘材料。确认日期不作为实际面试起止时间。
 LOCATION:同顺会议（视频面试，推荐Chrome）：https://job.10jqka
  .com.cn/#/meeting?auditionId=11049262&code=dba941bbf393c1f3fc447cdcd82e8fb
  a
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 同花顺 · 多模态大模型算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-214@autumn-recruitment
@@ -4596,14 +4592,27 @@ DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
  或邮箱及时沟通；系统邮件由企业操作、Moka系统代发，
  请勿直接回复。\n邮件未给出收件时间及接受/拒绝按钮
  的实际链接。保留10月13日已完成面试原记录，不据本次
- 邀约补填前轮单场官方通过结论。
+ 邀约补填前轮单场官方通过结论。\n\n2026-10-19 用户明确
+ 确认本场二面已参加并完成，结果记为已完成；未提供
+ 通过/未通过结论或复盘材料。确认日期不作为实际面试
+ 起止时间。\n\n2026-10-19 用户补充原岗位二面转写，关联20
+ 26-10-16 15:00的event214。确认已实际完成，维持已完成状态
+ ；本轮没有官方通过/未通过或下一轮安排，不改变投递
+ 状态。\n可见正式交流为录音相对时间03:07–51:57，约48分
+ 50秒，不当作实际北京时间，也不覆盖原邀请预计30分钟
+ 。\n内容：Agent评测与next-action RL、本人贡献、分阶段rewar
+ d、真实工具环境与多步限制、Caption双奖励/动态query采样
+ /分块工程取舍。复盘保留实际实现与待验证建议的区别
+ 。\n新增岗位信息来自面试官：通用办公Agent，工具优化
+ 、上下文与compact、线上数据回流优化模型；API/MCP和GUI/Co
+ mputer Use互补，MCP生态共建与Computer Use研发。优先级和组
+ 织平级仅为面试官口述，不作为正式组织架构事实。\n原
+ 始转写逐字节存档：data/knowledge/中国电信-【2027校招】策
+ 略工程师/transcript-二面-2026-10-16.txt；SHA-256：74eda02ae46dcf47
+ 29fee414e4518af068d4ccfd57c0d43c9ed2958ce7bd74ec。\n复盘：data/knowled
+ ge/中国电信-【2027校招】策略工程师/review.md。
 LOCATION:https://meeting.tencent.com/dm/kWM7yl0NYd2V
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 中国电信 · 【2027校招】策略工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-209@autumn-recruitment
@@ -4642,14 +4651,92 @@ DESCRIPTION:默认部门 | 研发工程师 - 工程/算法/模型（27校
   用户纠正：本小马智行投递不是人才计划，旧人才计划
  归属为录入错误。按官方邀约职位“研发工程师 - 工程/
  算法/模型（27校招）”更正，同一投递与面试流程继续
- 使用原ID，不据此调整轮次、结果或团队匹配结论。
+ 使用原ID，不据此调整轮次、结果或团队匹配结论。\n\n20
+ 26-10-19 用户提供实际面试转写，并明确确认这是今天15:00
+ 的小马智行二面，原岗位研发工程师 - 工程/算法/模型（
+ 27校招），不属于人才计划。已实际参加并完成，result记
+ 为已完成，正式结果待通知；不据本次完成推断前轮官
+ 方结论。\n正向反馈：31:03面试官在coding后称基本没啥问
+ 题，34:20进一步称coding写完基本上二面就没啥问题了。仅
+ 记录积极口头反馈，不当成正式通过、录用或下一轮邀
+ 约。\n正式交流可见录音03:32–34:20，约31分钟；这是相对
+ 录音时间，不作为实际北京时间，不覆盖原邀请未知时
+ 长。编程环节可见20:58–31:03，缺完整题面、代码和运行
+ 结果，不写具体题号或测试全过。\n项目讨论：Agent端到
+ 端/静态评测、next-action RL及参数正确率收益、多解GT、mem
+ ory过期/错误召回、Judge人评一致性、并行工具调用的匈
+ 牙利匹配边界。Memory与多解静态标签为本轮复盘重点。\n
+ 流程信息：一二面主要coding；三四面结合项目、适合部
+ 门及个人兴趣再做团队匹配；最终部门和具体职责仍未
+ 确认。\n原始转写逐字节存档：data/knowledge/小马智行-研
+ 发工程师 - 工程-算法-模型（27校招）/transcript-二面-2026-1
+ 0-19.txt；SHA-256：84443c053600a4358bb6c9c3593d91cd647efd08d5455706d3ea5
+ ea5663d5c1a。\n复盘：data/knowledge/小马智行-研发工程师 - 工
+ 程-算法-模型（27校招）/review.md；event_id=209。
 LOCATION:https://ponyai.feishu.cn/hire/short_url/5dORRUTr4_w
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-216@autumn-recruitment
+DTSTAMP:20261019T033603Z
+DTSTART:20261020T110000Z
+DTEND:20261020T120000Z
+SUMMARY:三面 · 快手 · 大模型应用算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:快手 | 大模型应用算法工程师 | 固定场次 · 2026-
+ 10-20 19:00 · 时长待确认 | 时长未确认，日历暂占 60 分钟 
+ | 用户确认这是独立于「多模态大模型算法工程师」的新
+ 岗位。意向地点：杭州、北京；招聘类型：全职；项目
+ ：2027应届生；投递时间：2026-09-16。官网当前进度：面试
+ 。具体岗位职责待确认。\n2026-09-28一面得知：团队做AIGC
+ 智能创作Agent；包括数字人直播场控、营销视频生成的Ski
+ ll/工具编排、SFT/RL、Rubric评测及training-free探索。直播场
+ 控约3秒轮询，关注转化 | 用户确认：原「大模型应用算
+ 法工程师」三面，关联application_id=151。此前一面event191（
+ 2026-09-28）、二面event201（2026-10-12）均已参加；不与已结
+ 束的快Star旧岗位合并。\n北京时间2026-10-20（周二）19:00
+ ，建议18:50进入视频链接调试。邮件未给面试时长，durati
+ on_minutes保持未知；日历仅按配置暂占60分钟，不代表官
+ 方结束时间。\n本次仅记录邀约；参会确认状态待本人确
+ 认，未访问或点击接受/拒绝入口。没有据新邀约更改此
+ 前面试的官方结果。\n\n用户提供的邮件正文与链接：\n
+ 唐治江 你好，\n非常开心你和我们的职位匹配，快手诚
+ 邀你参加大模型应用算法工程师职位的面试。\n【面试信
+ 息】\n面试形式：视频面试\n面试时间：2026-10-20 19:00(GMT+0
+ 8:00)\n面试链接：https://viewcoder.qingque.cn/i/vgc-kkcw-hvf\n【视
+ 频面试重要注意事项】\n1、请使用Chrome最新版浏览器及
+ 带有摄像头及麦克风的电脑；\n2、为保证面试顺利进行
+ ，推荐使用电脑进行面试，请务必提前进入测试页面进
+ 行设备调试，如更换网络环境，请重新测试：https://viewco
+ der.qingque.cn/i/vgc-kkcw-hvf；\n3、开始前请关闭所有的下载软
+ 件，确保网络速度流畅（100KB/S以上），为避免网络限制
+ 影响面试过程，不建议使用企业内网或 VPN 参与面试（部
+ 分企业防火墙策略可能导致面试无法正常进行）；\n4、
+ 请在面试开始前10分钟登录页面进行面试准备，确认摄像
+ 头、麦克风或扬声器是否可用；\n5、为了让我们了解真
+ 实的你，请勿使用辅助面试软件，并且在必要时面试官
+ 会通过多种方式进行查验，一经发现即取消应聘资格，
+ 永不录用；\n【温馨提示】\n如需修改面试时间，请提前1
+ 天与HR联系，HR：邱HR qiuyuyang05@kuaishou.com 19503882536\n如等
+ 待超过约定时间5分钟，请与HR联系。\n面试过程中，面试
+ 官可能通过手机、电脑查看你的简历，记录你回答的要
+ 点。\n面试结束后，你将收到【快手面试体验问卷】（以
+ 短信和邮件形式发送），欢迎填写；问卷的发放与填写
+ 不会影响你的面试结果。\n若有其他面试体验相关建议也
+ 可发送邮件至 campus@kuaishou.com。\n点击确认是否参加面试
+ ：https://campus.kuaishou.cn/recruit/campus/e/interview.html?code=75f3c07
+ 7-a0f2-4d71-ac33-175273daacd6\n快速、全面了解快手与未来广阔
+ 发展空间：https://zhaopin.kuaishou.cn/recruit/e/#/official/external/e
+ mployer-branding?type=campus\n快手招聘二维码图片：https://static
+ .yximgs.com/udata/pkg/zhaopin-waibu/kuaishouzhaopin-QR.png\n扫码关注
+ 【快手招聘】获取一手情报，解锁真实的快手职场。\n校
+ 招官网：https://campus.kuaishou.cn/\n快手人力资源部
+LOCATION:https://viewcoder.qingque.cn/i/vgc-kkcw-hvf
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:二面 · 小马智行 · 研发工程师 - 工程/算法/模
- 型（27校招）
+DESCRIPTION:三面 · 快手 · 大模型应用算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -4696,22 +4783,6 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:二面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大
  语言模型）（校招）
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:strategy-103-reply_by@autumn-recruitment
-DTSTAMP:20261008T160000Z
-DTSTART:20261012T090700Z
-DTEND:20261012T092200Z
-SUMMARY:Offer答复期限 · 联想集团 · Agent算法研究员
-TRANSP:OPAQUE
-DESCRIPTION:联想研究院 AI Lab | Agent算法研究员 | 固定场次 ·
-  2026-10-12 17:07 · 15 分钟 | 详情见本地收入与跟进记录
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Offer答复期限 · 联想集团 · Agent算法研究员
 END:VALARM
 END:VEVENT
 END:VCALENDAR
