@@ -4785,4 +4785,28 @@ DESCRIPTION:二面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大
  语言模型）（校招）
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-225@autumn-recruitment
+DTSTAMP:20261019T091701Z
+DTSTART:20261022T070000Z
+DTEND:20261022T080000Z
+SUMMARY:一面 · 智元机器人 · 优才-具身算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
+ 026-10-22 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分
+ 钟 | 智元创新（上海）科技股份有限公司「优才-具身算
+ 法研究员」视频面试；通知未写轮次，暂按一面，轮次
+ 待确认。考察内容：通用型业务问题、过往项目经历、
+ 价值观与软性技能。HR：金小琪，+8618800298801；改期须提
+ 前 1 天联系；提前 10 分钟调试麦克风和摄像头；超过约
+ 定时间 5 分钟面试官未上线时联系 HR。\n面试链接：https:
+ //agirobot.feishu.cn/hire/short_url/CMYG8IQ63Zk
+LOCATION:https://agirobot.feishu.cn/hire/short_url/CMYG8IQ63Zk
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 智元机器人 · 优才-具身算法研究员
+END:VALARM
+END:VEVENT
 END:VCALENDAR
