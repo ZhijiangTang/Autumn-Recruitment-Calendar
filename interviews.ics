@@ -2502,21 +2502,27 @@ UID:event-119@autumn-recruitment
 DTSTAMP:20260824T105135Z
 DTSTART:20260831T061500Z
 DTEND:20260831T065900Z
-SUMMARY:一面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+SUMMARY:一面 · 深信服 · 深信服校招-AI工程师（X-STAR人才
+ 专项计划）
 TRANSP:OPAQUE
-DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
- 场次 · 2026-08-31 14:15 · 44 分钟 | 深信服科技27届[X-STAR]顶
- 尖人才计划；已进入线上单人面试环节。具体技术岗位
- 与业务部门待补充。 | 2026-08-31 深信服 X-STAR 一面已完成
- ，实际交流约 44 分钟。流程：PPT 自我介绍；深挖 CCCaptio
- n 的 reward hacking、动态 query 采样、factuality reward、实验闭
- 环与个人贡献；深挖千问 Agent 评测、数据筛选、课程式 
- reward、SFT/RL 数据及能力回归；追问 PPO、GRPO、DAPO、GSPO、
- 全模态、异步 RL 和 OPD；最后一道题只判断数据结构，回
- 答栈正确，无完整手撕。团队为校招统一分配，面试官
- 所在组做安全大模型、前后护栏、Agent 工具/记忆安全及
- 后训练。详细复盘：data/knowledge/深信服-[X-STAR]顶尖人才
- 计划（本-硕）/review.md
+DESCRIPTION:研发体系 | 深信服校招-AI工程师（X-STAR人才专项
+ 计划） | 固定场次 · 2026-08-31 14:15 · 44 分钟 | 深信服科
+ 技27届[X-STAR]顶尖人才计划；已进入线上单人面试环节。
+ 具体技术岗位与业务部门待补充。\n\n【录用意向书更新
+ （2026-10-20核验）】\n落款2026-10-19的《X-STAR录用意向书》
+ 确认通过所有轮次面试；官方职位：深信服校招-AI工程
+ 师；所属单位：深信服科技；入职部门：研发体系；项
+ 目：X-STAR人才专项计划。工作城市候选为深圳、北京、
+ 长沙、成都，正式OFFER时确认；“80 | 2026-08-31 深信服 X-ST
+ AR 一面已完成，实际交流约 44 分钟。流程：PPT 自我介绍
+ ；深挖 CCCaption 的 reward hacking、动态 query 采样、factuality 
+ reward、实验闭环与个人贡献；深挖千问 Agent 评测、数据
+ 筛选、课程式 reward、SFT/RL 数据及能力回归；追问 PPO、GR
+ PO、DAPO、GSPO、全模态、异步 RL 和 OPD；最后一道题只判
+ 断数据结构，回答栈正确，无完整手撕。团队为校招统
+ 一分配，面试官所在组做安全大模型、前后护栏、Agent 
+ 工具/记忆安全及后训练。详细复盘：data/knowledge/深信服-
+ [X-STAR]顶尖人才计划（本-硕）/review.md
 LOCATION:线上单人面试（正式面试通知链接待邮件补充）
 STATUS:CONFIRMED
 END:VEVENT
@@ -3291,24 +3297,31 @@ UID:event-155@autumn-recruitment
 DTSTAMP:20260907T051535Z
 DTSTART:20260911T070000Z
 DTEND:20260911T073300Z
-SUMMARY:二面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+SUMMARY:二面 · 深信服 · 深信服校招-AI工程师（X-STAR人才
+ 专项计划）
 TRANSP:OPAQUE
-DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
- 场次 · 2026-09-11 15:00 · 33 分钟 | 深信服科技27届[X-STAR]顶
- 尖人才计划；已进入线上单人面试环节。具体技术岗位
- 与业务部门待补充。 | 深信服 27届 [X-STAR] 顶尖人才计划
- （本/硕）正式二面邀请。联系人：徐润，xurun@sangfor.com.c
- n。请提前 5 分钟使用电脑测试设备并进入会议；预约成
- 功后不可修改；如放弃则后续不再安排。\n\n——面试复
- 盘（2026-09-11）——\n深信服 X-STAR 二面已完成，实际有效
- 交流约 33 分钟；共享 9 页 PPT，无 Coding。重点讨论阿里
- 生活服务 Agent 评测与 next-action RL、Shopee 多模态 reasoning 
- 后训练、CCCaption 动态 query/双奖励，以及 ECG Benchmark 的 FF
- D 与 PSSM。面试官评价研究成果较好，并介绍 AI Lab 主要
- 为安全、私有云及 AI 原生业务赋能。主要改进项：项目
- 回答需压缩、关键指标补全口径、Judge 稳定性方案、FFD 
- 分布级定义与 PSSM 架构细节。详细复盘：data/knowledge/深
- 信服-[X-STAR]顶尖人才计划（本-硕）/review.md。
+DESCRIPTION:研发体系 | 深信服校招-AI工程师（X-STAR人才专项
+ 计划） | 固定场次 · 2026-09-11 15:00 · 33 分钟 | 深信服科
+ 技27届[X-STAR]顶尖人才计划；已进入线上单人面试环节。
+ 具体技术岗位与业务部门待补充。\n\n【录用意向书更新
+ （2026-10-20核验）】\n落款2026-10-19的《X-STAR录用意向书》
+ 确认通过所有轮次面试；官方职位：深信服校招-AI工程
+ 师；所属单位：深信服科技；入职部门：研发体系；项
+ 目：X-STAR人才专项计划。工作城市候选为深圳、北京、
+ 长沙、成都，正式OFFER时确认；“80 | 深信服 27届 [X-STAR] 
+ 顶尖人才计划（本/硕）正式二面邀请。联系人：徐润，x
+ urun@sangfor.com.cn。请提前 5 分钟使用电脑测试设备并进入
+ 会议；预约成功后不可修改；如放弃则后续不再安排。\n
+ \n——面试复盘（2026-09-11）——\n深信服 X-STAR 二面已完
+ 成，实际有效交流约 33 分钟；共享 9 页 PPT，无 Coding。
+ 重点讨论阿里生活服务 Agent 评测与 next-action RL、Shopee 多
+ 模态 reasoning 后训练、CCCaption 动态 query/双奖励，以及 ECG
+  Benchmark 的 FFD 与 PSSM。面试官评价研究成果较好，并介
+ 绍 AI Lab 主要为安全、私有云及 AI 原生业务赋能。主要
+ 改进项：项目回答需压缩、关键指标补全口径、Judge 稳
+ 定性方案、FFD 分布级定义与 PSSM 架构细节。详细复盘：d
+ ata/knowledge/深信服-[X-STAR]顶尖人才计划（本-硕）/review.md
+ 。
 LOCATION:腾讯会议：https://meeting.tencent.com/dm/y0G85yjIUyuX（会
  议号：289928474）
 STATUS:CONFIRMED
@@ -3498,21 +3511,28 @@ UID:event-176@autumn-recruitment
 DTSTAMP:20260914T132455Z
 DTSTART:20260916T100000Z
 DTEND:20260916T110000Z
-SUMMARY:三面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+SUMMARY:三面 · 深信服 · 深信服校招-AI工程师（X-STAR人才
+ 专项计划）
 TRANSP:OPAQUE
-DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
- 场次 · 2026-09-16 18:00 · 时长待确认 | 时长未确认，日历
- 暂占 60 分钟 | 深信服科技27届[X-STAR]顶尖人才计划；已进
- 入线上单人面试环节。具体技术岗位与业务部门待补充
- 。 | 深信服27届[X-STAR]顶尖人才计划（本/硕）线下一站式
- 面试；当天完成后续全部面试环节。官方未注明结束时
- 间，建议预留整个晚上。请携带2份纸质简历。联系人：
- 杨天敏，13263960581（有事提前短信告知）。参加确认：htt
- ps://app.mokahr.com/interviewer-status?attendStatus=4&access_token=8f920a6
- 03bb649dbb106610fedead33b6cb9f1a9ef9b4c029a80b34bb7a66adf&businessUnitId=0
- &orgId=sangfor；如需放弃或改期，请使用原邮件对应链接。
- \n\n完成状态（2026-09-18）：用户确认已参加并完成本场三
- 面，不需要复盘；官方流程结果尚未确认。
+DESCRIPTION:研发体系 | 深信服校招-AI工程师（X-STAR人才专项
+ 计划） | 固定场次 · 2026-09-16 18:00 · 时长待确认 | 时长
+ 未确认，日历暂占 60 分钟 | 深信服科技27届[X-STAR]顶尖人
+ 才计划；已进入线上单人面试环节。具体技术岗位与业
+ 务部门待补充。\n\n【录用意向书更新（2026-10-20核验）】
+ \n落款2026-10-19的《X-STAR录用意向书》确认通过所有轮次
+ 面试；官方职位：深信服校招-AI工程师；所属单位：深
+ 信服科技；入职部门：研发体系；项目：X-STAR人才专项
+ 计划。工作城市候选为深圳、北京、长沙、成都，正式OF
+ FER时确认；“80 | 深信服27届[X-STAR]顶尖人才计划（本/硕
+ ）线下一站式面试；当天完成后续全部面试环节。官方
+ 未注明结束时间，建议预留整个晚上。请携带2份纸质简
+ 历。联系人：杨天敏，13263960581（有事提前短信告知）。
+ 参加确认：https://app.mokahr.com/interviewer-status?attendStatus=4&ac
+ cess_token=8f920a603bb649dbb106610fedead33b6cb9f1a9ef9b4c029a80b34bb7a66ad
+ f&businessUnitId=0&orgId=sangfor；如需放弃或改期，请使用原邮
+ 件对应链接。\n\n完成状态（2026-09-18）：用户确认已参加
+ 并完成本场三面，不需要复盘；官方流程结果尚未确认
+ 。
 LOCATION:浙江省杭州市拱墅区大关路167号远洋国际中心C座27
  楼
 STATUS:CONFIRMED
@@ -3522,23 +3542,29 @@ UID:event-184@autumn-recruitment
 DTSTAMP:20260917T024158Z
 DTSTART:20260917T030000Z
 DTEND:20260917T032000Z
-SUMMARY:HR面 · 深信服 · [X-STAR]顶尖人才计划（本/硕）
+SUMMARY:HR面 · 深信服 · 深信服校招-AI工程师（X-STAR人才专
+ 项计划）
 TRANSP:OPAQUE
-DESCRIPTION:默认部门 | [X-STAR]顶尖人才计划（本/硕） | 固定
- 场次 · 2026-09-17 11:00 · 20 分钟 | 深信服科技27届[X-STAR]顶
- 尖人才计划；已进入线上单人面试环节。具体技术岗位
- 与业务部门待补充。 | 2026-09-17 深信服集团 27届 [X-STAR] 
- 顶尖人才计划（本/硕）后续面试；邀请未注明轮次，实
- 际内容为 HR / 综合面。用户已确认并参加。\n腾讯会议号
- ：708823396。联系人：杨天敏，yangtianmin@sangfor.com.cn。\n实
- 际交流约 20 分钟，无技术或 Coding 考察；重点确认核心
- 能力、坚持案例、个性、竞争 Offer、阿里转正进度和薪
- 资预期。面试官详细介绍 AI 安全、AI 云基础设施与 AI 原
- 生业务，并表示前序面试表现不错、候选人“99.9% 没问
- 题”。该表述记为本轮强口头通过信号，不等同于正式
- 意向或 Offer。\n招聘同事后续推进；意向预计 9 月底前明
- 确，薪资沟通可能在 10 月。详细复盘见 knowledge_path/review
- .md。
+DESCRIPTION:研发体系 | 深信服校招-AI工程师（X-STAR人才专项
+ 计划） | 固定场次 · 2026-09-17 11:00 · 20 分钟 | 深信服科
+ 技27届[X-STAR]顶尖人才计划；已进入线上单人面试环节。
+ 具体技术岗位与业务部门待补充。\n\n【录用意向书更新
+ （2026-10-20核验）】\n落款2026-10-19的《X-STAR录用意向书》
+ 确认通过所有轮次面试；官方职位：深信服校招-AI工程
+ 师；所属单位：深信服科技；入职部门：研发体系；项
+ 目：X-STAR人才专项计划。工作城市候选为深圳、北京、
+ 长沙、成都，正式OFFER时确认；“80 | 2026-09-17 深信服集
+ 团 27届 [X-STAR] 顶尖人才计划（本/硕）后续面试；邀请未
+ 注明轮次，实际内容为 HR / 综合面。用户已确认并参加
+ 。\n腾讯会议号：708823396。联系人：杨天敏，yangtianmin@san
+ gfor.com.cn。\n实际交流约 20 分钟，无技术或 Coding 考察；
+ 重点确认核心能力、坚持案例、个性、竞争 Offer、阿里
+ 转正进度和薪资预期。面试官详细介绍 AI 安全、AI 云基
+ 础设施与 AI 原生业务，并表示前序面试表现不错、候选
+ 人“99.9% 没问题”。该表述记为本轮强口头通过信号，
+ 不等同于正式意向或 Offer。\n招聘同事后续推进；意向预
+ 计 9 月底前明确，薪资沟通可能在 10 月。详细复盘见 kno
+ wledge_path/review.md。
 LOCATION:https://meeting.tencent.com/dm/blKH2Je8EU6p
 STATUS:CONFIRMED
 END:VEVENT
@@ -4675,6 +4701,40 @@ DESCRIPTION:默认部门 | 研发工程师 - 工程/算法/模型（27校
  程-算法-模型（27校招）/review.md；event_id=209。
 LOCATION:https://ponyai.feishu.cn/hire/short_url/5dORRUTr4_w
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-227@autumn-recruitment
+DTSTAMP:20261020T024257Z
+DTSTART:20261020T070000Z
+DTEND:20261020T080000Z
+SUMMARY:一面 · 字节跳动 · 多模态算法工程师 - 火山引擎
+TRANSP:OPAQUE
+DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
+ 场次 · 2026-10-20 15:00 · 时长待确认 | 时长未确认，日历
+ 暂占 60 分钟 | 职位 ID：A05866A。项目：2027届校园招聘；
+ 校招-正式；研发-算法。工作地点：北京、上海。\n官方
+ 发布时间：2026-09-22 19:07（北京时间）。\n\n【官方职位描
+ 述】\n团队介绍：火山引擎是字节跳动旗下云和AI服务平
+ 台，将字节跳动快速发展过程中积累的增长方法、技术
+ 能力和应用工具开放给外部企业，通过云和AI技术，推进
+ 企业智能化转型，激发增长潜能。\n\n1、负责AIGC视频Agent
+ 方向的 | 2026-10-20用户确认：昨天新投递的火山引擎岗位
+ 一面（职位A05866A），北京时间2026-10-20 15:00，视频面试。
+ 官方未注明时长，日历暂占60分钟，不代表实际结束时间
+ 。可使用Chrome/360网页版或最新版飞书进入，提前10分钟
+ 测试摄像头、麦克风和扬声器；超过约定时间10分钟面试
+ 官仍未上线时可联系HR郭启峰，联系方式已存入本岗位私
+ 有邀约记录。邮件要求独立完成面试，不得使用AI、搜索
+ 引擎、外部代码工具或他人辅助作答。当前仅记录邀约
+ ，未代为确认参加或进入会议。
+LOCATION:https://t.zijieimg.com/lUxoB4br5nw/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 字节跳动 · 多模态算法工程师 - 火山引
+ 擎
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-216@autumn-recruitment
