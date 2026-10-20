@@ -4726,15 +4726,22 @@ DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
  官仍未上线时可联系HR郭启峰，联系方式已存入本岗位私
  有邀约记录。邮件要求独立完成面试，不得使用AI、搜索
  引擎、外部代码工具或他人辅助作答。当前仅记录邀约
- ，未代为确认参加或进入会议。
+ ，未代为确认参加或进入会议。\n\n2026-10-20用户提供当天
+ 下午字节面试转写，内容与本岗位火山引擎一面邀约及
+ 面试官自述相符，确认已实际参加并完成；正式结果待
+ 通知，不推断通过或下一轮邀约。录音主要交流约04:39–
+ 57:24，含网络与会议室中断，相对录音时长不作为实际北
+ 京时间或官方时长，duration_minutes继续留空。编程采用双
+ 二分查找开始与结束位置的思路，缺题面、代码、测试
+ 及明确正确评价，不记AC。面试确认团队为火山引擎AI应
+ 用产品，做ToB影视/短剧创作Agent及workflow，主要优化prompt
+ /tool/skill、评测、知识库与执行系统，不太训练模型；具
+ 体个人模块未定。项目复盘重点为长视频结构代理与因
+ 果的边界、完整框架与单分支数字口径、Judge独立验收、
+ 文本优化的编辑预算及闭源无权重时的系统迭代。原始
+ 转写与完整复盘存本岗位knowledge目录，event_id=227。
 LOCATION:https://t.zijieimg.com/lUxoB4br5nw/
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 字节跳动 · 多模态算法工程师 - 火山引
- 擎
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-216@autumn-recruitment
