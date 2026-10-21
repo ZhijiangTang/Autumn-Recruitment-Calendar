@@ -263,6 +263,33 @@ LOCATION:https://talent.lenovo.com.cn/account/offer?token=c0d7e5af200146188
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:event-231@autumn-recruitment
+DTSTAMP:20261020T130247Z
+DTSTART:20261030T080000Z
+DTEND:20261030T080100Z
+SUMMARY:截止 · AI测评 · 同花顺 · 多模态大模型算法工程
+ 师
+TRANSP:TRANSPARENT
+DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
+ 师 | 截止 2026-10-30 16:00 · 尚未安排作答时段 · 作答 10 分
+ 钟 · 最迟开始 2026-10-30 15:50（未留调试缓冲） | 同花顺HR
+ 面前MBTI性格测试，要求电脑操作，HR预计5–10分钟，日
+ 程按上限保留10分钟，并非精确限时。\n须在2026-10-30 16:00
+ 的HR面之前完成，留出设备调试时间；尚未安排具体作答
+ 时段，尚未确认完成。\nHR未提供独立链接失效时间，dead
+ line_at仅表达面试前完成要求，不表示系统在该时刻关闭
+ 。\n关联同岗位HR面。通知及入口：data/knowledge/同花顺-多
+ 模态大模型算法工程师/hr-interview-invitation-2026-10-30.md。
+LOCATION:https://job.10jqka.com.cn/#/character?id=123687
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT40M
+ACTION:DISPLAY
+DESCRIPTION:截止 · AI测评 · 同花顺 · 多模态大模型算法工
+ 程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-36@autumn-recruitment
 DTSTAMP:20260714T070216Z
 DTSTART:20260715T070000Z
@@ -4758,52 +4785,53 @@ DESCRIPTION:快手 | 大模型应用算法工程师 | 固定场次 · 2026-
  。具体岗位职责待确认。\n2026-09-28一面得知：团队做AIGC
  智能创作Agent；包括数字人直播场控、营销视频生成的Ski
  ll/工具编排、SFT/RL、Rubric评测及training-free探索。直播场
- 控约3秒轮询，关注转化 | 用户确认：原「大模型应用算
- 法工程师」三面，关联application_id=151。此前一面event191（
- 2026-09-28）、二面event201（2026-10-12）均已参加；不与已结
- 束的快Star旧岗位合并。\n北京时间2026-10-20（周二）19:00
- ，建议18:50进入视频链接调试。邮件未给面试时长，durati
- on_minutes保持未知；日历仅按配置暂占60分钟，不代表官
- 方结束时间。\n本次仅记录邀约；参会确认状态待本人确
- 认，未访问或点击接受/拒绝入口。没有据新邀约更改此
- 前面试的官方结果。\n\n用户提供的邮件正文与链接：\n
- 唐治江 你好，\n非常开心你和我们的职位匹配，快手诚
- 邀你参加大模型应用算法工程师职位的面试。\n【面试信
- 息】\n面试形式：视频面试\n面试时间：2026-10-20 19:00(GMT+0
- 8:00)\n面试链接：https://viewcoder.qingque.cn/i/vgc-kkcw-hvf\n【视
- 频面试重要注意事项】\n1、请使用Chrome最新版浏览器及
- 带有摄像头及麦克风的电脑；\n2、为保证面试顺利进行
- ，推荐使用电脑进行面试，请务必提前进入测试页面进
- 行设备调试，如更换网络环境，请重新测试：https://viewco
- der.qingque.cn/i/vgc-kkcw-hvf；\n3、开始前请关闭所有的下载软
- 件，确保网络速度流畅（100KB/S以上），为避免网络限制
- 影响面试过程，不建议使用企业内网或 VPN 参与面试（部
- 分企业防火墙策略可能导致面试无法正常进行）；\n4、
- 请在面试开始前10分钟登录页面进行面试准备，确认摄像
- 头、麦克风或扬声器是否可用；\n5、为了让我们了解真
- 实的你，请勿使用辅助面试软件，并且在必要时面试官
- 会通过多种方式进行查验，一经发现即取消应聘资格，
- 永不录用；\n【温馨提示】\n如需修改面试时间，请提前1
- 天与HR联系，HR：邱HR qiuyuyang05@kuaishou.com 19503882536\n如等
- 待超过约定时间5分钟，请与HR联系。\n面试过程中，面试
- 官可能通过手机、电脑查看你的简历，记录你回答的要
- 点。\n面试结束后，你将收到【快手面试体验问卷】（以
- 短信和邮件形式发送），欢迎填写；问卷的发放与填写
- 不会影响你的面试结果。\n若有其他面试体验相关建议也
- 可发送邮件至 campus@kuaishou.com。\n点击确认是否参加面试
- ：https://campus.kuaishou.cn/recruit/campus/e/interview.html?code=75f3c07
- 7-a0f2-4d71-ac33-175273daacd6\n快速、全面了解快手与未来广阔
- 发展空间：https://zhaopin.kuaishou.cn/recruit/e/#/official/external/e
- mployer-branding?type=campus\n快手招聘二维码图片：https://static
- .yximgs.com/udata/pkg/zhaopin-waibu/kuaishouzhaopin-QR.png\n扫码关注
- 【快手招聘】获取一手情报，解锁真实的快手职场。\n校
- 招官网：https://campus.kuaishou.cn/\n快手人力资源部
+ 控约3秒轮询，关注转化 | 快手「大模型应用算法工程师
+ 」原岗位三面，北京时间2026-10-20 19:00。已参加并完成，
+ 官方结果待通知。官方时长未注明，日历按配置暂占60分
+ 钟，不代表实际结束时刻。邀约、HR联系方式及完整复盘
+ 保存于本岗位私有材料：data/knowledge/快手-大模型应用算
+ 法工程师/。
 LOCATION:https://viewcoder.qingque.cn/i/vgc-kkcw-hvf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:event-232@autumn-recruitment
+DTSTAMP:20261021T030701Z
+DTSTART:20261021T040000Z
+DTEND:20261021T050000Z
+SUMMARY:二面 · 字节跳动 · 多模态算法工程师 - 火山引擎
+TRANSP:OPAQUE
+DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
+ 场次 · 2026-10-21 12:00 · 时长待确认 | 时长未确认，日历
+ 暂占 60 分钟 | 职位 ID：A05866A。项目：2027届校园招聘；
+ 校招-正式；研发-算法。工作地点：北京、上海。\n官方
+ 发布时间：2026-09-22 19:07（北京时间）。\n\n【官方职位描
+ 述】\n团队介绍：火山引擎是字节跳动旗下云和AI服务平
+ 台，将字节跳动快速发展过程中积累的增长方法、技术
+ 能力和应用工具开放给外部企业，通过云和AI技术，推进
+ 企业智能化转型，激发增长潜能。\n\n1、负责AIGC视频Agent
+ 方向的 | 2026-10-21用户提供字节跳动「多模态算法工程师 
+ - 火山引擎」视频面试邀请，并明确确认是原岗位二面，
+ 关联app153、职位A05866A。固定北京时间2026-10-21 12:00，视频
+ 面试；官方未给时长，duration_minutes留空，日历暂占60分
+ 钟不代表实际结束时间。建议11:50提前10分钟测试摄像头
+ 、麦克风和扬声器，使用稳定网络并连接电源；可使用Ch
+ rome/360网页版或最新版飞书。超过约定时间10分钟面试官
+ 未上线可联系HR郭启峰，联系方式见本岗位私有邀约材料
+ 。邮件要求独立完成面试，不得使用AI、搜索引擎、外部
+ 代码工具或他人辅助作答；未代为确认参加、联系HR、验
+ 证身份或进入会议。原一面event227（10月20日15:00）已完成
+ ，本次为新增二面，不改写其时间与结果。当天另有B站1
+ 4:00面试，按60分钟暂占核验无冲突，实际时长仍未知。
+ 详细来源：data/knowledge/字节跳动-多模态算法工程师 - 火
+ 山引擎/invite-二面-2026-10-21.md。
+LOCATION:https://t.zijieimg.com/cyEbi2nkd5U/
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:三面 · 快手 · 大模型应用算法工程师
+DESCRIPTION:二面 · 字节跳动 · 多模态算法工程师 - 火山引
+ 擎
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -4874,6 +4902,33 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:一面 · 智元机器人 · 优才-具身算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-230@autumn-recruitment
+DTSTAMP:20261020T130247Z
+DTSTART:20261030T080000Z
+DTEND:20261030T090000Z
+SUMMARY:HR面 · 同花顺 · 多模态大模型算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
+ 师 | 固定场次 · 2026-10-30 16:00 · 60 分钟 | 原多模态大模
+ 型算法工程师岗位HR面，北京时间2026-10-30周五16:00，同顺
+ 会议视频，预计1小时，暂预留至17:00。\nHR联系方式见私
+ 有邀约材料。推荐电脑Chrome参加。会议ID尚未提供，邮件
+ 称会前约5分钟发至邮箱；手机端请留意提前3–5分钟的
+ 通知/短信。\n须在本场HR面前用电脑完成性格测试，HR预
+ 计5–10分钟，另建AI测评待办，未确认完成。\n通知及入
+ 口：data/knowledge/同花顺-多模态大模型算法工程师/hr-interv
+ iew-invitation-2026-10-30.md。\n仅记录邀请，未进入面试或代
+ 为确认参加。
+LOCATION:https://job.10jqka.com.cn/#/meeting?auditionId=11050796&code=ebc16
+ aab0e1d70699c219d14ff8da2f8&address=cn
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:HR面 · 同花顺 · 多模态大模型算法工程师
 END:VALARM
 END:VEVENT
 END:VCALENDAR
