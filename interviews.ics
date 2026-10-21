@@ -4872,16 +4872,13 @@ DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
  未访问面试室、未代为联系HR。\n改期记录（2026-10-21）：
  用户提供更新邀请并确认“时间更新了”，原14:00调整为
  14:30（北京时间UTC+8）；联系人同步变更，会议链接不变
- 。原邀请信息保存在本岗位invite-二面-2026-10-21.md。
+ 。原邀请信息保存在本岗位invite-二面-2026-10-21.md。\n面试
+ 完成确认（2026-10-21）：用户提供本场录音转写，已完成
+ 面试，正式结果待通知。原始转写与本轮复盘保存在本
+ 岗位私有知识库；未确认后续轮次安排。
 LOCATION:https://interview.nowcoder.com/interview/15867800/interviewee?code
  =yxeT06p9
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大
- 语言模型）（校招）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-225@autumn-recruitment
@@ -4905,6 +4902,48 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:一面 · 智元机器人 · 优才-具身算法研究员
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-233@autumn-recruitment
+DTSTAMP:20261021T081927Z
+DTSTART:20261023T060000Z
+DTEND:20261023T070000Z
+SUMMARY:二面 · 百度 · 北京-智能体算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | 北京-智能体算法工程师 | 固定场次 
+ · 2026-10-23 14:00 · 时长待确认 | 时长未确认，日历暂占 60
+  分钟 | 用户确认这是新的百度岗位。邀请单位为百度在
+ 线网络技术（北京）有限公司，岗位名称：北京-智能体
+ 算法工程师。2026-10-13用户已接受原面试邀约；2026-10-14通
+ 知视频面试改至当日16:00（原为15:00）。邮件未给出具体
+ 职责、业务部门或岗位编号，待后续确认。 | 邀请单位
+ ：百度在线网络技术（北京）有限公司；落款：百度人
+ 力资源部。\n岗位：北京-智能体算法工程师。2026-10-21用
+ 户确认“是，原岗位二面”，关联原app152，不与其他已
+ 结束百度岗位合并。\n面试时间：2026-10-23（周五）14:00，
+ 按仓库北京时间Asia/Shanghai记录；视频面试。\n面试链接
+ ：https://infoflow.baidu.com/meeting/invite?id=9058e80892fadc83c4e2ed96d5
+ 31e3ec\n时长未知，数据库留空；日历按默认60分钟暂占14:0
+ 0–15:00，不代表官方结束时间。\n面试前请下载并安装如
+ 流PC或移动客户端；技术面需要提前安装如流客户端，Web
+ 端不支持代码考核。\n如流下载：https://infoflow-commercial.ba
+ idu.com/newweb/download/#/sass-download\n邮件要求在面试前一天内
+ 使用面试链接提前了解工具并检查设备兼容性，遇到问
+ 题可尝试如流移动客户端；本次仅记录，未进入会议、
+ 未打开会启动面试的链接。\n变动/改期入口：https://talent
+ .baidu.com/jobs/social\n邮件未给业务部门、岗位编号、人才
+ 计划、联系人/电话、时长或收件时间；未知信息留空，
+ 不从其他百度岗位复制。不推断参加确认状态或正式通
+ 过结果。\n建议13:50提前调试设备（准备建议，不是官方
+ 开始时刻）。
+LOCATION:https://infoflow.baidu.com/meeting/invite?id=9058e80892fadc83c4e2e
+ d96d531e3ec
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 百度 · 北京-智能体算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
