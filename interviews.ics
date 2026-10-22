@@ -86,7 +86,7 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 开放 2
  间；按原邀请区分开放窗口、截止和未知时间，不推断
  实际开考时刻。
 LOCATION:https://hr.nowcoder.com/v1/s/zvn1oSC1#
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-89@autumn-recruitment
@@ -1609,7 +1609,7 @@ DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
  档避免继续提醒；参加情况及官方结果待核实，不以流
  程推进或跳过复盘推断参加。
 LOCATION:在线
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-96-deadline@autumn-recruitment
@@ -1632,7 +1632,7 @@ DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
  档避免继续提醒；参加情况及官方结果待核实，不以流
  程推进或跳过复盘推断参加。
 LOCATION:在线
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-80@autumn-recruitment
@@ -1690,7 +1690,7 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 开放 2
  571。\n2026-09-24 用户确认已实际参加/完成；官方结果未单
  独确认。
 LOCATION:https://hr.nowcoder.com/v1/s/6bLzaEkn#
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-103-deadline@autumn-recruitment
@@ -1717,7 +1717,7 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 截止 2
  nowcoder.com，紧急电话18611869582、18611869571。\n2026-09-24 用户
  确认已实际参加/完成；官方结果未单独确认。
 LOCATION:https://hr.nowcoder.com/v1/s/6bLzaEkn#
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-101@autumn-recruitment
@@ -3086,7 +3086,7 @@ DESCRIPTION:默认部门 | AI研究员（AI多模态智能体） | 固定
  模态智能体）/review.md。
 LOCATION:https://meeting.tencent.com/dm/uQOv0cGYJyCv?roomId=260382499677468
  9249&roomCode=&passWord=249544
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-148@autumn-recruitment
@@ -3910,7 +3910,7 @@ DESCRIPTION:默认部门 | AI大模型算法工程师（模型方向）-27
  量化与手机部署；当前以具体手机功能为主，也在长期
  推进Agent。完整复盘见knowledge_path/review.md。
 LOCATION:https://meeting.tencent.com/dm/JPLNJIyM46cd
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-195@autumn-recruitment
@@ -4895,14 +4895,14 @@ DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
  价值观与软性技能。HR：金小琪，+8618800298801；改期须提
  前 1 天联系；提前 10 分钟调试麦克风和摄像头；超过约
  定时间 5 分钟面试官未上线时联系 HR。\n面试链接：https:
- //agirobot.feishu.cn/hire/short_url/CMYG8IQ63Zk
+ //agirobot.feishu.cn/hire/short_url/CMYG8IQ63Zk\n\n2026-10-22用户确认
+ ：本转写对应今日15:00智元「优才-具身算法研究员」这
+ 一场。一面已完成，官方结果待通知；录音可见主要交
+ 流约44分钟，不据相对录音时间推断实际开场或官方时长
+ 。复盘和原始转写已保存至对应knowledge_path；本轮确认团
+ 队为中央研究院基模组。
 LOCATION:https://agirobot.feishu.cn/hire/short_url/CMYG8IQ63Zk
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 智元机器人 · 优才-具身算法研究员
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-233@autumn-recruitment
