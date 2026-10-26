@@ -4043,7 +4043,7 @@ DESCRIPTION:快手 | 大模型应用算法工程师 | 固定场次 · 2026-
  频生成。官方结果待通知；复盘见data/knowledge/快手-大模
  型应用算法工程师/review.md。
 LOCATION:https://viewcoder.qingque.cn/i/lfc-jnbm-avp
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-186@autumn-recruitment
@@ -4336,7 +4336,7 @@ DESCRIPTION:快手 | 大模型应用算法工程师 | 固定场次 · 2026-
  工未定。\n更新五张已有知识卡，并记录Caption分块需要
  验证的lesson；未新增重复卡。
 LOCATION:https://viewcoder.qingque.cn/i/qqs-gryb-drs
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-212@autumn-recruitment
@@ -4792,7 +4792,7 @@ DESCRIPTION:快手 | 大模型应用算法工程师 | 固定场次 · 2026-
  保存于本岗位私有材料：data/knowledge/快手-大模型应用算
  法工程师/。
 LOCATION:https://viewcoder.qingque.cn/i/vgc-kkcw-hvf
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-232@autumn-recruitment
@@ -4936,15 +4936,16 @@ DESCRIPTION:默认部门 | 北京-智能体算法工程师 | 固定场次
  计划、联系人/电话、时长或收件时间；未知信息留空，
  不从其他百度岗位复制。不推断参加确认状态或正式通
  过结果。\n建议13:50提前调试设备（准备建议，不是官方
- 开始时刻）。
+ 开始时刻）。\n\n2026-10-23用户提供本场完整面试转写。05:
+ 31面试官明确为百度内容创作部二面，与原岗位本次安排
+ 相符；二面已完成，官方结果待通知。录音可见主要交
+ 流约42分钟，非北京时间，不反推实际开场或官方时长。
+ 完整复盘及原始转写已保存至本岗位knowledge_path；本轮确
+ 认岗位以AI原生视频应用、生成workflow和用户交互Agent为
+ 主。
 LOCATION:https://infoflow.baidu.com/meeting/invite?id=9058e80892fadc83c4e2e
  d96d531e3ec
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 百度 · 北京-智能体算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-234@autumn-recruitment
@@ -4986,6 +4987,49 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 字节跳动 · 多模态算法工程师 - 火山引
  擎
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-239@autumn-recruitment
+DTSTAMP:20261023T082416Z
+DTSTART:20261029T060000Z
+DTEND:20261029T070000Z
+SUMMARY:三面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大语
+ 言模型）（校招）
+TRANSP:OPAQUE
+DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
+ 模型）（校招） | 固定场次 · 2026-10-29 14:00 · 时长待确
+ 认 | 时长未确认，日历暂占 60 分钟 | B-UP 校招；B 站主站
+ 搜索算法与大语言模型方向。面试反问获悉团队主要负
+ 责主站搜索推荐，并承担 AI 搜索等 AI 需求。\n\n流程结
+ 果（2026-09-11）：用户确认 B 站该投递已挂，招聘流程终
+ 止。\n\n流程恢复（2026-10-15）：用户提供2026-10-21 14:00视
+ 频面试邀请，并明确确认是原岗位恢复流程。邀请职位
+ 原文为“搜索算法工程师（大语言模型方向）【2027届】
+ ”；用户称本次 | 哔哩哔哩「搜索算法工程师（大语言
+ 模型方向）【2027届】」视频面试，关联原application69，用
+ 户确认原岗位三面。\n时间：2026-10-29（周四）14:00，北京
+ 时间UTC+8。官方时长未注明，duration_minutes留空；日历按
+ 默认60分钟暂占14:00–15:00，不代表官方结束时间。\n建议
+ 13:55提前5分钟使用Chrome浏览器调试设备。\n面试入口：htt
+ ps://interview.nowcoder.com/interview/19221623/interviewee?code=uSaWmaQL\n
+ 联系人：史鸿博（史鸿博）；邮箱：shihongbo@bilibili.com。
+ 未提供电话。\n如需另行安排时间或其他反馈，请通过上
+ 述联系方式沟通；系统邮件请勿直接回复。\n本次是新一
+ 轮邀请，不是10月21日二面的改期。保留既有一面通过、
+ 历史流程结束、恢复流程及二面已完成的记录；不从新
+ 邀约推断各轮正式评分或修改人才计划归属。\n当天按日
+ 历默认时长校验无已知冲突。未确认本人是否已回复参
+ 加，本次仅记录，未进入面试室或联系HR。\n完整邀请信
+ 息见本岗位私有知识库invite-三面-2026-10-29.md。
+LOCATION:https://interview.nowcoder.com/interview/19221623/interviewee?code
+ =uSaWmaQL
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大
+ 语言模型）（校招）
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
