@@ -5061,6 +5061,42 @@ DESCRIPTION:HR面 · 同花顺 · 多模态大模型算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-240@autumn-recruitment
+DTSTAMP:20261027T082528Z
+DTSTART:20261102T070000Z
+DTEND:20261102T080000Z
+SUMMARY:三面 · 百度 · 北京-智能体算法工程师
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | 北京-智能体算法工程师 | 固定场次 
+ · 2026-11-02 15:00 · 时长待确认 | 时长未确认，日历暂占 60
+  分钟 | 用户确认这是新的百度岗位。邀请单位为百度在
+ 线网络技术（北京）有限公司，岗位名称：北京-智能体
+ 算法工程师。2026-10-13用户已接受原面试邀约；2026-10-14通
+ 知视频面试改至当日16:00（原为15:00）。邮件未给出具体
+ 职责、业务部门或岗位编号，待后续确认。 | 2026-10-27用
+ 户明确确认本次为原「北京-智能体算法工程师」岗位三
+ 面，关联app152。固定北京时间2026-11-02（周一）15:00，视
+ 频面试；官方未注明时长，duration_minutes留空，日历按配
+ 置暂占60分钟，不代表实际结束时间。新如流入口：https:
+ //infoflow.baidu.com/meeting/invite?id=c0dbbca0e0db838db73ed834fc73dce8 
+ 。邮件要求提前安装如流PC或移动客户端；技术面须客户
+ 端，Web端不支持代码考核。在面试前一天内通过链接了
+ 解工具并检查兼容性，必要时尝试移动客户端。下载入
+ 口：https://infoflow-commercial.baidu.com/newweb/download/#/sass-downloa
+ d 。变动入口：https://talent.baidu.com/jobs/social 。本次是新
+ 增三面，不是已完成的10月23日二面改期；不据本邀约改
+ 写此前面试结果。未代为确认参加、进入会议或联系招
+ 聘方。
+LOCATION:https://infoflow.baidu.com/meeting/invite?id=c0dbbca0e0db838db73ed
+ 834fc73dce8
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 百度 · 北京-智能体算法工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-235@autumn-recruitment
 DTSTAMP:20261022T040103Z
 DTSTART:20261106T070000Z
