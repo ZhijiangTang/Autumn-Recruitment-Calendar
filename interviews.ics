@@ -5097,6 +5097,41 @@ DESCRIPTION:三面 · 百度 · 北京-智能体算法工程师
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-241@autumn-recruitment
+DTSTAMP:20261027T114655Z
+DTSTART:20261103T121500Z
+DTEND:20261103T131500Z
+SUMMARY:一面 · 科大讯飞 · AI研究算法工程师-多模态大模
+ 型方向(J12673)
+TRANSP:OPAQUE
+DESCRIPTION:AI研究院 | AI研究算法工程师-多模态大模型方向(
+ J12673) | 固定场次 · 2026-11-03 20:15 · 时长待确认 | 时长未
+ 确认，日历暂占 60 分钟 | 飞星计划，全职，合肥/广州，
+ 研究算法类。负责CV/NLP跨领域研究、多模态预训练与强
+ 化学习后训练，面向教育、医疗、汽车应用；2027届硕士
+ 及以上，顶会论文与评测竞赛经验优先。 | 2026-10-27用户
+ 明确确认原科大讯飞岗位恢复流程，本次为一面，关联ap
+ p46，不新建投递。邮件职位原名「27飞星-AI研究算法工程
+ 师-多模态大模型方向」。固定北京时间2026-11-03（周二）
+ 20:15，线上腾讯会议，会议ID：988451319。用户已自行接受
+ 面试邀请，不代表录用或接受offer。官方未提供时长，dur
+ ation_minutes留空，日历按配置暂占60分钟；建议20:05提前10
+ 分钟测试网络、摄像头和麦克风，准备作品集、项目报
+ 告或代表性成果。HR联系方式及原始接受/拒绝入口存本
+ 岗位私有邀约材料。保留9月11日一面event159已取消、10月1
+ 9日event221未通过的历史结果，本次按用户明确反馈恢复
+ 到面试流程，不追改历史。不代为访问接受/拒绝入口、
+ 入会或联系HR。
+LOCATION:https://meeting.tencent.com/dm/3xnlj1CaHWGj
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 科大讯飞 · AI研究算法工程师-多模态大
+ 模型方向(J12673)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-235@autumn-recruitment
 DTSTAMP:20261022T040103Z
 DTSTART:20261106T070000Z
