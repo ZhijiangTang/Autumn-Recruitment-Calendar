@@ -4979,15 +4979,16 @@ DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
  搜索引擎、外部代码工具或他人辅助作答、推导或编程
  ；面试沟通和记录需保密。\n本次仅记录邀约，未代为确
  认参加、联系HR、验证身份、安装软件或进入会议。上一
- 轮参加和正式结果不据新邀约擅自修改。
+ 轮参加和正式结果不据新邀约擅自修改。\n\n2026-10-26用户
+ 提供转写并明确确认本场为火山引擎三面，已实际参加
+ 并完成，正式结果待通知。录音相对交流约01:43–53:29，
+ 不据此填写北京时间结束或官方时长，duration_minutes保持
+ 空。复盘与原始材料已存本岗位knowledge目录，event_id=234
+ 。新增岗位信息为企业影视生产Agent从剧本、人物/场景/
+ 道具到分镜再衔接视频生成，并重视上线客户反馈；具
+ 体本人模块和训练占比未确认。
 LOCATION:https://t.zijieimg.com/px9YL6n97iE/
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 字节跳动 · 多模态算法工程师 - 火山引
- 擎
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-239@autumn-recruitment
