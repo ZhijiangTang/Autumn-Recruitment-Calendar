@@ -5034,6 +5034,37 @@ DESCRIPTION:三面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:event-246@autumn-recruitment
+DTSTAMP:20261028T064924Z
+DTSTART:20261030T060000Z
+DTEND:20261030T063000Z
+SUMMARY:三面 · 中国电信 · 【2027校招】策略工程师
+TRANSP:OPAQUE
+DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
+  固定场次 · 2026-10-30 14:00 · 30 分钟 | 中电信人工智能公
+ 司2027校园招聘策略工程师。2026-09-11收到在线笔试邀请，
+ 已通过简历筛选。笔试由招聘方自主安排，可在截止前
+ 自行选择时间完成；官方截止为2026-09-13 24:00，邮件未注
+ 明实际考试时长。 | 2026-10-28用户明确确认本次为原「【2
+ 027校招】策略工程师」岗位三面，关联app148。固定北京
+ 时间2026-10-30（周五）14:00，视频面试，邮件预计30分钟，
+ 可能缩短或延长，请预留缓冲。腾讯会议：https://meeting.t
+ encent.com/dm/fhcbOhQ70ccc ，会议号196552367。邮件要求提前10分
+ 钟（13:50）接入并调试网络、摄像头和麦克风，保持安静
+ 环境。HR联系方式及参加/不参加入口存入本岗位私有邀
+ 约材料。本次为新增三面，不是10月16日二面改期；保留
+ 既有一面、二面的已完成记录，不据新邀约改写历史结
+ 果。尚未获得本人是否已接受邀请的明确反馈，未代为
+ 访问参加/不参加入口、入会或联系HR。
+LOCATION:https://meeting.tencent.com/dm/fhcbOhQ70ccc
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:三面 · 中国电信 · 【2027校招】策略工程师
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:event-230@autumn-recruitment
 DTSTAMP:20261020T130247Z
 DTSTART:20261030T080000Z
