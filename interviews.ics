@@ -3491,7 +3491,7 @@ UID:event-153@autumn-recruitment
 DTSTAMP:20260904T131011Z
 DTSTART:20260915T070000Z
 DTEND:20260915T080000Z
-SUMMARY:三面 · 小鹏集团 · 【27届校招】多模态Agent算法工
+SUMMARY:HR面 · 小鹏集团 · 【27届校招】多模态Agent算法工
  程师
 TRANSP:OPAQUE
 DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师 
@@ -3511,7 +3511,13 @@ DESCRIPTION:研发-算法 | 【27届校招】多模态Agent算法工程师
  。用户尚未明确是否已点击接受邀请，因此结果记为待
  确认。\n\n完成状态（2026-09-18）：用户确认已参加并完成
  本场三面，不需要复盘；官方流程结果尚未确认。此前
- “尚未明确是否接受邀请”的备注已失效。
+ “尚未明确是否接受邀请”的备注已失效。\n\n轮次更正
+ （2026-10-29）：用户明确说明“小鹏那个最后一面也是hr
+ 面，是2+1”。本流程应按两轮技术面（2026-08-06一面、2026
+ -08-26二面）加一轮HR面记录。2026-09-15这场是整体第三轮
+ 、类型为HR面；此前“三面”表述仅保留为历史邀约及当
+ 时记录，不代表三轮技术面。本场已完成的事实、原时
+ 间与链接保持不变，未确认官方通过或录用结果。
 LOCATION:https://xiaopeng.feishu.cn/hire/short_url/nfrEprQFJB0
 STATUS:CONFIRMED
 END:VEVENT
@@ -5022,16 +5028,18 @@ DESCRIPTION:B-UP 人才计划 | 【B-UP】搜索算法工程师（大语言
  邀约推断各轮正式评分或修改人才计划归属。\n当天按日
  历默认时长校验无已知冲突。未确认本人是否已回复参
  加，本次仅记录，未进入面试室或联系HR。\n完整邀请信
- 息见本岗位私有知识库invite-三面-2026-10-29.md。
+ 息见本岗位私有知识库invite-三面-2026-10-29.md。\n\n2026-10-29
+ 用户提供当天下午B站面试转写，与本场三面记录相符，
+ 已实际参加并完成；正式结果未提供。主要交流位于录
+ 音约10:24–53:50，含设备和网络调整，不据此填写官方时
+ 长或实际结束时刻。未出现编程考核。原始转写及完整
+ 复盘存本岗位knowledge目录，event_id=239。面试官明确介绍
+ 搜索/推荐团队的Agent search小流量、尚未上线的视频对话
+ 产品，以及长视频理解、B站数据适配训练、分级记忆和
+ 个性化相关工作；个人具体分工仍待确认。
 LOCATION:https://interview.nowcoder.com/interview/19221623/interviewee?code
  =uSaWmaQL
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 哔哩哔哩 · 【B-UP】搜索算法工程师（大
- 语言模型）（校招）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-246@autumn-recruitment
