@@ -5063,14 +5063,13 @@ DESCRIPTION:TeleAI人工智能研究院 | 【2027校招】策略工程师 |
  约材料。本次为新增三面，不是10月16日二面改期；保留
  既有一面、二面的已完成记录，不据新邀约改写历史结
  果。尚未获得本人是否已接受邀请的明确反馈，未代为
- 访问参加/不参加入口、入会或联系HR。
+ 访问参加/不参加入口、入会或联系HR。\n\n2026-10-30用户以
+ tele提供本场三面转写，确认实际已完成，官方结果未知
+ 。完整复盘及原始转写存于本岗位私有知识目录；不据
+ 录音相对时长覆盖原邀请预计30分钟。原始转写SHA-256：9c
+ 7477c6a2b54435df2f9890f4be31f516d2e6495a006d499515b0acf65e4233。
 LOCATION:https://meeting.tencent.com/dm/fhcbOhQ70ccc
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 中国电信 · 【2027校招】策略工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-230@autumn-recruitment
@@ -5089,15 +5088,16 @@ DESCRIPTION:多模态大模型算法部门 | 多模态大模型算法工程
  计5–10分钟，另建AI测评待办，未确认完成。\n通知及入
  口：data/knowledge/同花顺-多模态大模型算法工程师/hr-interv
  iew-invitation-2026-10-30.md。\n仅记录邀请，未进入面试或代
- 为确认参加。
+ 为确认参加。\n\n2026-10-30用户提供本场HR面实际转写，已
+ 参加并完成，官方结果待反馈。HR表示将与业务负责人汇
+ 总评价并排序，通过与否微信通知；本阶段不另发意向
+ ，通过后可进入谈薪。完整复盘及转写存于本岗位私有
+ 知识目录，SHA-256：ac4871ba4162856f1a54502f49212c7d2dd85c0fb19b544c7
+ 0edb78d11b6fb42。不据HR面已参加推断前置性格测评完成，eve
+ nt231保持原状。
 LOCATION:https://job.10jqka.com.cn/#/meeting?auditionId=11050796&code=ebc16
  aab0e1d70699c219d14ff8da2f8&address=cn
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:HR面 · 同花顺 · 多模态大模型算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-240@autumn-recruitment
