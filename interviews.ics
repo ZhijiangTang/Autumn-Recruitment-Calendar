@@ -4774,7 +4774,7 @@ DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
  文本优化的编辑预算及闭源无权重时的系统迭代。原始
  转写与完整复盘存本岗位knowledge目录，event_id=227。
 LOCATION:https://t.zijieimg.com/lUxoB4br5nw/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-216@autumn-recruitment
@@ -4830,15 +4830,12 @@ DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
  ，本次为新增二面，不改写其时间与结果。当天另有B站1
  4:00面试，按60分钟暂占核验无冲突，实际时长仍未知。
  详细来源：data/knowledge/字节跳动-多模态算法工程师 - 火
- 山引擎/invite-二面-2026-10-21.md。
+ 山引擎/invite-二面-2026-10-21.md。\n2026-11-02用户确认本投递
+ 流程结束。此前本场结果为空，现随整体流程结束行政
+ 归档；不据此推断二面未参加或二面未通过，实际完成
+ 及单场结果未单独确认。
 LOCATION:https://t.zijieimg.com/cyEbi2nkd5U/
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 字节跳动 · 多模态算法工程师 - 火山引
- 擎
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-215@autumn-recruitment
@@ -4994,7 +4991,7 @@ DESCRIPTION:火山引擎 | 多模态算法工程师 - 火山引擎 | 固定
  道具到分镜再衔接视频生成，并重视上线客户反馈；具
  体本人模块和训练占比未确认。
 LOCATION:https://t.zijieimg.com/px9YL6n97iE/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-239@autumn-recruitment
