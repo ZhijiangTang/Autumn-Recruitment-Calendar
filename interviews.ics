@@ -5122,15 +5122,16 @@ DESCRIPTION:默认部门 | 北京-智能体算法工程师 | 固定场次
  d 。变动入口：https://talent.baidu.com/jobs/social 。本次是新
  增三面，不是已完成的10月23日二面改期；不据本邀约改
  写此前面试结果。未代为确认参加、进入会议或联系招
- 聘方。
+ 聘方。\n\n2026-11-02用户提供实际转写，面试官明确本场三
+ 面，已参加并完成，官方结果未通知。原始转写与完整
+ 复盘存于本岗位私有知识目录；SHA-256：1ec1ee373e00be009a09ed
+ 32954c8810d9d5c72f0475e67b9b38ea4dddd3a63a。本轮面试官自述小组
+ 负责人，确认搜索内容创作工具方向和多模型接入；不
+ 据此补通过或录用。录音为相对时间，不覆盖原日程未
+ 知时长。
 LOCATION:https://infoflow.baidu.com/meeting/invite?id=c0dbbca0e0db838db73ed
  834fc73dce8
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:三面 · 百度 · 北京-智能体算法工程师
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-241@autumn-recruitment
@@ -5165,6 +5166,39 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:一面 · 科大讯飞 · AI研究算法工程师-多模态大
  模型方向(J12673)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-249@autumn-recruitment
+DTSTAMP:20261103T082445Z
+DTSTART:20261105T080000Z
+DTEND:20261105T090000Z
+SUMMARY:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok Sho
+ p
+TRANSP:OPAQUE
+DESCRIPTION:国际电商 | 推荐大模型算法工程师-TikTok Shop | 固
+ 定场次 · 2026-11-05 16:00 · 时长待确认 | 时长未确认，日
+ 历暂占 60 分钟 | 来源：用户2026-11-03提供的字节跳动2027
+ 校园招聘海报，部门标题Data-国际电商；工作地点北京、
+ 上海、杭州。服务TikTok Shop视频、直播、货架场景，参与
+ 召回、粗排、精排、混排全链路推荐优化。方向包含LRM/L
+ LM与工业推荐融合、模型规模扩展与联合训练推理优化（
+ 长行为序列、KV Cache、序列压缩、UG分离、投机解码、动
+ 态batching等）；基于语义ID（RQ-VAE/SID | 用户2026-11-03明确
+ 为新岗位一面，并提供Data-国际电商「推荐大模型算法工
+ 程师-TikTok Shop」海报，区别于已结束app56及火山引擎app153
+ 。北京时间2026-11-05（周四）16:00，线上视频面试；官方
+ 未提供时长，日历暂按系统默认60分钟占位，不是官方结
+ 束时间。面试链接：https://t.zijieimg.com/deHBqix9-DU/ 。HR林佳
+ 佳及电话、设备要求、改期规则、独立作答要求见私有
+ 邀约文件。未代为接受邀请、联系HR或进入会议。
+LOCATION:https://t.zijieimg.com/deHBqix9-DU/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok
+  Shop
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
