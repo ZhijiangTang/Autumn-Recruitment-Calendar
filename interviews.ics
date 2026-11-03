@@ -3653,7 +3653,7 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
  ；若面试官迟到超过 10 分钟请联系 HR。\n参加状态：已
  接受（用户于 2026-09-17 统一确认）。
 LOCATION:https://vc.feishu.cn/j/776789331?locale=1
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-177@autumn-recruitment
@@ -4011,7 +4011,7 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
  在线训练。复盘见 data/knowledge/地平线-【2027届校招】多
  模态大模型算法工程师-预研/review.md；官方结果待通知。
 LOCATION:https://vc.feishu.cn/j/189021769?locale=1
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-191@autumn-recruitment
@@ -4286,7 +4286,7 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
  场已实际参加的result保留已完成，在新人才测评事件中
  记录阶段推进，不改写其他各轮结果。
 LOCATION:https://vc.feishu.cn/j/661234784?locale=1
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-201@autumn-recruitment
@@ -4390,7 +4390,7 @@ DESCRIPTION:算法预研部 | 【2027届校招】多模态大模型算法
 LOCATION:https://dipingxian.ceping.com/Login/Elink?elink=A5fd2BWUa/KIV4I78U
  mkg3CbaMzxcChina253VG7f1t6QjKSy9CbaMzxcChina257ReoFCUaIWRTlqM4MO1TqwKAQA&l
  ocale=1
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-210@autumn-recruitment
@@ -5169,39 +5169,6 @@ DESCRIPTION:一面 · 科大讯飞 · AI研究算法工程师-多模态大
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:event-249@autumn-recruitment
-DTSTAMP:20261103T082445Z
-DTSTART:20261105T080000Z
-DTEND:20261105T090000Z
-SUMMARY:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok Sho
- p
-TRANSP:OPAQUE
-DESCRIPTION:国际电商 | 推荐大模型算法工程师-TikTok Shop | 固
- 定场次 · 2026-11-05 16:00 · 时长待确认 | 时长未确认，日
- 历暂占 60 分钟 | 来源：用户2026-11-03提供的字节跳动2027
- 校园招聘海报，部门标题Data-国际电商；工作地点北京、
- 上海、杭州。服务TikTok Shop视频、直播、货架场景，参与
- 召回、粗排、精排、混排全链路推荐优化。方向包含LRM/L
- LM与工业推荐融合、模型规模扩展与联合训练推理优化（
- 长行为序列、KV Cache、序列压缩、UG分离、投机解码、动
- 态batching等）；基于语义ID（RQ-VAE/SID | 用户2026-11-03明确
- 为新岗位一面，并提供Data-国际电商「推荐大模型算法工
- 程师-TikTok Shop」海报，区别于已结束app56及火山引擎app153
- 。北京时间2026-11-05（周四）16:00，线上视频面试；官方
- 未提供时长，日历暂按系统默认60分钟占位，不是官方结
- 束时间。面试链接：https://t.zijieimg.com/deHBqix9-DU/ 。HR林佳
- 佳及电话、设备要求、改期规则、独立作答要求见私有
- 邀约文件。未代为接受邀请、联系HR或进入会议。
-LOCATION:https://t.zijieimg.com/deHBqix9-DU/
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok
-  Shop
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:event-235@autumn-recruitment
 DTSTAMP:20261022T040103Z
 DTSTART:20261106T070000Z
@@ -5243,6 +5210,45 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:三面 · 小马智行 · 研发工程师 - 工程/算法/模
  型（27校招）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-249@autumn-recruitment
+DTSTAMP:20261103T082445Z
+DTSTART:20261110T070000Z
+DTEND:20261110T080000Z
+SUMMARY:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok Sho
+ p
+TRANSP:OPAQUE
+DESCRIPTION:国际电商 | 推荐大模型算法工程师-TikTok Shop | 固
+ 定场次 · 2026-11-10 15:00 · 时长待确认 | 时长未确认，日
+ 历暂占 60 分钟 | 来源：用户2026-11-03提供的字节跳动2027
+ 校园招聘海报，部门标题Data-国际电商；工作地点北京、
+ 上海、杭州。服务TikTok Shop视频、直播、货架场景，参与
+ 召回、粗排、精排、混排全链路推荐优化。方向包含LRM/L
+ LM与工业推荐融合、模型规模扩展与联合训练推理优化（
+ 长行为序列、KV Cache、序列压缩、UG分离、投机解码、动
+ 态batching等）；基于语义ID（RQ-VAE/SID | 用户2026-11-03明确
+ 为新岗位一面，并提供Data-国际电商「推荐大模型算法工
+ 程师-TikTok Shop」海报，区别于已结束app56及火山引擎app153
+ 。北京时间2026-11-05（周四）16:00，线上视频面试；官方
+ 未提供时长，日历暂按系统默认60分钟占位，不是官方结
+ 束时间。面试链接：https://t.zijieimg.com/deHBqix9-DU/ 。HR林佳
+ 佳及电话、设备要求、改期规则、独立作答要求见私有
+ 邀约文件。未代为接受邀请、联系HR或进入会议。\n\n2026-
+ 11-03改期通知：用户明确时间变了，原2026-11-05 16:00调整
+ 为2026-11-10（周二）15:00，仍为同一岗位一面；链接和HR不
+ 变。官方时长未知，日历默认预留15:00–16:00，14:30提醒
+ 、14:50设备调试。当前邀约材料：data/knowledge/字节跳动-
+ 推荐大模型算法工程师-TikTok Shop/invite-一面-2026-11-10.md。
+ 保留本事件及UID，不新增面试。
+LOCATION:https://t.zijieimg.com/deHBqix9-DU/
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok
+  Shop
 END:VALARM
 END:VEVENT
 END:VCALENDAR
