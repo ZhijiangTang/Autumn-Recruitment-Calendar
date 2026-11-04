@@ -5158,15 +5158,11 @@ DESCRIPTION:AI研究院 | AI研究算法工程师-多模态大模型方向(
  岗位私有邀约材料。保留9月11日一面event159已取消、10月1
  9日event221未通过的历史结果，本次按用户明确反馈恢复
  到面试流程，不追改历史。不代为访问接受/拒绝入口、
- 入会或联系HR。
+ 入会或联系HR。\n2026-11-03用户提供晚间面试转写，按当日
+ 20:15多模态岗位一面关联；已完成，官方结果未知。完整
+ 复盘与原始转写存本岗位knowledge目录。
 LOCATION:https://meeting.tencent.com/dm/3xnlj1CaHWGj
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 科大讯飞 · AI研究算法工程师-多模态大
- 模型方向(J12673)
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-235@autumn-recruitment
