@@ -4905,7 +4905,7 @@ DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
  。复盘和原始转写已保存至对应knowledge_path；本轮确认团
  队为中央研究院基模组。
 LOCATION:https://agirobot.feishu.cn/hire/short_url/CMYG8IQ63Zk
-STATUS:CANCELLED
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-233@autumn-recruitment
@@ -5260,15 +5260,44 @@ DESCRIPTION:国际电商 | 推荐大模型算法工程师-TikTok Shop | 固
  变。官方时长未知，日历默认预留15:00–16:00，14:30提醒
  、14:50设备调试。当前邀约材料：data/knowledge/字节跳动-
  推荐大模型算法工程师-TikTok Shop/invite-一面-2026-11-10.md。
- 保留本事件及UID，不新增面试。
+ 保留本事件及UID，不新增面试。\n\n2026-11-10 面试转写复
+ 盘：用户提供当日下午一面转写，确认已参加并完成，
+ 官方结果未知（面试官仅称“后面结果 HR 会和你再次联
+ 系”）；result 记为已完成，不据此推断通过。\n可见录
+ 音相对时间 02:00–62:39，正式交流约 06:57–62:39；不换算
+ 北京时间、不据此判断迟到或超时。46:00–50:46、54:24–57
+ :57 有较长静默，属读题与思考，不作超时结论。\n原始
+ 转写逐字归档：data/knowledge/字节跳动-推荐大模型算法工
+ 程师-TikTok Shop/transcript-一面-2026-11-10.txt；SHA-256：7a06e50037
+ df544d3f446256fbac626314c6a3b66031842a90cc2524e1fe8e8f；175 行 / 47402 
+ 字节；来源为对话中粘贴的文本，非原始录音文件。ASR 
+ 误识较多（南安大学=南开、动态大模型=多模态、光球斯
+ =ground truth、出口=tool call、攻击调用=工具调用、筋膜=基
+ 模、imstone=RMSNorm 等），不据此改写简历事实。\n复盘：da
+ ta/knowledge/字节跳动-推荐大模型算法工程师-TikTok Shop/revie
+ w.md；event_id=249。目录内无本轮 prep 文件，不统计准备命
+ 中率。\n本场结构：项目深挖为主（评测体系动态/静态
+ 拆分、多解 ground truth、next action RL 与课程学习、caption RL
+  幻觉抑制、SFT+GRPO 与多模态适配），中段插入基础八股
+ （AdamW vs Adam、RMSNorm vs LayerNorm、Qwen 注意力与 Gated Attentio
+ n），末段为二叉树最近公共祖先 coding（约 15 分钟，两
+ 次提示后写出）。\n基础题失分集中在三处：43:43 把 AdamW
+  与 Adam 的区别说反（称 Adam 为牛顿法、AdamW 加二阶动量
+ ）；44:58 与 45:33 两次表示不了解 RMSNorm 与 LayerNorm 的区
+ 别；29:48 与 31:31 只能说到 Qwen 注意力“类似 mamba 的混合
+ 结构”，Gated Attention 原理答“忘了”。另 27:07 回答 clip 
+ 触发条件时给出互相矛盾的阈值，25:01 把序列级 advantage 
+ 广播说成“每个 token 均分 N 分之一 advantage”。\n面试官
+ 未给正式反馈、未提下一轮；未确认具体子方向、汇报
+ 关系与训练/业务投入比例。\n卡片：新增 3 张（adamw-vs-ad
+ am-decoupled-weight-decay、qwen3-next-hybrid-attention-gated、tree-recur
+ sion-return-contract），另给 rmsnorm-motivation、grpo-group-relative-
+ and-dapo、grpo-ppo-clip-zero-grad、ppo-reward-granularity 追加 event-2
+ 49 证据；srs.py import 新增 3 张，复习进度保留。\nlessons 
+ 累加：dapo_dynamic_sampling_not_same_group 4→5、grpo_clip_zero_grad 
+ 2→3。\n转写仅用于个人复盘，遵守面试保密要求。
 LOCATION:https://t.zijieimg.com/deHBqix9-DU/
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 字节跳动 · 推荐大模型算法工程师-TikTok
-  Shop
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-251@autumn-recruitment
@@ -5403,6 +5432,47 @@ TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:四面 · 小马智行 · 研发工程师 - 工程/算法/模
  型（27校招）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-254@autumn-recruitment
+DTSTAMP:20261111T025210Z
+DTSTART:20261117T070000Z
+DTEND:20261117T080000Z
+SUMMARY:二面 · 智元机器人 · 优才-具身算法研究员
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
+ 026-11-17 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分
+ 钟 | 2026-11-11 用户粘贴智元创新（上海）科技股份有限公
+ 司面试通知，关联 app154「优才-具身算法研究员」；用户
+ 明确确认本场为该投递复活，并指定轮次记二面。\n历史
+ 沿革（不改写）：2026-10-22 一面 event225 已完成，确认团
+ 队为中央研究院基模组；2026-10-27 用户反馈整体未通过，
+ event245 记为「交流·未通过」，application 154 状态曾为 reje
+ cted。本轮按用户确认的复活处理，application 状态改回 int
+ erview；不据此推断此前「未通过」记录有误，也不补造
+ 中间环节。\n固定北京时间2026-11-17（周二）15:00，视频面
+ 试；官方时长未注明，数据库留空，日历按默认60分钟暂
+ 占15:00–16:00。\n面试入口：https://agirobot.feishu.cn/hire/short_
+ url/EeHFFqpZRhc\n考察内容（通知原文要点）：通用型的业务
+ 问题、过往的项目经历；价值观和软性技能也是选择人
+ 才的重要因素。\n联系人：金小琪，+8618800298801；如需修
+ 改面试时间须提前1天与HR联系。\n参会要求：网络畅通且
+ 安静的场所；提前10分钟调试好电脑麦克风与摄像头；点
+ 击视频链接后，若超过约定时间5分钟面试官仍未上线，
+ 请联系HR。\n本轮未代为确认参加、未点击面试链接、未
+ 下载或安装客户端、未联系HR。通知未写面试官、团队、
+ 时长与后续轮次；不据上一轮已确认的中央研究院基模
+ 组推定本轮团队。\n邀约原文要点存档：data/knowledge/智元
+ 机器人-优才-具身算法研究员/invite-二面-2026-11-17.md\n上一
+ 轮复盘（含四条优先修正与具身岗 VLA 要求）：同目录 re
+ view.md；transcript-一面-2026-10-22.txt。
+LOCATION:https://agirobot.feishu.cn/hire/short_url/EeHFFqpZRhc
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 智元机器人 · 优才-具身算法研究员
 END:VALARM
 END:VEVENT
 END:VCALENDAR
