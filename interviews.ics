@@ -5318,15 +5318,42 @@ DESCRIPTION:算法-大模型 | 【2027校招】Agent 应用算法工程师-
  期、时长及测评入口；不代表已开始作答或已完成。\n来
  源：用户20 | 邮件未注明轮次，原岗位无正式面试记录，
  暂按一面登记。HR王宇彤（实习），18501309857。建议14:50
- 调试设备。
+ 调试设备。\n\n2026-11-11 面试转写复盘：用户提供当日下
+ 午一面转写，确认已参加并完成，官方结果未知（面试
+ 官全程未给通过/不通过信号，只问了后续安排与 base）
+ ；result 记为已完成，不据此推断通过。\n可见录音相对
+ 时间 06:49–54:14，正式交流约 10:55–54:14；不换算北京时
+ 间、不据此判断迟到或超时。27:05–50:28 为代码环节（28:
+ 06 出题、30:19 讲思路、30:49 开始写、49:08 起面试官逐条
+ 指出问题）。\n原始转写逐字归档：data/knowledge/小红书-
+ 【2027校招】Agent 应用算法工程师-创新业务/transcript-一面
+ -2026-11-11.txt；SHA-256：fd9164fafd8af31ce3842618b794d2ee418ca7ae4d47d1
+ d1a55c22c5c2c7194f；98 行 / 22859 字节；来源为对话中粘贴的
+ 文本，非原始录音文件。ASR 误识较多（去扣=tool call、块
+ =query、假=judge、三十米=30B、卡巴尔≈CapRL），不据此改
+ 写简历事实。\n复盘：同目录 review.md；event_id=251。目录
+ 内无本轮 prep 文件，不统计准备命中率。\n本场结构：项
+ 目深挖（动态/静态评测、skill 路由、RL reward 落地、captio
+ n 论文）+ 代码题（八皇后）+ 岗位与意向确认 + 反问。\n
+ 失分与问题：14:00 与 15:41 评测集规模自相矛盾（2K / 20K
+ ，差一个数量级）；17:59 被问卡片字符串是 JSON 还是 XML 
+ 时未答出协议；20:47 被问「加卡能否加速」答「我也不
+ 敢问」；51:55 被追问才承认 +4 点仅在闪购业务，面试官
+ 据此指出跨场景评估不足；八皇后约 18 分钟、三处 bug（
+ 变量名、初始调用漏参、discard 应为 remove），由面试官
+ 逐条指出。\n正向：18:46 主动划清 RL 职责边界（训练框
+ 架现成，本人负责评测转 reward 与调收敛）；16:55 意图分
+ 类改渐进式加载 skill 的回答具体；23:13 动态 query 采样讲
+ 清两个动机；50:45 上线前评估流程（量化、多数据集、
+ 小流量、动态回归）完整。\n面试官未提下一轮时间；岗
+ 位信息见 application.role_summary。\n卡片：新增 2 张（n-queens
+ -backtracking、agent-card-protocol-structured-output）；numbers-say-onc
+ e 追加 event-251 证据；srs.py import 新增 2 张，复习进度保
+ 留。\nlessons 累加：numbers_say_once 7→8、reward_gain_requires_ind
+ ependent_validation 2→3；新增 resource_question_deflection。\n转写
+ 仅用于个人复盘，遵守面试保密要求。
 LOCATION:https://xhslink.com/m/2pZIEOjhi5d
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:一面 · 小红书 · 【2027校招】Agent 应用算法工程
- 师-创新业务
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-253@autumn-recruitment
