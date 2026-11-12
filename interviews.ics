@@ -5526,4 +5526,32 @@ ACTION:DISPLAY
 DESCRIPTION:二面 · 智元机器人 · 优才-具身算法研究员
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-256@autumn-recruitment
+DTSTAMP:20261112T063836Z
+DTSTART:20261118T060000Z
+DTEND:20261118T070000Z
+SUMMARY:二面 · 小红书 · 【2027校招】Agent 应用算法工程师-
+ 创新业务
+TRANSP:OPAQUE
+DESCRIPTION:算法-大模型 | 【2027校招】Agent 应用算法工程师-
+ 创新业务 | 固定场次 · 2026-11-18 14:00 · 60 分钟 | 项目：20
+ 27校园招聘；志愿四；职位方向：算法-大模型。\n工作地
+ 点：北京市、杭州市、上海市（岗位可选工作地点，未
+ 提供本人意向城市排序）。\n官网状态（2026-10-20核验）
+ ：正在进行中：笔试/测评。\n官网显示投递简历与简历
+ 筛选均于2026-10-20完成（仅日期精度）；当前停在笔试/测
+ 评。\n尚未提供具体笔试或测评邀约、作答时间、截止日
+ 期、时长及测评入口；不代表已开始作答或已完成。\n来
+ 源：用户20 | HR王宇彤，18501309857。建议13:50测试设备。邮
+ 件明确14:00–15:00，北京时间。
+LOCATION:https://xhslink.com/m/9wKfqaVGpA3
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 小红书 · 【2027校招】Agent 应用算法工程
+ 师-创新业务
+END:VALARM
+END:VEVENT
 END:VCALENDAR
