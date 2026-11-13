@@ -5451,15 +5451,11 @@ DESCRIPTION:默认部门 | 研发工程师 - 工程/算法/模型（27校
  过与否未经HR确认，本轮邀约不作为三面已通过的正式结
  论。最终业务团队、部门及具体个人职责仍待确认。\n邀
  约原文要点存档：data/knowledge/小马智行-研发工程师 - 工
- 程-算法-模型（27校招）/invite-四面-2026-11-13.md
+ 程-算法-模型（27校招）/invite-四面-2026-11-13.md\n用户确认2
+ 026-11-13小马智行四面，转写和复盘已归档。已完成，官
+ 方结果未知。
 LOCATION:https://ponyai.feishu.cn/hire/short_url/O3nZsHGiJME
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:四面 · 小马智行 · 研发工程师 - 工程/算法/模
- 型（27校招）
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-255@autumn-recruitment
