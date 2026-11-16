@@ -5550,4 +5550,34 @@ DESCRIPTION:二面 · 小红书 · 【2027校招】Agent 应用算法工程
  师-创新业务
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:event-257@autumn-recruitment
+DTSTAMP:20261116T063138Z
+DTSTART:20261119T013000Z
+DTEND:20261119T023000Z
+SUMMARY:五面 · 小马智行 · 研发工程师 - 工程/算法/模型（
+ 27校招）
+TRANSP:OPAQUE
+DESCRIPTION:默认部门 | 研发工程师 - 工程/算法/模型（27校
+ 招） | 固定场次 · 2026-11-19 09:30 · 时长待确认 | 时长未
+ 确认，日历暂占 60 分钟 | 2027届校园招聘，官方面试邀约
+ 职位原文：研发工程师 - 工程/算法/模型（27校招）。2026
+ -10-14用户明确本流程不属于人才计划。具体业务团队、
+ 职责和工作地点尚未确认；已完成的一面说明一、二面
+ 采用统一技术面试池，若进入三面可能再匹配团队。此
+ 前人才专项JD中的方向、地点和资格要求不能直接视为本
+ 岗位的已确认信息。 | 飞书视频面试。联系人盖秋璇，18
+ 042959990，qiuxuangai@pony.ai。官方未提供时长，日历按配置
+ 默认占位。建议09:20测试设备，准备电脑、纸笔并保持手
+ 机畅通。邮件要求独立完成面试，禁止AI辅助，可能考察
+ coding及CS基础。
+LOCATION:https://ponyai.feishu.cn/hire/short_url/k5aUlY5z_cc
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:五面 · 小马智行 · 研发工程师 - 工程/算法/模
+ 型（27校招）
+END:VALARM
+END:VEVENT
 END:VCALENDAR
