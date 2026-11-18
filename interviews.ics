@@ -5494,15 +5494,15 @@ DESCRIPTION:算法-大模型 | 【2027校招】Agent 应用算法工程师-
  评。\n尚未提供具体笔试或测评邀约、作答时间、截止日
  期、时长及测评入口；不代表已开始作答或已完成。\n来
  源：用户20 | HR王宇彤，18501309857。建议13:50测试设备。邮
- 件明确14:00–15:00，北京时间。
+ 件明确14:00–15:00，北京时间。\n\n2026-11-18 用户提供今天
+ 下午面试完整转写；末尾明确为小红书创新业务，与原
+ 岗位二面吻合，本场记已完成，官方结果未知。保留官
+ 方14:00–15:00排期与60分钟时长，录音相对时间不换算北
+ 京时间。复盘及原始转写位于该投递knowledge_path，新增最
+ 小Agent循环复习卡并更新评测/实验设计、rubric独立验收
+ 及Caption切分旧卡；未按结尾客套判通过。
 LOCATION:https://xhslink.com/m/9wKfqaVGpA3
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 小红书 · 【2027校招】Agent 应用算法工程
- 师-创新业务
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:event-254@autumn-recruitment
@@ -5545,14 +5545,17 @@ DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
  姓名电话、面试官或团队；未推定人员或团队变化。参
  会要求：提前10分钟调试，超时5分钟联系HR，如需改期提
  前1天联系。\n最新改期存档：data/knowledge/智元机器人-优
- 才-具身算法研究员/invite-二面-2026-11-18.md
+ 才-具身算法研究员/invite-二面-2026-11-18.md\n\n# 智元 · 二
+ 面取消记录\n\n- application_id：154；event_id：254；岗位：优
+ 才-具身算法研究员。\n- 来源：用户2026-11-18明确告知“
+ 智元的面试取消了”。\n- 原计划：2026-11-18 16:00，北京时
+ 间；本场标记为**已取消**，保留原时间、入口及改期历
+ 史。\n- 取消原因、由哪方取消、是否再次改期、后续招
+ 聘结果均未提供，不推断为未通过或主动放弃整个岗位
+ 。\n- 岗位现有流程状态保持不变；本地日历将该场标为
+ 取消并去掉提醒，公开订阅待仓库同步后更新。\n
 LOCATION:https://agirobot.feishu.cn/hire/short_url/Hc660NN7-jA
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 智元机器人 · 优才-具身算法研究员
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-257@autumn-recruitment
