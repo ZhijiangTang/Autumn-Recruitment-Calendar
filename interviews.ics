@@ -5643,12 +5643,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event-254@autumn-recruitment
 DTSTAMP:20261111T025210Z
-DTSTART:20261125T070000Z
-DTEND:20261125T080000Z
+DTSTART:20261126T070000Z
+DTEND:20261126T080000Z
 SUMMARY:二面 · 智元机器人 · 优才-具身算法研究员
 TRANSP:OPAQUE
 DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
- 026-11-25 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分
+ 026-11-26 15:00 · 时长待确认 | 时长未确认，日历暂占 60 分
  钟 | 2026-11-11 用户粘贴智元创新（上海）科技股份有限公
  司面试通知，关联 app154「优才-具身算法研究员」；用户
  明确确认本场为该投递复活，并指定轮次记二面。\n历史
@@ -5703,8 +5703,19 @@ DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
  器人-优才-具身算法研究员/invite-二面-2026-11-25.md。\n\n2026
  -11-25 改期沟通：原定11月25日15:00的场次取消。HR提出北
  京时间11月26日（周四）15:00–17:00内或18:00，用户回复可
- 以。具体开始时间、时长和参会入口待HR确认。
-LOCATION:https://agirobot.feishu.cn/hire/short_url/42Ur_nf9zRA
-STATUS:CANCELLED
+ 以。具体开始时间、时长和参会入口待HR确认。\n\n2026-11-
+ 25 正式改期已确认。智元「优才-具身算法研究员」二面
+ 于2026-11-26（周四）15:00开始，北京时间。飞书视频入口
+ ：https://agirobot.feishu.cn/hire/short_url/mXKzzxCxZ58。时长未知，
+ 建议14:50调试设备。需要改期提前1天联系HR，15:05面试官
+ 仍未上线可联系HR。原11月25日场次取消的沟通保留为历
+ 史。
+LOCATION:https://agirobot.feishu.cn/hire/short_url/mXKzzxCxZ58
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:二面 · 智元机器人 · 优才-具身算法研究员
+END:VALARM
 END:VEVENT
 END:VCALENDAR
