@@ -5162,7 +5162,7 @@ DESCRIPTION:AI研究院 | AI研究算法工程师-多模态大模型方向(
  20:15多模态岗位一面关联；已完成，官方结果未知。完整
  复盘与原始转写存本岗位knowledge目录。
 LOCATION:https://meeting.tencent.com/dm/3xnlj1CaHWGj
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-235@autumn-recruitment
@@ -5297,7 +5297,7 @@ DESCRIPTION:国际电商 | 推荐大模型算法工程师-TikTok Shop | 固
  累加：dapo_dynamic_sampling_not_same_group 4→5、grpo_clip_zero_grad 
  2→3。\n转写仅用于个人复盘，遵守面试保密要求。
 LOCATION:https://t.zijieimg.com/deHBqix9-DU/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-251@autumn-recruitment
@@ -5474,7 +5474,7 @@ DESCRIPTION:淘天集团-业务技术-营销交易-营销数据 | AI Agent
  写，按岗位及日期关联。复盘已保存，官方结果未知。
 LOCATION:https://campus-talent.alibaba.com/interviewroom/landingPage?roomCo
  de=0wwNEcyuLyjjZ8K9WJ73Ww%3D%3D&recruitType=campus
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-256@autumn-recruitment
@@ -5539,8 +5539,8 @@ UID:event-258@autumn-recruitment
 DTSTAMP:20261117T103205Z
 DTSTART:20261120T070000Z
 DTEND:20261120T080500Z
-SUMMARY:作答计划 · AI测评 · 字节跳动 · 【27届校招】AI多
- 模态算法工程师 - 数据平台
+SUMMARY:已归档 · 作答计划 · AI测评 · 字节跳动 · 【27届
+ 校招】AI多模态算法工程师 - 数据平台
 TRANSP:OPAQUE
 DESCRIPTION:数据平台 | 【27届校招】AI多模态算法工程师 - 
  数据平台 | 截止 2026-11-20 18:21 · 计划 2026-11-20 15:00 · 作
@@ -5580,24 +5580,20 @@ DESCRIPTION:数据平台 | 【27届校招】AI多模态算法工程师 -
  未代为作答、未联系HR。\n- 未提供官方开放时间，因此
  不用固定场次或伪造开放窗口。结果保持待完成；截止
  过期也不自动判为失败。\n- 本次仅本地入库与日历核验
- ；公开订阅待后续“同步仓库”发布。\n
+ ；公开订阅待后续“同步仓库”发布。\n\n2026-11-25 用户
+ 确认岗位流程结束。归档自定初评计划，实际作答情况
+ 与测评结果未确认。
 LOCATION:https://jobs.bytedance.com/interview/1794910862002700311b1d37ec0db
  490bc0
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:作答计划 · AI测评 · 字节跳动 · 【27届校招】AI
- 多模态算法工程师 - 数据平台
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-258-deadline@autumn-recruitment
 DTSTAMP:20261117T103205Z
 DTSTART:20261120T102103Z
 DTEND:20261120T102203Z
-SUMMARY:截止 · AI测评 · 字节跳动 · 【27届校招】AI多模态
- 算法工程师 - 数据平台
+SUMMARY:已归档 · 截止 · AI测评 · 字节跳动 · 【27届校招
+ 】AI多模态算法工程师 - 数据平台
 TRANSP:TRANSPARENT
 DESCRIPTION:数据平台 | 【27届校招】AI多模态算法工程师 - 
  数据平台 | 截止 2026-11-20 18:21 · 尚未安排作答时段 · 作
@@ -5637,16 +5633,12 @@ DESCRIPTION:数据平台 | 【27届校招】AI多模态算法工程师 -
  未代为作答、未联系HR。\n- 未提供官方开放时间，因此
  不用固定场次或伪造开放窗口。结果保持待完成；截止
  过期也不自动判为失败。\n- 本次仅本地入库与日历核验
- ；公开订阅待后续“同步仓库”发布。\n
+ ；公开订阅待后续“同步仓库”发布。\n\n2026-11-25 用户
+ 确认岗位流程结束。归档自定初评计划，实际作答情况
+ 与测评结果未确认。
 LOCATION:https://jobs.bytedance.com/interview/1794910862002700311b1d37ec0db
  490bc0
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT95M
-ACTION:DISPLAY
-DESCRIPTION:截止 · AI测评 · 字节跳动 · 【27届校招】AI多模
- 态算法工程师 - 数据平台
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:event-254@autumn-recruitment
@@ -5708,13 +5700,11 @@ DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
  需改期提前1天联系。新通知没有HR联系人、面试官或团
  队信息，不据旧记录推定本场人员/团队；未点击面试或
  确认入口、未联系HR。最新完整存档：data/knowledge/智元机
- 器人-优才-具身算法研究员/invite-二面-2026-11-25.md。
+ 器人-优才-具身算法研究员/invite-二面-2026-11-25.md。\n\n2026
+ -11-25 改期沟通：原定11月25日15:00的场次取消。HR提出北
+ 京时间11月26日（周四）15:00–17:00内或18:00，用户回复可
+ 以。具体开始时间、时长和参会入口待HR确认。
 LOCATION:https://agirobot.feishu.cn/hire/short_url/42Ur_nf9zRA
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 智元机器人 · 优才-具身算法研究员
-END:VALARM
+STATUS:CANCELLED
 END:VEVENT
 END:VCALENDAR
