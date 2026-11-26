@@ -5709,13 +5709,9 @@ DESCRIPTION:默认部门 | 优才-具身算法研究员 | 固定场次 · 2
  ：https://agirobot.feishu.cn/hire/short_url/mXKzzxCxZ58。时长未知，
  建议14:50调试设备。需要改期提前1天联系HR，15:05面试官
  仍未上线可联系HR。原11月25日场次取消的沟通保留为历
- 史。
+ 史。\n\n2026-11-26 用户提供本场面试转写，已参加并完成
+ 。官方结果待通知，复盘见本投递的知识库。
 LOCATION:https://agirobot.feishu.cn/hire/short_url/mXKzzxCxZ58
 STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:二面 · 智元机器人 · 优才-具身算法研究员
-END:VALARM
 END:VEVENT
 END:VCALENDAR
